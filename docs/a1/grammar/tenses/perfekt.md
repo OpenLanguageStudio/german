@@ -1,0 +1,170 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: the Perfekt. Talking about the past with haben or sein plus the Partizip II, and when sein takes over."
+    keywords: "german, german learning, a1, grammar, perfekt, past tense, haben, sein, partizip ii, conversational past"
+    "property=og:title": "Perfekt – The Conversational Past"
+    "property=og:description": "A1 grammar: the Perfekt. Talking about the past with haben or sein plus the Partizip II, and when sein takes over."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# The Perfekt Tense
+
+:::{admonition} Prerequisites
+:class: note
+Before reading this article, make sure you are comfortable with:
+- [A1 > Grammar > The Past Participle](/a1/grammar/tenses/partizip-ii.md)
+- [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)
+:::
+
+The Perfekt is how spoken German talks about the past: what you did yesterday, ate for lunch, watched last night. It is a bracket: *haben* (or sometimes *sein*) in position 2, the Partizip II at the very end.
+
+## The pattern with *haben*
+
+Most verbs build the Perfekt with *haben*: conjugate it as usual, park the participle last.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich {verb}`habe` eine Pizza **gegessen**.
+: I ate a pizza.
+
+Sie {verb}`hat` ein Buch **gelesen**.
+: She read a book.
+
+Wir {verb}`haben` am Samstag **eingekauft**.
+: We did the shopping on Saturday.
+:::
+
+## When *sein* takes over
+
+Verbs of movement from A to B (*gehen, fahren, kommen*) and change of state (*aufstehen*) use *sein* instead: *Ich **bin** gegangen.* At A1 this is a short list; learn it with the verb.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich {verb}`bin` nach Hause **gegangen**.
+: I went home.
+
+Er {verb}`ist` nach Berlin **gefahren**.
+: He went to Berlin.
+
+Wir {verb}`sind` spät **aufgestanden**.
+: We got up late.
+:::
+
+## Questions and negation
+
+The bracket behaves exactly as with the modals: the helper moves for questions, *nicht* and *noch nicht* stand before the participle.
+
+**Examples:**
+
+:::{div} ol-examples
+{verb}`Hast` du schon **gegessen**?
+: Have you eaten yet?
+
+Nein, ich habe noch nicht **gegessen**.
+: No, I haven't eaten yet.
+
+Wohin {verb}`bist` du **gefahren**?
+: Where did you go?
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-4
+:title: Das Perfekt
+:title-en: The Perfekt tense
+
+Ich habe eine Pizza gegessen.
+: I ate a pizza.
+
+Was hast du gestern gemacht?
+: What did you do yesterday?
+
+Ich habe Fußball gespielt.
+: I played football.
+
+Wir haben einen Film gesehen.
+: We watched a film.
+
+Ich habe Brot gekauft.
+: I bought bread.
+
+Ich habe lange geschlafen.
+: I slept late.
+
+Er hat Kaffee getrunken.
+: He drank coffee.
+
+Sie hat ein Buch gelesen.
+: She read a book.
+
+Ich habe eine E-Mail geschrieben.
+: I wrote an email.
+
+Wir haben Deutsch gelernt.
+: We learned German.
+
+Ich bin nach Hause gegangen.
+: I went home.
+
+Er ist nach Berlin gefahren.
+: He went to Berlin.
+
+Wir sind spät aufgestanden.
+: We got up late.
+
+Sie ist um acht gekommen.
+: She came at eight.
+
+Bist du mit dem Bus gefahren?
+: Did you go by bus?
+
+Ich bin zu Fuß gegangen.
+: I went on foot.
+
+Hast du schon gegessen?
+: Have you eaten yet?
+
+Nein, ich habe noch nicht gegessen.
+: No, I haven't eaten yet.
+
+Wir haben am Samstag eingekauft.
+: We did the shopping on Saturday.
+
+Ich habe dich gestern angerufen.
+: I called you yesterday.
+
+Der Film hat um acht angefangen.
+: The film started at eight.
+
+Wohin bist du gefahren?
+: Where did you go?
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Perfekt = *haben/sein* in position 2 + Partizip II at the end.
+- Most verbs take *haben*; movement and change of state take *sein*.
+- The A1 sein-list is short: *gegangen, gefahren, gekommen, aufgestanden*.
+- One tense covers the whole spoken past; no other past form needed for actions.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich habe nach Hause gegangen.* → Ich **bin** nach Hause gegangen. (movement takes sein)
+- *\*Ich habe gegessen eine Pizza.* → Ich habe eine Pizza **gegessen**. (participle last)
+- *\*Ich esse gestern Pizza.* → Ich **habe** gestern Pizza **gegessen**. (past needs the Perfekt)
+:::
+
+## Related articles
+
+- [A1 > Grammar > The Past Participle](/a1/grammar/tenses/partizip-ii.md)
+- [A1 > Grammar > war and hatte](/a1/grammar/tenses/praeteritum-sein-haben.md)
+- [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)

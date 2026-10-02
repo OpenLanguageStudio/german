@@ -1,0 +1,156 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: the Partizip II. Building past participles with ge...t and ge...en, the -ieren exception, and separable-verb participles."
+    keywords: "german, german learning, a1, grammar, partizip ii, past participle, gemacht, gesehen, ge-, participle"
+    "property=og:title": "Partizip II – The Past Participle"
+    "property=og:description": "A1 grammar: the Partizip II. Building past participles with ge...t and ge...en, the -ieren exception, and separable-verb participles."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# The Past Participle
+
+The Partizip II is the *ge-* form of a verb: *gemacht*, *gesehen*, *gegessen*. It is the building block of the German past tense, so this page deals with the form alone; the Perfekt page puts it to work in sentences.
+
+## Regular verbs: ge...t
+
+Regular verbs wrap the stem in *ge-* and *-t*: *machen* → **ge**mach**t**. Stems in -t or -d insert their usual e: *arbeiten* → *gearbeitet*.
+
+| Infinitive | Partizip II |
+|---|---|
+| machen | gemacht |
+| kaufen | gekauft |
+| spielen | gespielt |
+| lernen | gelernt |
+| arbeiten | gearbeitet |
+
+## Irregular verbs: ge...en
+
+Irregular verbs take *ge-* and *-en*, often changing the stem vowel on the way. These need learning one by one, and the most frequent ones first:
+
+| Infinitive | Partizip II |
+|---|---|
+| sehen | gesehen |
+| essen | gegessen |
+| trinken | getrunken |
+| schlafen | geschlafen |
+| lesen | gelesen |
+| schreiben | geschrieben |
+| gehen | gegangen |
+| fahren | gefahren |
+
+## Two exceptions worth knowing now
+
+Verbs ending in **-ieren** skip the *ge-* entirely: *telefonieren* → *telefoniert*. Separable verbs tuck the *ge-* between prefix and stem: *einkaufen* → *ein**ge**kauft*, *anrufen* → *an**ge**rufen*.
+
+**Examples:**
+
+:::{div} ol-examples
+Er hat lange **telefoniert**.
+: He was on the phone a long time.
+
+Sie hat **eingekauft**.
+: She did the shopping.
+
+Ich habe meine Oma **angerufen**.
+: I called my grandma.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-4
+:title: Das Partizip II
+:title-en: The past participle
+
+machen, gemacht
+: to do, done
+
+kaufen, gekauft
+: to buy, bought
+
+spielen, gespielt
+: to play, played
+
+lernen, gelernt
+: to learn, learned
+
+arbeiten, gearbeitet
+: to work, worked
+
+sehen, gesehen
+: to see, seen
+
+essen, gegessen
+: to eat, eaten
+
+trinken, getrunken
+: to drink, drunk
+
+schlafen, geschlafen
+: to sleep, slept
+
+lesen, gelesen
+: to read, read
+
+schreiben, geschrieben
+: to write, written
+
+gehen, gegangen
+: to go, gone
+
+fahren, gefahren
+: to drive, driven
+
+telefonieren, telefoniert
+: to phone, phoned
+
+einkaufen, eingekauft
+: to shop, shopped
+
+anrufen, angerufen
+: to call, called
+
+aufstehen, aufgestanden
+: to get up, got up
+
+Ich habe Deutsch gelernt.
+: I learned German.
+
+Wir haben viel gearbeitet.
+: We worked a lot.
+
+Er hat lange telefoniert.
+: He was on the phone a long time.
+
+Sie hat eingekauft.
+: She did the shopping.
+
+Das habe ich nicht gesehen.
+: I didn't see that.
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Regular: ge + stem + t (*gemacht*); irregular: ge + stem + en, often with vowel change (*gesehen*).
+- -ieren verbs take no ge-: *telefoniert*.
+- Separable verbs: prefix + ge + stem: *eingekauft, angerufen*.
+- Learn participles with their verbs; the Perfekt page needs them ready.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*gemachen* → **gemacht**. (regular verbs end in -t)
+- *\*geesst* → **gegessen**. (essen is irregular)
+- *\*getelefoniert* → **telefoniert**. (-ieren verbs refuse the ge-)
+:::
+
+## Related articles
+
+- [A1 > Grammar > The Perfekt Tense](/a1/grammar/tenses/perfekt.md)
+- [A1 > Grammar > Separable Verbs](/a1/grammar/verbs/trennbare-verben.md)
+- [A1 > Grammar > Irregular Verbs in the Present](/a1/grammar/verbs/unregelmaessige-verben.md)

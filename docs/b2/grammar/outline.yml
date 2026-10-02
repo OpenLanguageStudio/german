@@ -1,0 +1,209 @@
+K1:
+  - topic: Wortstellung im Satz
+    subtopics:
+      - TeKaMoLo
+      - Dativ und Akkusativ Ergänzungen
+      - Position von Präpositionalergänzungen
+  - topic: Negation
+    subtopics:
+      - name: Wortbildung
+        sections:
+          - des-, dis-, miss-
+          - un-, in-, il-, ir-, a-, non-
+          - -los, -frei, -ller
+          - Nicht-(Nomen)
+      - name: Position von "nicht" im Satz
+K2:
+  - topic: Vergleichsaetze
+    subtopics:
+      - Mit "als" und "wie"
+      - Gleichheit - "so/genauso...wie"
+      - Ungleichheit - Komparativ + "als", anders + "als", etwas/nichts anderes + "als"
+      - Vergleichsaetze mit "je...desto/umso"
+  - topic: Das Wort "es"
+    subtopics:
+      - mit Wetterverben
+      - Tages- und Jahreszeiten
+      - Natur- und Zeiterscheinungen
+      - feste lexikalische Verbindungen
+      - name: as Stellvertreter von...
+        sections:
+          - dass-Sätzen
+          - Infinitivkonstruktionen   
+K3:
+  - topic: Zweiteilige Konnektoren
+    sections:
+      - nicht nur...sondern auch
+      - sowohl...als auch
+      - weder...noch
+      - je...desto/umso
+      - entweder...oder
+      - zwar...aber
+      - einerseits...andererseits
+  - topic: Konnektoren
+    sections:
+      - um...zu (Absicht/Zweck/Ziel)
+      - ohne...zu (Einschraenkung)
+      - anstatt...zu (Alternative/Gegensatz)
+      - statt...zu (Alternative/Gegensatz)
+K4:
+  - topic: Relativsaetze
+    subtopics:
+      - name: Satzbildung mit "wer"
+        sections:
+          - Wer..., der... (Nominativ)
+          - Wer..., den... (Akkusativ)
+          - Wem..., der... (Dativ)
+  - topic: Nomen-Verb-Verbindungen
+    subtopics:
+      - name: Das Nomen und das zugrunde liegende Verb haben die gleiche Bedeutung
+        examples:
+          - eine Entscheidung treffen = entscheiden
+          - eine Verbesserung vornehmen = verbessern
+          - eine Erklaerung abgeben = erklaeren
+      - name: Die bedeutung der Nomen-Verb-Verbindung kann mann nicht direkt vom Nome ableiten
+        examples:
+          - unter Druck stehen != druecken
+          - in Frage kommen != fragen
+          - zur Verfügung stehen != verfügen
+K5:
+  - topic: Passiv und Passversatzformen
+    subtopics:
+      - name: Bildung des Passivs
+        sections:
+          - Präsens
+          - Präteritum
+          - Perfekt
+          - Plusquamperfekt
+          - mit Modalverben
+      - name: Passiversatzformen
+        sections:
+          - Passiv
+          - Passiv mit "sein + zu + Infinitiv"
+          - Passiv mit "sich lassen + Infinitiv"
+          - Passiv mit "sein + Adjektiv mit Endung -bar/-lich"
+  - topic: Indefinitpronomen
+    subtopics:
+      - name: Personen
+        sections:
+          - man
+          - jemand
+          - einer
+          - irgendwer
+          - niemand
+          - keiner
+      - name: Orte
+        sections:
+          - irgendwo
+          - irgendwoher
+          - irgendwohin
+          - nirgendwo
+          - nirgends
+      - name: Zeit
+        sections:
+          - irgendwann
+          - nie
+          - niemals
+      - name: Dinge
+        sections:
+          - irgendetwas
+          - etwas
+          - nichts
+          - keins
+      - einer, eins, eine
+K6:
+  - topic: Passiv mit "sein"
+    context: Passiv mit "werden" beschreibt einen Vorgang / eine Aktion. Passiv mit "sein" beschreibt einen Zustand, das Resultat einer Handlung.
+    sections:
+      - Vorgangspassiv mit "werden" (Präsens)
+      - Vorgangspassiv mit "werden" (Präteritum)
+      - Zustandspassiv mit "sein" (Präsens)
+      - Zustandspassiv mit "sein" (Präteritum)
+  - topic: Vergleichsätze mit "als", "als ob" und "als wenn"
+    context: 
+      - Sätze mit "als", "als ob" und "als wenn" drucken einen irreale Vergleich aus. Deswegen wird der Konjunktiv II verwendet. Der Vergleichssatz kann dem Hauptsatz nicht vorangestellt werden. 
+      - Irreale Vergleichssätze stehen nach Verben des Wahrnehmens, Fühlens und Verhaltens.
+    sections:
+      - name: Vergleichssätze mit "als"
+        examples:
+          - Der Chef behandelt uns, als wären wir gleichberechtigte Partner.
+      - name: Irreale Vergleichssätze mit "als ob" und "als wenn"
+        examples:
+          - Die Kollegen tun immer so, als ob sie alle perfekt wären.
+          - Es scheint so, als wenn wir uns schon lange kennen würden.
+K7:
+  - topic: Modalsätze
+    context: Mit Modalsätzen wird die Art un Weise ausgedrückt, wie etwas geschieht.
+    subtopics:
+      - name: Dadurch...dass
+        examples:
+          - Sprachen sterben dadurch, dass eine Muttersprache nicht an die Kinder weitergegeben wird.
+          - Dadurch, dass Samuel Taylor starb, starb auch seine Sprache.
+      - name: Indem
+        context: Der modale Konnektor "indem" wird immer zusammengeschrieben und sollte nicht mit Relativsätzen mit der Präposition "in" verwechselt werden.
+        examples:
+          - Oft schafft man eine genaue Uebersetzung auch nicht, indem man ein Woerterbuch benutzt.
+K8:
+  - topic: Nomen, Verben und Adjektive mit Präpositionen
+    context: Eine Uebersicht. Viele Nomen, Verben und Adjektive haben dieselbe Präposition. Manchmal gibt es nur ein Nomen und ein Verb mit desrselben Präposition, manchmal nur ein Nomen und ein Adjektiv mit derselben Präposition.
+  - topic: Indirekte Rede
+    context: In der indirekten Rede verwendet man den Konjunktiv I, um deutlich zu machen, dass man die Worte eines anderen wiedergibt und nicht seine eigene Meinung ausdrückt. Sie wird vor allem in der Wissenschafts-sprache, in Zeitungsartikeln und in Nachrichtensendungen verwendet. In der gesprochenen Sprache benutzt man in der indirekten Rede häufig den Indikativ.
+K9:
+  - topic: Nominalisierung von Verben
+    subtopics:
+      - name: Endungen und Bildung
+        sections:
+          - Verb ohne Endung (abbauen → der Abbau)
+          - das + Infinitiv (erkennen → das Erkennen)
+          - die + -ung (verändern → die Veränderung)
+          - der + -er (lernen → der Lerner)
+          - die/der + -e (folgen → die Folge, glauben → der Glaube)
+          - die/das + (t)-nis (erleben → das Erlebnis, erkennen → die Erkenntnis)
+          - die + -(t)ion (reagieren → die Reaktion)
+      - name: 
+        sections:
+          - name: Nominativ (Nom → Gen)
+            example: Der Körper reagiert auf Musik. → die Reaktion des Körpers auf Musik
+          - name: Akkusativ mit Artikelwort
+            example: Musik verändert den Blutdruck. → die Veränderung des Blutdrucks durch Musik
+          - name: Akkusativ ohne Artikelwort
+            example: Musik baut Stress ab. → der Abbau von Stress durch Musik
+  - topic: Modalpartikeln
+    context: Modalpartikeln sind typisch für die mündliche Sprache. Man benutzt sie, um seine Ansichten, Absichten und Gefühle zu verstärken oder abzuschwächen. In Aussagesätzen stehen die Modalpartikeln meist hinter dem Verb. Die Bedeutung ist vom Kontext und von der Betonung des Satzes abhängig.
+    sections:
+      - name: Aussagen und Ausrufe (aber, doch, ja)
+        examples:
+          - Das ist ja interessant!
+          - Du kommst doch auch zur Party, oder?
+      - name: Aufforderungen, Aussagen, Fragen (mal)
+        examples:
+          - Schau mal!
+          - Hilf mir mal!
+      - name: Fragen (denn)
+        examples:
+          - Was machst du denn hier?
+          - Wie spät ist es denn?
+K10:
+  - topic: Partizipien als Adjektive
+    difficulty: hard
+    context: Partizipien können als Adjektive gebraucht werden und geben dann nähere Informationen zu Nomen. Wenn sie vor Nomen stehen, brauchen sie eine Adjektivendung.
+    sections:
+      - name: Partizip I als Adjektiv
+        tip:
+          - Basically the same as the English "-ing" form used as an adjective.
+        examples:
+          - ein spannender Film
+          - die lachenden Kinder
+      - name: Partizip II als Adjektiv
+        examples:
+          - ein geschlossener Laden
+          - die gebratenen Kartoffeln
+  - topic: Konnektor "während"
+    context: Der Konnektor "während" kann sowohl temporal (zeitlich) als auch konzessiv (einräumend) verwendet werden. Der Unterschied ergibt sich aus dem Kontext des Satzes.
+  - topic: Praepositionen mit Genitiv
+    sections:
+      - Zeit (während, innerhalb)
+      - Ort (innerhalb, außerhalb)
+      - Grund/Folge (wegen, dank, infolge, aufgrund)
+      - Gegengrund (trotz)
+    note: Die Präpositionen dank, trotz, während und wegen werden in der gesprochenen Sprache auch mit Dativ verwendet: wegen dem schlechten Wetter

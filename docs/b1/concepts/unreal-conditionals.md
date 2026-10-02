@@ -1,0 +1,51 @@
+---
+myst:
+  html_meta:
+    description: "B1 concept: unreal conditionals with Konjunktiv II in present and past."
+    keywords: "german, b1, concept, unreal conditionals, wenn, würde, hätte, wäre"
+---
+# Unreal conditionals
+
+Hypothetical and contrary-to-fact situations run on Konjunktiv II, the form German reserves for things that are imagined rather than real.
+
+:::{seealso}
+
+- [B1 > Grammar > Irreale Bedingungssätze](/b1/grammar/irreale-bedingungssaetze.md)
+- Grammar: [/b1/grammar/konjunktiv-ii.md](/b1/grammar/konjunktiv-ii.md)
+- Grammar: [/b1/grammar/plusquamperfekt.md](/b1/grammar/plusquamperfekt.md)
+
+:::
+
+## When to use it
+
+- Wishes, regrets, advice.
+- Imaginary results if the condition were true.
+
+## Key phrases
+
+| German | English | Notes |
+|---|---|---|
+| Wenn ... , würde ... | If ..., would ... | present/future hypothetical |
+| Wenn ... gehabt/gewesen hätte/wäre, ... | If had, would ... | past hypothetical |
+| Könntest/Würdest du ...? | Could/Would you ...? | polite suggestion |
+
+---
+
+## Examples
+
+- **Wenn** ich mehr Zeit **hätte**, **würde** ich mehr lesen.  
+  _If I had more time, I would read more._
+- **Wenn** ich gestern früher **gekommen wäre**, **hätten** wir mehr geschafft.  
+  _If I had come earlier yesterday, we would have achieved more._
+- **Könntest** du mir bitte helfen?  
+  _Could you please help me?_
+
+## Register and tone
+
+Use würde + Infinitiv for many verbs; use K2 forms of sein/haben/modal verbs often.
+
+## Mini practice
+
+- Complete a wenn-clause for a present hypothetical.
+- Transform a sentence into a past unreal conditional.
+

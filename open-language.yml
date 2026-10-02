@@ -1,0 +1,284 @@
+language: German
+language_code: de
+title: "Open Language - German"
+description: "Learn German with Open Language. Free, open-source, and community-driven language learning resources for all levels."
+author: "Open Language Team"
+
+# The cast. Every voice is a person with a backstory and at least one
+# relationship to someone else in the cast, all living in and around Freiburg
+# im Breisgau. Example sentences are written around these people.
+voices:
+  emilia:
+    full_name: "Emilia Berger (entspannt)"
+    age: 28
+    gender: female
+    hair_color: brown
+    eye_color: green
+    profession: journalist
+    hobbies:
+      - yoga
+      - traveling
+    personality:
+      - calm
+      - open-minded
+    backstory: >-
+      Emilia grew up in Freiburg as the older of the two Berger children and never
+      really left: after her journalism degree in Leipzig she came home to write
+      for the local newspaper, where she covers culture and runs a small travel
+      column. She shares a flat in the Stühlinger district with two friends, does
+      yoga before work, and spends her holidays on slow train trips through Europe
+      that she later turns into articles. She often works with the photographer
+      Stefan Kraus, who shoots the pictures for her stories and has become one of
+      her closest friends. Sunday lunch at her mother Maria's house is a fixed
+      ritual she almost never skips.
+    relationships:
+      mother:
+        - Maria Berger
+      sibling:
+        - Lukas Berger
+      friend:
+        - Stefan Kraus
+  max:
+    full_name: Max Müller
+    age: 30
+    gender: male
+    hair_color: black
+    eye_color: brown
+    profession: graphic designer
+    hobbies:
+      - sketching
+      - traveling
+      - gaming
+    personality:
+      - creative
+      - outgoing
+      - humorous
+    backstory: >-
+      Max moved to Freiburg from Stuttgart eight years ago for a design job and
+      stayed for the mountains and the coffee. He works as a graphic designer at
+      Studio Brandt, a small branding agency near the main station, where Lukas
+      Berger works part-time and the photographer Stefan Kraus freelances on
+      client shoots. Max starts almost every morning at Café Auszeit, where the
+      barista Jonas Weber has his order ready before he reaches the counter; the
+      two bonded over sketchbooks and now draw together on Saturdays. He fills
+      the rest of his free time with video games and badly planned but happily
+      executed backpacking trips.
+    relationships:
+      friend:
+        - Jonas Weber
+      colleague:
+        - Lukas Berger
+        - Stefan Kraus
+  lukas:
+    full_name: Lukas Berger
+    age: 25
+    gender: male
+    hair_color: brown
+    eye_color: green
+    profession: student
+    hobbies:
+      - gaming
+      - music
+      - soccer
+    personality:
+      - energetic
+      - optimistic
+    backstory: >-
+      Lukas is the younger Berger sibling, three years behind Emilia and still
+      happily a student: he studies media informatics at the university in
+      Freiburg and pays his rent with a working-student job at Studio Brandt,
+      where Max Müller is teaching him more about design than any lecture does.
+      Through the agency he also knows Stefan Kraus, who lets him assist on photo
+      shoots now and then. He plays football every Sunday morning, makes
+      electronic music nobody is allowed to hear yet, and met Jonas Weber at the
+      skatepark years ago, long before Jonas started pulling his espresso shots.
+      He still brings his laundry to his mother Maria's house, which he insists
+      is a coincidence.
+    relationships:
+      mother:
+        - Maria Berger
+      sibling:
+        - Emilia Berger
+      friend:
+        - Jonas Weber
+      colleague:
+        - Max Müller
+        - Stefan Kraus
+    voice_design_prompt: >-
+      Excellent audio quality, studio-quality recording. A young adult German man in his mid-20s with a
+      friendly, warm, mid-pitched voice and clear articulation. Neutral Standard German (Hochdeutsch), no
+      strong regional dialect. Speaking at a slightly slow, measured pace for language learners—natural and
+      conversational, not drawn-out. Energetic and optimistic tone without sounding excited or rushed;
+      crisp consonants, clear vowels, and steady rhythm.
+  maria:
+    full_name: Maria Berger
+    age: 54
+    gender: female
+    hair_color: gray
+    eye_color: brown
+    profession: teacher
+    hobbies:
+      - gardening
+      - baking
+      - reading
+    personality:
+      - caring
+      - patient
+    backstory: >-
+      Maria has taught German and history at a Freiburg secondary school for
+      nearly thirty years and raised Emilia and Lukas in the same house in
+      Herdern where she still lives. Since losing her husband a few years ago she
+      has poured her energy into the garden behind the house, her book club, and
+      an ever-expanding repertoire of cakes that her children are required to
+      taste-test on Sundays. Her closest friend is Sophie Klein, once simply her
+      family doctor, now her regular companion for long walks in the Black
+      Forest. Colleagues describe her the way her students do: strict about
+      commas, endlessly patient with people.
+    relationships:
+      parent:
+        - Emilia Berger
+        - Lukas Berger
+      friend:
+        - Sophie Klein
+    voice_design_prompt: >-
+      Excellent audio quality, studio-quality recording. A German woman in her 50s with a calm, warm,
+      supportive voice—like a kind teacher. Neutral Standard German (Hochdeutsch), no strong regional dialect.
+      Speaking with a deliberate, learner-friendly pacing, but still natural.
+      Very clear enunciation and steady cadence; gentle authority, patient and encouraging tone; avoid any
+      theatrical character voice.
+  jonas:
+    full_name: Jonas Weber
+    age: 22
+    gender: male
+    hair_color: black
+    eye_color: brown
+    profession: barista
+    hobbies:
+      - skateboarding
+      - drawing
+    personality:
+      - creative
+      - easygoing
+    backstory: >-
+      Jonas grew up in a village in the Markgräflerland and moved to Freiburg at
+      eighteen with a skateboard and no plan. He found both a job and a family at
+      Café Auszeit, where he is now the head barista and the unofficial reason
+      half the regulars keep coming back. He met Lukas Berger at the skatepark as
+      a teenager, and Max Müller across the counter — Max kept sketching in the
+      corner, Jonas kept looking over his shoulder, and now the two fill
+      sketchbooks together on Saturday mornings. He is saving up, slowly and
+      without any stress at all, to open a little café of his own one day.
+    relationships:
+      friend:
+        - Lukas Berger
+        - Max Müller
+    voice_design_prompt: >-
+      Excellent audio quality, studio-quality recording. A German young adult man in his early 20s with a
+      relaxed, approachable, friendly voice; smooth and clear timbre. Neutral Standard German (Hochdeutsch),
+      no strong regional dialect. Speaking at a slightly slow, easy conversational pace suitable for language
+      learning—clear, steady, and not rushed. Light, upbeat vibe without slangy mumbling; crisp pronunciation
+      and good clarity on endings.
+  sophie:
+    full_name: Sophie Klein
+    age: 41
+    gender: female
+    hair_color: red
+    eye_color: blue
+    profession: doctor
+    hobbies:
+      - running
+      - piano
+    personality:
+      - organized
+      - empathetic
+    backstory: >-
+      Sophie runs a general practice in the Wiehre with two colleagues and a
+      waiting room that is never as chaotic as it should be, because Sophie plans
+      everything. She met Maria Berger as a patient more than a decade ago and
+      the two discovered they walk at exactly the same pace, in conversation and
+      in the Black Forest. She is married to Tobias Schmitt, an engineer she met
+      at a friend's garden party and married two years later; she kept her own
+      surname, he kept his workshop. She runs a half-marathon every spring and
+      plays the piano badly on purpose, because perfecting it would turn it into
+      work.
+    relationships:
+      spouse:
+        - Tobias Schmitt
+      friend:
+        - Maria Berger
+    voice_design_prompt: >-
+      Excellent audio quality, studio-quality recording. A German woman in her early 40s with a clear,
+      confident, empathetic voice—professional but friendly. Neutral Standard German (Hochdeutsch), no strong
+      regional dialect. Speaking slightly slower than average with calm, measured pacing to maximize clarity
+      for learners; steady rhythm, gentle pauses, and precise enunciation. Warm tone, never harsh or
+      overly dramatic.
+  tobias:
+    full_name: Tobias Schmitt
+    age: 45
+    gender: male
+    hair_color: brown
+    eye_color: hazel
+    profession: engineer
+    hobbies:
+      - fishing
+      - woodworking
+    personality:
+      - practical
+      - quiet
+    backstory: >-
+      Tobias is an engineer at a small hydropower company in the Dreisamtal and
+      the kind of person who fixes things before anyone notices they were broken.
+      He has been married to Sophie Klein for twelve years; she organizes their
+      calendar, he builds the furniture it gets written on. Most Saturday
+      mornings at dawn he stands with a fishing rod in the Dreisam, which is
+      where he met Stefan Kraus — Stefan was photographing the river mist,
+      Tobias was standing in it, and a quiet friendship of very few words has
+      held ever since. His workshop in the cellar produces one perfect wooden
+      chair roughly every two years.
+    relationships:
+      spouse:
+        - Sophie Klein
+      friend:
+        - Stefan Kraus
+    voice_design_prompt: >-
+      Excellent audio quality, studio-quality recording. A German middle-aged man in his 40s with a steady,
+      grounded, warm baritone (not overly deep), practical and calm. Neutral Standard German (Hochdeutsch), no
+      strong regional dialect. Speaking at a slightly slow, deliberate pace designed for language learning—
+      clear, consistent, and unhurried without sounding unnatural. Precise articulation and a composed, quiet
+      confidence. Not too deep.
+  stefan:
+    full_name: Stefan Kraus
+    age: 33
+    gender: male
+    hair_color: blond
+    eye_color: gray
+    profession: photographer
+    hobbies:
+      - hiking
+      - analog photography
+    personality:
+      - observant
+      - dry-humored
+    backstory: >-
+      Stefan is a freelance photographer who came to Freiburg for a six-month
+      newspaper internship and has now been there for ten years. He shoots the
+      photos for Emilia Berger's articles and travel column, which is how a
+      working relationship turned into a close friendship, and he takes on
+      branding shoots for Studio Brandt, where he works alongside Max Müller and
+      occasionally lets Lukas Berger carry the tripods and call it assisting. At
+      dawn he photographs the Black Forest and the Dreisam, which is where he met
+      Tobias Schmitt, his fishing-adjacent friend: Tobias fishes, Stefan
+      photographs, neither talks much, both call it a good morning.
+    relationships:
+      friend:
+        - Emilia Berger
+        - Tobias Schmitt
+      colleague:
+        - Max Müller
+        - Lukas Berger
+    voice_design_prompt: >-
+      Excellent audio quality, studio-quality recording. A German man in his early 30s with a relaxed,
+      slightly low, even voice and a dry, understated warmth. Neutral Standard German (Hochdeutsch), no strong
+      regional dialect. Speaking at a slightly slow, unhurried conversational pace suited to language
+      learners—calm, precise, and never theatrical. Clear consonants and relaxed, natural phrasing with a
+      hint of quiet amusement.

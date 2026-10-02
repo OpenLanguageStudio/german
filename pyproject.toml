@@ -1,0 +1,15 @@
+[project]
+name = "german"
+version = "0.1.0"
+description = "Open Language - German"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "open-language @ git+https://github.com/OpenLanguageStudio/open-language@79ae61c164c6a1db8fa3d3599792d895da78cea3",
+]
+
+[project.urls]
+homepage = "https://german.openlanguage.studio"
+
+[tool.uv]
+package = false

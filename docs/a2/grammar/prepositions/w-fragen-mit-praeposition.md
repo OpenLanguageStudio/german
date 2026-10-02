@@ -1,0 +1,273 @@
+---
+myst:
+  html_meta:
+    description: "A2 German grammar: learn W-Fragen mit Präposition with preposition plus wen/wem for people and wo(r)-compounds for things."
+    keywords: "german, german learning, a2, grammar, w-fragen, präposition, worauf, worüber, womit, wofür, wen, wem, fixed prepositions"
+    "property=og:title": "W-Fragen mit Präposition – Questions with Prepositions"
+    "property=og:description": "A2 German grammar: ask questions with prepositions correctly for people and things."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# W-Fragen mit Präposition
+
+> Asking questions with prepositions
+
+:::{seealso}
+
+- [A2 > Grammar > Verben mit festen Präpositionen](/a2/grammar/prepositions/verben-mit-praeposition.md)
+- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
+- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
+
+:::
+
+When a verb needs a fixed preposition, your question must keep that preposition too. German asks differently about people and about things: for people, you use *Präposition + wen/wem*; for things, you usually use a *wo(r)-* form such as *worauf* or *womit*.
+
+*Examples:*
+
+- *What are you waiting for?*
+- *Who are you talking with?*
+- *What are you happy about?*
+
+---
+
+## Questions about people: preposition + wen / wem
+
+When you ask about a person, keep the preposition and add the right question word.
+
+- use **wen** after accusative prepositions or verb-preposition combinations with accusative
+- use **wem** after dative prepositions or verb-preposition combinations with dative
+
+| Pattern | Use | Example |
+| --- | --- | --- |
+| preposition + **wen** | person in accusative | Über wen sprichst du? |
+| preposition + **wem** | person in dative | Mit wem fährst du? |
+
+**Examples:**
+
+- {prep}`Mit` wem sprichst du?  
+  *Who are you speaking with?*
+- {prep}`Über` wen ärgerst du dich?  
+  *Who are you annoyed about?*
+- {prep}`An` wen denkst du gerade?  
+  *Who are you thinking about right now?*
+- {prep}`Für` wen kaufst du das Geschenk?  
+  *Who are you buying the present for?*
+- {prep}`Um` wen kümmerst du dich?  
+  *Who are you taking care of?*
+
+:::{tip}
+Always learn the question together with the verb pattern: *warten auf*, *sprechen mit*, *sich interessieren für*, *sich kümmern um*.
+:::
+
+### Practice: questions about people
+
+Use the following link to practice this section.
+
+---
+
+## Questions about things: wo(r)-compounds
+
+When you ask about a thing, an activity, or a topic, German usually uses *wo(r)- + preposition*.
+
+- use **wor-** before a vowel: *worauf, worüber, woran*
+- use **wo-** before a consonant: *womit, wofür, wovon*
+
+| Preposition | Question form | Example |
+| --- | --- | --- |
+| auf | worauf | Worauf wartest du? |
+| an | woran | Woran denkst du? |
+| über | worüber | Worüber sprecht ihr? |
+| für | wofür | Wofür interessierst du dich? |
+| mit | womit | Womit fängst du an? |
+| von | wovon | Wovon träumst du? |
+
+**Examples:**
+
+- Worauf wartest du?  
+  *What are you waiting for?*
+- Woran denkst du?  
+  *What are you thinking about?*
+- Worüber sprecht ihr?  
+  *What are you talking about?*
+- Wofür interessierst du dich?  
+  *What are you interested in?*
+- Womit fängst du an?  
+  *What are you starting with?*
+- Wovon träumst du?  
+  *What do you dream of?*
+
+:::{note}
+At A2, use these forms mainly with things, plans, topics, and activities. For people, stay with *mit wem*, *für wen*, *über wen*, and so on.
+:::
+
+### Practice: questions about things
+
+Use the following link to practice this section.
+
+---
+
+## Matching the answer to the question
+
+The answer keeps the same preposition that appeared in the question.
+
+| Question | Short answer |
+| --- | --- |
+| Worauf wartest du? | Auf den Bus. |
+| Mit wem sprichst du? | Mit meiner Lehrerin. |
+| Woran denkst du? | An das Wochenende. |
+| Wofür interessierst du dich? | Für Musik. |
+
+**Examples:**
+
+- Worauf wartest du? – {prep}`Auf` den Bus.  
+  *What are you waiting for? – For the bus.*
+- Mit wem gehst du ins Kino? – {prep}`Mit` meiner Freundin.  
+  *Who are you going to the cinema with? – With my friend.*
+- Woran glaubst du? – {prep}`An` die Liebe.  
+  *What do you believe in? – In love.*
+- Wofür dankst du ihm? – {prep}`Für` seine Hilfe.  
+  *What are you thanking him for? – For his help.*
+- Über wen sprecht ihr? – {prep}`Über` unseren neuen Lehrer.  
+  *Who are you talking about? – About our new teacher.*
+
+:::{warning}
+Do not change the preposition in the answer. If the question is *Worauf wartest du?*, the answer must still use *auf*.
+:::
+
+### Practice: matching question and answer
+
+Use the following link to practice this section.
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Questions with prepositions must keep the preposition from the verb pattern.
+- For **people**, use **preposition + wen/wem**.
+- For **things**, use **wo(r)- + preposition**.
+- Add **r** before vowels: *worauf, woran, worüber*.
+- The answer keeps the same preposition as the question.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Wo sprichst du über?* → **Worüber** sprichst du? (use a wo(r)-compound for things)
+- *Mit wer gehst du?* → Mit **wem** gehst du? (*mit* takes dative)
+- *Auf wen wartest du?* (for a bus) → **Worauf** wartest du? (use wo(r)- for things, not people)
+- *Worauf wartest du? – Mit den Bus.* → Worauf wartest du? – **Auf** den Bus. (keep the same preposition in the answer)
+- *Wofür sprichst du?* → **Worüber** sprichst du? (*sprechen über* is the correct verb pattern)
+
+:::
+
+---
+
+:::{audio-examples}
+:album: a2/grammar/part-2
+:name: w-fragen-mit-praposition
+:title: W-Fragen mit Präposition
+:title-en: W-Questions with Prepositions
+:voice: sophie
+
+Worauf wartest du? – Auf den Bus.
+: What are you waiting for? – For the bus.
+
+Woran denkst du? – An meine Familie.
+: What are you thinking about? – About my family.
+
+Worüber sprecht ihr? – Über das Wetter.
+: What are you talking about? – About the weather.
+
+Wofür interessierst du dich? – Für Kunst.
+: What are you interested in? – In art.
+
+Mit wem gehst du ins Kino? – Mit meiner Freundin.
+: Who are you going to the cinema with? – With my girlfriend.
+
+Über wen ärgerst du dich? – Über meinen Chef.
+: Who are you annoyed about? – About my boss.
+
+Wovon träumst du? – Von einem Urlaub.
+: What do you dream of? – Of a vacation.
+
+Wofür dankst du ihm? – Für seine Hilfe.
+: What are you thanking him for? – For his help.
+
+Woran glaubst du? – An die Liebe.
+: What do you believe in? – In love.
+
+Womit fängst du an? – Mit der Arbeit.
+: What are you starting with? – With work.
+
+Zu wem gehört das Buch? – Zu mir.
+: Who does the book belong to? – To me.
+
+Worauf achtest du? – Auf die Gesundheit.
+: What do you pay attention to? – To health.
+
+Worunter leidest du? – Unter Stress.
+: What do you suffer from? – From stress.
+
+Woran nimmst du teil? – An einem Kurs.
+: What are you participating in? – In a course.
+
+Womit hörst du auf? – Mit dem Rauchen.
+: What are you quitting? – Smoking.
+
+Woran erinnerst du dich? – An meinen ersten Tag.
+: What do you remember? – My first day.
+
+Worauf bereitest du dich vor? – Auf die Prüfung.
+: What are you preparing for? – For the exam.
+
+Um wen kümmerst du dich? – Um meine Eltern.
+: Who are you taking care of? – My parents.
+
+Worüber beschwerst du dich? – Über das Essen.
+: What are you complaining about? – About the food.
+
+Worauf verzichtest du? – Auf Fleisch.
+: What are you doing without? – Meat.
+
+Worauf hoffst du? – Auf eine gute Note.
+: What do you hope for? – For a good grade.
+
+Mit wem sprichst du? – Mit meinem Lehrer.
+: Who are you talking with? – With my teacher.
+
+Womit fängst du an? – Mit dem Sport.
+: What are you starting with? – With sports.
+
+Womit beschäftigst du dich? – Mit Musik.
+: What are you dealing with? – With music.
+
+Nach wem fragst du? – Nach dem Chef.
+: Who are you asking about? – About the boss.
+
+Woran denkst du gerade? – An das Wochenende.
+: What are you thinking about right now? – About the weekend.
+
+Worüber freust du dich? – Über meinen Urlaub.
+: What are you happy about? – About my vacation.
+
+Worauf freust du dich? – Auf das Konzert.
+: What are you looking forward to? – To the concert.
+
+Wofür interessiert er sich? – Für Computer.
+: What is he interested in? – In computers.
+
+Von wem träumst du? – Von einem Star.
+: Who do you dream of? – Of a star.
+:::
+
+---
+
+## Related articles
+
+- [A2 > Grammar > Verben mit festen Präpositionen](/a2/grammar/prepositions/verben-mit-praeposition.md)
+- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
+- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)

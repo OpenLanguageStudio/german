@@ -1,0 +1,162 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: question words for circumstances. wo, wohin, woher for place, wann for time, wie for manner and measure, warum for reason."
+    keywords: "german, german learning, a1, grammar, question words, wo, wohin, woher, wann, wie, warum"
+    "property=og:title": "Fragewörter – Question Words for Circumstances"
+    "property=og:description": "A1 grammar: question words for circumstances. wo, wohin, woher for place, wann for time, wie for manner and measure, warum for reason."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Question Words for Circumstances
+
+Beyond who and what, questions ask about the where, when, how, and why of things. German's words for these are short and regular, with one refinement English lacks: place questions come in three flavours.
+
+## Place: *wo*, *wohin*, *woher*
+
+German splits "where" by direction: *wo* asks about a location, *wohin* about a destination, *woher* about an origin.
+
+| Word | Asks | Example |
+|---|---|---|
+| wo | where (at) | Wo bist du? |
+| wohin | where to | Wohin gehst du? |
+| woher | where from | Woher kommst du? |
+
+**Examples:**
+
+:::{div} ol-examples
+Wo ist der Bahnhof?
+: Where is the train station?
+
+Wohin fährt dieser Bus?
+: Where does this bus go?
+
+Woher kommt deine Familie?
+: Where does your family come from?
+:::
+
+## Time and reason: *wann*, *warum*
+
+*Wann* asks for a point in time, *warum* for a reason.
+
+**Examples:**
+
+:::{div} ol-examples
+Wann beginnt der Kurs?
+: When does the course start?
+
+Warum bist du müde?
+: Why are you tired?
+:::
+
+## Manner and measure: *wie* and friends
+
+Alone, *wie* asks "how". Combined with another word it measures things: *wie viel* (how much), *wie lange* (how long), *wie alt* (how old), *wie oft* (how often).
+
+**Examples:**
+
+:::{div} ol-examples
+Wie komme ich zum Bahnhof?
+: How do I get to the station?
+
+Wie lange dauert der Film?
+: How long is the film?
+
+Wie oft machst du Sport?
+: How often do you do sport?
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-3
+:title: Fragewörter wo, wann, wie und warum
+:title-en: Question words for circumstances
+
+Wo bist du?
+: Where are you?
+
+Wo ist der Bahnhof?
+: Where is the train station?
+
+Wo wohnt ihr?
+: Where do you live?
+
+Wohin gehst du?
+: Where are you going?
+
+Wohin fährt dieser Bus?
+: Where does this bus go?
+
+Woher kommst du?
+: Where are you from?
+
+Woher kommt deine Familie?
+: Where does your family come from?
+
+Wann beginnt der Kurs?
+: When does the course start?
+
+Wann hast du Zeit?
+: When do you have time?
+
+Wann stehst du auf?
+: When do you get up?
+
+Wie geht es dir?
+: How are you?
+
+Wie heißen Sie?
+: What is your name?
+
+Wie alt bist du?
+: How old are you?
+
+Wie viel kostet das?
+: How much does that cost?
+
+Wie lange dauert der Film?
+: How long is the film?
+
+Wie oft machst du Sport?
+: How often do you do sport?
+
+Wie komme ich zum Bahnhof?
+: How do I get to the station?
+
+Wie ist deine Handynummer?
+: What is your mobile number?
+
+Warum lernst du Deutsch?
+: Why are you learning German?
+
+Warum bist du müde?
+: Why are you tired?
+
+Warum kommt er nicht?
+: Why isn't he coming?
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Place has three words: *wo* (at), *wohin* (to), *woher* (from).
+- *wann* = when, *warum* = why.
+- *wie* combines: *wie viel, wie lange, wie alt, wie oft*.
+- All of them take the verb in second position, as usual.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Wo gehst du?* → **Wohin** gehst du? (movement needs wohin)
+- *\*Wo kommst du?* → **Woher** kommst du? (origin needs woher)
+- *\*Wie viele kostet das?* → **Wie viel** kostet das? (price is uncountable)
+:::
+
+## Related articles
+
+- [A1 > Grammar > Yes/No Questions and W-Questions](/a1/grammar/sentence-structure/fragen.md)
+- [A1 > Grammar > Question Pronouns wer, wen, wem, was](/a1/grammar/question-words/fragepronomen.md)

@@ -1,0 +1,296 @@
+---
+myst:
+  html_meta:
+    description: "A2 German grammar: Positionsverben, learn stellen/stehen, legen/liegen, hängen, setzen/sitzen, and stecken with two-way prepositions (Wohin? + accusative, Wo? + dative)."
+    keywords: "german, german learning, a2, grammar, positionsverben, position verbs, wechselpraepositionen, two-way prepositions, stellen stehen, legen liegen, haengen, setzen sitzen, stecken, wohin wo, accusative dative"
+    "property=og:title": "Positionsverben – Position Verbs with Wo/Wohin"
+    "property=og:description": "A2 German grammar: Positionsverben, use placement and position verbs correctly with two-way prepositions and the right case."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Positionsverben
+
+> Position verbs with two-way prepositions: *Wohin?* (accusative) vs *Wo?* (dative)
+
+:::{seealso}
+
+- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
+- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
+- [A2 > Grammar > Reflexive Verben](/a2/grammar/verbs/reflexive-verben.md)
+:::
+
+With *Positionsverben*, you decide if something is being moved to a place or if it is already in a place. This is the key to using two-way prepositions correctly at A2.
+
+*Examples:*
+
+- *I put the cup on the table.*
+- *The cup is on the table.*
+- *She hangs the jacket on the hook. The jacket hangs on the hook.*
+
+---
+
+## Put somewhere or be somewhere?
+
+German uses two groups of verbs here:
+
+- **Placement verbs** (you move something/someone): answer *Wohin?* and take an accusative prepositional phrase.
+- **Position verbs** (something/someone is already there): answer *Wo?* and take a dative prepositional phrase.
+
+| Meaning | Question | Verb type | Case after two-way preposition |
+|---|---|---|---|
+| Move / put to a place | *Wohin?* | transitive placement verb | accusative |
+| Be in a place | *Wo?* | intransitive position verb | dative |
+
+**Examples:**
+
+- Ich {verb}`stelle` die Flasche {prep}`auf` {akk}`den` Tisch.  
+  *I put the bottle on the table.*
+- Die Flasche {verb}`steht` {prep}`auf` {dativ}`dem` Tisch.  
+  *The bottle is standing on the table.*
+- Wir {verb}`legen` die Zeitung {prep}`auf` {akk}`den` Stuhl.  
+  *We put the newspaper on the chair.*
+- Die Zeitung {verb}`liegt` {prep}`auf` {dativ}`dem` Stuhl.  
+  *The newspaper is lying on the chair.*
+- Er {verb}`hängt` den Mantel {prep}`an` {akk}`den` Haken.  
+  *He hangs the coat on the hook.*
+- Der Mantel {verb}`hängt` {prep}`an` {dativ}`dem` Haken.  
+  *The coat is hanging on the hook.*
+
+:::{note}
+Do not think "movement = accusative" in every sentence. With two-way prepositions, accusative is for a **change of location** (*Wohin?*). If the action happens in one location (*Wo?*), use dative.
+:::
+
+---
+
+## The main verb pairs
+
+These are the most important A2 position verb pairs.
+
+| Placement (Wohin?) | Position (Wo?) | Typical use |
+|---|---|---|
+| *stellen* | *stehen* | upright / vertical objects |
+| *legen* | *liegen* | flat / horizontal objects |
+| *hängen* (something) | *hängen* (be hanging) | hanging objects |
+| *(sich) setzen* | *sitzen* | people/animals sitting |
+| *stecken* | *stecken* / *sein* | things inserted into something |
+
+### *stellen* / *stehen*
+
+Use this pair for things with a "standing" position: bottles, cups, vases, books in a shelf.
+
+- Sie {verb}`stellt` die Tassen {prep}`in` {akk}`den` Schrank.  
+  *She puts the cups in the cupboard.*
+- Die Tassen {verb}`stehen` {prep}`in` {dativ}`dem` Schrank.  
+  *The cups are in the cupboard (standing there).*
+
+### *legen* / *liegen*
+
+Use this pair for things lying flat: papers, blankets, books on a table.
+
+- Ich {verb}`lege` die Decke {prep}`auf` {akk}`das` Sofa.  
+  *I put the blanket on the sofa.*
+- Die Decke {verb}`liegt` {prep}`auf` {dativ}`dem` Sofa.  
+  *The blanket is on the sofa.*
+
+### *hängen* / *hängen*
+
+Same infinitive, different meaning:
+
+- transitive: hang something somewhere (*Wohin?* + accusative)
+- intransitive: be hanging somewhere (*Wo?* + dative)
+
+- Wir {verb}`hängen` das Bild {prep}`an` {akk}`die` Wand.  
+  *We hang the picture on the wall.*
+- Das Bild {verb}`hängt` {prep}`an` {dativ}`der` Wand.  
+  *The picture is hanging on the wall.*
+
+### *(sich) setzen* / *sitzen*
+
+Use this pair for people and animals.
+
+- Der Junge {verb}`setzt` sich {prep}`auf` {akk}`den` Stuhl.  
+  *The boy sits down on the chair.*
+- Der Junge {verb}`sitzt` {prep}`auf` {dativ}`dem` Stuhl.  
+  *The boy is sitting on the chair.*
+
+### *stecken*
+
+Use *stecken* for putting something into a narrow opening or inside something (for example a pocket, a bag, a lock).
+
+- Sie {verb}`steckt` den Schlüssel {prep}`ins` Schloss.  
+  *She puts the key into the lock.*
+- Der Schlüssel {verb}`steckt` {prep}`im` Schloss.  
+  *The key is in the lock.*
+
+:::{tip}
+When you are not sure if an object is "standing" or "lying," you can often use *sein* to avoid overthinking: *Das Buch ist auf dem Tisch.* Then, as you get more confident, choose the more specific verb (*liegt*/*steht*).
+:::
+
+---
+
+## How the verb decides the case
+
+With two-way prepositions (*an, auf, hinter, in, neben, über, unter, vor, zwischen*), the verb meaning tells you the case.
+
+> placement verb + destination (*Wohin?*) = preposition phrase in accusative  
+> position verb + location (*Wo?*) = preposition phrase in dative
+
+| Pair with *in* | Meaning |
+|---|---|
+| Ich lege das Handy **in die** Tasche. | movement to location (*Wohin?*) |
+| Das Handy liegt **in der** Tasche. | location (*Wo?*) |
+
+| Pair with *auf* | Meaning |
+|---|---|
+| Wir stellen die Gläser **auf den** Tisch. | movement to location (*Wohin?*) |
+| Die Gläser stehen **auf dem** Tisch. | location (*Wo?*) |
+
+| Pair with *an* | Meaning |
+|---|---|
+| Er hängt die Jacke **an den** Haken. | movement to location (*Wohin?*) |
+| Die Jacke hängt **an dem** Haken / **am** Haken. | location (*Wo?*) |
+
+**Examples:**
+
+- Ich {verb}`setze` mich {prep}`zwischen` {akk}`die` Kinder.  
+  *I sit down between the children.*
+- Ich {verb}`sitze` {prep}`zwischen` {dativ}`den` Kindern.  
+  *I am sitting between the children.*
+- Wir {verb}`stecken` das Geld {prep}`in` {akk}`die` Tasche.  
+  *We put the money in the bag.*
+- Das Geld {verb}`steckt` {prep}`in` {dativ}`der` Tasche.  
+  *The money is in the bag.*
+
+:::{warning}
+A common A2 mistake is mixing cases: *Ich stelle die Flasche auf dem Tisch.* This is incorrect because *stellen* answers *Wohin?* Correct: *Ich stelle die Flasche auf den Tisch.*
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Placement verbs describe moving something somewhere and answer *Wohin?*.
+- Position verbs describe where something is and answer *Wo?*.
+- With two-way prepositions, *Wohin?* takes accusative, *Wo?* takes dative.
+- Core pairs: *stellen/stehen*, *legen/liegen*, *hängen/hängen*, *(sich) setzen/sitzen*, *stecken*.
+- Think in verb pairs: first the movement sentence, then the result sentence.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Die Tasse steht auf den Tisch.* → Die Tasse steht **auf dem** Tisch. (*stehen* = location, so dative)
+- *Ich lege das Buch auf dem Tisch.* → Ich lege das Buch **auf den** Tisch. (*legen* = movement to location, so accusative)
+- *Wir setzen auf dem Stuhl.* → Wir **setzen uns** auf den Stuhl. (use reflexive *sich setzen* for "sit down")
+- *Ich hänge den Mantel an dem Haken.* → Ich hänge den Mantel **an den** Haken. (transitive *hängen* answers *Wohin?*)
+- *Der Schlüssel steckt ins Schloss.* → Der Schlüssel steckt **im** Schloss. (already in place, so *Wo?* + dative)
+:::
+
+---
+
+:::{audio-examples}
+:album: a2/grammar/part-1
+:title: Positionsverben
+:title-en: Position Verbs
+:voice: max
+:spotify: https://open.spotify.com/track/2IQLR4JnwErftrDbmbDwpD
+:youtube-music: https://music.youtube.com/watch?v=veCb2vluN5o
+
+Ich stelle die Flasche auf den Tisch.
+: I'm putting the bottle on the table.
+
+Die Flasche steht auf dem Tisch.
+: The bottle is standing on the table.
+
+Er legt das Buch auf das Regal.
+: He's putting the book on the shelf.
+
+Das Buch liegt auf dem Regal.
+: The book is lying on the shelf.
+
+Sie hängt das Bild an die Wand.
+: She's hanging the picture on the wall.
+
+Das Bild hängt an der Wand.
+: The picture is hanging on the wall.
+
+Wo stellst du die Tassen hin?
+: Where are you putting the cups?
+
+Die Tassen stehen im Schrank.
+: The cups are standing in the cupboard.
+
+Ich lege meine Jacke auf das Bett.
+: I'm putting my jacket on the bed.
+
+Meine Jacke liegt auf dem Bett.
+: My jacket is lying on the bed.
+
+Stell bitte die Milch in den Kühlschrank!
+: Please put the milk in the refrigerator!
+
+Die Milch steht schon im Kühlschrank.
+: The milk is already in the refrigerator.
+
+Leg die Zeitung auf den Tisch!
+: Put the newspaper on the table!
+
+Die Zeitung liegt auf dem Tisch.
+: The newspaper is lying on the table.
+
+Wir hängen den Mantel an den Haken.
+: We're hanging the coat on the hook.
+
+Der Mantel hängt schon an dem Haken.
+: The coat is already hanging on the hook.
+
+Stellst du die Blumen ins Wasser?
+: Are you putting the flowers in water?
+
+Die Blumen stehen im Wasser.
+: The flowers are standing in water.
+
+Sie legt das Baby ins Bett.
+: She's putting the baby in bed.
+
+Das Baby liegt im Bett.
+: The baby is lying in bed.
+
+Ich stelle meine Schuhe neben die Tür.
+: I'm putting my shoes next to the door.
+
+Meine Schuhe stehen neben der Tür.
+: My shoes are standing next to the door.
+
+Er legt die Schlüssel auf den Tisch.
+: He's putting the keys on the table.
+
+Die Schlüssel liegen auf dem Tisch.
+: The keys are lying on the table.
+
+Häng bitte deine Jacke in den Schrank!
+: Please hang your jacket in the closet!
+
+Die Jacke hängt im Schrank.
+: The jacket is hanging in the closet.
+
+Wir stellen die Stühle um den Tisch.
+: We're putting the chairs around the table.
+
+Die Stühle stehen um den Tisch.
+: The chairs are standing around the table.
+
+Sie legt die Decke aufs Sofa.
+: She's putting the blanket on the sofa.
+:::
+
+---
+
+## Related articles
+
+- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
+- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
+- [A2 > Grammar > Reflexive Verben](/a2/grammar/verbs/reflexive-verben.md)

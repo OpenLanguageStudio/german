@@ -1,0 +1,135 @@
+K1:
+  - topic: Infinitiv mit "zu"
+    sections:
+      - nach bestimmten Verben
+      - name: nach Adjektiven + "sein"/"finden"
+        example: Es ist wichtig, pünktlich zu sein.
+      - name: nach Nomen + "haben"/"machen"
+        example: Er hat die Absicht, Deutsch zu lernen.
+  - topic: Kausal Nebensätze ("da/weil")
+    sections:
+      - mit "da"
+      - mit "weil"
+  - topic: Konzessiv Nebensätze ("obwohl")
+K2:
+  - topic: Lassen + Infinitiv
+  - topic: Konsekutiv Nebensätze (Folgen ausdrücken)
+    sections:
+      - name: mit "deshalb"/"deswegen"/"daher"/"darum"
+        context: Explain the differences between these conjunctions.
+      - mit "sodass"/"so...dass"
+  - topic: Genitiv
+  - topic: Präpositionen "wegen" und "trotz" mit Genitiv
+    note: Adjektive haben nach Artikelwörtern im Genitiv immer die Endung -en.
+K3:
+  - topic: Präteritum (Introduction)
+  - topic: Zeitangaben - Präpositionen mit Dativ und Genitiv
+    sections:
+      - name: Präpositionen mit Dativ
+        context: ab, an, bis zu, in, nach, seit, vor
+      - name: Präpositionen mit Genitiv
+        context: außerhalb, innerhalb, während
+        note: In der gesprochenen Sprache werden die Präpositionen während, wegen, trotz und dank oft mit Dativ verwendet.
+K4:
+  - topic: Konjunktiv II (Introduction)
+  - topic: Irreale Bedingungssätze mit Konjunktiv II
+  - topic: Pronomen und Pronominaladverbien
+    sections:
+      - name: Personen - Präposition + Pronomen
+        example: Rufen Sie den Personalchef an. *Mit ihm* können Sie einen Termin vereinbaren.
+      - name: Dinge und Ereignisse - Da(r) + Präposition
+        example: Ich freue mich auf das Konzert. *Darauf* warte ich schon lange.
+  - topic: Verben mit Präposition und Nebensatz
+    example: Worauf wartet er? Er wartet *auf* eine Antwort. → Er wartert *darauf*, dass er eine Antwort bekommt.
+K5:
+  - topic: Komparativ und Superlativ vor Nomen
+    note: Komparativ und Superlativ, die vor Nomen stehen, muss man deklinieren. Sie haben die gleichen Endungen wie die Grundform der Adjektive
+  - topic: Nebensatz mit "damit" und "um...zu" (Finalsätze)
+K6:
+  - topic: Futur I - Zukunft ausdrücken (Introduction)
+  - topic: N-deklination
+    sections:
+      - mit Endung -e
+      - Personen, Berufe und Tiere
+      - Internationalismen mit Endung -and, -ant, -at, -ent, -graf, -ist, -oge
+    note: Endung außer im Nominativ Singular immer -(e)n: Siehst du den Elefanten? Das ist das Auto vom Nachbarn. Die meisten Nomen der n-Deklination bezeichnen Menschen und Tiere.
+  - topic: Relativsätze
+    sections:
+      - Nominativ
+      - Akkusativ
+      - Dativ
+      - Präpositionen + Akkusativ
+      - Präpositionen + Dativ
+    note: 
+      - Die Relativpronomen im Nominativ, Akkusativ und Dativ haben die gleichen Formen wie die bestimmten Artikel (! Dativ Plural = denen)
+      - Die Präposition steht vor dem Relativpronomen und bestimmt den Kasus.
+K7:
+  - topic: Vovergangenheit ausdrücken (Plusquamperfekt)
+    note: Briefly explain the progression from jetz (Präsens), früher (Präteritum, Perfekt), noch früher (Plusquamperfekt).
+  - topic: Temporal Nebensätze (Zeitangaben)
+    sections:
+      - mit "bevor"
+      - mit "bis"
+      - mit "nachdem"
+      - mit "während"
+      - mit "seit/seitdem"
+    note:
+      - In Nebensätzen mit nachdem verwendet man ein anderes Tempus als im Hauptsatz (im Hauptsatz Präsens → im Nebensatz Perfekt) and (im Hauptsatz Präteritum → im Nebensatz Plusquamperfekt)
+      - In der gesprochenen Sprache kann man auch verwenden (im Hauptsatz Perfekt → im Nebensatz Plusquamperfekt
+K8:
+  - topic: brauchen + zu + Infinitiv
+    sections:
+      - name: mit nicht/kein
+        example: Du brauchst das Buch nicht zu lesen.
+      - name: mit nur
+        example: Du brauchst nur die erste Seite zu lesen.
+  - topic: Reflexivpronomen im Akkusativ und Dativ
+    sections:
+      - Akkusativ
+      - Dativ
+    note: Wenn es bei reflexiven Verben ein Reflexivpronomen *und* ein Akkusativobjekt gibt, steht das Reflexivpronomen im Dativ.
+  - topic: Zeiteilige Konnektoren
+    sections:
+      - sowohl...als auch... / nicht nur...sondern auch...
+      - entweder...oder...
+      - weder...noch...
+      - zwar...aber...
+      - einerseits...andererseits...
+    note: 
+      - Zeiteilige Konnektoren können Satzteile oder ganze Sätze verbinden.
+K9:
+  - topic: Stellung von "nicht" im Satz
+    note: Wenn ein Satz oder Satzteil mit nicht oder kein verneint ist, setzt man den folgenden Satz mit sondern fort: Ich war nicht heute im Museum, sondern gestern.
+  - topic: Adjektive ohne Artikel
+    note: All except Genitiv maskulin and Genitiv neuter have the same endings as with the definite article.
+K10:
+  - topic: Passiv
+    note:
+      - Aktiv - *Who* is doing something.
+      - Passiv - *What* is happening.
+      - Im Passivsatz kann man mit von _ Dativ ausdrücken, wer etwas tut.
+    sections:
+      - Präsens
+      - Präteritum
+      - Perfekt
+      - Passiv mit Modalverben
+K11:
+  - topic: Artikelwörter als Pronomen
+    example: 
+      - Ist das dein Buch? Nein, das ist *meins*.
+      - Ich habe keinen Stift. Hast du *einen*?
+  - topic: irgendein/-eine/-welche
+  - topic: Adjektive als Nomen
+    note:
+      - Adjektive als Nomen haben die gleiche Endung wie Adjektive vor Nomen.
+      - In Wörterbüchern haben sie die Angabe der/die - der/die Bekannte.
+  - topic: Relativsätze mit "was" und "wo"
+    sections:
+      - mit "was"
+      - mit "wo"
+K12:
+  - topic: Sätze mit "je ..., desto/umso ..."
+  - topic: Partizip als Adjektiv
+    sections:
+      - Partizip II als Adjektiv
+      - Partizip I als Adjektiv (Infitiv + -d)

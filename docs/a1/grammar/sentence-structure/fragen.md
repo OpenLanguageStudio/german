@@ -1,0 +1,144 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: questions. Yes/no questions with the verb first, W-questions with the question word first, and the word order behind both."
+    keywords: "german, german learning, a1, grammar, questions, yes no questions, w-questions, word order, fragen"
+    "property=og:title": "Ja-Nein-Fragen und W-Fragen – Questions"
+    "property=og:description": "A1 grammar: questions. Yes/no questions with the verb first, W-questions with the question word first, and the word order behind both."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Yes/No Questions and W-Questions
+
+German builds questions without any helper verb: no "do", no "does". Instead, word order does the asking. There are exactly two patterns, and all the pieces are already familiar.
+
+## Yes/no questions: verb first
+
+Move the conjugated verb to the front, subject right behind it, done. The answer starts with *ja* or *nein*.
+
+**Examples:**
+
+:::{div} ol-examples
+{verb}`Kommst` du aus Spanien?
+: Do you come from Spain?
+
+{verb}`Sprechen` Sie Englisch?
+: Do you speak English?
+
+{verb}`Arbeitest` du am Wochenende?
+: Do you work at the weekend?
+:::
+
+## W-questions: question word, then verb
+
+Open with the question word, and the verb takes its usual second position. The W-words: *wer* (who), *was* (what), *wo* (where), *woher* (from where), *wohin* (where to), *wann* (when), *wie* (how), *warum* (why).
+
+**Examples:**
+
+:::{div} ol-examples
+Wann {verb}`kommst` du nach Hause?
+: When are you coming home?
+
+Warum {verb}`lernst` du Deutsch?
+: Why are you learning German?
+
+Wohin {verb}`fährst` du im Urlaub?
+: Where are you going on holiday?
+:::
+
+:::{tip}
+Both patterns keep the sentence bracket intact: *Wann fängt der Film **an**? Kannst du morgen **kommen**?* The closing part stays at the end, whatever happens up front.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-3
+:title: Ja-Nein-Fragen und W-Fragen
+:title-en: Yes/no questions and W-questions
+
+Kommst du aus Spanien?
+: Do you come from Spain?
+
+Ja, ich komme aus Madrid.
+: Yes, I come from Madrid.
+
+Wohnst du in Berlin?
+: Do you live in Berlin?
+
+Nein, ich wohne in Hamburg.
+: No, I live in Hamburg.
+
+Hast du Geschwister?
+: Do you have siblings?
+
+Sprechen Sie Englisch?
+: Do you speak English?
+
+Bist du müde?
+: Are you tired?
+
+Arbeitest du am Wochenende?
+: Do you work at the weekend?
+
+Wo wohnst du?
+: Where do you live?
+
+Woher kommen Sie?
+: Where are you from?
+
+Wann kommst du nach Hause?
+: When are you coming home?
+
+Wie heißt du?
+: What is your name?
+
+Was machst du heute?
+: What are you doing today?
+
+Warum lernst du Deutsch?
+: Why are you learning German?
+
+Wie viel kostet das?
+: How much does that cost?
+
+Wer ist das?
+: Who is that?
+
+Wann fängt der Film an?
+: When does the film start?
+
+Wohin fährst du im Urlaub?
+: Where are you going on holiday?
+
+Verstehst du das?
+: Do you understand that?
+
+Ja, das verstehe ich.
+: Yes, I understand.
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Yes/no question: verb first, subject second. No "do" needed.
+- W-question: question word first, verb second.
+- The W-words: *wer, was, wo, woher, wohin, wann, wie, warum*.
+- Brackets and prefixes keep their end position in questions.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Du kommst aus Spanien?* as the default question → **Kommst du** aus Spanien? (rising intonation alone is casual speech, not the standard pattern)
+- *\*Wo du wohnst?* → Wo **wohnst du**? (verb second after the W-word)
+- *\*Machst du was heute?* → **Was machst du** heute? (the W-word opens the question)
+:::
+
+## Related articles
+
+- [A1 > Grammar > The Verb in Second Position](/a1/grammar/sentence-structure/verb-position-2.md)
+- [A1 > Grammar > Question Pronouns wer, wen, wem, was](/a1/grammar/question-words/fragepronomen.md)
+- [A1 > Grammar > Question Words for Circumstances](/a1/grammar/question-words/fragewoerter-umstaende.md)
