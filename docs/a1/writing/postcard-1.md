@@ -30,7 +30,7 @@ What makes it work: *Viele Grüße aus ...* is the postcard's licence plate, alw
 ### Hear it in practice
 
 :::{audio-examples}
-:album: a1/writing/part-1
+:track: a1/writing/postcard-1
 :title: Eine Postkarte aus dem Urlaub
 :title-en: A Postcard from Holiday
 :multiline:

@@ -34,7 +34,7 @@ Germans adore their pets, and animal talk is early small-talk gold: who has a do
 Every word appears in a sentence, and the most common animals return in the plural, so *der Hund* and *die Hunde* both settle in.
 
 :::{audio-examples}
-:album: a1/vocabulary/part-1
+:track: a1/vocabulary/pets-and-animals-1
 :title: Haustiere und Tiere 1
 :title-en: Pets and Animals 1
 

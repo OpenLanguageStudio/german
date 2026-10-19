@@ -227,13 +227,9 @@ Modal verbs drop the umlaut in *Präteritum* and follow the weak verb endings:
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: prateritum
+:track: b1/grammar/prateritum
 :title: Präteritum
 :title-en: The Simple Past
-:voice: emilia
-:spotify: https://open.spotify.com/track/7zX3sNQsueHX1iXsio6CVh
-:youtube-music: https://music.youtube.com/watch?v=0PNIb5zW0i4
 
 Ich war gestern zu müde.
 : I was too tired yesterday.
@@ -324,15 +320,6 @@ Wir durften länger bleiben.
 
 Er sollte mehr lernen.
 : He was supposed to study more.
-
-Sie mochte keine Schokolade.
-: She didn't like chocolate.
-
-Ich war beim Friseur.
-: I was at the hairdresser.
-
-Wir hatten Besuch.
-: We had visitors.
 :::
 
 ---

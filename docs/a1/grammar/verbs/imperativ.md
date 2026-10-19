@@ -66,7 +66,7 @@ Separable verbs split in the imperative too: *Mach die Tür zu! Ruf mich an! Ste
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-2
+:track: a1/grammar/imperativ
 :title: Der Imperativ
 :title-en: The imperative
 

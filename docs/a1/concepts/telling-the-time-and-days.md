@@ -73,7 +73,7 @@ Ich komme um sieben.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-1
+:track: a1/concepts/telling-the-time-and-days
 :title: Uhrzeit und Wochentage
 :title-en: Telling the time and days
 

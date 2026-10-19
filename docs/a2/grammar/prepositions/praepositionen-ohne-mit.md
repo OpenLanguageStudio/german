@@ -186,13 +186,9 @@ Use the following link to practice this section.
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
-:name: prapositionen-ohne-und-mit
+:track: a2/grammar/prapositionen-ohne-und-mit
 :title: Präpositionen ohne und mit
 :title-en: Prepositions ohne and mit
-:voice: max
-:spotify: https://open.spotify.com/track/1CF1CDEbuVnCy4iL89q2mk
-:youtube-music: https://music.youtube.com/watch?v=-TlGTnxeMZ8
 
 Ich trinke Kaffee ohne Zucker.
 : I drink coffee without sugar.

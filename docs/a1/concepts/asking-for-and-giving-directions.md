@@ -84,7 +84,7 @@ Danke für Ihre Hilfe!
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-2
+:track: a1/concepts/asking-for-and-giving-directions
 :title: Nach dem Weg fragen
 :title-en: Asking for and giving directions
 

@@ -27,7 +27,7 @@ What makes it work: *Kannst du mir helfen?* flags a favour before the details; t
 ### Hear it in practice
 
 :::{audio-examples}
-:album: a1/writing/part-1
+:track: a1/writing/sms-informal-2
 :title: Eine Nachricht - Kannst du mir helfen?
 :title-en: Asking a Favour
 :multiline:

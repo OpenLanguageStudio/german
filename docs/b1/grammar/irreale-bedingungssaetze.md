@@ -106,13 +106,9 @@ At B1 level, *Konjunktiv II* is the key signal for unreal meaning. *Präsens* of
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: konjunktiv-ii-irreale-bedingungssatze
+:track: b1/grammar/konjunktiv-ii-irreale-bedingungssatze
 :title: Konjunktiv II - Irreale Bedingungssätze
-:title-en: Konjunktiv II — Unreal Conditional Sentences
-:voice: emilia
-:spotify: https://open.spotify.com/track/6g76ZISl0ja6mSzM75CIYG
-:youtube-music: https://music.youtube.com/watch?v=4UobuKCtV1k
+:title-en: Konjunktiv II: Unreal Conditional Sentences
 
 Wenn ich reich wäre, würde ich eine Weltreise machen.
 : If I were rich, I would take a trip around the world.

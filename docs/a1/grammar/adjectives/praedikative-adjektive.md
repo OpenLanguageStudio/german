@@ -69,7 +69,7 @@ Adjectives BEFORE a noun (*ein großes Haus*) take endings, and that system is A
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-4
+:track: a1/grammar/praedikative-adjektive
 :title: Adjektive mit sein
 :title-en: Predicate adjectives
 

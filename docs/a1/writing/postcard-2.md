@@ -31,7 +31,7 @@ What makes it work: the double formula opens (*alles Gute zum Geburtstag* + *ich
 ### Hear it in practice
 
 :::{audio-examples}
-:album: a1/writing/part-1
+:track: a1/writing/postcard-2
 :title: Eine Karte zum Geburtstag
 :title-en: A Birthday Greeting
 :multiline:

@@ -215,13 +215,9 @@ Use the following link to practice this section.
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
-:name: doch-nach-ja-nein-fragen
+:track: a2/grammar/doch-nach-ja-nein-fragen
 :title: Doch nach Ja-Nein-Fragen
 :title-en: doch in Response to Yes-No Questions
-:voice: max
-:spotify: https://open.spotify.com/track/0vFuasY7Qpy9OOGrfoAMBW
-:youtube-music: https://music.youtube.com/watch?v=eMQ8KItLBns
 
 Kommst du nicht? - Doch, ich komme.
 : Aren't you coming? - Yes, I am coming.

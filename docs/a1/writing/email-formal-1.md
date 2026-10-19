@@ -34,7 +34,7 @@ What makes it work: the request comes first, politely framed with *ich möchte g
 ### Hear it in practice
 
 :::{audio-examples}
-:album: a1/writing/part-1
+:track: a1/writing/email-formal-1
 :title: Eine E-Mail an den Chef
 :title-en: Emailing Your Boss
 :multiline:

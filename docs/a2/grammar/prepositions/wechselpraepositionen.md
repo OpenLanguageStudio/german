@@ -192,13 +192,8 @@ Other contractions also exist – *aufs*, *vors*, *hinters*, *übers*, *unters*,
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
-:name: wechselprapositionen-wohin-und-wo
+:track: a2/grammar/wechselprapositionen-wohin-und-wo
 :title: Wechselpräpositionen - Wohin und Wo
-:title-en: Two-Way Prepositions — Wohin and Wo
-:voice: max
-:spotify: https://open.spotify.com/track/0kKpgSVTRd8X2ha4ziugbP
-:youtube-music: https://music.youtube.com/watch?v=t8FzoZYEIdo
 
 Ich stelle das Buch ins Regal.
 : I put the book on the shelf.

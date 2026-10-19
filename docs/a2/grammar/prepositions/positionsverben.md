@@ -192,12 +192,9 @@ A common A2 mistake is mixing cases: *Ich stelle die Flasche auf dem Tisch.* Thi
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
+:track: a2/grammar/positionsverben
 :title: Positionsverben
 :title-en: Position Verbs
-:voice: max
-:spotify: https://open.spotify.com/track/2IQLR4JnwErftrDbmbDwpD
-:youtube-music: https://music.youtube.com/watch?v=veCb2vluN5o
 
 Ich stelle die Flasche auf den Tisch.
 : I'm putting the bottle on the table.

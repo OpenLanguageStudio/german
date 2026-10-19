@@ -244,13 +244,8 @@ Most everyday German verbs take a direct object in the accusative. Here is a lis
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
-:name: akkusativ-grundlagen
+:track: a2/grammar/akkusativ-grundlagen
 :title: Akkusativ – Grundlagen
-:title-en: The Accusative Case — Basics
-:voice: max
-:spotify: https://open.spotify.com/track/006ycovSZsJJxHtfHC4DkT
-:youtube-music: https://music.youtube.com/watch?v=71-6PWcSeWw
 
 Ich sehe den Mann auf der Straße.
 : I see the man on the street.

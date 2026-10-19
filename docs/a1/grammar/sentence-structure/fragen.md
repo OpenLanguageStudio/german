@@ -53,7 +53,7 @@ Both patterns keep the sentence bracket intact: *Wann fängt der Film **an**? Ka
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-3
+:track: a1/grammar/fragen
 :title: Ja-Nein-Fragen und W-Fragen
 :title-en: Yes/no questions and W-questions
 

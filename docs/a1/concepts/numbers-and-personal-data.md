@@ -88,7 +88,7 @@ Ich bin einunddreißig Jahre alt.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-1
+:track: a1/concepts/numbers-and-personal-data
 :title: Zahlen und persönliche Daten
 :title-en: Numbers and personal data
 

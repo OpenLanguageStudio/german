@@ -87,11 +87,9 @@ After a definite article, the singular ending is always **-e**, never -er or -es
   *The small children are playing outside.* (plural, definite)
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: adjektivendungen-nominativ
+:track: a2/grammar/adjektivendungen-nominativ
 :title: Adjektivendungen – Nominativ
-:title-en: Adjective Endings — Nominative
-:voice: sophie
+:title-en: Adjective Endings: Nominative
 
 Der neue Lehrer ist sehr nett.
 : The new teacher is very nice.
@@ -233,11 +231,9 @@ Only **masculine** changes between Nominativ and Akkusativ, it always takes **-e
   *Do you see the small dog over there?* (masc, definite)
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: adjektivendungen-akkusativ
+:track: a2/grammar/adjektivendungen-akkusativ
 :title: Adjektivendungen – Akkusativ
-:title-en: Adjective Endings — Accusative
-:voice: sophie
+:title-en: Adjective Endings: Accusative
 
 Ich sehe den neuen Lehrer.
 : I see the new teacher.
@@ -379,11 +375,9 @@ A simple rule for Dativ: if there is any article before the adjective, use **-en
   *She drinks her coffee with warm milk.* (fem, no article – **-er**)
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: adjektivendungen-dativ
+:track: a2/grammar/adjektivendungen-dativ
 :title: Adjektivendungen – Dativ
-:title-en: Adjective Endings — Dative
-:voice: sophie
+:title-en: Adjective Endings: Dative
 
 Ich helfe dem neuen Lehrer.
 : I help the new teacher.

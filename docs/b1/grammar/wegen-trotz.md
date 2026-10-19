@@ -62,13 +62,9 @@ When the *wegen* phrase comes at the start of the sentence, the subject and verb
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: praposition-wegen
+:track: b1/grammar/praposition-wegen
 :title: Präposition wegen
 :title-en: The Preposition wegen
-:voice: emilia
-:spotify: https://open.spotify.com/track/558cBGyhL2rYfFXeavQpum
-:youtube-music: https://music.youtube.com/watch?v=uqIkpJC6DIk
 
 Wegen des Regens bleiben wir zu Hause.
 : Because of the rain, we're staying at home.
@@ -179,13 +175,9 @@ The genitive article forms are the same as for **wegen** (see table above).
 Do not confuse {prep}`trotz` + Genitiv with the adverb *trotzdem* ("nevertheless" / "anyway"). They are related in meaning but work very differently: *Trotz des Regens ...* (preposition + noun phrase) vs. *Es regnet. Ich gehe trotzdem.* (adverb in the main clause).
 :::
 :::{audio-examples}
-:album: b1/grammar/core
-:name: praposition-trotz
+:track: b1/grammar/praposition-trotz
 :title: Präposition trotz
 :title-en: The Preposition trotz
-:voice: emilia
-:spotify: https://open.spotify.com/track/0XsnOizhxtnJRIZw4g45uS
-:youtube-music: https://music.youtube.com/watch?v=6lOsN4qRJ2M
 
 Trotz des Regens gehen wir spazieren.
 : Despite the rain, we're going for a walk.

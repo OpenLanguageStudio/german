@@ -54,7 +54,7 @@ Ich fahre mit {dativ}`dem Bus`.
 The track mixes all three cases in one stream, which trains discrimination rather than one pattern at a time.
 
 :::{audio-examples}
-:album: a1/grammar/part-1
+:track: a1/grammar/kasus-ueberblick
 :title: Die Kasus - Gemischt
 :title-en: The three cases mixed
 

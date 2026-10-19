@@ -93,13 +93,9 @@ This pattern is less common in everyday speech, but you will encounter it in wri
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: komparativ-vor-nomen-nominativ
+:track: b1/grammar/komparativ-vor-nomen-nominativ
 :title: Komparativ vor Nomen – Nominativ
-:title-en: Comparative Before Nouns — Nominative
-:voice: emilia
-:spotify: https://open.spotify.com/track/759sxJMaZiEctoI2kO7JBQ
-:youtube-music: https://music.youtube.com/watch?v=l2NXSBcLnQQ
+:title-en: Comparative Before Nouns: Nominative
 
 Der kleinere Tisch passt nicht.
 : The smaller table doesn't fit.
@@ -178,13 +174,9 @@ Das ruhigere Viertel ist sicherer.
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: komparativ-vor-nomen-akkusativ-und-dativ
+:track: b1/grammar/komparativ-vor-nomen-akkusativ-und-dativ
 :title: Komparativ vor Nomen – Akkusativ und Dativ
-:title-en: Comparative Before Nouns — Accusative and Dative
-:voice: emilia
-:spotify: https://open.spotify.com/track/7MPs0kic2tTn3fFsvkWuyI
-:youtube-music: https://music.youtube.com/watch?v=5dcaybMohh4
+:title-en: Comparative Before Nouns: Accusative and Dative
 
 Ich möchte eine ruhigere Straße.
 : I want a quieter street.
@@ -302,13 +294,9 @@ The *am + …-sten* form is only used when the adjective does **not** appear dir
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: superlativ-vor-nomen
+:track: b1/grammar/superlativ-vor-nomen
 :title: Superlativ vor Nomen
 :title-en: Superlative Before Nouns
-:voice: emilia
-:spotify: https://open.spotify.com/track/3E0GRLHkgXiCVH4R9f27Pq
-:youtube-music: https://music.youtube.com/watch?v=--b4h0BwFBM
 
 Das ist das größte Haus in der Straße.
 : That's the biggest house on the street.

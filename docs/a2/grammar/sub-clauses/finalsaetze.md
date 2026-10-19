@@ -68,11 +68,9 @@ Use the following link to practice this section.
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: nebensatz-mit-damit
+:track: a2/grammar/nebensatz-mit-damit
 :title: Nebensatz mit damit
 :title-en: Subordinate Clauses with damit
-:voice: sophie
 
 Ich spreche langsam, damit du mich verstehst.
 : I speak slowly so that you understand me.
@@ -199,11 +197,9 @@ Use the following link to practice this section.
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: um-zu-konstruktion
+:track: a2/grammar/um-zu-konstruktion
 :title: um...zu-Konstruktion
 :title-en: The um...zu Construction
-:voice: sophie
 
 Ich lerne Deutsch, um in Deutschland zu arbeiten.
 : I'm learning German in order to work in Germany.

@@ -70,7 +70,7 @@ The decision test: find what you are negating. A noun that would take *ein* or n
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-3
+:track: a1/grammar/negation
 :title: Negation mit nicht und kein
 :title-en: Negation with nicht and kein
 

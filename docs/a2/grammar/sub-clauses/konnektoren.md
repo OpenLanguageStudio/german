@@ -53,11 +53,9 @@ A comma always comes before **denn**. Because it is a coordinator, **denn** can 
 :::
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: konnektor-denn
+:track: a2/grammar/konnektor-denn
 :title: Konnektor denn
 :title-en: The Connector denn
-:voice: sophie
 
 Ich bleibe zu Hause, denn ich bin krank.
 : I'm staying home because I'm sick.
@@ -178,11 +176,9 @@ When one of these words begins a clause, it fills **position 1**. Because the ve
 :::
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: konnektor-deshalb
+:track: a2/grammar/konnektor-deshalb
 :title: Konnektor deshalb
 :title-en: The Connector deshalb
-:voice: sophie
 
 Ich bin krank, deshalb bleibe ich zu Hause.
 : I'm sick, therefore I'm staying home.
@@ -303,11 +299,9 @@ Like **deshalb**, **trotzdem** takes position 1 and causes the same inversion: t
 :::
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: konnektor-trotzdem
+:track: a2/grammar/konnektor-trotzdem
 :title: Konnektor trotzdem
 :title-en: The Connector trotzdem
-:voice: sophie
 
 Es regnet, trotzdem gehen wir spazieren.
 : It's raining, nevertheless we're going for a walk.

@@ -82,7 +82,7 @@ Er sucht {akk}`seine` Brille.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-1
+:track: a1/grammar/possessivartikel
 :title: Possessivartikel
 :title-en: Possessive articles
 

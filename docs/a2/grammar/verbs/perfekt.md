@@ -82,11 +82,9 @@ in just **-t**: *telefoniert*, *studiert*.
 :::
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: perfekt-mit-haben
+:track: a2/grammar/perfekt-mit-haben
 :title: Perfekt mit haben
 :title-en: Perfect Tense with haben
-:voice: sophie
 
 Ich habe gestern Fußball gespielt.
 : I played soccer yesterday.
@@ -234,11 +232,9 @@ always listed for German verbs.
 :::
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: perfekt-mit-sein
+:track: a2/grammar/perfekt-mit-sein
 :title: Perfekt mit sein
 :title-en: Perfect Tense with sein
-:voice: sophie
 
 Ich bin gestern nach Berlin gefahren.
 : I drove to Berlin yesterday.
@@ -400,11 +396,9 @@ learn each verb as a set of three: **infinitive → Partizip II → auxiliary**
 :::
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: perfekt-unregelmassige-partizipien
+:track: a2/grammar/perfekt-unregelmassige-partizipien
 :title: Perfekt – Unregelmäßige Partizipien
-:title-en: Perfect Tense — Irregular Past Participles
-:voice: sophie
+:title-en: Perfect Tense: Irregular Past Participles
 
 Ich habe einen Brief geschrieben.
 : I wrote a letter.

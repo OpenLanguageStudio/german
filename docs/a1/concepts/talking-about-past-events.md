@@ -82,7 +82,7 @@ Am Sonntag {verb}`habe` ich nichts **gemacht**.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-2
+:track: a1/concepts/talking-about-past-events
 :title: Über Vergangenes sprechen
 :title-en: Talking about past events
 

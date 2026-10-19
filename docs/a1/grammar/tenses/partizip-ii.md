@@ -59,7 +59,7 @@ Ich habe meine Oma **angerufen**.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-4
+:track: a1/grammar/partizip-ii
 :title: Das Partizip II
 :title-en: The past participle
 

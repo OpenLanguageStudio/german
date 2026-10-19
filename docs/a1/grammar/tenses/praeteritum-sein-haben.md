@@ -66,7 +66,7 @@ Division of labour in the spoken past: actions → Perfekt (*Ich habe gespielt*)
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-4
+:track: a1/grammar/praeteritum-sein-haben
 :title: war und hatte
 :title-en: The simple past of sein and haben
 

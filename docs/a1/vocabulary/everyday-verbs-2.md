@@ -34,7 +34,7 @@ Three change families, all represented: a → ä (*fahren, schlafen, laufen*), e
 Every pair serves the changed form in *du* or *er/sie/es* alongside an unchanged person, so the shift itself is what you internalise. The review coda replays four of the verbs in their Perfekt and imperative forms from the grammar albums.
 
 :::{audio-examples}
-:album: a1/vocabulary/part-1
+:track: a1/vocabulary/everyday-verbs-2
 :title: Alltagsverben 2
 :title-en: Everyday Verbs 2
 

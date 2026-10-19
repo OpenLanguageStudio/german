@@ -191,13 +191,8 @@ Certain German verbs take a **dative object** instead of an accusative one. In E
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
-:name: dativ-grundlagen
+:track: a2/grammar/dativ-grundlagen
 :title: Dativ – Grundlagen
-:title-en: The Dative Case — Basics
-:voice: max
-:spotify: https://open.spotify.com/track/34CrzeFYsuHfXKSgettxHf
-:youtube-music: https://music.youtube.com/watch?v=PO_2raw01u0
 
 Ich helfe meiner Mutter in der Küche.
 : I help my mother in the kitchen.

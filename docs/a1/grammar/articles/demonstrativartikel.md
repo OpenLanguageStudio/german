@@ -70,7 +70,7 @@ In spoken German you'll also hear the definite article do this job with emphasis
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-1
+:track: a1/grammar/demonstrativartikel
 :title: Demonstrativartikel
 :title-en: Demonstrative articles
 

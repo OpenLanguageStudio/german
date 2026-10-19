@@ -47,13 +47,8 @@ To ask who someone is referring to, use the question form: preposition + **wen**
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: pronomen-und-prapositionen-uber-personen-sprechen
+:track: b1/grammar/pronomen-und-prapositionen-uber-personen-sprechen
 :title: Pronomen und Präpositionen - Über Personen sprechen
-:title-en: Pronouns and Prepositions — Talking About People
-:voice: emilia
-:spotify: https://open.spotify.com/track/1XKqNeJ78dMtfYT1P0Br4w
-:youtube-music: https://music.youtube.com/watch?v=tgoB_fQr_yE
 
 An wen denkst du? - Ich denke an meine Schwester.
 : Who are you thinking of? I'm thinking of my sister.
@@ -163,13 +158,8 @@ A Pronominaladverb can also introduce a **dass-clause** or an **infinitive claus
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: pronominaladverbien-uber-dinge-sprechen
+:track: b1/grammar/pronominaladverbien-uber-dinge-sprechen
 :title: Pronominaladverbien - Über Dinge sprechen
-:title-en: Pronominal Adverbs — Talking About Things
-:voice: emilia
-:spotify: https://open.spotify.com/track/6SETJO0oHPSJb1ujxPDkRp
-:youtube-music: https://music.youtube.com/watch?v=MgFugFSNeFU
 
 Denkst du an das Meeting morgen? - Ja, ich denke daran.
 : Are you thinking about the meeting tomorrow? Yes, I'm thinking about it.

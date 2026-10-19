@@ -173,12 +173,9 @@ In everyday spoken German, *von + Dativ* is widely used instead of the genitive:
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
+:track: b1/grammar/genitiv
 :title: Genitiv
 :title-en: The Genitive Case
-:voice: emilia
-:spotify: https://open.spotify.com/track/0ZueKjMoIw6159J0GuNNqB
-:youtube-music: https://music.youtube.com/watch?v=Es0F6Kk4TKs
 
 Das ist das Auto meines Vaters.
 : That's my father's car.

@@ -61,7 +61,7 @@ Possessive articles (*mein*, *dein*, ...) follow the *kein* pattern.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-1
+:track: a1/grammar/nominativ
 :title: Der Nominativ
 :title-en: The nominative case
 

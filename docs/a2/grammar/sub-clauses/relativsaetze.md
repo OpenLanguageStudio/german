@@ -97,11 +97,9 @@ To test nominative, ask: who is doing the action in the relative clause?
 :::
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: relativsatze-im-nominativ
+:track: a2/grammar/relativsatze-im-nominativ
 :title: Relativsätze im Nominativ
 :title-en: Relative Clauses in the Nominative
-:voice: sophie
 
 Der Mann, der dort steht, ist mein Lehrer.
 : The man who is standing there is my teacher.
@@ -218,11 +216,9 @@ Only masculine changes in accusative: **der -> den**. Feminine, neuter, and plur
 :::
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: relativsatze-im-akkusativ
+:track: a2/grammar/relativsatze-im-akkusativ
 :title: Relativsätze im Akkusativ
 :title-en: Relative Clauses in the Accusative
-:voice: sophie
 
 Der Mann, den ich kenne, ist sehr nett.
 : The man whom I know is very nice.

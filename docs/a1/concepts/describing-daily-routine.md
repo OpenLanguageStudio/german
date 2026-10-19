@@ -77,7 +77,7 @@ Am Samstag **stehe ich** spät auf.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-1
+:track: a1/concepts/describing-daily-routine
 :title: Der Tagesablauf
 :title-en: Describing daily routine
 

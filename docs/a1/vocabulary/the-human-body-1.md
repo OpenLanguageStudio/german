@@ -37,7 +37,7 @@ The paired parts (*Augen, Ohren, Hände, Arme, Beine, Füße*) live mostly in th
 One sentence per word, with *wehtun* returning across different body parts, exactly as it will at the doctor's.
 
 :::{audio-examples}
-:album: a1/vocabulary/part-1
+:track: a1/vocabulary/the-human-body-1
 :title: Der Körper 1
 :title-en: The Human Body 1
 

@@ -34,7 +34,7 @@ What makes it work: the address comes first, because a landlord with many flats 
 ### Hear it in practice
 
 :::{audio-examples}
-:album: a1/writing/part-1
+:track: a1/writing/email-formal-3
 :title: Eine E-Mail an den Vermieter
 :title-en: Emailing Your Landlord
 :multiline:
