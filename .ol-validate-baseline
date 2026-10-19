@@ -1,6 +1,5 @@
 # Articles that failed `ol validate` when this baseline was written.
 # Remove a line once its article passes. Never add lines by hand.
-docs/a2/concepts/index.md
 docs/a2/concepts/indirect-questions.md
 docs/a2/concepts/making-comparisons.md
 docs/a2/concepts/polite-requests-wishes-advice.md
@@ -29,7 +28,6 @@ docs/a2/grammar/sub-clauses/nebensatz-als-wenn.md
 docs/a2/grammar/sub-clauses/nebensatz-dass.md
 docs/a2/grammar/sub-clauses/nebensatz-weil.md
 docs/a2/grammar/sub-clauses/nebensatz-wenn.md
-docs/a2/grammar/sub-clauses/relativsaetze.md
 docs/a2/grammar/verbs/konjunktiv-ii.md
 docs/a2/grammar/verbs/modalverben-praeteritum.md
 docs/a2/grammar/verbs/perfekt.md

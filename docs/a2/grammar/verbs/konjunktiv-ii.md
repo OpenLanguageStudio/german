@@ -10,8 +10,6 @@ myst:
 ---
 # Konjunktiv II – sollte und könnte
 
-> A2 focus: giving advice and making polite requests
-
 At A2 level, you can already use *Konjunktiv II* in a very practical way: with *sollte* for advice and *könnte* for polite requests. These forms help you sound friendly and natural in daily conversations at work, at home, and in shops.
 
 :::{note}
@@ -48,18 +46,25 @@ Use *sollte* when you want to give advice, a recommendation, or a gentle reminde
 
 **Examples:**
 
-- Du {verb}`solltest` heute früher schlafen {verb}`gehen`.  
-  *You should go to sleep earlier today.*
-- Ich {verb}`sollte` mehr Wasser {verb}`trinken`.  
-  *I should drink more water.*
-- Wir {verb}`sollten` den Bus {verb}`nehmen`.  
-  *We should take the bus.*
-- Ihr {verb}`solltet` den Text noch einmal {verb}`lesen`.  
-  *You should read the text one more time.*
-- Er {verb}`sollte` weniger Kaffee {verb}`trinken`.  
-  *He should drink less coffee.*
-- Sie {verb}`sollten` einen Termin beim Arzt {verb}`machen`.  
-  *You should make an appointment with the doctor.*
+:::{div} ol-examples
+Du {verb}`solltest` heute früher schlafen {verb}`gehen`.
+: You should go to sleep earlier today.
+
+Ich {verb}`sollte` mehr Wasser {verb}`trinken`.
+: I should drink more water.
+
+Wir {verb}`sollten` den Bus {verb}`nehmen`.
+: We should take the bus.
+
+Ihr {verb}`solltet` den Text noch einmal {verb}`lesen`.
+: You should read the text one more time.
+
+Er {verb}`sollte` weniger Kaffee {verb}`trinken`.
+: He should drink less coffee.
+
+Sie {verb}`sollten` einen Termin beim Arzt {verb}`machen`.
+: You should make an appointment with the doctor.
+:::
 
 :::{tip}
 Compare the tone:
@@ -72,7 +77,105 @@ Practice
 
 Use the following link to practice this section.
 
+## könnte for polite requests
+
+Use *könnte* when you ask someone to do something politely. You often add *bitte* to sound even more friendly.
+
+### Conjugation of *könnte* (Konjunktiv II of *können*)
+
+| Person | Form |
+| --- | --- |
+| ich | **könnte** |
+| du | **könntest** |
+| er / sie / es | **könnte** |
+| wir | **könnten** |
+| ihr | **könntet** |
+| sie / Sie | **könnten** |
+
+### Direct vs polite request
+
+| More direct | More polite |
+| --- | --- |
+| **Kannst** du mir helfen? | **Könntest** du mir helfen? |
+| **Können** Sie das wiederholen? | **Könnten** Sie das bitte wiederholen? |
+
+### Request pattern
+
+> **Könnte/Könntest/Könnten ...?** + ... + infinitive (at the end)
+
+**Examples:**
+
+:::{div} ol-examples
+{verb}`Könntest` du mir bitte kurz {verb}`helfen`?
+: Could you help me for a moment, please.
+
+{verb}`Könnten` Sie das bitte langsamer {verb}`sprechen`?
+: Could you speak more slowly, please.
+
+{verb}`Könntet` ihr morgen früher {verb}`kommen`?
+: Could you come earlier tomorrow?
+
+{verb}`Könnten` wir das Treffen auf 15 Uhr {verb}`verschieben`?
+: Could we move the meeting to 3 pm?
+
+{verb}`Könnte` ich bitte mit Frau Klein {verb}`sprechen`?
+: Could I speak with Ms Klein, please.
+
+{verb}`Könnte` er uns den Weg zum Bahnhof {verb}`zeigen`?
+: Could he show us the way to the station.
+:::
+
+:::{note}
+
+- *Könntest du ...?* is polite and informal.
+- *Könnten Sie ...?* is polite and formal.
+:::
+
+Practice
+
+Use the following link to practice this section.
+
+## Practical use: when to choose *sollte* or *könnte*
+
+Both forms are polite, but they do different jobs. Use *sollte* when you give advice. Use *könnte* when you ask someone for help or action.
+
+| Situation | Better form | Example |
+| --- | --- | --- |
+| You give advice | **sollte** | Du **solltest** mehr schlafen. |
+| You ask for help politely | **könnte** | **Könntest** du mir helfen? |
+| You suggest a practical step | **sollte** | Wir **sollten** jetzt losfahren. |
+| You ask in a formal setting | **könnte** | **Könnten** Sie das wiederholen? |
+
+**Examples:**
+
+:::{div} ol-examples
+Du {verb}`solltest` heute zu Hause {verb}`bleiben`.
+: You should stay at home today.
+
+{verb}`Könntest` du bitte das Fenster {verb}`öffnen`?
+: Could you open the window, please.
+
+Wir {verb}`sollten` den Zug um 8 Uhr {verb}`nehmen`.
+: We should take the 8 o'clock train.
+
+{verb}`Könnten` Sie mir die Rechnung {verb}`geben`?
+: Could you give me the bill?
+
+Ich {verb}`sollte` mehr Deutsch {verb}`üben`.
+: I should practise more German.
+:::
+
+:::{warning}
+Do not use this page's forms for full hypothetical sentences like *Wenn ich mehr Zeit hätte, würde ich ...*. That wider *Konjunktiv II* system belongs to B1.
+:::
+
+Practice
+
+Use the following link to practice this section.
+
 ---
+
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/konjunktiv-ii-sollte-fur-ratschlage
@@ -170,59 +273,6 @@ Ich sollte mehr lesen.
 : I should read more.
 :::
 
-## könnte for polite requests
-
-Use *könnte* when you ask someone to do something politely. You often add *bitte* to sound even more friendly.
-
-### Conjugation of *könnte* (Konjunktiv II of *können*)
-
-| Person | Form |
-| --- | --- |
-| ich | **könnte** |
-| du | **könntest** |
-| er / sie / es | **könnte** |
-| wir | **könnten** |
-| ihr | **könntet** |
-| sie / Sie | **könnten** |
-
-### Direct vs polite request
-
-| More direct | More polite |
-| --- | --- |
-| **Kannst** du mir helfen? | **Könntest** du mir helfen? |
-| **Können** Sie das wiederholen? | **Könnten** Sie das bitte wiederholen? |
-
-### Request pattern
-
-> **Könnte/Könntest/Könnten ...?** + ... + infinitive (at the end)
-
-**Examples:**
-
-- {verb}`Könntest` du mir bitte kurz {verb}`helfen`?  
-  *Could you help me for a moment, please.*
-- {verb}`Könnten` Sie das bitte langsamer {verb}`sprechen`?  
-  *Could you speak more slowly, please.*
-- {verb}`Könntet` ihr morgen früher {verb}`kommen`?  
-  *Could you come earlier tomorrow?*
-- {verb}`Könnten` wir das Treffen auf 15 Uhr {verb}`verschieben`?  
-  *Could we move the meeting to 3 pm?*
-- {verb}`Könnte` ich bitte mit Frau Klein {verb}`sprechen`?  
-  *Could I speak with Ms Klein, please.*
-- {verb}`Könnte` er uns den Weg zum Bahnhof {verb}`zeigen`?  
-  *Could he show us the way to the station.*
-
-:::{note}
-
-- *Könntest du ...?* is polite and informal.
-- *Könnten Sie ...?* is polite and formal.
-:::
-
-Practice
-
-Use the following link to practice this section.
-
----
-
 :::{audio-examples}
 :track: a2/grammar/konjunktiv-ii-von-konnen-hofliche-bitten
 :title: Konjunktiv II von können - höfliche Bitten
@@ -318,38 +368,6 @@ Könnten wir einen anderen Termin finden?
 Könnte ich bitte bezahlen?
 : Could I please pay?
 :::
-
-## Practical use: when to choose *sollte* or *könnte*
-
-Both forms are polite, but they do different jobs. Use *sollte* when you give advice. Use *könnte* when you ask someone for help or action.
-
-| Situation | Better form | Example |
-| --- | --- | --- |
-| You give advice | **sollte** | Du **solltest** mehr schlafen. |
-| You ask for help politely | **könnte** | **Könntest** du mir helfen? |
-| You suggest a practical step | **sollte** | Wir **sollten** jetzt losfahren. |
-| You ask in a formal setting | **könnte** | **Könnten** Sie das wiederholen? |
-
-**Examples:**
-
-- Du {verb}`solltest` heute zu Hause {verb}`bleiben`.  
-  *You should stay at home today.*
-- {verb}`Könntest` du bitte das Fenster {verb}`öffnen`?  
-  *Could you open the window, please.*
-- Wir {verb}`sollten` den Zug um 8 Uhr {verb}`nehmen`.  
-  *We should take the 8 o'clock train.*
-- {verb}`Könnten` Sie mir die Rechnung {verb}`geben`?  
-  *Could you give me the bill?*
-- Ich {verb}`sollte` mehr Deutsch {verb}`üben`.  
-  *I should practise more German.*
-
-:::{warning}
-Do not use this page's forms for full hypothetical sentences like *Wenn ich mehr Zeit hätte, würde ich ...*. That wider *Konjunktiv II* system belongs to B1.
-:::
-
-Practice
-
-Use the following link to practice this section.
 
 ---
 

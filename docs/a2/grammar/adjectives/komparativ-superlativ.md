@@ -11,14 +11,6 @@ myst:
 ---
 # Komparativ und Superlativ
 
-> Comparing things: bigger, the biggest; better, the best
-
-:::{seealso}
-
-- [A2 > Concepts > Making comparisons](/a2/concepts/making-comparisons.md)
-- [B1 > Grammar > Komparativ und Superlativ vor Nomen](/b1/grammar/komparativ-superlativ.md)
-:::
-
 Comparatives and superlatives let you describe differences and rank things. You use them every day: saying a train is *faster*, a city is *bigger*, or that something is simply *the best*. The good news is that German builds these forms with a handful of clear rules, and once you recognise the patterns, they become second nature.
 
 :::{important}
@@ -50,18 +42,25 @@ Many everyday one-syllable adjectives whose vowel is *a*, *o*, or *u* also add a
 Regular adjectives, whether short or long, simply add *-er* with no vowel change:
 *schnell → schnell**er***, *interessant → interessant**er***, *billig → billig**er***
 
-- Mein Bruder ist **älter** als ich.  
-  *My brother is older than me.*
-- Berlin ist **größer** als München.  
-  *Berlin is bigger than Munich.*
-- Das rote Auto fährt **schneller** als das blaue.  
-  *The red car drives faster than the blue one.*
-- Heute ist es **wärmer** als gestern.  
-  *Today it's warmer than yesterday.*
-- Diese Tasche ist **billiger** als die andere.  
-  *This bag is cheaper than the other one.*
-- Maria ist **jünger** als Thomas.  
-  *Maria is younger than Thomas.*
+:::{div} ol-examples
+Mein Bruder ist **älter** als ich.
+: My brother is older than me.
+
+Berlin ist **größer** als München.
+: Berlin is bigger than Munich.
+
+Das rote Auto fährt **schneller** als das blaue.
+: The red car drives faster than the blue one.
+
+Heute ist es **wärmer** als gestern.
+: Today it's warmer than yesterday.
+
+Diese Tasche ist **billiger** als die andere.
+: This bag is cheaper than the other one.
+
+Maria ist **jünger** als Thomas.
+: Maria is younger than Thomas.
+:::
 
 :::{tip}
 Use **als** for "more ... than" (*größer **als***) and **so ... wie** for "as ... as" (*so groß **wie***).
@@ -89,16 +88,22 @@ When the adjective ends in *-t*, *-d*, *-s*, *-ß*, *-z*, or *-sch*, add **-este
 | jung | am jüng**sten** | umlaut, no *-e-* inserted |
 | groß | am größ**ten** | umlaut; no *-e-* despite ending in *-ß* (exception) |
 
-- Der ICE ist **am schnellsten**.  
-  *The ICE is the fastest.*
-- Im Sommer ist es **am heißesten**.  
-  *In summer it's the hottest.*
-- Im Januar ist es **am kältesten**.  
-  *In January it's the coldest.*
-- Dieses Café ist **am nettesten**.  
-  *This café is the nicest.*
-- Das neue Hotel ist **am teuersten**.  
-  *The new hotel is the most expensive.*
+:::{div} ol-examples
+Der ICE ist **am schnellsten**.
+: The ICE is the fastest.
+
+Im Sommer ist es **am heißesten**.
+: In summer it's the hottest.
+
+Im Januar ist es **am kältesten**.
+: In January it's the coldest.
+
+Dieses Café ist **am nettesten**.
+: This café is the nicest.
+
+Das neue Hotel ist **am teuersten**.
+: The new hotel is the most expensive.
+:::
 
 :::{note}
 *Am ...sten* is for the adjective after a verb (predicative). When the adjective sits directly in front of a noun, use a different pattern, see the next section.
@@ -112,14 +117,19 @@ When a superlative adjective comes **directly before a noun**, use **der/die/das
 
 > **der/die/das** + adjective + **-(e)ste**
 
-- Das ist **der beste** Film des Jahres.  
-  *That's the best film of the year.*
-- Das ist **die größte** Stadt in Deutschland.  
-  *That's the biggest city in Germany.*
-- Wir suchen **das billigste** Zimmer.  
-  *We're looking for the cheapest room.*
-- Das ist **der älteste** Baum in diesem Park.  
-  *That's the oldest tree in this park.*
+:::{div} ol-examples
+Das ist **der beste** Film des Jahres.
+: That's the best film of the year.
+
+Das ist **die größte** Stadt in Deutschland.
+: That's the biggest city in Germany.
+
+Wir suchen **das billigste** Zimmer.
+: We're looking for the cheapest room.
+
+Das ist **der älteste** Baum in diesem Park.
+: That's the oldest tree in this park.
+:::
 
 :::{tip}
 A quick way to recognise this pattern: if you see *der*, *die*, or *das* directly before a superlative form, it is an adjective describing a noun. The adjective picks up a short ending after the article. Full declension in all cases (accusative, dative, etc.) is covered at B1 level, for now, focus on recognising and producing the nominative forms.
@@ -137,18 +147,25 @@ Three very common German words form comparatives and superlatives in a completel
 | viel | **mehr** | **am meisten** | much/many / more / (the) most |
 | gern | **lieber** | **am liebsten** | gladly / preferably / most of all |
 
-- Das Essen hier schmeckt **besser** als zu Hause.  
-  *The food here tastes better than at home.*
-- Sie hat **mehr** Zeit als ich.  
-  *She has more time than me.*
-- Er spielt **lieber** Gitarre als Klavier.  
-  *He prefers playing guitar to piano.*
-- Das ist **das beste** Buch, das ich je gelesen habe.  
-  *That's the best book I've ever read.*
-- Ich trinke **am liebsten** Kaffee.  
-  *I like coffee best of all.*
-- Diese Woche haben wir **am meisten** Hausaufgaben.  
-  *This week we have the most homework.*
+:::{div} ol-examples
+Das Essen hier schmeckt **besser** als zu Hause.
+: The food here tastes better than at home.
+
+Sie hat **mehr** Zeit als ich.
+: She has more time than me.
+
+Er spielt **lieber** Gitarre als Klavier.
+: He prefers playing guitar to piano.
+
+Das ist **das beste** Buch, das ich je gelesen habe.
+: That's the best book I've ever read.
+
+Ich trinke **am liebsten** Kaffee.
+: I like coffee best of all.
+
+Diese Woche haben wir **am meisten** Hausaufgaben.
+: This week we have the most homework.
+:::
 
 :::{note}
 *Gern*, *lieber*, and *am liebsten* are used with verbs, not nouns. They describe how much you enjoy doing something:
@@ -160,29 +177,7 @@ Three very common German words form comparatives and superlatives in a completel
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- **Comparative**: adjective + **-er** (schnell → schneller); use **als** after the comparative for "more than"
-- **Umlaut** in both comparative and superlative for common short adjectives: *alt → älter → am ältesten*, *groß → größer → am größten*, *jung → jünger → am jüngsten*
-- **Predicative superlative**: **am** + adjective + **-(e)sten** – *am schnellsten*, *am nettesten*; insert *-e-* after *-t, -d, -s, -ß, -z, -sch*
-- **Attributive superlative** (before a noun): **der/die/das** + adjective + **-(e)ste** – *der beste Film*, *die größte Stadt*
-- Three irregular forms: **gut → besser → am besten**; **viel → mehr → am meisten**; **gern → lieber → am liebsten**
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *größer \*wie München* → größer **als** München (use *als*, not *wie*, for "more than")
-- *am gut\*sten* → **am besten** (*gut* is irregular, never add regular endings to it)
-- *\*alter / am altsten* → **älter** / **am ältesten** (don't forget the umlaut on these common adjectives)
-- *am meist\*en* → **am meisten** (*viel* is irregular, not *vieler / am vielsten*)
-- *\*am gernsten* → **am liebsten** (*gern* is irregular, the superlative is *am liebsten*, not *am gernsten*)
-:::
-
----
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/adjektive-komparativ-und-superlativ
@@ -272,6 +267,30 @@ Der neue Job ist stressiger als der alte.
 
 Das ist der stressigste Job.
 : That's the most stressful job.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- **Comparative**: adjective + **-er** (schnell → schneller); use **als** after the comparative for "more than"
+- **Umlaut** in both comparative and superlative for common short adjectives: *alt → älter → am ältesten*, *groß → größer → am größten*, *jung → jünger → am jüngsten*
+- **Predicative superlative**: **am** + adjective + **-(e)sten** – *am schnellsten*, *am nettesten*; insert *-e-* after *-t, -d, -s, -ß, -z, -sch*
+- **Attributive superlative** (before a noun): **der/die/das** + adjective + **-(e)ste** – *der beste Film*, *die größte Stadt*
+- Three irregular forms: **gut → besser → am besten**; **viel → mehr → am meisten**; **gern → lieber → am liebsten**
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *größer \*wie München* → größer **als** München (use *als*, not *wie*, for "more than")
+- *am gut\*sten* → **am besten** (*gut* is irregular, never add regular endings to it)
+- *\*alter / am altsten* → **älter** / **am ältesten** (don't forget the umlaut on these common adjectives)
+- *am meist\*en* → **am meisten** (*viel* is irregular, not *vieler / am vielsten*)
+- *\*am gernsten* → **am liebsten** (*gern* is irregular, the superlative is *am liebsten*, not *am gernsten*)
 :::
 
 ---

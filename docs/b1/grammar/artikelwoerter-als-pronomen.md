@@ -10,8 +10,6 @@ myst:
 ---
 # Artikelwörter als Pronomen
 
-> Using articles and determiners as standalone pronouns
-
 Words like *mein*, *kein*, *dieser*, and *ein* normally sit in front of a noun. But German allows the noun to be dropped so the word stands alone, acting as a pronoun for the whole noun phrase. That avoids repetition and sounds far more natural in conversation: *"Ist das dein Stift?" – "Nein, das ist **meiner**."*
 
 ---
@@ -44,18 +42,25 @@ All other possessives (deiner, seiner, etc.) follow the exact same ending patter
 
 ### Examples
 
-- Ist das dein Regenschirm? – Nein, das ist {pronoun}`meiner`.  
-  _Is that your umbrella? – No, that's mine._ (masc nom)
-- Ich habe mein Handy vergessen. Darf ich {pronoun}`deins` benutzen?  
-  _I've forgotten my phone. Can I use yours?_ (neut acc)
-- Ihr Auto ist neu, aber {pronoun}`unseres` ist schon zehn Jahre alt.  
-  _Their car is new, but ours is already ten years old._ (neut nom)
-- Das ist meine Tasche. Wo ist {pronoun}`deine`?  
-  _That's my bag. Where is yours?_ (fem nom)
-- Ich trage mein Gepäck, kannst du mit {pronoun}`deinem` helfen?  
-  _I'll carry my luggage, can you manage with yours?_ (neut dat)
-- Das sind unsere Kinder. Und das sind {pronoun}`Ihre`?  
-  _Those are our children. And those are yours?_ (pl nom, formal)
+:::{div} ol-examples
+Ist das dein Regenschirm? – Nein, das ist {pronoun}`meiner`.
+: Is that your umbrella? – No, that's mine. (masc nom)
+
+Ich habe mein Handy vergessen. Darf ich {pronoun}`deins` benutzen?
+: I've forgotten my phone. Can I use yours? (neut acc)
+
+Ihr Auto ist neu, aber {pronoun}`unseres` ist schon zehn Jahre alt.
+: Their car is new, but ours is already ten years old. (neut nom)
+
+Das ist meine Tasche. Wo ist {pronoun}`deine`?
+: That's my bag. Where is yours? (fem nom)
+
+Ich trage mein Gepäck, kannst du mit {pronoun}`deinem` helfen?
+: I'll carry my luggage, can you manage with yours? (neut dat)
+
+Das sind unsere Kinder. Und das sind {pronoun}`Ihre`?
+: Those are our children. And those are yours? (pl nom, formal)
+:::
 
 :::{tip}
 The short neuter forms *meins, deins, seins, ihrs* are standard in spoken German. You'll also hear *meines, deines* etc. in more careful or written language, both are correct.
@@ -80,16 +85,22 @@ The indefinite article *ein* and its negative *kein* follow exactly the same pro
 
 ### Examples
 
-- Ich habe keinen Stift. Hast du {pronoun}`einen`?  
-  _I don't have a pen. Do you have one?_ (masc acc)
-- Hier sind Äpfel, willst du {pronoun}`einen`?  
-  _Here are some apples, do you want one?_ (masc acc)
-- Ist noch ein Stuhl frei? – {pronoun}`Keiner` hier, aber da hinten.  
-  _Is there a free chair? – None here, but there's one in the back._ (masc nom)
-- Hast du ein Wörterbuch? – Ich habe {pronoun}`keins`. Frag mal Lena.  
-  _Do you have a dictionary? – I don't have one. Ask Lena._ (neut nom)
-- Braucht ihr noch eine Taschenlampe? – Wir haben schon {pronoun}`eine`.  
-  _Do you need a torch? – We've already got one._ (fem nom)
+:::{div} ol-examples
+Ich habe keinen Stift. Hast du {pronoun}`einen`?
+: I don't have a pen. Do you have one? (masc acc)
+
+Hier sind Äpfel, willst du {pronoun}`einen`?
+: Here are some apples, do you want one? (masc acc)
+
+Ist noch ein Stuhl frei? – {pronoun}`Keiner` hier, aber da hinten.
+: Is there a free chair? – None here, but there's one in the back. (masc nom)
+
+Hast du ein Wörterbuch? – Ich habe {pronoun}`keins`. Frag mal Lena.
+: Do you have a dictionary? – I don't have one. Ask Lena. (neut nom)
+
+Braucht ihr noch eine Taschenlampe? – Wir haben schon {pronoun}`eine`.
+: Do you need a torch? – We've already got one. (fem nom)
+:::
 
 :::{note}
 In ordinary conversation, *einen / eine / eins* are the most natural short answers when someone offers or asks about something. "Willst du einen Kaffee?" – "Ja, ich nehme **einen**." No need to repeat *Kaffee*.
@@ -118,16 +129,22 @@ The demonstrative *dieser* (this) and the question word *welcher* (which) can al
 
 ### Examples
 
-- Welches Buch meinst du? – {pronoun}`Dieses` da auf dem Regal.  
-  _Which book do you mean? – That one there on the shelf._ (neut acc)
-- Ich suche einen Pullover. – Wie findest du {pronoun}`diesen` hier?  
-  _I'm looking for a jumper. – What do you think of this one here?_ (masc acc)
-- Welchen Zug nehmen wir? – Am besten {pronoun}`diesen` um 10 Uhr.  
-  _Which train shall we take? – Best to take this one at 10._ (masc acc)
-- Es gibt zwei Jacken. – Ich nehme {pronoun}`diese` hier.  
-  _There are two jackets. – I'll take this one._ (fem acc)
-- {pronoun}`Welche` Schuhe gefallen dir – {pronoun}`diese` oder jene?  
-  _Which shoes do you like, these or those?_ (pl nom)
+:::{div} ol-examples
+Welches Buch meinst du? – {pronoun}`Dieses` da auf dem Regal.
+: Which book do you mean? – That one there on the shelf. (neut acc)
+
+Ich suche einen Pullover. – Wie findest du {pronoun}`diesen` hier?
+: I'm looking for a jumper. – What do you think of this one here? (masc acc)
+
+Welchen Zug nehmen wir? – Am besten {pronoun}`diesen` um 10 Uhr.
+: Which train shall we take? – Best to take this one at 10. (masc acc)
+
+Es gibt zwei Jacken. – Ich nehme {pronoun}`diese` hier.
+: There are two jackets. – I'll take this one. (fem acc)
+
+{pronoun}`Welche` Schuhe gefallen dir – {pronoun}`diese` oder jene?
+: Which shoes do you like, these or those? (pl nom)
+:::
 
 :::{tip}
 In spoken German, people often replace *dieser/diese/dieses* with a stressed *der/die/das da* or *den/die/das hier*, it's just as natural. "Welches nimmst du?" – "Das hier." Both options are correct; *dieser* is slightly more deliberate or emphatic.
@@ -156,18 +173,25 @@ Use *irgendein/-eine* and *irgendwelche* when you refer to something or someone 
 
 ### Examples
 
-- Hat jemand {pronoun}`irgendeinen` Stift? Mir ist egal welchen.  
-  _Does anyone have any pen? I don't mind which._ (masc acc)
-- Ich brauche {pronoun}`irgendeine` Lösung, perfekt muss sie nicht sein.  
-  _I need some kind of solution, it doesn't have to be perfect._ (fem acc)
-- Gibt es hier noch {pronoun}`irgendein` freies Zimmer?  
-  _Is there any free room here?_ (neut acc)
-- Hast du {pronoun}`irgendwelche` Fragen?  
-  _Do you have any questions?_ (pl acc)
-- {pronoun}`Irgendjemand` muss das getan haben.  
-  _Someone (or other) must have done that._
-- {pronoun}`Irgendeiner` hat mein Buch mitgenommen, ich finde es nicht mehr.  
-  _Someone has taken my book – I can't find it anymore._ (masc nom, pronoun)
+:::{div} ol-examples
+Hat jemand {pronoun}`irgendeinen` Stift? Mir ist egal welchen.
+: Does anyone have any pen? I don't mind which. (masc acc)
+
+Ich brauche {pronoun}`irgendeine` Lösung, perfekt muss sie nicht sein.
+: I need some kind of solution, it doesn't have to be perfect. (fem acc)
+
+Gibt es hier noch {pronoun}`irgendein` freies Zimmer?
+: Is there any free room here? (neut acc)
+
+Hast du {pronoun}`irgendwelche` Fragen?
+: Do you have any questions? (pl acc)
+
+{pronoun}`Irgendjemand` muss das getan haben.
+: Someone (or other) must have done that.
+
+{pronoun}`Irgendeiner` hat mein Buch mitgenommen, ich finde es nicht mehr.
+: Someone has taken my book – I can't find it anymore. (masc nom, pronoun)
+:::
 
 ---
 

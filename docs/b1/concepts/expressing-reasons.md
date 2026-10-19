@@ -8,15 +8,6 @@ myst:
 
 Explaining why something happens is one of the most frequent things a B1 speaker does, and German offers more than one connector for it.
 
-:::{seealso}
-
-- Grammar: /b1/grammar/connector-words.md
-- Grammar: /b1/grammar/nebensaetze.md
-- Grammar: [wegen und trotz (Genitiv)](/b1/grammar/wegen-trotz.md)
-- [B1 > Grammar > Kausal Nebensätze](/b1/grammar/kausal-nebensaetze.md)
-
-:::
-
 ## When to use it
 
 - Give short explanations in conversation.
@@ -35,14 +26,19 @@ Explaining why something happens is one of the most frequent things a B1 speaker
 
 ## Examples
 
-- Ich bleibe zu Hause, **weil** ich krank bin.  
-  _I’m staying home because I’m sick._
-- Ich bleibe zu Hause, **denn** ich bin krank.  
-  _I’m staying home, because I’m sick._
-- **Wegen** des Wetters fällt das Spiel aus.  
-  _Because of the weather, the game is cancelled._
-- **Aufgrund** technischer Probleme beginnt die Sitzung später.  
-  _Due to technical problems, the meeting starts later._
+:::{div} ol-examples
+Ich bleibe zu Hause, **weil** ich krank bin.
+: I’m staying home because I’m sick.
+
+Ich bleibe zu Hause, **denn** ich bin krank.
+: I’m staying home, because I’m sick.
+
+**Wegen** des Wetters fällt das Spiel aus.
+: Because of the weather, the game is cancelled.
+
+**Aufgrund** technischer Probleme beginnt die Sitzung später.
+: Due to technical problems, the meeting starts later.
+:::
 
 ## Register and tone
 
@@ -53,3 +49,9 @@ weil is most common in speech; denn is slightly formal; aufgrund is formal and o
 - Join two sentences with denn.
 - Replace weil with wegen + noun phrase.
 
+---
+
+## Related articles
+
+- [B1 > Grammar > wegen und trotz](/b1/grammar/wegen-trotz.md)
+- [B1 > Grammar > Kausal Nebensätze](/b1/grammar/kausal-nebensaetze.md)

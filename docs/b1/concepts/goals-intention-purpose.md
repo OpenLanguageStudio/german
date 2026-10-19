@@ -8,15 +8,6 @@ myst:
 
 Purpose answers the question *wozu*: what an action is for. German splits the job between two structures, depending on who benefits.
 
-:::{seealso}
-
-- Grammar: /b1/grammar/nebensaetze.md
-- [B1 > Grammar > Konsekutiv Nebensätze](/b1/grammar/konsekutiv-nebensaetze.md)
-- [B1 > Grammar > brauchen + zu + Infinitiv](/b1/grammar/brauchen-zu-infinitiv.md)
-- [B1 > Grammar > Infinitiv mit "zu"](/b1/grammar/infinitiv-mit-zu.md)
-
-:::
-
 ## When to use it
 
 - Explain why you do something (goal).
@@ -33,12 +24,16 @@ Purpose answers the question *wozu*: what an action is for. German splits the jo
 
 ## Examples
 
-- Ich lerne Deutsch, **um** einen Job in Berlin **zu** finden.  
-  _I’m learning German in order to find a job in Berlin._
-- Ich schreibe es auf, **damit** ich es nicht vergesse.  
-  _I write it down so that I don't forget it._
-- Wir gehen früher los, **damit** du den Zug schaffst.  
-  _We’re leaving earlier so that you catch the train._
+:::{div} ol-examples
+Ich lerne Deutsch, **um** einen Job in Berlin **zu** finden.
+: I’m learning German in order to find a job in Berlin.
+
+Ich schreibe es auf, **damit** ich es nicht vergesse.
+: I write it down so that I don't forget it.
+
+Wir gehen früher los, **damit** du den Zug schaffst.
+: We’re leaving earlier so that you catch the train.
+:::
 
 ## Register and tone
 
@@ -49,3 +44,10 @@ um ... zu is concise; damit sounds a bit more formal and flexible.
 - Transform: um ... zu → damit (different subject).
 - Choose whether um ... zu or damit fits better.
 
+---
+
+## Related articles
+
+- [B1 > Grammar > Konsekutiv Nebensätze](/b1/grammar/konsekutiv-nebensaetze.md)
+- [B1 > Grammar > brauchen + zu + Infinitiv](/b1/grammar/brauchen-zu-infinitiv.md)
+- [B1 > Grammar > Infinitiv mit "zu"](/b1/grammar/infinitiv-mit-zu.md)

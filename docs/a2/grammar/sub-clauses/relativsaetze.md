@@ -10,14 +10,6 @@ myst:
 ---
 # Relativsätze – Nominativ und Akkusativ
 
-> Relative clauses at A2: adding information with der, die, das, den
-
-:::{seealso}
-
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > Concepts > Indirect questions](/a2/concepts/indirect-questions.md)
-:::
-
 *Relativsätze* help you add extra information about a noun without starting a new sentence. You will use this all the time in everyday German: describing people, things, places, and objects more clearly.
 
 :::{important}
@@ -38,14 +30,19 @@ A relative clause adds detail to a noun from the main clause. Instead of two sho
 
 **Examples:**
 
-- Das ist der Mann, **der** nebenan wohnt.  
-  *That is the man who lives next door.*
-- Ich suche das Buch, **das** auf dem Tisch liegt.  
-  *I am looking for the book that is on the table.*
-- Kennst du die Frau, **die** im Supermarkt arbeitet?  
-  *Do you know the woman who works in the supermarket?*
-- Wir besuchen Freunde, **die** in Köln wohnen.  
-  *We are visiting friends who live in Cologne.*
+:::{div} ol-examples
+Das ist der Mann, **der** nebenan wohnt.
+: That is the man who lives next door.
+
+Ich suche das Buch, **das** auf dem Tisch liegt.
+: I am looking for the book that is on the table.
+
+Kennst du die Frau, **die** im Supermarkt arbeitet?
+: Do you know the woman who works in the supermarket?
+
+Wir besuchen Freunde, **die** in Köln wohnen.
+: We are visiting friends who live in Cologne.
+:::
 
 ---
 
@@ -62,12 +59,16 @@ The pronoun's gender and number match the noun it refers to, but the case is cho
 
 **Examples:**
 
-- Der Mann, **den** ich kenne, ist freundlich.  
-  *The man whom I know is friendly.*
-- Das Kind, **das** dort spielt, ist meine Nichte.  
-  *The child who is playing there is my niece.*
-- Die Frau, **die** du triffst, ist meine Lehrerin.  
-  *The woman whom you are meeting is my teacher.*
+:::{div} ol-examples
+Der Mann, **den** ich kenne, ist freundlich.
+: The man whom I know is friendly.
+
+Das Kind, **das** dort spielt, ist meine Nichte.
+: The child who is playing there is my niece.
+
+Die Frau, **die** du triffst, ist meine Lehrerin.
+: The woman whom you are meeting is my teacher.
+:::
 
 :::{tip}
 Think: same as *der/die/das* article table, plus one important change: masculine accusative is **den**.
@@ -83,18 +84,114 @@ Use nominative relative pronouns when the relative pronoun does the action in th
 
 **Examples:**
 
-- Der Mann, **der** dort steht, wartet auf den Bus.  
-  *The man who is standing there is waiting for the bus.*
-- Die Tasche, **die** auf dem Stuhl liegt, ist neu.  
-  *The bag that is on the chair is new.*
-- Das Mädchen, **das** singt, heißt Lara.  
-  *The girl who is singing is called Lara.*
-- Die Nachbarn, **die** immer grüßen, sind sehr nett.  
-  *The neighbors who always say hello are very nice.*
+:::{div} ol-examples
+Der Mann, **der** dort steht, wartet auf den Bus.
+: The man who is standing there is waiting for the bus.
+
+Die Tasche, **die** auf dem Stuhl liegt, ist neu.
+: The bag that is on the chair is new.
+
+Das Mädchen, **das** singt, heißt Lara.
+: The girl who is singing is called Lara.
+
+Die Nachbarn, **die** immer grüßen, sind sehr nett.
+: The neighbors who always say hello are very nice.
+:::
 
 :::{note}
 To test nominative, ask: who is doing the action in the relative clause?
 :::
+
+---
+
+## Accusative: The Pronoun Is The Direct Object
+
+Use accusative relative pronouns when the relative pronoun receives the action (direct object) in the relative clause.
+
+> noun + comma + **den/die/das/die** + ... + verb at the end
+
+**Examples:**
+
+:::{div} ol-examples
+Der Mann, **den** ich kenne, kommt aus Wien.
+: The man whom I know comes from Vienna.
+
+Das Buch, **das** ich lese, ist spannend.
+: The book that I am reading is exciting.
+
+Die Frau, **die** du suchst, ist im Büro.
+: The woman whom you are looking for is in the office.
+
+Die Fotos, **die** wir machen, sind für Oma.
+: The photos that we are taking are for grandma.
+:::
+
+:::{warning}
+Only masculine changes in accusative: **der -> den**. Feminine, neuter, and plural stay the same.
+:::
+
+---
+
+## Word Order: Comma + Verb At The End
+
+Relative clauses are subordinate clauses. That means you always put a comma before them, and the conjugated verb goes to the end of the relative clause.
+
+If the relative clause is in the middle of a sentence, it is enclosed by two commas.
+
+**Examples:**
+
+:::{div} ol-examples
+Der Film, den wir heute Abend **sehen**, ist neu.
+: The film that we are watching this evening is new.
+
+Das ist die Lehrerin, die uns Deutsch **unterrichtet**.
+: That is the teacher who teaches us German.
+
+Kennst du den Jungen, der neben dir **sitzt**?
+: Do you know the boy who is sitting next to you?
+
+Ich mag das Café, das um die Ecke **ist**.
+: I like the cafe that is around the corner.
+:::
+
+:::{tip}
+If you hear yourself saying the verb too early, pause and move it to the end of the relative clause.
+:::
+
+---
+
+## How To Choose Nominative Or Accusative
+
+Use this quick check inside the relative clause:
+
+| Question inside the relative clause | Case | Pronoun set |
+|---|---|---|
+| Who does the action? | Nominative | der/die/das/die |
+| Whom/what does the subject act on? | Accusative | den/die/das/die |
+
+**Examples:**
+
+:::{div} ol-examples
+Das ist der Mann, **den** ich jeden Tag sehe.
+: That is the man whom I see every day.
+
+Ich kenne die Frau, **die** im Krankenhaus arbeitet.
+: I know the woman who works in the hospital.
+
+Wir besuchen das Kind, **das** heute Geburtstag hat.
+: We are visiting the child who has a birthday today.
+
+Er sucht die Leute, **die** ihm helfen.
+: He is looking for the people who help him.
+:::
+
+:::{note}
+Dative and genitive relative clauses (for example with *dem/der/dessen/deren*) are B1 topics. This page focuses only on nominative and accusative forms at A2.
+:::
+
+---
+
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/relativsatze-im-nominativ
@@ -192,29 +289,6 @@ Das Zimmer, das hell ist, gefällt mir besser.
 : The room that is bright, I like better.
 :::
 
----
-
-## Accusative: The Pronoun Is The Direct Object
-
-Use accusative relative pronouns when the relative pronoun receives the action (direct object) in the relative clause.
-
-> noun + comma + **den/die/das/die** + ... + verb at the end
-
-**Examples:**
-
-- Der Mann, **den** ich kenne, kommt aus Wien.  
-  *The man whom I know comes from Vienna.*
-- Das Buch, **das** ich lese, ist spannend.  
-  *The book that I am reading is exciting.*
-- Die Frau, **die** du suchst, ist im Büro.  
-  *The woman whom you are looking for is in the office.*
-- Die Fotos, **die** wir machen, sind für Oma.  
-  *The photos that we are taking are for grandma.*
-
-:::{warning}
-Only masculine changes in accusative: **der -> den**. Feminine, neuter, and plural stay the same.
-:::
-
 :::{audio-examples}
 :track: a2/grammar/relativsatze-im-akkusativ
 :title: Relativsätze im Akkusativ
@@ -309,55 +383,6 @@ Der Wein, den wir trinken, kommt aus Italien.
 
 Das Bild, das ich male, wird schön.
 : The picture that I'm painting will be beautiful.
-:::
-
----
-
-## Word Order: Comma + Verb At The End
-
-Relative clauses are subordinate clauses. That means you always put a comma before them, and the conjugated verb goes to the end of the relative clause.
-
-If the relative clause is in the middle of a sentence, it is enclosed by two commas.
-
-**Examples:**
-
-- Der Film, den wir heute Abend **sehen**, ist neu.  
-  *The film that we are watching this evening is new.*
-- Das ist die Lehrerin, die uns Deutsch **unterrichtet**.  
-  *That is the teacher who teaches us German.*
-- Kennst du den Jungen, der neben dir **sitzt**?  
-  *Do you know the boy who is sitting next to you?*
-- Ich mag das Café, das um die Ecke **ist**.  
-  *I like the cafe that is around the corner.*
-
-:::{tip}
-If you hear yourself saying the verb too early, pause and move it to the end of the relative clause.
-:::
-
----
-
-## How To Choose Nominative Or Accusative
-
-Use this quick check inside the relative clause:
-
-| Question inside the relative clause | Case | Pronoun set |
-|---|---|---|
-| Who does the action? | Nominative | der/die/das/die |
-| Whom/what does the subject act on? | Accusative | den/die/das/die |
-
-**Examples:**
-
-- Das ist der Mann, **den** ich jeden Tag sehe.  
-  *That is the man whom I see every day.*
-- Ich kenne die Frau, **die** im Krankenhaus arbeitet.  
-  *I know the woman who works in the hospital.*
-- Wir besuchen das Kind, **das** heute Geburtstag hat.  
-  *We are visiting the child who has a birthday today.*
-- Er sucht die Leute, **die** ihm helfen.  
-  *He is looking for the people who help him.*
-
-:::{note}
-Dative and genitive relative clauses (for example with *dem/der/dessen/deren*) are B1 topics. This page focuses only on nominative and accusative forms at A2.
 :::
 
 ---

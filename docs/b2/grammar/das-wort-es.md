@@ -10,16 +10,6 @@ myst:
 ---
 # Das Wort es
 
-> Use *es* precisely in impersonal statements, fixed phrases, and advanced clause structures
-
-:::{seealso}
-
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Infinitivkonnektoren](/b2/grammar/infinitivkonnektoren.md)
-- [B1 > Grammar > Infinitiv mit "zu"](/b1/grammar/infinitiv-mit-zu.md)
-
-:::
-
 At B2, *es* is expected in several different patterns, not just as a simple pronoun. This page separates the core uses: impersonal *es* with weather and time, lexical phrases with fixed *es*, and *es* as a structural placeholder before longer clauses. Once you control these patterns, your sentences sound much more natural and flexible.
 
 *Examples:*
@@ -42,16 +32,22 @@ In this function, *es* does not point to a concrete thing. It is required by the
 
 **Examples:**
 
-- {pronoun}`Es` **regnet** schon den ganzen Nachmittag.  
-  *It has been raining all afternoon.*
-- In den Bergen {pronoun}`es` **schneit** oft bis in den April.  
-  *In the mountains, it often snows until April.*
-- Heute Nacht {pronoun}`es` **blitzt** und **donnert** über der Stadt.  
-  *Tonight there is lightning and thunder over the city.*
-- Gegen sechs Uhr {pronoun}`es` **wird** plötzlich **hell**.  
-  *Around six o'clock, it suddenly gets bright.*
-- Nach dem Sturm {pronoun}`es` **bleibt** erstaunlich **ruhig**.  
-  *After the storm, it stays surprisingly calm.*
+:::{div} ol-examples
+{pronoun}`Es` **regnet** schon den ganzen Nachmittag.
+: It has been raining all afternoon.
+
+In den Bergen {pronoun}`es` **schneit** oft bis in den April.
+: In the mountains, it often snows until April.
+
+Heute Nacht {pronoun}`es` **blitzt** und **donnert** über der Stadt.
+: Tonight there is lightning and thunder over the city.
+
+Gegen sechs Uhr {pronoun}`es` **wird** plötzlich **hell**.
+: Around six o'clock, it suddenly gets bright.
+
+Nach dem Sturm {pronoun}`es` **bleibt** erstaunlich **ruhig**.
+: After the storm, it stays surprisingly calm.
+:::
 
 :::{warning}
 Do not force *es* in every adjective sentence. Compare: **Es ist kalt.** (weather) but **Mir ist kalt.** (personal sensation).
@@ -75,16 +71,22 @@ German often uses *es* in neutral statements about calendar and time reference p
 
 **Examples:**
 
-- {pronoun}`Es` **ist** kurz nach acht, wir sollten anfangen.  
-  *It's just after eight, we should start.*
-- Morgen **ist** {pronoun}`es` schon Freitag, die Frist läuft aus.  
-  *Tomorrow is already Friday, the deadline expires.*
-- Noch **ist** {pronoun}`es` Winter, aber die Tage werden länger.  
-  *It is still winter, but the days are getting longer.*
-- Im Norden {pronoun}`es` **wird** im Herbst sehr früh dunkel.  
-  *In the north, it gets dark very early in autumn.*
-- Jetzt **ist** {pronoun}`es` endlich Frühjahr und die Parks sind voll.  
-  *Now it is finally spring and the parks are full.*
+:::{div} ol-examples
+{pronoun}`Es` **ist** kurz nach acht, wir sollten anfangen.
+: It's just after eight, we should start.
+
+Morgen **ist** {pronoun}`es` schon Freitag, die Frist läuft aus.
+: Tomorrow is already Friday, the deadline expires.
+
+Noch **ist** {pronoun}`es` Winter, aber die Tage werden länger.
+: It is still winter, but the days are getting longer.
+
+Im Norden {pronoun}`es` **wird** im Herbst sehr früh dunkel.
+: In the north, it gets dark very early in autumn.
+
+Jetzt **ist** {pronoun}`es` endlich Frühjahr und die Parks sind voll.
+: Now it is finally spring and the parks are full.
+:::
 
 :::{note}
 With fronted adverbials, *es* can stay or drop depending on structure and style. At B2, aim for clarity first: **Heute ist Montag** is usually the most natural option.
@@ -110,16 +112,22 @@ Some high-frequency expressions require *es* as part of the idiomatic chunk. You
 
 **Examples:**
 
-- In dieser Debatte {pronoun}`es` **geht** vor allem **um** Vertrauen.  
-  *In this debate, it is mainly about trust.*
-- Bei der Entscheidung {pronoun}`es` **kommt** auf die Details **an**.  
-  *For this decision, it depends on the details.*
-- Im Bericht {pronoun}`es` **handelt sich um** drei zentrale Risiken.  
-  *The report is about three central risks.*
-- Heute {pronoun}`es` **gibt** nur noch wenige freie Termine.  
-  *Today there are only a few free slots left.*
-- Ich kann jetzt nicht lange sprechen, ich habe {pronoun}`es` **eilig**.  
-  *I can't talk long now, I'm in a hurry.*
+:::{div} ol-examples
+In dieser Debatte {pronoun}`es` **geht** vor allem **um** Vertrauen.
+: In this debate, it is mainly about trust.
+
+Bei der Entscheidung {pronoun}`es` **kommt** auf die Details **an**.
+: For this decision, it depends on the details.
+
+Im Bericht {pronoun}`es` **handelt sich um** drei zentrale Risiken.
+: The report is about three central risks.
+
+Heute {pronoun}`es` **gibt** nur noch wenige freie Termine.
+: Today there are only a few free slots left.
+
+Ich kann jetzt nicht lange sprechen, ich habe {pronoun}`es` **eilig**.
+: I can't talk long now, I'm in a hurry.
+:::
 
 :::{tip}
 Treat these as lexical patterns. Memorizing them as full chunks helps you avoid unnatural word-by-word translation from English.
@@ -143,16 +151,22 @@ When a *dass*-clause functions as the logical subject and appears at the end, Ge
 
 **Examples:**
 
-- {pronoun}`Es` **ist** offensichtlich, **dass** das Team Unterstützung braucht.  
-  *It is obvious that the team needs support.*
-- {pronoun}`Es` **freut** mich, **dass** ihr so schnell geantwortet habt.  
-  *It makes me happy that you answered so quickly.*
-- Viele fanden {pronoun}`es` problematisch, **dass** die Daten zu spät kamen.  
-  *Many found it problematic that the data arrived too late.*
-- **Dass** die Frist verschoben wurde, überrascht mich nicht.  
-  *That the deadline was moved does not surprise me.*
-- Im Rückblick war {pronoun}`es` entscheidend, **dass** wir früh reagiert haben.  
-  *In hindsight, it was decisive that we reacted early.*
+:::{div} ol-examples
+{pronoun}`Es` **ist** offensichtlich, **dass** das Team Unterstützung braucht.
+: It is obvious that the team needs support.
+
+{pronoun}`Es` **freut** mich, **dass** ihr so schnell geantwortet habt.
+: It makes me happy that you answered so quickly.
+
+Viele fanden {pronoun}`es` problematisch, **dass** die Daten zu spät kamen.
+: Many found it problematic that the data arrived too late.
+
+**Dass** die Frist verschoben wurde, überrascht mich nicht.
+: That the deadline was moved does not surprise me.
+
+Im Rückblick war {pronoun}`es` entscheidend, **dass** wir früh reagiert haben.
+: In hindsight, it was decisive that we reacted early.
+:::
 
 :::{warning}
 If the *dass*-clause stands at the beginning as subject, you usually do not keep placeholder *es*: **Dass wir früher starten, ist sinnvoll.**
@@ -172,16 +186,22 @@ The same placeholder logic appears with infinitive groups (*zu + Infinitiv*). At
 
 **Examples:**
 
-- {pronoun}`Es` **ist** wichtig, regelmäßig Feedback **zu geben**.  
-  *It is important to give feedback regularly.*
-- {pronoun}`Es` **fällt** mir schwer, in solchen Situationen ruhig **zu bleiben**.  
-  *I find it hard to stay calm in such situations.*
-- Wir fanden {pronoun}`es` hilfreich, den Ablauf vorher klar **zu planen**.  
-  *We found it helpful to plan the process clearly beforehand.*
-- Für das Projekt ist {pronoun}`es` sinnvoll, früher mit der Analyse **zu beginnen**.  
-  *For the project, it makes sense to begin the analysis earlier.*
-- **Früh zu kommunizieren**, ist in Krisen oft entscheidend.  
-  *To communicate early is often crucial in crises.*
+:::{div} ol-examples
+{pronoun}`Es` **ist** wichtig, regelmäßig Feedback **zu geben**.
+: It is important to give feedback regularly.
+
+{pronoun}`Es` **fällt** mir schwer, in solchen Situationen ruhig **zu bleiben**.
+: I find it hard to stay calm in such situations.
+
+Wir fanden {pronoun}`es` hilfreich, den Ablauf vorher klar **zu planen**.
+: We found it helpful to plan the process clearly beforehand.
+
+Für das Projekt ist {pronoun}`es` sinnvoll, früher mit der Analyse **zu beginnen**.
+: For the project, it makes sense to begin the analysis earlier.
+
+**Früh zu kommunizieren**, ist in Krisen oft entscheidend.
+: To communicate early is often crucial in crises.
+:::
 
 :::{note}
 In formal writing, fronted infinitive clauses are possible, but they can sound heavy. At B2, the *es* pattern is often smoother in everyday communication.

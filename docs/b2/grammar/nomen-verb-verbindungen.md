@@ -10,17 +10,6 @@ myst:
 ---
 # Nomen-Verb-Verbindungen
 
-> Use high-frequency noun-verb combinations more precisely at B2
-
-:::{seealso}
-
-- [B2 > Grammar > Nomen, Verben und Adjektive mit Präpositionen](/b2/grammar/nomen-verben-adjektive-praepositionen.md)
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Negation](/b2/grammar/negation.md)
-- [B1 > Grammar > Verben mit Präpositionen und Nebensatz](/b1/grammar/verben-mit-praepositionen.md)
-
-:::
-
 At B2, you hear and read many combinations like *eine Entscheidung treffen* or *unter Druck stehen*. These are called Nomen-Verb-Verbindungen (also known as *Funktionsverbgefüge* in grammar references). If you learn them as chunks, your German sounds more natural in discussions, reports, and professional communication.
 
 *Examples:*
@@ -43,14 +32,19 @@ In these combinations, the noun usually carries the main lexical meaning, while 
 
 **Examples:**
 
-- Die Leitung hat gestern eine klare Entscheidung **getroffen**.  
-  _Management made a clear decision yesterday._
-- Die Leitung hat gestern klar **entschieden**.  
-  _Management decided clearly yesterday._
-- Für diese Stelle kommt nur jemand mit Erfahrung **in Frage**.  
-  _Only someone with experience is a possible candidate for this position._
-- Das Team steht seit Wochen **unter Druck**.  
-  _The team has been under pressure for weeks._
+:::{div} ol-examples
+Die Leitung hat gestern eine klare Entscheidung **getroffen**.
+: Management made a clear decision yesterday.
+
+Die Leitung hat gestern klar **entschieden**.
+: Management decided clearly yesterday.
+
+Für diese Stelle kommt nur jemand mit Erfahrung **in Frage**.
+: Only someone with experience is a possible candidate for this position.
+
+Das Team steht seit Wochen **unter Druck**.
+: The team has been under pressure for weeks.
+:::
 
 :::{note}
 At B2, both styles are useful. In conversations, shorter full verbs are often common. In reports, official statements, and presentations, noun-verb combinations are very frequent.
@@ -74,18 +68,25 @@ In this group, you can usually paraphrase the combination with a single verb wit
 
 **Examples:**
 
-- Wir müssen bis Freitag eine Entscheidung **treffen**.  
-  _We have to make a decision by Friday._
-- Wir müssen bis Freitag **entscheiden**.  
-  _We have to decide by Friday._
-- Die IT hat eine kleine Verbesserung am System **vorgenommen**.  
-  _IT made a small improvement to the system._
-- Die IT hat das System leicht **verbessert**.  
-  _IT improved the system slightly._
-- Der Sprecher hat nach dem Vorfall eine kurze Erklärung **abgegeben**.  
-  _The spokesperson gave a short statement after the incident._
-- Der Sprecher hat den Vorfall kurz **erklärt**.  
-  _The spokesperson explained the incident briefly._
+:::{div} ol-examples
+Wir müssen bis Freitag eine Entscheidung **treffen**.
+: We have to make a decision by Friday.
+
+Wir müssen bis Freitag **entscheiden**.
+: We have to decide by Friday.
+
+Die IT hat eine kleine Verbesserung am System **vorgenommen**.
+: IT made a small improvement to the system.
+
+Die IT hat das System leicht **verbessert**.
+: IT improved the system slightly.
+
+Der Sprecher hat nach dem Vorfall eine kurze Erklärung **abgegeben**.
+: The spokesperson gave a short statement after the incident.
+
+Der Sprecher hat den Vorfall kurz **erklärt**.
+: The spokesperson explained the incident briefly.
+:::
 
 :::{tip}
 When both options are possible, choose by context: full verbs for direct spoken style, noun-verb combinations for structured and formal communication.
@@ -109,18 +110,25 @@ In this group, you cannot reliably derive the meaning from the noun alone. Learn
 
 **Examples:**
 
-- Das Team steht vor dem Launch stark **unter Druck**.  
-  _The team is under strong pressure before the launch._
-- Für die Leitung kommen aktuell drei Kandidaten **in Frage**.  
-  _Three candidates are currently being considered for management._
-- Für Rückfragen stehe ich Ihnen gern **zur Verfügung**.  
-  _I am gladly available for follow-up questions._
-- Nach 18 Uhr steht kein technischer Support mehr **zur Verfügung**.  
-  _After 6 p.m., no technical support is available anymore._
-- Diese Lösung kommt aus rechtlichen Gründen nicht **in Frage**.  
-  _This solution is not an option for legal reasons._
-- Viele Beschäftigte stehen durch die Reform dauerhaft **unter Druck**.  
-  _Many employees are under long-term pressure because of the reform._
+:::{div} ol-examples
+Das Team steht vor dem Launch stark **unter Druck**.
+: The team is under strong pressure before the launch.
+
+Für die Leitung kommen aktuell drei Kandidaten **in Frage**.
+: Three candidates are currently being considered for management.
+
+Für Rückfragen stehe ich Ihnen gern **zur Verfügung**.
+: I am gladly available for follow-up questions.
+
+Nach 18 Uhr steht kein technischer Support mehr **zur Verfügung**.
+: After 6 p.m., no technical support is available anymore.
+
+Diese Lösung kommt aus rechtlichen Gründen nicht **in Frage**.
+: This solution is not an option for legal reasons.
+
+Viele Beschäftigte stehen durch die Reform dauerhaft **unter Druck**.
+: Many employees are under long-term pressure because of the reform.
+:::
 
 :::{warning}
 Do not translate these chunks word by word from English. Treat them like fixed lexical units and memorize article, preposition, and verb together.
@@ -144,16 +152,22 @@ To sound natural, you should not only recognize these combinations but also comb
 
 **Examples:**
 
-- Nach langer Diskussion haben wir eine **endgültige** Entscheidung **getroffen**.  
-  _After a long discussion, we made a final decision._
-- Unter den aktuellen Bedingungen kommt eine Preiserhöhung **nicht in Frage**.  
-  _Under the current conditions, a price increase is not an option._
-- Unser Team steht Ihnen bei Rückfragen jederzeit **zur Verfügung**.  
-  _Our team is available at any time for follow-up questions._
-- Die Abteilung hat mehrere konkrete Verbesserungen **vorgenommen**.  
-  _The department made several concrete improvements._
-- Durch die Fristverkürzung stehen viele Projektgruppen weiter **unter Druck**.  
-  _Because of the shorter deadline, many project groups remain under pressure._
+:::{div} ol-examples
+Nach langer Diskussion haben wir eine **endgültige** Entscheidung **getroffen**.
+: After a long discussion, we made a final decision.
+
+Unter den aktuellen Bedingungen kommt eine Preiserhöhung **nicht in Frage**.
+: Under the current conditions, a price increase is not an option.
+
+Unser Team steht Ihnen bei Rückfragen jederzeit **zur Verfügung**.
+: Our team is available at any time for follow-up questions.
+
+Die Abteilung hat mehrere konkrete Verbesserungen **vorgenommen**.
+: The department made several concrete improvements.
+
+Durch die Fristverkürzung stehen viele Projektgruppen weiter **unter Druck**.
+: Because of the shorter deadline, many project groups remain under pressure.
+:::
 
 :::{tip}
 Build your own phrase bank with whole chunks, for example: *nicht in Frage kommen*, *zur Verfügung stehen*, *eine Entscheidung treffen*. Revisiting complete chunks improves accuracy much faster than learning isolated words.

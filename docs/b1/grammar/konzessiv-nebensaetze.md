@@ -10,8 +10,6 @@ myst:
 ---
 # Konzessiv Nebensätze
 
-> Concessive subordinate clauses with "obwohl" (although / even though)
-
 Use {conj}`obwohl` to show a contrast to normal expectations. You describe one real fact, but the result in the main clause still happens.
 
 ---
@@ -24,23 +22,25 @@ Like {conj}`weil`, {conj}`obwohl` creates a subordinate clause with verb-final o
 
 ### Examples
 
-- Ich gehe heute schwimmen, {conj}`obwohl` das Wasser kalt {verb}`ist`.  
-  _I'm going swimming today, even though the water is cold._
+:::{div} ol-examples
+Ich gehe heute schwimmen, {conj}`obwohl` das Wasser kalt {verb}`ist`.
+: I'm going swimming today, even though the water is cold.
 
-- Sie geht zur Arbeit, {conj}`obwohl` sie starke Kopfschmerzen {verb}`hat`.  
-  _She goes to work, even though she has a bad headache._
+Sie geht zur Arbeit, {conj}`obwohl` sie starke Kopfschmerzen {verb}`hat`.
+: She goes to work, even though she has a bad headache.
 
-- Wir essen draußen, {conj}`obwohl` es schon spät {verb}`ist`.  
-  _We're eating outside, even though it's already late._
+Wir essen draußen, {conj}`obwohl` es schon spät {verb}`ist`.
+: We're eating outside, even though it's already late.
 
-- Er macht noch Sport, {conj}`obwohl` er den ganzen Tag gearbeitet {verb}`hat`.  
-  _He still does sports, even though he worked all day._
+Er macht noch Sport, {conj}`obwohl` er den ganzen Tag gearbeitet {verb}`hat`.
+: He still does sports, even though he worked all day.
 
-- Ich lerne weiter, {conj}`obwohl` ich morgen früh aufstehen {verb}`muss`.  
-  _I keep studying, even though I have to get up early tomorrow._
+Ich lerne weiter, {conj}`obwohl` ich morgen früh aufstehen {verb}`muss`.
+: I keep studying, even though I have to get up early tomorrow.
 
-- Sie hat zugesagt, {conj}`obwohl` sie sich nicht sicher gefühlt {verb}`hat`.  
-  _She agreed, even though she did not feel sure._
+Sie hat zugesagt, {conj}`obwohl` sie sich nicht sicher gefühlt {verb}`hat`.
+: She agreed, even though she did not feel sure.
+:::
 
 :::{tip}
 With modal verbs, keep the modal in final position in the obwohl-clause:
@@ -61,23 +61,25 @@ You can place the obwohl-clause after the main clause or before it. If it comes 
 
 ### Examples
 
-- {conj}`Obwohl` sie krank {verb}`ist`, {verb}`geht` sie zur Arbeit.  
-  _Even though she is sick, she goes to work._
+:::{div} ol-examples
+{conj}`Obwohl` sie krank {verb}`ist`, {verb}`geht` sie zur Arbeit.
+: Even though she is sick, she goes to work.
 
-- {conj}`Obwohl` der Kurs schwierig {verb}`ist`, {verb}`macht` er gute Fortschritte.  
-  _Even though the course is difficult, he is making good progress._
+{conj}`Obwohl` der Kurs schwierig {verb}`ist`, {verb}`macht` er gute Fortschritte.
+: Even though the course is difficult, he is making good progress.
 
-- {conj}`Obwohl` ich den Film schon gesehen {verb}`habe`, {verb}`schaue` ich ihn noch einmal.  
-  _Even though I've already seen the film, I'm watching it again._
+{conj}`Obwohl` ich den Film schon gesehen {verb}`habe`, {verb}`schaue` ich ihn noch einmal.
+: Even though I've already seen the film, I'm watching it again.
 
-- {conj}`Obwohl` es gestern sehr heiß {verb}`war`, {verb}`haben` wir eine lange Wanderung gemacht.  
-  _Even though it was very hot yesterday, we went on a long hike._
+{conj}`Obwohl` es gestern sehr heiß {verb}`war`, {verb}`haben` wir eine lange Wanderung gemacht.
+: Even though it was very hot yesterday, we went on a long hike.
 
-- {conj}`Obwohl` er viele Fehler {verb}`macht`, {verb}`verbessert` er sich schnell.  
-  _Even though he makes many mistakes, he improves quickly._
+{conj}`Obwohl` er viele Fehler {verb}`macht`, {verb}`verbessert` er sich schnell.
+: Even though he makes many mistakes, he improves quickly.
 
-- {conj}`Obwohl` wir früh losfahren, {verb}`kommen` wir oft zu spät an.  
-  _Even though we leave early, we often arrive late._
+{conj}`Obwohl` wir früh losfahren, {verb}`kommen` wir oft zu spät an.
+: Even though we leave early, we often arrive late.
+:::
 
 :::{note}
 Starting with the obwohl-clause puts stronger focus on the obstacle. Both positions are correct.
@@ -97,23 +99,25 @@ All three forms express contrast, but their grammar is different.
 
 ### Examples
 
-- Ich bin müde, {conj}`obwohl` ich lange geschlafen {verb}`habe`.  
-  _I am tired, even though I slept for a long time._
+:::{div} ol-examples
+Ich bin müde, {conj}`obwohl` ich lange geschlafen {verb}`habe`.
+: I am tired, even though I slept for a long time.
 
-- Ich bin müde, **aber** ich arbeite weiter.  
-  _I am tired, but I keep working._
+Ich bin müde, **aber** ich arbeite weiter.
+: I am tired, but I keep working.
 
-- Ich bin müde. **Trotzdem** arbeite ich weiter.  
-  _I am tired. Nevertheless, I keep working._
+Ich bin müde. **Trotzdem** arbeite ich weiter.
+: I am tired. Nevertheless, I keep working.
 
-- {conj}`Obwohl` der Laden schon zu {verb}`ist`, {verb}`wartet` er noch davor.  
-  _Even though the shop is already closed, he is still waiting in front of it._
+{conj}`Obwohl` der Laden schon zu {verb}`ist`, {verb}`wartet` er noch davor.
+: Even though the shop is already closed, he is still waiting in front of it.
 
-- Der Laden ist schon zu, **aber** er wartet noch davor.  
-  _The shop is already closed, but he is still waiting in front of it._
+Der Laden ist schon zu, **aber** er wartet noch davor.
+: The shop is already closed, but he is still waiting in front of it.
 
-- Der Laden ist schon zu. **Trotzdem** wartet er noch davor.  
-  _The shop is already closed. Nevertheless, he is still waiting in front of it._
+Der Laden ist schon zu. **Trotzdem** wartet er noch davor.
+: The shop is already closed. Nevertheless, he is still waiting in front of it.
+:::
 
 :::{tip}
 Quick check:

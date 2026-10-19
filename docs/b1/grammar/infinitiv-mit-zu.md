@@ -10,8 +10,6 @@ myst:
 ---
 # Infinitiv mit „zu"
 
-> Infinitive with *"zu"*
-
 The infinitive with *„zu“* links two actions in a single sentence without two full clauses. After certain verbs, adjectives, and noun expressions, *zu* plus the infinitive carries the second action. The construction shows up in almost every conversation and text at B1 level.
 
 ---
@@ -53,18 +51,25 @@ After a range of common German verbs, you attach a *zu + Infinitiv* phrase to de
 | versuchen | to try |
 | vorhaben | to intend / plan |
 
-- Ich **versuche**, mehr Wasser zu **trinken**.  
-  *I'm trying to drink more water.*
-- Sie **hofft**, diesen Sommer nach Wien zu **fahren**.  
-  *She hopes to travel to Vienna this summer.*
-- Wir haben **beschlossen**, eine neue Wohnung zu **suchen**.  
-  *We've decided to look for a new apartment.*
-- Er **vergisst** immer, den Müll heraus**zu**bringen.  
-  *He always forgets to take out the rubbish.*
-- Ich fange an, Spanisch zu **lernen**.  
-  *I'm starting to learn Spanish.*
-- Sie hat **aufgehört**, so viel Kaffee zu **trinken**.  
-  *She has stopped drinking so much coffee.*
+:::{div} ol-examples
+Ich **versuche**, mehr Wasser zu **trinken**.
+: I'm trying to drink more water.
+
+Sie **hofft**, diesen Sommer nach Wien zu **fahren**.
+: She hopes to travel to Vienna this summer.
+
+Wir haben **beschlossen**, eine neue Wohnung zu **suchen**.
+: We've decided to look for a new apartment.
+
+Er **vergisst** immer, den Müll heraus**zu**bringen.
+: He always forgets to take out the rubbish.
+
+Ich fange an, Spanisch zu **lernen**.
+: I'm starting to learn Spanish.
+
+Sie hat **aufgehört**, so viel Kaffee zu **trinken**.
+: She has stopped drinking so much coffee.
+:::
 
 :::{note}
 When the subjects of the two actions are **different**, use a *dass*-clause instead of a *zu*-phrase:
@@ -80,18 +85,25 @@ You can describe whether an activity is easy, difficult, important, or enjoyable
 > **Es ist** + Adjektiv **,** + **zu** + Infinitiv  
 > **Ich finde es** + Adjektiv **,** + **zu** + Infinitiv
 
-- Es **ist** wichtig, pünktlich zu **sein**.  
-  *It is important to be on time.*
-- Es **ist** schwierig, jeden Tag zu **trainieren**.  
-  *It is difficult to train every day.*
-- Es **ist** leicht, dieses Rezept zu **kochen**.  
-  *It is easy to cook this recipe.*
-- Ich **finde es** toll, neue Leute kennen**zu**lernen.  
-  *I find it great to meet new people.*
-- Es **ist** schön, am Wochenende aus**zu**schlafen.  
-  *It is nice to sleep in at the weekend.*
-- Ich **finde es** anstrengend, jeden Morgen früh auf**zu**stehen.  
-  *I find it exhausting to get up early every morning.*
+:::{div} ol-examples
+Es **ist** wichtig, pünktlich zu **sein**.
+: It is important to be on time.
+
+Es **ist** schwierig, jeden Tag zu **trainieren**.
+: It is difficult to train every day.
+
+Es **ist** leicht, dieses Rezept zu **kochen**.
+: It is easy to cook this recipe.
+
+Ich **finde es** toll, neue Leute kennen**zu**lernen.
+: I find it great to meet new people.
+
+Es **ist** schön, am Wochenende aus**zu**schlafen.
+: It is nice to sleep in at the weekend.
+
+Ich **finde es** anstrengend, jeden Morgen früh auf**zu**stehen.
+: I find it exhausting to get up early every morning.
+:::
 
 :::{tip}
 Some useful adjectives for this pattern: *wichtig*, *schwierig*, *leicht*, *schön*, *interessant*, *langweilig*, *toll*, *anstrengend*, *gefährlich*, *gesund*.
@@ -111,18 +123,25 @@ Certain noun expressions in German also introduce a *zu + Infinitiv* phrase. The
 | Lust haben | to feel like doing something |
 | Spaß machen | to be fun |
 
-- Er **hat die Absicht**, nächsten Monat um**zu**ziehen.  
-  *He intends to move next month.*
-- Ich **habe keine Lust**, heute Abend aus**zu**gehen.  
-  *I don't feel like going out tonight.*
-- Sie **hat die Möglichkeit**, ein Jahr im Ausland zu **leben**.  
-  *She has the opportunity to live abroad for a year.*
-- Es **macht Spaß**, mit Freunden Volleyball zu **spielen**.  
-  *It is fun to play volleyball with friends.*
-- Hast du **Zeit**, mir kurz zu **helfen**?  
-  *Do you have time to help me for a moment?*
-- Ich **habe Angst**, alleine durch den Park zu **gehen**.  
-  *I'm afraid to walk through the park alone.*
+:::{div} ol-examples
+Er **hat die Absicht**, nächsten Monat um**zu**ziehen.
+: He intends to move next month.
+
+Ich **habe keine Lust**, heute Abend aus**zu**gehen.
+: I don't feel like going out tonight.
+
+Sie **hat die Möglichkeit**, ein Jahr im Ausland zu **leben**.
+: She has the opportunity to live abroad for a year.
+
+Es **macht Spaß**, mit Freunden Volleyball zu **spielen**.
+: It is fun to play volleyball with friends.
+
+Hast du **Zeit**, mir kurz zu **helfen**?
+: Do you have time to help me for a moment?
+
+Ich **habe Angst**, alleine durch den Park zu **gehen**.
+: I'm afraid to walk through the park alone.
+:::
 
 :::{note}
 Some noun expressions are close in meaning to a single verb. Compare:
@@ -135,26 +154,8 @@ Both are correct. The noun version is common in writing and formal speech.
 
 ---
 
-## Summary
+## Hear it in practice
 
-:::{admonition} Key points
-:class: note
-
-- *„zu"* goes directly before the infinitive: *zu* kommen, *zu* schlafen
-- With **separable verbs**, insert *„zu"* between the prefix and the stem: *an**zu**rufen*, *auf**zu**machen*, *aus**zu**gehen*
-- In current standard writing, **zu-infinitive groups are separated with a comma**
-- This construction is only possible when **both verbs share the same subject**. When the subjects differ, use a *dass*-clause instead.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Ich vergesse zu gehen.* (missing comma) → Ich vergesse**,** zu gehen. (Use a comma before the infinitive phrase.)
-- *Das Fenster \*zu aufmachen* → Das Fenster **auf**zumachen. (With separable verbs, *„zu"* goes between the prefix and stem, not before the prefix.)
-- *Ich \*kann zu schlafen.* → Ich **kann** schlafen. (Modal verbs – *können*, *müssen*, *dürfen*, *wollen*, *sollen*, never take *„zu"*.)
-- *Ich hoffe, \*dass früh aufzustehen.* → Ich hoffe, früh aufzustehen. (Do not combine *„dass"* with a *zu*-infinitive, choose one or the other.)
-- *Ich hoffe, dass er \*zu kommen.* → Ich hoffe, dass er **kommt**. (After *„dass"*, the second verb must be a conjugated form, not *„zu + Infinitiv"*.)
-:::
 :::{audio-examples}
 :track: b1/grammar/infinitiv-mit-zu-nach-bestimmten-verben
 :title: Infinitiv mit zu - nach bestimmten Verben
@@ -375,6 +376,29 @@ Ich habe keine Zeit, alles zu lesen.
 
 Sie hat schon lange die Idee, ein Café zu eröffnen.
 : She has had the idea to open a café for a long time.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *„zu"* goes directly before the infinitive: *zu* kommen, *zu* schlafen
+- With **separable verbs**, insert *„zu"* between the prefix and the stem: *an**zu**rufen*, *auf**zu**machen*, *aus**zu**gehen*
+- In current standard writing, **zu-infinitive groups are separated with a comma**
+- This construction is only possible when **both verbs share the same subject**. When the subjects differ, use a *dass*-clause instead.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich vergesse zu gehen.* (missing comma) → Ich vergesse**,** zu gehen. (Use a comma before the infinitive phrase.)
+- *Das Fenster \*zu aufmachen* → Das Fenster **auf**zumachen. (With separable verbs, *„zu"* goes between the prefix and stem, not before the prefix.)
+- *Ich \*kann zu schlafen.* → Ich **kann** schlafen. (Modal verbs – *können*, *müssen*, *dürfen*, *wollen*, *sollen*, never take *„zu"*.)
+- *Ich hoffe, \*dass früh aufzustehen.* → Ich hoffe, früh aufzustehen. (Do not combine *„dass"* with a *zu*-infinitive, choose one or the other.)
+- *Ich hoffe, dass er \*zu kommen.* → Ich hoffe, dass er **kommt**. (After *„dass"*, the second verb must be a conjugated form, not *„zu + Infinitiv"*.)
 :::
 
 ---

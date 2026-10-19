@@ -10,15 +10,6 @@ myst:
 ---
 # Lokale Präpositionen
 
-> Local prepositions for routes, locations, and giving directions
-
-:::{seealso}
-
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > Grammar > Wechselpräpositionen](/a2/grammar/prepositions/wechselpraepositionen.md)
-:::
-
 You use local prepositions to explain where something is and how to get somewhere. On this page, you learn the local prepositions that have a fixed case: some always use dative, others always use accusative.
 
 :::{important}
@@ -45,12 +36,16 @@ These prepositions are common in routes and location descriptions and always tak
 
 Use an...vorbei when you pass a place while moving.
 
-- Ich gehe {prep}`an` {dativ}`dem` Park vorbei.  
-  _I walk past the park._
-- Wir fahren {prep}`an` {dativ}`der` Apotheke vorbei.  
-  _We drive past the pharmacy._
-- Gehen Sie {prep}`an` {dativ}`der` Schule vorbei und dann nach rechts.  
-  _Go past the school and then to the right._
+:::{div} ol-examples
+Ich gehe {prep}`an` {dativ}`dem` Park vorbei.
+: I walk past the park.
+
+Wir fahren {prep}`an` {dativ}`der` Apotheke vorbei.
+: We drive past the pharmacy.
+
+Gehen Sie {prep}`an` {dativ}`der` Schule vorbei und dann nach rechts.
+: Go past the school and then to the right.
+:::
 
 :::{tip}
 In everyday German, an dem is usually shortened to am: am Park vorbei.
@@ -60,12 +55,16 @@ In everyday German, an dem is usually shortened to am: am Park vorbei.
 
 Use bis zu to show the end point on a route.
 
-- Gehen Sie {prep}`bis zu` {dativ}`der` Kreuzung.  
-  _Go as far as the crossroads._
-- Der Bus fährt {prep}`bis zu` {dativ}`dem` Bahnhof.  
-  _The bus goes as far as the station._
-- Wir laufen {prep}`bis zu` {dativ}`dem` Supermarkt und warten dort.  
-  _We walk as far as the supermarket and wait there._
+:::{div} ol-examples
+Gehen Sie {prep}`bis zu` {dativ}`der` Kreuzung.
+: Go as far as the crossroads.
+
+Der Bus fährt {prep}`bis zu` {dativ}`dem` Bahnhof.
+: The bus goes as far as the station.
+
+Wir laufen {prep}`bis zu` {dativ}`dem` Supermarkt und warten dort.
+: We walk as far as the supermarket and wait there.
+:::
 
 :::{note}
 You will often hear contractions in speech: bis zum Bahnhof, bis zur Kreuzung.
@@ -75,12 +74,16 @@ You will often hear contractions in speech: bis zum Bahnhof, bis zur Kreuzung.
 
 Use gegenüber to describe what is opposite something.
 
-- Das Café ist {prep}`gegenüber` {dativ}`dem` Bahnhof.  
-  _The café is opposite the station._
-- Die Post liegt {prep}`gegenüber` {dativ}`der` Bank.  
-  _The post office is across from the bank._
-- Das Hotel ist {dativ}`dem` Park {prep}`gegenüber`.  
-  _The hotel is opposite the park._
+:::{div} ol-examples
+Das Café ist {prep}`gegenüber` {dativ}`dem` Bahnhof.
+: The café is opposite the station.
+
+Die Post liegt {prep}`gegenüber` {dativ}`der` Bank.
+: The post office is across from the bank.
+
+Das Hotel ist {dativ}`dem` Park {prep}`gegenüber`.
+: The hotel is opposite the park.
+:::
 
 :::{tip}
 With pronouns, gegenüber is normally after the pronoun: mir gegenüber, uns gegenüber.
@@ -113,23 +116,31 @@ These prepositions describe movement routes and always take accusative.
 
 Use durch when you go through an area, gate, tunnel, or street.
 
-- Wir gehen {prep}`durch` {akk}`den` Park.  
-  _We walk through the park._
-- Er fährt {prep}`durch` {akk}`die` Altstadt.  
-  _He drives through the old town._
-- Gehen Sie {prep}`durch` {akk}`das` Tor und dann links.  
-  _Go through the gate and then left._
+:::{div} ol-examples
+Wir gehen {prep}`durch` {akk}`den` Park.
+: We walk through the park.
+
+Er fährt {prep}`durch` {akk}`die` Altstadt.
+: He drives through the old town.
+
+Gehen Sie {prep}`durch` {akk}`das` Tor und dann links.
+: Go through the gate and then left.
+:::
 
 ### entlang
 
 Entlang is special: in everyday German it usually comes after the noun phrase.
 
-- Sie geht {akk}`die` Straße {prep}`entlang`.  
-  _She walks along the street._
-- Wir laufen {akk}`den` Fluss {prep}`entlang`.  
-  _We walk along the river._
-- Fahr {akk}`den` Weg hier {prep}`entlang`.  
-  _Go along this path._
+:::{div} ol-examples
+Sie geht {akk}`die` Straße {prep}`entlang`.
+: She walks along the street.
+
+Wir laufen {akk}`den` Fluss {prep}`entlang`.
+: We walk along the river.
+
+Fahr {akk}`den` Weg hier {prep}`entlang`.
+: Go along this path.
+:::
 
 :::{warning}
 At A2 level, keep the everyday order: die Straße entlang. Do not start with entlang + noun.
@@ -139,12 +150,16 @@ At A2 level, keep the everyday order: die Straße entlang. Do not start with ent
 
 Use um...herum for movement around something.
 
-- Sie läuft {prep}`um` {akk}`den` See herum.  
-  _She runs around the lake._
-- Geh {prep}`um` {akk}`das` Gebäude herum.  
-  _Go around the building._
-- Wir fahren {prep}`um` {akk}`die` Kirche herum.  
-  _We drive around the church._
+:::{div} ol-examples
+Sie läuft {prep}`um` {akk}`den` See herum.
+: She runs around the lake.
+
+Geh {prep}`um` {akk}`das` Gebäude herum.
+: Go around the building.
+
+Wir fahren {prep}`um` {akk}`die` Kirche herum.
+: We drive around the church.
+:::
 
 :::{tip}
 In spoken German, herum is sometimes dropped: Wir gehen um den See.
@@ -167,42 +182,26 @@ When you give directions, you often combine several local prepositions in one sh
 
 ### Mini route examples
 
-- Gehen Sie {prep}`an` {dativ}`dem` Museum vorbei und dann {prep}`durch` {akk}`den` Park.  
-  _Go past the museum and then through the park._
-- Fahren Sie {prep}`bis zu` {dativ}`der` Ampel und dann links.  
-  _Drive as far as the traffic light and then left._
-- Gehen Sie {akk}`die` Hauptstraße {prep}`entlang` bis {prep}`zu` {dativ}`dem` Rathaus.  
-  _Go along the main street up to the town hall._
-- Die Apotheke ist {prep}`gegenüber` {dativ}`dem` Bahnhof.  
-  _The pharmacy is opposite the station._
-- Gehen Sie {prep}`um` {akk}`das` Hotel herum, dann sehen Sie den Eingang.  
-  _Go around the hotel, then you will see the entrance._
+:::{div} ol-examples
+Gehen Sie {prep}`an` {dativ}`dem` Museum vorbei und dann {prep}`durch` {akk}`den` Park.
+: Go past the museum and then through the park.
 
----
+Fahren Sie {prep}`bis zu` {dativ}`der` Ampel und dann links.
+: Drive as far as the traffic light and then left.
 
-## Summary
+Gehen Sie {akk}`die` Hauptstraße {prep}`entlang` bis {prep}`zu` {dativ}`dem` Rathaus.
+: Go along the main street up to the town hall.
 
-:::{admonition} Key points
-:class: note
+Die Apotheke ist {prep}`gegenüber` {dativ}`dem` Bahnhof.
+: The pharmacy is opposite the station.
 
-- an...vorbei, bis zu, and gegenüber always use dative in local route descriptions.
-- aus, nach, von, and zu are also fixed dative prepositions often used for routes and starting points.
-- durch, entlang, and um...herum always use accusative in this route context.
-- In everyday German, entlang usually comes after the noun phrase: die Straße entlang.
-- These prepositions are practical tools for clear directions.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- _Ich gehe durch dem Park._ → Ich gehe **durch den** Park. (durch takes accusative)
-- _Wir fahren entlang die Straße._ → Wir fahren **die Straße entlang**. (entlang usually follows the noun phrase)
-- _Das Café ist gegenüber den Bahnhof._ → Das Café ist gegenüber **dem** Bahnhof. (gegenüber takes dative)
-- _Gehen Sie bis zu der Bahnhof._ → Gehen Sie bis zu **dem** Bahnhof / **bis zum** Bahnhof. (dative after bis zu)
-- _Sie läuft um dem See herum._ → Sie läuft **um den** See herum. (um takes accusative)
+Gehen Sie {prep}`um` {akk}`das` Hotel herum, dann sehen Sie den Eingang.
+: Go around the hotel, then you will see the entrance.
 :::
 
 ---
+
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/lokale-prapositionen-mit-dativ
@@ -376,6 +375,30 @@ Sie fährt durch das Dorf und hält kurz an.
 
 Sie läuft den Strand entlang und macht Fotos.
 : She runs along the beach and takes photos.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- an...vorbei, bis zu, and gegenüber always use dative in local route descriptions.
+- aus, nach, von, and zu are also fixed dative prepositions often used for routes and starting points.
+- durch, entlang, and um...herum always use accusative in this route context.
+- In everyday German, entlang usually comes after the noun phrase: die Straße entlang.
+- These prepositions are practical tools for clear directions.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- _Ich gehe durch dem Park._ → Ich gehe **durch den** Park. (durch takes accusative)
+- _Wir fahren entlang die Straße._ → Wir fahren **die Straße entlang**. (entlang usually follows the noun phrase)
+- _Das Café ist gegenüber den Bahnhof._ → Das Café ist gegenüber **dem** Bahnhof. (gegenüber takes dative)
+- _Gehen Sie bis zu der Bahnhof._ → Gehen Sie bis zu **dem** Bahnhof / **bis zum** Bahnhof. (dative after bis zu)
+- _Sie läuft um dem See herum._ → Sie läuft **um den** See herum. (um takes accusative)
 :::
 
 ---

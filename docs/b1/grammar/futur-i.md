@@ -10,8 +10,6 @@ myst:
 ---
 # Futur I
 
-> Expressing the future with werden + Infinitiv
-
 *Futur I* lets you talk about the future, plans, predictions, and promises. You build it with **werden** plus an infinitive, and it works for anything from weekend plans to weather forecasts. In spoken German, the present tense with a time word often does the same job, but *Futur I* is essential in writing, adds emphasis, and has one unique use the present tense cannot cover: expressing what you think is probably true right now.
 
 ---
@@ -35,10 +33,13 @@ In a subordinate clause (after *dass*, *weil*, *obwohl*, etc.), the infinitive m
 
 > … + **infinitive** + **werden** (both at the end)
 
-- Ich bin sicher, dass er morgen pünktlich **ankommen wird**.  
-  _I'm sure that he will arrive on time tomorrow._
-- Wir hoffen, dass das Wetter am Wochenende schön **sein wird**.  
-  _We hope that the weather will be nice at the weekend._
+:::{div} ol-examples
+Ich bin sicher, dass er morgen pünktlich **ankommen wird**.
+: I'm sure that he will arrive on time tomorrow.
+
+Wir hoffen, dass das Wetter am Wochenende schön **sein wird**.
+: We hope that the weather will be nice at the weekend.
+:::
 
 ---
 
@@ -46,18 +47,25 @@ In a subordinate clause (after *dass*, *weil*, *obwohl*, etc.), the infinitive m
 
 Futur I is the natural choice for announcing what will happen or stating a prediction with confidence. It turns up in news reports, weather forecasts, announcements, and wherever a speaker wants to underline that something is definitely going to happen.
 
-- Ich **werde** nächstes Jahr eine neue Stelle **suchen**.  
-  _I will look for a new job next year._
-- Wir **werden** im Sommer nach Lissabon **reisen**.  
-  _We will travel to Lisbon in the summer._
-- Das **wird** sehr schwierig **sein**.  
-  _That will be very difficult._
-- Das Konzert **wird** leider ausverkauft **sein**.  
-  _Unfortunately, the concert will be sold out._
-- Meine Schwester **wird** nächsten Monat **heiraten**.  
-  _My sister is getting married next month._
-- Es **wird** morgen den ganzen Tag **regnen**.  
-  _It will rain all day tomorrow._
+:::{div} ol-examples
+Ich **werde** nächstes Jahr eine neue Stelle **suchen**.
+: I will look for a new job next year.
+
+Wir **werden** im Sommer nach Lissabon **reisen**.
+: We will travel to Lisbon in the summer.
+
+Das **wird** sehr schwierig **sein**.
+: That will be very difficult.
+
+Das Konzert **wird** leider ausverkauft **sein**.
+: Unfortunately, the concert will be sold out.
+
+Meine Schwester **wird** nächsten Monat **heiraten**.
+: My sister is getting married next month.
+
+Es **wird** morgen den ganzen Tag **regnen**.
+: It will rain all day tomorrow.
+:::
 
 :::{tip}
 In everyday spoken German, the present tense + a time word is more common and usually sounds more natural than *Futur I*.
@@ -74,18 +82,25 @@ Use *Futur I* when there is no time word to signal the future, when you want to 
 
 *Futur I* has a use that surprises many learners: you can use it to express what you think is probably true **right now**. This works especially well with signal words like **wohl**, **wahrscheinlich**, **sicher**, and **bestimmt**, which tell your listener that you are making an informed guess rather than stating a certainty.
 
-- Er **wird** wohl noch im Büro **sein**.  
-  _He's probably still at the office._
-- Das **wird** schon **stimmen**.  
-  _That's probably right._
-- Das **wird** der neue Nachbar **sein**.  
-  _That's probably the new neighbor._
-- Die Bahn **wird** sicher wieder Verspätung **haben**.  
-  _The train probably has a delay again._
-- Sie **wird** das bestimmt **wissen**.  
-  _She probably knows that._
-- Der Film **wird** gut **sein**, alle reden davon.  
-  _The film is probably good, everyone's talking about it._
+:::{div} ol-examples
+Er **wird** wohl noch im Büro **sein**.
+: He's probably still at the office.
+
+Das **wird** schon **stimmen**.
+: That's probably right.
+
+Das **wird** der neue Nachbar **sein**.
+: That's probably the new neighbor.
+
+Die Bahn **wird** sicher wieder Verspätung **haben**.
+: The train probably has a delay again.
+
+Sie **wird** das bestimmt **wissen**.
+: She probably knows that.
+
+Der Film **wird** gut **sein**, alle reden davon.
+: The film is probably good, everyone's talking about it.
+:::
 
 :::{note}
 The signal words are not grammatically required, but they make your intention clear. Without them, a listener might interpret the sentence as a future statement rather than a present probability. Adding **wohl** or **wahrscheinlich** removes the ambiguity and sounds natural.
@@ -93,24 +108,8 @@ The signal words are not grammatically required, but they make your intention cl
 
 ---
 
-## Summary
+## Hear it in practice
 
-:::{admonition} Key points
-:class: note
-- **Form:** **werden** (conjugated, position 2) + **infinitive** (at the end of the clause)
-- **Subordinate clause:** the infinitive comes directly before conjugated *werden*, both go to the end
-- **Three core uses:** future plans and predictions; promises and assurances; present-tense probability (with *wohl*, *wahrscheinlich*, *sicher*)
-- **Spoken tip:** present tense + time word (*morgen*, *nächste Woche*) sounds more natural in casual speech; reach for Futur I for emphasis or in writing
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-- *Ich werde morgen \*arbeitete.* → Ich werde morgen **arbeiten**. (the second verb is always the bare infinitive, never a conjugated form)
-- *Ich \*werden gehen.* → Ich **werde** gehen. (*werden* must be conjugated for the subject)
-- *\*Weil ich werde morgen arbeiten.* → Weil ich morgen **arbeiten werde**. (in a subordinate clause, both verbs go to the end, infinitive first, then *werden*)
-- *Sie \*werde bald ankommen.* → Sie **wird** bald ankommen. (third person singular is **wird**, not *werde*)
-- Using *Futur I* for every future statement in conversation – "Ich **fahre** morgen nach München" sounds more natural in speech than "Ich **werde** morgen nach München fahren"
-:::
 :::{audio-examples}
 :track: b1/grammar/futur-i
 :title: Futur I
@@ -197,6 +196,28 @@ Wann wird sie zurückkommen?
 Das werdet ihr schaffen!
 : You will manage that.
 :::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+- **Form:** **werden** (conjugated, position 2) + **infinitive** (at the end of the clause)
+- **Subordinate clause:** the infinitive comes directly before conjugated *werden*, both go to the end
+- **Three core uses:** future plans and predictions; promises and assurances; present-tense probability (with *wohl*, *wahrscheinlich*, *sicher*)
+- **Spoken tip:** present tense + time word (*morgen*, *nächste Woche*) sounds more natural in casual speech; reach for Futur I for emphasis or in writing
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+- *Ich werde morgen \*arbeitete.* → Ich werde morgen **arbeiten**. (the second verb is always the bare infinitive, never a conjugated form)
+- *Ich \*werden gehen.* → Ich **werde** gehen. (*werden* must be conjugated for the subject)
+- *\*Weil ich werde morgen arbeiten.* → Weil ich morgen **arbeiten werde**. (in a subordinate clause, both verbs go to the end, infinitive first, then *werden*)
+- *Sie \*werde bald ankommen.* → Sie **wird** bald ankommen. (third person singular is **wird**, not *werde*)
+- Using *Futur I* for every future statement in conversation – "Ich **fahre** morgen nach München" sounds more natural in speech than "Ich **werde** morgen nach München fahren"
+:::
+
 ---
 
 ## Related articles

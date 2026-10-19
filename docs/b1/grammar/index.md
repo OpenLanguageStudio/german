@@ -7,10 +7,8 @@ myst:
 # Grammar
 
 ```{toctree}
----
-maxdepth: 1
-caption: Verb Forms and Tenses
----
+:maxdepth: 1
+:caption: Verb Forms and Tenses
 praeteritum
 plusquamperfekt
 futur-i
@@ -20,10 +18,8 @@ passiv
 ```
 
 ```{toctree}
----
-maxdepth: 1
-caption: Infinitive and Participle Constructions
----
+:maxdepth: 1
+:caption: Infinitive and Participle Constructions
 infinitiv-mit-zu
 brauchen-zu-infinitiv
 lassen-infinitiv
@@ -31,10 +27,8 @@ partizip-als-adjektiv
 ```
 
 ```{toctree}
----
-maxdepth: 1
-caption: Nouns, Articles, and Adjectives
----
+:maxdepth: 1
+:caption: Nouns, Articles, and Adjectives
 genitiv
 n-deklination
 adjektive-als-nomen
@@ -44,29 +38,23 @@ komparativ-superlativ
 ```
 
 ```{toctree}
----
-maxdepth: 1
-caption: Pronouns and Reference Words
----
+:maxdepth: 1
+:caption: Pronouns and Reference Words
 reflexivpronomen
 pronominaladverbien
 ```
 
 ```{toctree}
----
-maxdepth: 1
-caption: Prepositions
----
+:maxdepth: 1
+:caption: Prepositions
 zeitangaben-praepositionen
 verben-mit-praepositionen
 wegen-trotz
 ```
 
 ```{toctree}
----
-maxdepth: 1
-caption: Subordinate Clauses
----
+:maxdepth: 1
+:caption: Subordinate Clauses
 kausal-nebensaetze
 temporal-nebensaetze
 finalsaetze
@@ -77,10 +65,8 @@ relativsaetze-was-wo
 ```
 
 ```{toctree}
----
-maxdepth: 1
-caption: Connectors and Sentence Structure
----
+:maxdepth: 1
+:caption: Connectors and Sentence Structure
 zweiteilige-konnektoren
 je-desto
 negation

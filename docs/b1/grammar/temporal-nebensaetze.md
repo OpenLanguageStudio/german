@@ -10,8 +10,6 @@ myst:
 ---
 # Temporal Nebensätze
 
-> Temporal subordinate clauses, describing when things happen
-
 Temporal Nebensätze connect two events in time. Five key conjunctions cover the main relationships: *bevor* (before), *bis* (until), *nachdem* (after), *während* (while), and *seit/seitdem* (since). Together they carry stories, processes, and sequences in natural, connected German.
 
 | Conjunction | Meaning | Tense in the Nebensatz |
@@ -35,16 +33,22 @@ Both clauses use the same tense. No tense shift is needed.
 
 ### Examples
 
-- Ich putze mir die Zähne, {conj}`bevor` ich ins Bett {verb}`gehe`.  
-  _I brush my teeth before I go to bed._
-- {conj}`Bevor` wir {verb}`bestellen`, schauen wir uns die Speisekarte an.  
-  _Before we order, we look at the menu._
-- Sie schreibt eine Liste, {conj}`bevor` sie {verb}`einkaufen geht`.  
-  _She writes a list before she goes shopping._
-- {conj}`Bevor` du das Haus {verb}`verlässt`, vergiss nicht deinen Schlüssel!  
-  _Before you leave the house, don't forget your key!_
-- Ich lese die Bewertungen, {conj}`bevor` ich ein Hotel {verb}`buche`.  
-  _I read the reviews before I book a hotel._
+:::{div} ol-examples
+Ich putze mir die Zähne, {conj}`bevor` ich ins Bett {verb}`gehe`.
+: I brush my teeth before I go to bed.
+
+{conj}`Bevor` wir {verb}`bestellen`, schauen wir uns die Speisekarte an.
+: Before we order, we look at the menu.
+
+Sie schreibt eine Liste, {conj}`bevor` sie {verb}`einkaufen geht`.
+: She writes a list before she goes shopping.
+
+{conj}`Bevor` du das Haus {verb}`verlässt`, vergiss nicht deinen Schlüssel!
+: Before you leave the house, don't forget your key!
+
+Ich lese die Bewertungen, {conj}`bevor` ich ein Hotel {verb}`buche`.
+: I read the reviews before I book a hotel.
+:::
 
 :::{tip}
 *Bevor* is a conjunction and needs a full clause: *bevor ich gehe*. The preposition *vor* takes a noun in the dative: *vor meiner Abfahrt* (before my departure). They are not interchangeable.
@@ -60,16 +64,22 @@ Both clauses use the same tense. No tense shift is needed.
 
 ### Examples
 
-- Ich warte hier, {conj}`bis` du {verb}`zurückkommst`.  
-  _I'll wait here until you come back._
-- Wir bleiben bei der Party, {conj}`bis` die Musik {verb}`aufhört`.  
-  _We'll stay at the party until the music stops._
-- Er hat gelesen, {conj}`bis` er {verb}`eingeschlafen ist`.  
-  _He read until he fell asleep._
-- Übt jeden Tag, {conj}`bis` ihr die Aussprache {verb}`beherrscht`!  
-  _Practice every day until you master the pronunciation!_
-- Sie hat gearbeitet, {conj}`bis` es dunkel {verb}`wurde`.  
-  _She worked until it got dark._
+:::{div} ol-examples
+Ich warte hier, {conj}`bis` du {verb}`zurückkommst`.
+: I'll wait here until you come back.
+
+Wir bleiben bei der Party, {conj}`bis` die Musik {verb}`aufhört`.
+: We'll stay at the party until the music stops.
+
+Er hat gelesen, {conj}`bis` er {verb}`eingeschlafen ist`.
+: He read until he fell asleep.
+
+Übt jeden Tag, {conj}`bis` ihr die Aussprache {verb}`beherrscht`!
+: Practice every day until you master the pronunciation!
+
+Sie hat gearbeitet, {conj}`bis` es dunkel {verb}`wurde`.
+: She worked until it got dark.
+:::
 
 :::{note}
 Even when the endpoint is in the future, use *Präsens* after *bis*: *Ich warte, bis er kommt*, not *bis er kommen wird*.
@@ -91,18 +101,26 @@ In the *Nebensatz*, the auxiliary verb (*habe*, *hat*, *hatte*, *war*, etc.) goe
 
 ### Examples
 
-- {conj}`Nachdem` ich geduscht {verb}`habe`, frühstücke ich.  
-  _After I have showered, I have breakfast._  
+:::{div} ol-examples
+{conj}`Nachdem` ich geduscht {verb}`habe`, frühstücke ich.
+: After I have showered, I have breakfast.
+:::
   _(Nebensatz: Perfekt – Hauptsatz: Präsens)_
-- {conj}`Nachdem` sie die Nachricht gelesen {verb}`hatte`, rief sie sofort an.  
-  _After she had read the message, she called immediately._  
+:::{div} ol-examples
+{conj}`Nachdem` sie die Nachricht gelesen {verb}`hatte`, rief sie sofort an.
+: After she had read the message, she called immediately.
+:::
   _(Nebensatz: Plusquamperfekt – Hauptsatz: Präteritum)_
-- Er wartete auf dem Bahnsteig, {conj}`nachdem` sein Zug {verb}`abgefahren war`.  
-  _He waited on the platform after his train had left._
-- {conj}`Nachdem` wir das Gespräch beendet {verb}`hatten`, verließen wir das Büro.  
-  _After we had finished the conversation, we left the office._
-- {conj}`Nachdem` er das Studium abgeschlossen {verb}`hatte`, begann er zu arbeiten.  
-  _After he had completed his studies, he started working._
+:::{div} ol-examples
+Er wartete auf dem Bahnsteig, {conj}`nachdem` sein Zug {verb}`abgefahren war`.
+: He waited on the platform after his train had left.
+
+{conj}`Nachdem` wir das Gespräch beendet {verb}`hatten`, verließen wir das Büro.
+: After we had finished the conversation, we left the office.
+
+{conj}`Nachdem` er das Studium abgeschlossen {verb}`hatte`, begann er zu arbeiten.
+: After he had completed his studies, he started working.
+:::
 
 :::{warning}
 Using the same tense in both clauses is the most frequent error with *nachdem*. You cannot say *"Nachdem ich esse, mache ich Sport."* The *Nebensatz* must shift: **"Nachdem ich gegessen habe, mache ich Sport."** (*Präsens* → *Perfekt* in the *Nebensatz*.)
@@ -121,16 +139,22 @@ Both clauses use the same tense.
 
 ### Examples
 
-- {conj}`Während` meine Mutter {verb}`kocht`, decke ich den Tisch.  
-  _While my mother cooks, I set the table._
-- Er hörte Musik, {conj}`während` er {verb}`arbeitete`.  
-  _He listened to music while he worked._
-- Ich trinke Kaffee, {conj}`während` ich die Zeitung {verb}`lese`.  
-  _I drink coffee while I read the newspaper._
-- {conj}`Während` sie auf ihren Freund {verb}`wartete`, schrieb sie ein paar Nachrichten.  
-  _While she was waiting for her friend, she sent a few messages._
-- {conj}`Während` ich das Abendessen {verb}`koche`, erkläre ich dir das Rezept.  
-  _While I cook dinner, I'll explain the recipe to you._
+:::{div} ol-examples
+{conj}`Während` meine Mutter {verb}`kocht`, decke ich den Tisch.
+: While my mother cooks, I set the table.
+
+Er hörte Musik, {conj}`während` er {verb}`arbeitete`.
+: He listened to music while he worked.
+
+Ich trinke Kaffee, {conj}`während` ich die Zeitung {verb}`lese`.
+: I drink coffee while I read the newspaper.
+
+{conj}`Während` sie auf ihren Freund {verb}`wartete`, schrieb sie ein paar Nachrichten.
+: While she was waiting for her friend, she sent a few messages.
+
+{conj}`Während` ich das Abendessen {verb}`koche`, erkläre ich dir das Rezept.
+: While I cook dinner, I'll explain the recipe to you.
+:::
 
 ---
 
@@ -145,16 +169,22 @@ Both clauses use the same tense.
 
 ### Examples
 
-- Ich lerne Deutsch, {conj}`seitdem` ich in Deutschland {verb}`wohne`.  
-  _I have been learning German since I've been living in Germany._
-- {conj}`Seit` sie in der neuen Stadt {verb}`wohnt`, fährt sie mit dem Fahrrad zur Arbeit.  
-  _Since she moved to the new city, she has been cycling to work._
-- Er ist viel entspannter, {conj}`seitdem` er Sport {verb}`treibt`.  
-  _He has been much more relaxed since he started doing sport._
-- {conj}`Seit` sie Yoga {verb}`macht`, schläft sie deutlich besser.  
-  _Since she has been doing yoga, she sleeps much better._
-- Wir sehen uns seltener, {conj}`seitdem` er umgezogen {verb}`ist`.  
-  _We see each other less often since he moved away._
+:::{div} ol-examples
+Ich lerne Deutsch, {conj}`seitdem` ich in Deutschland {verb}`wohne`.
+: I have been learning German since I've been living in Germany.
+
+{conj}`Seit` sie in der neuen Stadt {verb}`wohnt`, fährt sie mit dem Fahrrad zur Arbeit.
+: Since she moved to the new city, she has been cycling to work.
+
+Er ist viel entspannter, {conj}`seitdem` er Sport {verb}`treibt`.
+: He has been much more relaxed since he started doing sport.
+
+{conj}`Seit` sie Yoga {verb}`macht`, schläft sie deutlich besser.
+: Since she has been doing yoga, she sleeps much better.
+
+Wir sehen uns seltener, {conj}`seitdem` er umgezogen {verb}`ist`.
+: We see each other less often since he moved away.
+:::
 
 :::{note}
 *Seit* can also work as a preposition followed by a noun in the dative: *seit drei Jahren* (for/since three years). When *seit* introduces a full clause with a subject and verb, it is a subordinating conjunction: *seit ich hier wohne*.

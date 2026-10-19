@@ -10,17 +10,6 @@ myst:
 ---
 # Indefinitpronomen
 
-> Talk about people, places, time, and things in a precise but non-specific way
-
-:::{seealso}
-
-- [B2 > Grammar > Negation](/b2/grammar/negation.md)
-- [B2 > Grammar > Relativsätze mit wer](/b2/grammar/relativsaetze-mit-wer.md)
-- [A2 > Grammar > Pronomen - man, jemand, niemand](/a2/grammar/pronouns/pronomen-man-jemand-niemand.md)
-- [A2 > Grammar > Pronomen: alles, etwas, nichts](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md)
-
-:::
-
 At B2, the job goes well beyond simple words like *jemand* or *etwas*. The choice of form now answers to register, precision, and structure: neutral vs colloquial, person vs thing, and lexical negation vs sentence negation. Getting it right is what sounds exact in discussion, writing, and everyday argumentation.
 
 *Examples:*
@@ -46,18 +35,25 @@ These forms all refer to people, but they do not mean the same thing. At B2, the
 
 **Examples:**
 
-- {pronoun}`Man` kann diese Software auch ohne Schulung bedienen.  
-  *You/people can use this software even without training.*
-- Hat {pronoun}`jemand` den Bericht als PDF gespeichert?  
-  *Did someone save the report as a PDF?*  
-- Im Meeting hat {pronoun}`einer` einen sehr guten Einwand gebracht.  
-  *In the meeting, someone made a very good objection.*
-- {pronoun}`Irgendwer` hat meinen Stift mitgenommen, aber ich weiß nicht, wer.  
-  *Somebody or other took my pen, but I don't know who.*
-- {pronoun}`Niemand` wollte die Verantwortung alleine übernehmen.  
-  *No one wanted to take responsibility alone.*
-- Von den drei Vorschlägen passt {pronoun}`keiner` wirklich zum Budget.  
-  *Of the three proposals, none really fits the budget.*
+:::{div} ol-examples
+{pronoun}`Man` kann diese Software auch ohne Schulung bedienen.
+: You/people can use this software even without training.
+
+Hat {pronoun}`jemand` den Bericht als PDF gespeichert?
+: Did someone save the report as a PDF?
+
+Im Meeting hat {pronoun}`einer` einen sehr guten Einwand gebracht.
+: In the meeting, someone made a very good objection.
+
+{pronoun}`Irgendwer` hat meinen Stift mitgenommen, aber ich weiß nicht, wer.
+: Somebody or other took my pen, but I don't know who.
+
+{pronoun}`Niemand` wollte die Verantwortung alleine übernehmen.
+: No one wanted to take responsibility alone.
+
+Von den drei Vorschlägen passt {pronoun}`keiner` wirklich zum Budget.
+: Of the three proposals, none really fits the budget.
+:::
 
 :::{note}
 In careful writing, *jemand/niemand* often appear with endings in object position (*jemanden, niemandem*). In fast speech, reduced forms are common, but at B2 you should understand and produce both.
@@ -83,16 +79,22 @@ These forms are adverbial, but they function like indefinite location references
 
 **Examples:**
 
-- Ich hatte mein Ladegerät {adv}`irgendwo` im Büro liegen lassen.  
-  *I had left my charger somewhere in the office.*
-- Diese Idee kam nicht aus dem Team, sondern {adv}`irgendwoher` von außen.  
-  *This idea did not come from the team, but from somewhere outside.*
-- Nach dem Termin wollten alle nur noch {adv}`irgendwohin`, wo es ruhig ist.  
-  *After the meeting, everyone just wanted to go somewhere quiet.*
-- Die Datei ist {adv}`nirgendwo` auf dem Server zu finden.  
-  *The file is nowhere to be found on the server.*
-- Im Vertrag steht dazu {adv}`nirgends` etwas Konkretes.  
-  *There is nowhere in the contract anything concrete about that.*
+:::{div} ol-examples
+Ich hatte mein Ladegerät {adv}`irgendwo` im Büro liegen lassen.
+: I had left my charger somewhere in the office.
+
+Diese Idee kam nicht aus dem Team, sondern {adv}`irgendwoher` von außen.
+: This idea did not come from the team, but from somewhere outside.
+
+Nach dem Termin wollten alle nur noch {adv}`irgendwohin`, wo es ruhig ist.
+: After the meeting, everyone just wanted to go somewhere quiet.
+
+Die Datei ist {adv}`nirgendwo` auf dem Server zu finden.
+: The file is nowhere to be found on the server.
+
+Im Vertrag steht dazu {adv}`nirgends` etwas Konkretes.
+: There is nowhere in the contract anything concrete about that.
+:::
 
 :::{tip}
 *nirgendwo* and *nirgends* are near-synonyms. *nirgendwo* is often perceived as slightly more neutral in standard usage, while *nirgends* can sound a bit more compact or literary depending on context.
@@ -116,16 +118,22 @@ These time words help you control how specific or absolute your statement is. At
 
 **Examples:**
 
-- Wir müssen {adv}`irgendwann` entscheiden, welche Option wir finanzieren.  
-  *At some point we have to decide which option we will fund.*
-- So eine Gelegenheit bekommt man im Berufsleben {adv}`nie` häufig.  
-  *You almost never get an opportunity like that in professional life.*
-- Ich habe {adv}`nie` behauptet, dass der Plan perfekt ist.  
-  *I never claimed that the plan is perfect.*
-- Unter diesem Zeitdruck würde ich {adv}`niemals` eine finale Zusage geben.  
-  *Under this time pressure, I would never give a final commitment.*
-- Er kommt fast immer pünktlich, aber {adv}`nie` zu früh.  
-  *He is almost always on time, but never early.*
+:::{div} ol-examples
+Wir müssen {adv}`irgendwann` entscheiden, welche Option wir finanzieren.
+: At some point we have to decide which option we will fund.
+
+So eine Gelegenheit bekommt man im Berufsleben {adv}`nie` häufig.
+: You almost never get an opportunity like that in professional life.
+
+Ich habe {adv}`nie` behauptet, dass der Plan perfekt ist.
+: I never claimed that the plan is perfect.
+
+Unter diesem Zeitdruck würde ich {adv}`niemals` eine finale Zusage geben.
+: Under this time pressure, I would never give a final commitment.
+
+Er kommt fast immer pünktlich, aber {adv}`nie` zu früh.
+: He is almost always on time, but never early.
+:::
 
 :::{warning}
 Avoid double negation with *nie*/*niemals* unless you intentionally want non-standard emphasis. In standard usage, one clear negation marker is usually enough.
@@ -150,16 +158,22 @@ For non-person reference, these forms let you mark existence, vagueness, absence
 
 **Examples:**
 
-- Wenn dir {pronoun}`etwas` unklar ist, frag bitte sofort nach.  
-  *If something is unclear to you, please ask immediately.*
-- Ich habe {pronoun}`irgendetwas` im Anhang vergessen, aber ich finde den Fehler noch.  
-  *I forgot something or other in the attachment, but I will still find the mistake.*
-- Im Protokoll stand dazu {pronoun}`nichts` Verbindliches.  
-  *There was nothing binding about that in the minutes.*
-- Von den Geräten funktioniert heute {pronoun}`keins` zuverlässig.  
-  *None of the devices is working reliably today.*
-- Sie hat {pronoun}`nichts` gegen den Vorschlag, aber mehrere Rückfragen.  
-  *She has nothing against the proposal, but several follow-up questions.*
+:::{div} ol-examples
+Wenn dir {pronoun}`etwas` unklar ist, frag bitte sofort nach.
+: If something is unclear to you, please ask immediately.
+
+Ich habe {pronoun}`irgendetwas` im Anhang vergessen, aber ich finde den Fehler noch.
+: I forgot something or other in the attachment, but I will still find the mistake.
+
+Im Protokoll stand dazu {pronoun}`nichts` Verbindliches.
+: There was nothing binding about that in the minutes.
+
+Von den Geräten funktioniert heute {pronoun}`keins` zuverlässig.
+: None of the devices is working reliably today.
+
+Sie hat {pronoun}`nichts` gegen den Vorschlag, aber mehrere Rückfragen.
+: She has nothing against the proposal, but several follow-up questions.
+:::
 
 :::{tip}
 Use *keins* when you negate an expected item from a known set (for example, devices, options, tickets). Use *nichts* when you negate content in general.
@@ -183,16 +197,22 @@ The forms *einer, eins, eine* can stand alone and replace a previously mentioned
 
 **Examples:**
 
-- Von den drei Kandidaten hat {pronoun}`einer` besonders viel Führungserfahrung.  
-  *Of the three candidates, one has especially strong leadership experience.*
-- Wir haben zwei Modelle getestet; {pronoun}`eins` war deutlich stabiler.  
-  *We tested two models; one was clearly more stable.*
-- Im Team gibt es zwei Prioritäten, aber {pronoun}`eine` ist aktuell wichtiger.  
-  *In the team there are two priorities, but one is currently more important.*
-- Ich wollte ein ruhiges Café, und {pronoun}`eins` habe ich gleich um die Ecke gefunden.  
-  *I wanted a quiet cafe, and I found one just around the corner.*
-- Von den Lösungen ist {pronoun}`keine` perfekt, aber {pronoun}`eine` ist gut genug für den Start.  
-  *None of the solutions is perfect, but one is good enough for the start.*
+:::{div} ol-examples
+Von den drei Kandidaten hat {pronoun}`einer` besonders viel Führungserfahrung.
+: Of the three candidates, one has especially strong leadership experience.
+
+Wir haben zwei Modelle getestet; {pronoun}`eins` war deutlich stabiler.
+: We tested two models; one was clearly more stable.
+
+Im Team gibt es zwei Prioritäten, aber {pronoun}`eine` ist aktuell wichtiger.
+: In the team there are two priorities, but one is currently more important.
+
+Ich wollte ein ruhiges Café, und {pronoun}`eins` habe ich gleich um die Ecke gefunden.
+: I wanted a quiet cafe, and I found one just around the corner.
+
+Von den Lösungen ist {pronoun}`keine` perfekt, aber {pronoun}`eine` ist gut genug für den Start.
+: None of the solutions is perfect, but one is good enough for the start.
+:::
 
 :::{note}
 Do not confuse stand-alone forms (*einer/eins/eine*) with article use before a noun (*ein/eine/ein* + noun). In this section, the noun is omitted because context already identifies it.

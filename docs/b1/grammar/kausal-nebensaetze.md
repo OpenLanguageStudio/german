@@ -10,8 +10,6 @@ myst:
 ---
 # Kausal Nebensätze
 
-> Giving reasons with da, weil, and denn
-
 If you want to explain why something happens, you need causal clauses. At B1 level, the most important connectors are **da** and **weil**. Both are subordinate connectors, but they are used with slightly different communication goals. You should also know how they differ from **denn**, which does not create a subordinate clause.
 
 ---
@@ -24,16 +22,22 @@ Use **da** when you assume your listener already knows the reason, or when the r
 
 The da-clause can also come second, but at B1 you will most often see or use it first.
 
-- {conj}`Da` der Zug heute nicht fährt, nehme ich das Fahrrad.  
-  _Since the train is not running today, I am taking the bike._
-- {conj}`Da` du die Adresse schon kennst, kannst du direkt hinfahren.  
-  _Since you already know the address, you can drive there directly._
-- {conj}`Da` morgen ein Feiertag ist, bleiben viele Geschäfte geschlossen.  
-  _Since tomorrow is a public holiday, many shops stay closed._
-- {conj}`Da` ich heute früh aufstehen muss, gehe ich jetzt ins Bett.  
-  _Since I have to get up early today, I am going to bed now._
-- Ich schreibe dir später, {conj}`da` mein Akku fast leer {verb}`ist`.  
-  _I will text you later, since my battery is almost empty._
+:::{div} ol-examples
+{conj}`Da` der Zug heute nicht fährt, nehme ich das Fahrrad.
+: Since the train is not running today, I am taking the bike.
+
+{conj}`Da` du die Adresse schon kennst, kannst du direkt hinfahren.
+: Since you already know the address, you can drive there directly.
+
+{conj}`Da` morgen ein Feiertag ist, bleiben viele Geschäfte geschlossen.
+: Since tomorrow is a public holiday, many shops stay closed.
+
+{conj}`Da` ich heute früh aufstehen muss, gehe ich jetzt ins Bett.
+: Since I have to get up early today, I am going to bed now.
+
+Ich schreibe dir später, {conj}`da` mein Akku fast leer {verb}`ist`.
+: I will text you later, since my battery is almost empty.
+:::
 
 :::{tip}
 To answer a direct question like "Warum kommst du zu spät?", German usually prefers **weil**, not **da**.
@@ -51,18 +55,25 @@ You can also start with the weil-clause:
 
 > {conj}`Weil` + subject + other elements + {verb}`finite verb`, main clause with inversion
 
-- Ich bleibe heute zu Hause, {conj}`weil` ich Fieber {verb}`habe`.  
-  _I am staying home today because I have a fever._
-- Wir fahren mit dem Bus, {conj}`weil` das Auto in der Werkstatt {verb}`ist`.  
-  _We are going by bus because the car is in the garage._
-- Sie kann nicht kommen, {conj}`weil` sie bis acht Uhr arbeiten {verb}`muss`.  
-  _She cannot come because she has to work until eight._
-- {conj}`Weil` es so stark {verb}`regnet`, nehmen wir ein Taxi.  
-  _Because it is raining so heavily, we are taking a taxi._
-- {conj}`Weil` ich gestern Überstunden gemacht {verb}`habe`, bin ich heute müde.  
-  _Because I worked overtime yesterday, I am tired today._
-- {conj}`Weil` er kein Bargeld dabeihat, kann er nicht bezahlen.  
-  _Because he has no cash with him, he cannot pay._
+:::{div} ol-examples
+Ich bleibe heute zu Hause, {conj}`weil` ich Fieber {verb}`habe`.
+: I am staying home today because I have a fever.
+
+Wir fahren mit dem Bus, {conj}`weil` das Auto in der Werkstatt {verb}`ist`.
+: We are going by bus because the car is in the garage.
+
+Sie kann nicht kommen, {conj}`weil` sie bis acht Uhr arbeiten {verb}`muss`.
+: She cannot come because she has to work until eight.
+
+{conj}`Weil` es so stark {verb}`regnet`, nehmen wir ein Taxi.
+: Because it is raining so heavily, we are taking a taxi.
+
+{conj}`Weil` ich gestern Überstunden gemacht {verb}`habe`, bin ich heute müde.
+: Because I worked overtime yesterday, I am tired today.
+
+{conj}`Weil` er kein Bargeld dabeihat, kann er nicht bezahlen.
+: Because he has no cash with him, he cannot pay.
+:::
 
 :::{note}
 In very informal speech, you may hear "weil" followed by main-clause word order. For B1 writing and exams, keep standard subordinate word order with the verb at the end.
@@ -78,14 +89,19 @@ In very informal speech, you may hear "weil" followed by main-clause word order.
 - **weil**: subordinate clause, verb at the end, can start the sentence.
 - **denn**: coordinate clause link, normal main-clause order, cannot start this sentence pattern.
 
-- Ich gehe früher nach Hause, {conj}`denn` ich bin sehr müde.  
-  _I am going home earlier, because I am very tired._
-- Wir nehmen den nächsten Termin, {conj}`denn` heute haben wir keine Zeit mehr.  
-  _We are taking the next appointment, because today we have no more time._
-- Sie fährt nicht mit, {conj}`denn` sie muss noch arbeiten.  
-  _She is not coming along, because she still has to work._
-- Er kauft das Ticket online, {conj}`denn` am Schalter ist die Schlange zu lang.  
-  _He is buying the ticket online, because the line at the counter is too long._
+:::{div} ol-examples
+Ich gehe früher nach Hause, {conj}`denn` ich bin sehr müde.
+: I am going home earlier, because I am very tired.
+
+Wir nehmen den nächsten Termin, {conj}`denn` heute haben wir keine Zeit mehr.
+: We are taking the next appointment, because today we have no more time.
+
+Sie fährt nicht mit, {conj}`denn` sie muss noch arbeiten.
+: She is not coming along, because she still has to work.
+
+Er kauft das Ticket online, {conj}`denn` am Schalter ist die Schlange zu lang.
+: He is buying the ticket online, because the line at the counter is too long.
+:::
 
 :::{warning}
 Do not start a sentence with **denn** in this structure. Use **weil** or **da** if the reason clause comes first.

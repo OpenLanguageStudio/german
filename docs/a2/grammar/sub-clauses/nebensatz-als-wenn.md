@@ -10,15 +10,6 @@ myst:
 ---
 # als und wenn - Unterschied
 
-> Temporal clauses: one-time past vs repeated/present/future
-
-:::{seealso}
-
-- [A2 > Grammar > Nebensatz mit weil](/a2/grammar/sub-clauses/nebensatz-weil.md)
-- [A2 > Grammar > Nebensatz mit wenn](/a2/grammar/sub-clauses/nebensatz-wenn.md)
-- [A2 > Grammar > Konnektoren: denn, deshalb, trotzdem](/a2/grammar/sub-clauses/konnektoren.md)
-:::
-
 German uses both {conj}`als` and {conj}`wenn` for "when," but they are not interchangeable. The split is quick to learn: {conj}`als` for a single moment or period in the past, {conj}`wenn` for repeated situations, present and future time, and conditions.
 
 *Examples:*
@@ -37,16 +28,22 @@ Use {conj}`als` for one specific event or one finished time period in the past. 
 
 **Examples:**
 
-- {conj}`Als` ich in Berlin {verb}`war`, besuchte ich den Fernsehturm.  
-  *When I was in Berlin, I visited the TV tower.*
-- Ich war sehr nervös, {conj}`als` ich mein erstes Interview {verb}`hatte`.  
-  *I was very nervous when I had my first interview.*
-- {conj}`Als` der Film zu Ende {verb}`war`, gingen wir nach Hause.  
-  *When the film was over, we went home.*
-- {conj}`Als` meine Schwester 18 {verb}`wurde`, bekam sie ein Fahrrad.  
-  *When my sister turned 18, she got a bike.*
-- Ich habe dich angerufen, {conj}`als` ich zu Hause {verb}`ankam`.  
-  *I called you when I arrived home.*
+:::{div} ol-examples
+{conj}`Als` ich in Berlin {verb}`war`, besuchte ich den Fernsehturm.
+: When I was in Berlin, I visited the TV tower.
+
+Ich war sehr nervös, {conj}`als` ich mein erstes Interview {verb}`hatte`.
+: I was very nervous when I had my first interview.
+
+{conj}`Als` der Film zu Ende {verb}`war`, gingen wir nach Hause.
+: When the film was over, we went home.
+
+{conj}`Als` meine Schwester 18 {verb}`wurde`, bekam sie ein Fahrrad.
+: When my sister turned 18, she got a bike.
+
+Ich habe dich angerufen, {conj}`als` ich zu Hause {verb}`ankam`.
+: I called you when I arrived home.
+:::
 
 :::{tip}
 Think of {conj}`als` as a camera snapshot from the past: one event, one occasion, or one finished life phase.
@@ -62,16 +59,22 @@ Use {conj}`wenn` when something happens repeatedly, usually, or under a conditio
 
 **Examples:**
 
-- {conj}`Wenn` ich früher in Berlin {verb}`war`, besuchte ich immer meinen Onkel.  
-  *Whenever I was in Berlin before, I always visited my uncle.*
-- {conj}`Wenn` es regnet, {verb}`bleibe` ich zu Hause.  
-  *When it rains, I stay at home.*
-- {conj}`Wenn` wir Zeit haben, {verb}`kochen` wir zusammen.  
-  *When we have time, we cook together.*
-- {conj}`Wenn` ich morgen frei {verb}`habe`, komme ich vorbei.  
-  *If I am free tomorrow, I will come by.*
-- Ruf mich an, {conj}`wenn` du Hilfe {verb}`brauchst`.  
-  *Call me if you need help.*
+:::{div} ol-examples
+{conj}`Wenn` ich früher in Berlin {verb}`war`, besuchte ich immer meinen Onkel.
+: Whenever I was in Berlin before, I always visited my uncle.
+
+{conj}`Wenn` es regnet, {verb}`bleibe` ich zu Hause.
+: When it rains, I stay at home.
+
+{conj}`Wenn` wir Zeit haben, {verb}`kochen` wir zusammen.
+: When we have time, we cook together.
+
+{conj}`Wenn` ich morgen frei {verb}`habe`, komme ich vorbei.
+: If I am free tomorrow, I will come by.
+
+Ruf mich an, {conj}`wenn` du Hilfe {verb}`brauchst`.
+: Call me if you need help.
+:::
 
 :::{note}
 In many A2 contexts, {conj}`wenn` can mean both "when" and "if." The sentence context tells you which meaning is intended.
@@ -94,15 +97,19 @@ Use this table as a quick decision guide.
 
 Minimal pairs help you see the contrast in the same situation:
 
-- {conj}`Als` ich in Berlin {verb}`war`, besuchte ich den Fernsehturm.  
-  *When I was in Berlin (one trip), I visited the TV tower.*
-- {conj}`Wenn` ich in Berlin {verb}`war`, besuchte ich immer den Fernsehturm.  
-  *Whenever I was in Berlin (repeated trips), I always visited the TV tower.*
+:::{div} ol-examples
+{conj}`Als` ich in Berlin {verb}`war`, besuchte ich den Fernsehturm.
+: When I was in Berlin (one trip), I visited the TV tower.
 
-- {conj}`Als` ich jung {verb}`war`, hatte ich kein Handy.  
-  *When I was young, I did not have a mobile phone.*
-- {conj}`Wenn` ich jung {verb}`war`, spielte ich immer draußen.  
-  *When I was young (in those repeated situations), I always played outside.*
+{conj}`Wenn` ich in Berlin {verb}`war`, besuchte ich immer den Fernsehturm.
+: Whenever I was in Berlin (repeated trips), I always visited the TV tower.
+
+{conj}`Als` ich jung {verb}`war`, hatte ich kein Handy.
+: When I was young, I did not have a mobile phone.
+
+{conj}`Wenn` ich jung {verb}`war`, spielte ich immer draußen.
+: When I was young (in those repeated situations), I always played outside.
+:::
 
 :::{warning}
 This article covers only temporal {conj}`als` (= "when" in one-time past contexts). German {conj}`als` also has other uses, for example comparison: "Er ist größer als ich." That is a different topic.
@@ -110,27 +117,7 @@ This article covers only temporal {conj}`als` (= "when" in one-time past context
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- Use **{conj}`als`** for one single event or one finished period in the past.
-- Use **{conj}`wenn`** for repeated events, present/future time, and conditions.
-- In both clauses, the conjugated verb goes to the end of the subordinate clause.
-- If your sentence is about one past occasion, choose {conj}`als`, not {conj}`wenn`.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Wenn ich 2019 in Berlin war, besuchte ich den Fernsehturm.* -> **Als** ich 2019 in Berlin war, besuchte ich den Fernsehturm. (single past event)
-- *Als es regnet, bleibe ich zu Hause.* -> **Wenn** es regnet, bleibe ich zu Hause. (present routine)
-- *Wenn meine Schwester 18 wurde, bekam sie ein Fahrrad.* -> **Als** meine Schwester 18 wurde, bekam sie ein Fahrrad. (one-time past event)
-- *Wenn ich in München ankam, rief ich dich an.* -> **Als** ich in München ankam, rief ich dich an. (single arrival)
-:::
-
----
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/nebensatze-mit-als-und-wenn
@@ -230,8 +217,32 @@ Wenn sie ein Auto kaufen, vergleichen sie die Preise.
 
 ---
 
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Use **{conj}`als`** for one single event or one finished period in the past.
+- Use **{conj}`wenn`** for repeated events, present/future time, and conditions.
+- In both clauses, the conjugated verb goes to the end of the subordinate clause.
+- If your sentence is about one past occasion, choose {conj}`als`, not {conj}`wenn`.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Wenn ich 2019 in Berlin war, besuchte ich den Fernsehturm.* -> **Als** ich 2019 in Berlin war, besuchte ich den Fernsehturm. (single past event)
+- *Als es regnet, bleibe ich zu Hause.* -> **Wenn** es regnet, bleibe ich zu Hause. (present routine)
+- *Wenn meine Schwester 18 wurde, bekam sie ein Fahrrad.* -> **Als** meine Schwester 18 wurde, bekam sie ein Fahrrad. (one-time past event)
+- *Wenn ich in München ankam, rief ich dich an.* -> **Als** ich in München ankam, rief ich dich an. (single arrival)
+:::
+
+---
+
 ## Related articles
 
 - [A2 > Grammar > Nebensatz mit wenn](/a2/grammar/sub-clauses/nebensatz-wenn.md)
 - [A2 > Concepts > Indirect questions](/a2/concepts/indirect-questions.md)
 - [A2 > Grammar > Modalverben im Präteritum](/a2/grammar/verbs/modalverben-praeteritum.md)
+- [A2 > Grammar > Nebensatz mit weil](/a2/grammar/sub-clauses/nebensatz-weil.md)
+- [A2 > Grammar > Konnektoren: denn, deshalb, trotzdem](/a2/grammar/sub-clauses/konnektoren.md)

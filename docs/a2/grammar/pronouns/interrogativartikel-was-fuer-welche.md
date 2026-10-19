@@ -10,8 +10,6 @@ myst:
 ---
 # Interrogativartikel: was für ein und welch-
 
-> Asking "What kind of?" vs. "Which one?"
-
 Two German question words often confuse learners at this level: *was für ein* and *welch-*. They look similar and can both be translated as "what", but they ask very different things. The difference is what makes a question precise rather than vague.
 
 ---
@@ -37,23 +35,25 @@ With **plural nouns** and **uncountable nouns** (things you cannot count), drop 
 
 ### Examples
 
-- Was für **ein** {noun}`Auto` hast du?  
-  *What kind of car do you have?*
+:::{div} ol-examples
+Was für **ein** {noun}`Auto` hast du?
+: What kind of car do you have?
 
-- Was für **eine** {noun}`Wohnung` suchst du?  
-  *What kind of apartment are you looking for?*
+Was für **eine** {noun}`Wohnung` suchst du?
+: What kind of apartment are you looking for?
 
-- Was für **einen** {noun}`Beruf` hat sie?  
-  *What kind of job does she have?*
+Was für **einen** {noun}`Beruf` hat sie?
+: What kind of job does she have?
 
-- Was für **ein** {noun}`Film` war das?  
-  *What kind of film was that?*
+Was für **ein** {noun}`Film` war das?
+: What kind of film was that?
 
-- Was für **ein** {noun}`Buch` liest du gerade?  
-  *What kind of book are you reading at the moment?*
+Was für **ein** {noun}`Buch` liest du gerade?
+: What kind of book are you reading at the moment?
 
-- Was für **Sprachen** sprichst du?  
-  *What kind of languages do you speak?*
+Was für **Sprachen** sprichst du?
+: What kind of languages do you speak?
+:::
 
 ---
 
@@ -75,23 +75,25 @@ A quick way to remember the endings: they follow the same pattern as *der, die, 
 
 ### Examples
 
-- **Welches** {noun}`Zimmer` ist frei?  
-  *Which room is free?*
+:::{div} ol-examples
+**Welches** {noun}`Zimmer` ist frei?
+: Which room is free?
 
-- **Welchen** {noun}`Zug` nimmst du?  
-  *Which train are you taking?*
+**Welchen** {noun}`Zug` nimmst du?
+: Which train are you taking?
 
-- **Welche** {noun}`Jacke` gefällt dir am besten?  
-  *Which jacket do you like best?*
+**Welche** {noun}`Jacke` gefällt dir am besten?
+: Which jacket do you like best?
 
-- Mit **welchem** {noun}`Bus` fährst du?  
-  *Which bus are you taking?*
+Mit **welchem** {noun}`Bus` fährst du?
+: Which bus are you taking?
 
-- **Welche** {noun}`Filme` habt ihr gesehen?  
-  *Which films did you watch?*
+**Welche** {noun}`Filme` habt ihr gesehen?
+: Which films did you watch?
 
-- **Welchen** {noun}`Kaffee` möchtest du?  
-  *Which coffee would you like?*
+**Welchen** {noun}`Kaffee` möchtest du?
+: Which coffee would you like?
+:::
 
 ---
 
@@ -115,44 +117,23 @@ In practice, the two words can sometimes overlap. Germans may occasionally use *
 
 ### More contrast examples
 
-- Was für **einen** Tee möchtest du? (open, you haven't seen the options yet)  
-  *What kind of tea would you like?*
+:::{div} ol-examples
+Was für **einen** Tee möchtest du? (open, you haven't seen the options yet)
+: What kind of tea would you like?
 
-- **Welchen** Tee möchtest du? (a menu or tea box is in front of you)  
-  *Which tea would you like?*
+**Welchen** Tee möchtest du? (a menu or tea box is in front of you)
+: Which tea would you like?
 
-- Was für **ein** Hotel habt ihr gebucht?  
-  *What kind of hotel did you book?*
+Was für **ein** Hotel habt ihr gebucht?
+: What kind of hotel did you book?
 
-- **Welches** Hotel habt ihr gebucht? (choosing from a shortlist you both know)  
-  *Which hotel did you book?*
-
----
-
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- **was für ein(e)** asks about the **type or kind** of something, an open question with no specific set of options.
-  - The *ein* declines like the indefinite article to match gender and case.
-  - Plural and uncountable nouns: drop *ein*, just *was für* + noun.
-- **welch-** asks about a **specific choice** from a known or visible set of options.
-  - Declines like the definite article: *welcher / welche / welches / welche*.
-- The *für* in *was für ein* does **not** fix the case of the noun, the noun's case comes from its grammatical role in the sentence.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Was für \*welches Auto hast du?* → Use one or the other, not both: **Was für ein Auto hast du?**
-- *Was für **ein** Bücher liest du?* → Plural nouns drop the *ein*: **Was für Bücher liest du?**
-- *\*Welche Auto nimmst du?* (masculine noun, Akk) → **Welchen** Auto nimmst du?, match the ending to gender and case.
-- *Was für **einen** Film läuft im Kino?* → The film is the subject (Nom): **Was für ein Film** läuft im Kino?
-- Using *welch-* to ask about type when there are no visible options: prefer **was für ein** for open type questions.
+**Welches** Hotel habt ihr gebucht? (choosing from a shortlist you both know)
+: Which hotel did you book?
 :::
 
 ---
+
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/interrogativartikel-was-fur-ein-und-welcher
@@ -248,6 +229,31 @@ Was für ein Restaurant suchst du?
 
 Welches Restaurant ist besser?
 : Which restaurant is better?
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- **was für ein(e)** asks about the **type or kind** of something, an open question with no specific set of options.
+  - The *ein* declines like the indefinite article to match gender and case.
+  - Plural and uncountable nouns: drop *ein*, just *was für* + noun.
+- **welch-** asks about a **specific choice** from a known or visible set of options.
+  - Declines like the definite article: *welcher / welche / welches / welche*.
+- The *für* in *was für ein* does **not** fix the case of the noun, the noun's case comes from its grammatical role in the sentence.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Was für \*welches Auto hast du?* → Use one or the other, not both: **Was für ein Auto hast du?**
+- *Was für **ein** Bücher liest du?* → Plural nouns drop the *ein*: **Was für Bücher liest du?**
+- *\*Welche Auto nimmst du?* (masculine noun, Akk) → **Welchen** Auto nimmst du?, match the ending to gender and case.
+- *Was für **einen** Film läuft im Kino?* → The film is the subject (Nom): **Was für ein Film** läuft im Kino?
+- Using *welch-* to ask about type when there are no visible options: prefer **was für ein** for open type questions.
 :::
 
 ---

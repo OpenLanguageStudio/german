@@ -10,15 +10,6 @@ myst:
 ---
 # Temporale Präpositionen
 
-> Temporal prepositions, saying when things happen
-
-:::{seealso}
-
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Concepts > Indirekte Fragen](/a2/concepts/indirect-questions.md)
-:::
-
 Temporal prepositions tell you *when* something happens, *how long* it lasts, or *how long ago* it was. In German, every temporal preposition requires either the **accusative** or the **dative** case, and the case is fixed per preposition. There are three accusative ones and five dative ones. Once you know these eight, you can talk about schedules, routines, appointments, and past events comfortably.
 
 :::{important}
@@ -51,16 +42,22 @@ These three prepositions are always followed by the accusative case. Before bare
 
 *bis* marks the end point in time: when something stops, or the latest moment to do something.
 
-- Das Café ist {prep}`bis` 22 Uhr geöffnet.  
-  *The café is open until 10 pm.*
-- Wir haben {prep}`bis` Freitag Zeit.  
-  *We have until Friday.*
-- Kannst du {prep}`bis` morgen fertig sein?  
-  *Can you be done by tomorrow?*
-- Der Kurs läuft {prep}`bis` Ende August.  
-  *The course runs until the end of August.*
-- Ich warte {prep}`bis` 20 Uhr auf dich.  
-  *I'll wait for you until 8 pm.*
+:::{div} ol-examples
+Das Café ist {prep}`bis` 22 Uhr geöffnet.
+: The café is open until 10 pm.
+
+Wir haben {prep}`bis` Freitag Zeit.
+: We have until Friday.
+
+Kannst du {prep}`bis` morgen fertig sein?
+: Can you be done by tomorrow?
+
+Der Kurs läuft {prep}`bis` Ende August.
+: The course runs until the end of August.
+
+Ich warte {prep}`bis` 20 Uhr auf dich.
+: I'll wait for you until 8 pm.
+:::
 
 :::{note}
 Before a noun with a definite article, *bis* pairs with *zu*: **bis zum** (bis zu + dem) and **bis zur** (bis zu + der). This *bis zu* construction takes dative.
@@ -73,16 +70,22 @@ Before a noun with a definite article, *bis* pairs with *zu*: **bis zum** (bis z
 
 *um* is used for precise times on the clock. It answers the question *Um wie viel Uhr?* (At what time?).
 
-- Der Zug fährt {prep}`um` 9 Uhr ab.  
-  *The train departs at 9.*
-- Ich stehe {prep}`um` halb sieben auf.  
-  *I get up at half past six.*
-- Das Meeting beginnt {prep}`um` 14:30 Uhr.  
-  *The meeting starts at 2:30 pm.*
-- {prep}`Um` wie viel Uhr kommt er an?  
-  *At what time does he arrive?*
-- Wir treffen uns {prep}`um` Mitternacht.  
-  *We are meeting at midnight.*
+:::{div} ol-examples
+Der Zug fährt {prep}`um` 9 Uhr ab.
+: The train departs at 9.
+
+Ich stehe {prep}`um` halb sieben auf.
+: I get up at half past six.
+
+Das Meeting beginnt {prep}`um` 14:30 Uhr.
+: The meeting starts at 2:30 pm.
+
+{prep}`Um` wie viel Uhr kommt er an?
+: At what time does he arrive?
+
+Wir treffen uns {prep}`um` Mitternacht.
+: We are meeting at midnight.
+:::
 
 :::{tip}
 *um* is only for clock times, never for days. For days, use *an*, which contracts to *am*:
@@ -95,14 +98,19 @@ Before a noun with a definite article, *bis* pairs with *zu*: **bis zum** (bis z
 
 *über* describes a duration that exceeds a certain length – "more than" or "over".
 
-- Wir haben {prep}`über` {akk}`eine` Stunde gewartet.  
-  *We waited for over an hour.*
-- Das Konzert dauerte {prep}`über` {akk}`zwei` Stunden.  
-  *The concert lasted over two hours.*
-- Er war {prep}`über` {akk}`einen` Monat krank.  
-  *He was sick for over a month.*
-- Ich habe {prep}`über` {akk}`eine` Woche keine Nachrichten bekommen.  
-  *I had no news for over a week.*
+:::{div} ol-examples
+Wir haben {prep}`über` {akk}`eine` Stunde gewartet.
+: We waited for over an hour.
+
+Das Konzert dauerte {prep}`über` {akk}`zwei` Stunden.
+: The concert lasted over two hours.
+
+Er war {prep}`über` {akk}`einen` Monat krank.
+: He was sick for over a month.
+
+Ich habe {prep}`über` {akk}`eine` Woche keine Nachrichten bekommen.
+: I had no news for over a week.
+:::
 
 ---
 
@@ -126,14 +134,19 @@ The most important contraction to remember:
 
 *ab* marks when something begins and continues from that point onwards.
 
-- {prep}`Ab` {dativ}`dem` ersten Mai beginnt der neue Kurs.  
-  *From the first of May the new course begins.*
-- {prep}`Ab` nächstem Montag arbeite ich im Büro.  
-  *From next Monday I'll be working in the office.*
-- {prep}`Ab` 18 Uhr haben wir frei.  
-  *We're free from 6 pm onwards.*
-- {prep}`Ab` morgen esse ich gesünder.  
-  *Starting tomorrow I'll eat more healthily.*
+:::{div} ol-examples
+{prep}`Ab` {dativ}`dem` ersten Mai beginnt der neue Kurs.
+: From the first of May the new course begins.
+
+{prep}`Ab` nächstem Montag arbeite ich im Büro.
+: From next Monday I'll be working in the office.
+
+{prep}`Ab` 18 Uhr haben wir frei.
+: We're free from 6 pm onwards.
+
+{prep}`Ab` morgen esse ich gesünder.
+: Starting tomorrow I'll eat more healthily.
+:::
 
 :::{note}
 *ab* often appears without an article in everyday speech – *ab Montag*, *ab morgen*, *ab drei Uhr*. Both forms (with and without article) are natural and correct.
@@ -143,16 +156,22 @@ The most important contraction to remember:
 
 *an* is used before days of the week, specific dates, and parts of the day. It almost always contracts: **an + dem = am**.
 
-- Ich habe {prep}`am` Montag einen Termin.  
-  *I have an appointment on Monday.*
-- {prep}`Am` dritten März ist ihr Geburtstag.  
-  *Her birthday is on the third of March.*
-- Wir essen {prep}`am` Abend zusammen.  
-  *We eat together in the evening.*
-- {prep}`Am` Wochenende schlafe ich lange.  
-  *At the weekend I sleep late.*
-- {prep}`An` Feiertagen ist das Geschäft geschlossen.  
-  *On public holidays the shop is closed.*
+:::{div} ol-examples
+Ich habe {prep}`am` Montag einen Termin.
+: I have an appointment on Monday.
+
+{prep}`Am` dritten März ist ihr Geburtstag.
+: Her birthday is on the third of March.
+
+Wir essen {prep}`am` Abend zusammen.
+: We eat together in the evening.
+
+{prep}`Am` Wochenende schlafe ich lange.
+: At the weekend I sleep late.
+
+{prep}`An` Feiertagen ist das Geschäft geschlossen.
+: On public holidays the shop is closed.
+:::
 
 :::{tip}
 *am* is also used for times of day: *am Morgen* (in the morning), *am Nachmittag* (in the afternoon), *am Abend* (in the evening). Only *in der Nacht* (at night) breaks this pattern.
@@ -168,16 +187,22 @@ The most important contraction to remember:
 - *He has been living here since 2020.* (still living here)
 - *She has been working there for six months.* (still working)
 
-- Ich lerne {prep}`seit` {dativ}`einem` Jahr Deutsch.  
-  *I have been learning German for a year.*
-- Er wohnt {prep}`seit` drei Monaten in Hamburg.  
-  *He has been living in Hamburg for three months.*
-- {prep}`Seit` {dativ}`dem` Sommer ist es viel wärmer.  
-  *Since summer it has been much warmer.*
-- Sie arbeitet {prep}`seit` 2022 bei dieser Firma.  
-  *She has been working at this company since 2022.*
-- Wir kennen uns {prep}`seit` {dativ}`der` Schule.  
-  *We have known each other since school.*
+:::{div} ol-examples
+Ich lerne {prep}`seit` {dativ}`einem` Jahr Deutsch.
+: I have been learning German for a year.
+
+Er wohnt {prep}`seit` drei Monaten in Hamburg.
+: He has been living in Hamburg for three months.
+
+{prep}`Seit` {dativ}`dem` Sommer ist es viel wärmer.
+: Since summer it has been much warmer.
+
+Sie arbeitet {prep}`seit` 2022 bei dieser Firma.
+: She has been working at this company since 2022.
+
+Wir kennen uns {prep}`seit` {dativ}`der` Schule.
+: We have known each other since school.
+:::
 
 :::{warning}
 **seit + Präsens, not Perfekt**
@@ -194,27 +219,37 @@ English says "I *have been* learning for a year" – German says "Ich *lerne* se
 
 *vor* points backward in time. It tells you how long ago something happened, or that something comes before a given event.
 
-- Er hat {prep}`vor` {dativ}`einer` Woche angerufen.  
-  *He called a week ago.*
-- Ich war {prep}`vor` {dativ}`einem` Jahr in München.  
-  *I was in Munich a year ago.*
-- {prep}`Vor` {dativ}`dem` Essen wasche ich die Hände.  
-  *Before dinner I wash my hands.*
-- {prep}`Vor` {dativ}`dem` Kurs trinken wir noch einen Kaffee.  
-  *Before the class we have a coffee.*
+:::{div} ol-examples
+Er hat {prep}`vor` {dativ}`einer` Woche angerufen.
+: He called a week ago.
+
+Ich war {prep}`vor` {dativ}`einem` Jahr in München.
+: I was in Munich a year ago.
+
+{prep}`Vor` {dativ}`dem` Essen wasche ich die Hände.
+: Before dinner I wash my hands.
+
+{prep}`Vor` {dativ}`dem` Kurs trinken wir noch einen Kaffee.
+: Before the class we have a coffee.
+:::
 
 ### nach, after
 
 *nach* tells you that something happens after another event or point in time.
 
-- {prep}`Nach` {dativ}`dem` Unterricht gehen wir ins Café.  
-  *After class we go to the café.*
-- {prep}`Nach` {dativ}`der` Arbeit bin ich immer müde.  
-  *After work I am always tired.*
-- Was machst du {prep}`nach` {dativ}`dem` Frühstück?  
-  *What do you do after breakfast?*
-- {prep}`Nach` {dativ}`dem` Film gehen wir noch essen.  
-  *After the film we go out to eat.*
+:::{div} ol-examples
+{prep}`Nach` {dativ}`dem` Unterricht gehen wir ins Café.
+: After class we go to the café.
+
+{prep}`Nach` {dativ}`der` Arbeit bin ich immer müde.
+: After work I am always tired.
+
+Was machst du {prep}`nach` {dativ}`dem` Frühstück?
+: What do you do after breakfast?
+
+{prep}`Nach` {dativ}`dem` Film gehen wir noch essen.
+: After the film we go out to eat.
+:::
 
 :::{tip}
 *vor* and *nach* are opposites – *vor* = before / ago (pointing backward in time), *nach* = after (pointing forward). They often pair naturally in daily routines:
@@ -237,18 +272,25 @@ In daily life, these prepositions organise the day and place events before or af
 
 **Examples:**
 
-- Wir haben {prep}`am` Montag {prep}`um` 10 Uhr einen Arzttermin.  
-  *We have a doctor’s appointment on Monday at 10.*
-- Der Supermarkt ist {prep}`bis` 20 Uhr geöffnet, {prep}`ab` Samstag aber nur bis 18 Uhr.  
-  *The supermarket is open until 8 pm, but from Saturday only until 6 pm.*
-- {prep}`Nach` {dativ}`dem` Essen gehe ich direkt ins Meeting.  
-  *After lunch I go straight to the meeting.*
-- {prep}`Vor` {dativ}`einem` Jahr hatte ich noch keinen Deutschkurs.  
-  *A year ago I still didn’t have a German course.*
-- Ich lerne {prep}`seit` {dativ}`einem` Jahr Deutsch und mache jetzt mehr Termine auf Deutsch.  
-  *I have been learning German for a year and now I make more appointments in German.*
-- {prep}`Ab` nächster Woche trainieren wir wieder dienstags.  
-  *Starting next week, we train on Tuesdays again.*
+:::{div} ol-examples
+Wir haben {prep}`am` Montag {prep}`um` 10 Uhr einen Arzttermin.
+: We have a doctor’s appointment on Monday at 10.
+
+Der Supermarkt ist {prep}`bis` 20 Uhr geöffnet, {prep}`ab` Samstag aber nur bis 18 Uhr.
+: The supermarket is open until 8 pm, but from Saturday only until 6 pm.
+
+{prep}`Nach` {dativ}`dem` Essen gehe ich direkt ins Meeting.
+: After lunch I go straight to the meeting.
+
+{prep}`Vor` {dativ}`einem` Jahr hatte ich noch keinen Deutschkurs.
+: A year ago I still didn’t have a German course.
+
+Ich lerne {prep}`seit` {dativ}`einem` Jahr Deutsch und mache jetzt mehr Termine auf Deutsch.
+: I have been learning German for a year and now I make more appointments in German.
+
+{prep}`Ab` nächster Woche trainieren wir wieder dienstags.
+: Starting next week, we train on Tuesdays again.
+:::
 
 :::{tip}
 Three very common chunks to memorise:
@@ -262,30 +304,7 @@ If you learn these as fixed phrases, speaking about time becomes much faster.
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- **Accusative:** *bis* (until/by), *um* (at, clock times), *über* (for over/more than)
-- **Dative:** *ab* (from), *an* (on, days/dates), *seit* (since/for), *vor* (ago/before), *nach* (after)
-- *an + dem* always contracts to **am**, you must write *am Montag*, never *an dem Montag*
-- *seit* + **present tense** for ongoing situations: *Ich lerne seit einem Jahr Deutsch*
-- *vor* looks backward (ago/before); *nach* looks forward (after)
-- *um* is only for clock times; *an* is for days and dates
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*um Montag* → **am Montag** (*um* is for clock times; use *an* → *am* for days)
-- *\*an dem Dienstag* → **am Dienstag** (*an + dem* must contract to *am*, always)
-- *\*Ich habe seit drei Jahren Deutsch gelernt.* → **Ich lerne seit drei Jahren Deutsch.** (ongoing → present tense, not Perfekt)
-- *\*vor eine Woche* → **vor einer Woche** (*vor* takes dative, indefinite article feminine = *einer*, not *eine*)
-- *\*Nach dem Essen ich gehe* → **Nach dem Essen gehe ich...** (time phrase first → verb second, subject third)
-:::
-
----
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/temporale-prapositionen
@@ -383,3 +402,35 @@ Seit gestern habe ich Kopfschmerzen.
 : Since yesterday I've had a headache.
 :::
 
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- **Accusative:** *bis* (until/by), *um* (at, clock times), *über* (for over/more than)
+- **Dative:** *ab* (from), *an* (on, days/dates), *seit* (since/for), *vor* (ago/before), *nach* (after)
+- *an + dem* always contracts to **am**, you must write *am Montag*, never *an dem Montag*
+- *seit* + **present tense** for ongoing situations: *Ich lerne seit einem Jahr Deutsch*
+- *vor* looks backward (ago/before); *nach* looks forward (after)
+- *um* is only for clock times; *an* is for days and dates
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*um Montag* → **am Montag** (*um* is for clock times; use *an* → *am* for days)
+- *\*an dem Dienstag* → **am Dienstag** (*an + dem* must contract to *am*, always)
+- *\*Ich habe seit drei Jahren Deutsch gelernt.* → **Ich lerne seit drei Jahren Deutsch.** (ongoing → present tense, not Perfekt)
+- *\*vor eine Woche* → **vor einer Woche** (*vor* takes dative, indefinite article feminine = *einer*, not *eine*)
+- *\*Nach dem Essen ich gehe* → **Nach dem Essen gehe ich...** (time phrase first → verb second, subject third)
+:::
+
+---
+
+## Related articles
+
+- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
+- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
+- [A2 > Concepts > Indirekte Fragen](/a2/concepts/indirect-questions.md)

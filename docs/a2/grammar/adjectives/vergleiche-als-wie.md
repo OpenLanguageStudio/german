@@ -10,14 +10,6 @@ myst:
 ---
 # Vergleiche mit als und wie
 
-> Comparing things: "than" and "as ... as"
-
-:::{seealso}
-
-- [A2 > Grammar > Komparativ und Superlativ](/a2/grammar/adjectives/komparativ-superlativ.md)
-- [A2 > Concepts > Making comparisons](/a2/concepts/making-comparisons.md)
-:::
-
 Comparing things is something you do every day, saying one thing is bigger, faster, or cheaper than another, or that two things are equal. In German, you use *als* (than) for unequal comparisons and *wie* (as) for equal ones. The key rule to remember: **comparative form + als**, **positive form + so...wie**.
 
 :::{important}
@@ -47,18 +39,25 @@ When one thing is more (or less) of something than another, use the **comparativ
 
 **Examples:**
 
-- Mein Bruder ist **größer als** ich.  
-  *My brother is taller than me.*
-- Ein Auto ist **schneller als** ein Fahrrad.  
-  *A car is faster than a bicycle.*
-- Das rote T-Shirt ist **billiger als** das blaue.  
-  *The red T-shirt is cheaper than the blue one.*
-- Sie arbeitet **fleißiger als** ihr Kollege.  
-  *She works harder than her colleague.*
-- Dieser Film ist **besser als** der andere.  
-  *This film is better than the other one.*
-- Ich schlafe **länger als** meine Schwester.  
-  *I sleep longer than my sister.*
+:::{div} ol-examples
+Mein Bruder ist **größer als** ich.
+: My brother is taller than me.
+
+Ein Auto ist **schneller als** ein Fahrrad.
+: A car is faster than a bicycle.
+
+Das rote T-Shirt ist **billiger als** das blaue.
+: The red T-shirt is cheaper than the blue one.
+
+Sie arbeitet **fleißiger als** ihr Kollege.
+: She works harder than her colleague.
+
+Dieser Film ist **besser als** der andere.
+: This film is better than the other one.
+
+Ich schlafe **länger als** meine Schwester.
+: I sleep longer than my sister.
+:::
 
 :::{note}
 A handful of adjectives have irregular comparative forms. The most common are: *gut* → *besser* (better), *viel* → *mehr* (more), *gern* → *lieber* (preferably). These follow the same structure: [irregular comparative] + *als*, for example, *Das schmeckt besser als das andere.* (That tastes better than the other one.)
@@ -77,18 +76,25 @@ When two things are the same in some way, use **(genau) so + [positive adjective
 
 **Examples:**
 
-- Er ist **so groß wie** sein Vater.  
-  *He is as tall as his father.*
-- Dein Handy ist **genauso teuer wie** meins.  
-  *Your phone is just as expensive as mine.*
-- Heute ist es **so warm wie** gestern.  
-  *Today is as warm as yesterday.*
-- Dieser Kurs ist **so gut wie** der letzte.  
-  *This course is as good as the previous one.*
-- Sie kocht **so gut wie** ihre Mutter.  
-  *She cooks as well as her mother.*
-- Du bist **genau so alt wie** mein Bruder.  
-  *You are exactly as old as my brother.*
+:::{div} ol-examples
+Er ist **so groß wie** sein Vater.
+: He is as tall as his father.
+
+Dein Handy ist **genauso teuer wie** meins.
+: Your phone is just as expensive as mine.
+
+Heute ist es **so warm wie** gestern.
+: Today is as warm as yesterday.
+
+Dieser Kurs ist **so gut wie** der letzte.
+: This course is as good as the previous one.
+
+Sie kocht **so gut wie** ihre Mutter.
+: She cooks as well as her mother.
+
+Du bist **genau so alt wie** mein Bruder.
+: You are exactly as old as my brother.
+:::
 
 :::{tip}
 *Genau so* (two words) and *genauso* (one word) are both correct spelling. In written German you will see *genauso* more often, but both forms mean the same thing.
@@ -102,16 +108,22 @@ To say that something is *less than* something else, or simply *not equal*, use 
 
 **Examples:**
 
-- Dresden ist **nicht so teuer wie** Berlin.  
-  *Dresden is not as expensive as Berlin.*
-- Mein Fahrrad ist **nicht so alt wie** deins.  
-  *My bicycle is not as old as yours.*
-- Er spielt **nicht so gut wie** sein Bruder.  
-  *He doesn't play as well as his brother.*
-- Die Aufgabe war **nicht so schwer wie** ich dachte.  
-  *The task wasn't as hard as I thought.*
-- Das Hotel ist **nicht so weit weg wie** das andere.  
-  *The hotel is not as far away as the other one.*
+:::{div} ol-examples
+Dresden ist **nicht so teuer wie** Berlin.
+: Dresden is not as expensive as Berlin.
+
+Mein Fahrrad ist **nicht so alt wie** deins.
+: My bicycle is not as old as yours.
+
+Er spielt **nicht so gut wie** sein Bruder.
+: He doesn't play as well as his brother.
+
+Die Aufgabe war **nicht so schwer wie** ich dachte.
+: The task wasn't as hard as I thought.
+
+Das Hotel ist **nicht so weit weg wie** das andere.
+: The hotel is not as far away as the other one.
+:::
 
 :::{warning}
 After *nicht so...wie*, the adjective is always in its **positive form**, never the comparative. It is tempting to say *nicht so größer wie*, but that is wrong. The *-er* ending belongs with *als* only.
@@ -119,27 +131,7 @@ After *nicht so...wie*, the adjective is always in its **positive form**, never 
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- **Unequal**: use the **comparative** (adjective + *-er*) + **als** – *größer als, schneller als*
-- **Equal**: use **(genau) so** + **positive adjective** + **wie** – *so groß wie, genauso gut wie*
-- **Negative equality**: use **nicht so** + **positive adjective** + **wie** – *nicht so teuer wie*
-- The golden rule: **comparative → als** / **positive → so...wie**
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Er ist größer \*wie ich.* → Er ist größer **als** ich. (use *als* with the comparative, not *wie*)
-- *Sie ist so schön \*als ihre Mutter.* → Sie ist so schön **wie** ihre Mutter. (use *wie* after *so*, not *als*)
-- *Das ist nicht so \*besser wie das andere.* → Das ist nicht so **gut** wie das andere. (positive form after *nicht so...wie*, not comparative)
-- *Er ist \*so größer wie sein Vater.* → Er ist **so groß wie** sein Vater. (no *-er* in equality comparisons)
-:::
-
----
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/vergleiche-mit-als-und-wie
@@ -223,6 +215,28 @@ Sie singt schöner als er.
 
 Er singt so schön wie ein Profi.
 : He sings as beautifully as a professional.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- **Unequal**: use the **comparative** (adjective + *-er*) + **als** – *größer als, schneller als*
+- **Equal**: use **(genau) so** + **positive adjective** + **wie** – *so groß wie, genauso gut wie*
+- **Negative equality**: use **nicht so** + **positive adjective** + **wie** – *nicht so teuer wie*
+- The golden rule: **comparative → als** / **positive → so...wie**
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Er ist größer \*wie ich.* → Er ist größer **als** ich. (use *als* with the comparative, not *wie*)
+- *Sie ist so schön \*als ihre Mutter.* → Sie ist so schön **wie** ihre Mutter. (use *wie* after *so*, not *als*)
+- *Das ist nicht so \*besser wie das andere.* → Das ist nicht so **gut** wie das andere. (positive form after *nicht so...wie*, not comparative)
+- *Er ist \*so größer wie sein Vater.* → Er ist **so groß wie** sein Vater. (no *-er* in equality comparisons)
 :::
 
 ---

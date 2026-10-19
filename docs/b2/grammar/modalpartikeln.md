@@ -10,17 +10,6 @@ myst:
 ---
 # Modalpartikeln
 
-> Add natural nuance to spoken German with tiny words like *ja*, *doch*, *mal*, and *denn*
-
-:::{seealso}
-
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Negation](/b2/grammar/negation.md)
-- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Topics > Small talk](/b2/topics/smalltalk.md)
-
-:::
-
 Modalpartikeln are a key part of natural spoken German. They usually do not change the basic factual meaning of a sentence, but they do change how your message sounds: softer, stronger, surprised, impatient, friendly, or inviting. Their effect depends heavily on context and stress.
 
 *Examples:*
@@ -44,14 +33,19 @@ In statements, modal particles usually appear in the middle field, often after t
 
 **Examples:**
 
-- Das **ist ja** wirklich unerwartet.  
-  *That really is unexpected, you know.*
-- Du **hast doch** schon angerufen.  
-  *But you already called / you did call, after all.*
-- Wir **können mal** morgen darüber sprechen.  
-  *We can talk about it tomorrow at some point.*
-- Wo **ist denn** mein Ausweis?  
-  *So where is my ID?*
+:::{div} ol-examples
+Das **ist ja** wirklich unerwartet.
+: That really is unexpected, you know.
+
+Du **hast doch** schon angerufen.
+: But you already called / you did call, after all.
+
+Wir **können mal** morgen darüber sprechen.
+: We can talk about it tomorrow at some point.
+
+Wo **ist denn** mein Ausweis?
+: So where is my ID?
+:::
 
 :::{tip}
 At B2, focus less on literal translation and more on effect in context. Ask: Does the speaker sound surprised, insistent, softer, or curious?
@@ -75,18 +69,25 @@ These particles are common in statements and exclamations where you react emotio
 
 **Examples:**
 
-- Das **ist ja** interessant!  
-  *Well, that is interesting!*
-- Du kommst **doch** auch zur Party, oder?  
-  *You are coming to the party too, right?*
-- Das war **ja** klar.  
-  *That was obvious, as expected.*
-- Ihr habt **doch** genug Zeit.  
-  *But you do have enough time.*
-- Du sprichst **aber** fließend Deutsch!  
-  *Wow, you speak German fluently!*
-- Das ist **aber** teuer!  
-  *That is really expensive!*
+:::{div} ol-examples
+Das **ist ja** interessant!
+: Well, that is interesting!
+
+Du kommst **doch** auch zur Party, oder?
+: You are coming to the party too, right?
+
+Das war **ja** klar.
+: That was obvious, as expected.
+
+Ihr habt **doch** genug Zeit.
+: But you do have enough time.
+
+Du sprichst **aber** fließend Deutsch!
+: Wow, you speak German fluently!
+
+Das ist **aber** teuer!
+: That is really expensive!
+:::
 
 :::{warning}
 Do not confuse particle **ja** with answer-word *ja* (= yes), or particle **doch** with answer-word *doch* used after a negative question. Same form, different function.
@@ -111,18 +112,25 @@ Use the following link to practice this section.
 
 **Examples:**
 
-- Schau **mal**!  
-  *Look! / Have a look!*
-- Hilf mir **mal**!  
-  *Help me for a second!*
-- Kannst du **mal** kurz mitkommen?  
-  *Can you come along for a moment?*
-- Wir sollten **mal** wieder telefonieren.  
-  *We should call each other again sometime.*
-- Zeig mir **mal**, wie das funktioniert.  
-  *Show me how that works.*
-- Was machen wir **mal** am Wochenende?  
-  *What should we do this weekend then?*
+:::{div} ol-examples
+Schau **mal**!
+: Look! / Have a look!
+
+Hilf mir **mal**!
+: Help me for a second!
+
+Kannst du **mal** kurz mitkommen?
+: Can you come along for a moment?
+
+Wir sollten **mal** wieder telefonieren.
+: We should call each other again sometime.
+
+Zeig mir **mal**, wie das funktioniert.
+: Show me how that works.
+
+Was machen wir **mal** am Wochenende?
+: What should we do this weekend then?
+:::
 
 :::{note}
 In formal writing, **mal** is often too conversational. In emails to close colleagues or in speech, it is usually natural.
@@ -146,18 +154,25 @@ In questions, **denn** often shows interest, surprise, impatience, or emotional 
 
 **Examples:**
 
-- Was machst du **denn** hier?  
-  *What are you doing here then?*
-- Wie spät ist es **denn**?  
-  *What time is it, then?*
-- Wo wohnst du **denn** jetzt?  
-  *So where do you live now?*
-- Hast du **denn** keine Nachricht bekommen?  
-  *Didn’t you get any message then?*
-- Warum bist du **denn** so spät?  
-  *Why are you so late then?*
-- Ist das **denn** wirklich notwendig?  
-  *Is that really necessary, then?*
+:::{div} ol-examples
+Was machst du **denn** hier?
+: What are you doing here then?
+
+Wie spät ist es **denn**?
+: What time is it, then?
+
+Wo wohnst du **denn** jetzt?
+: So where do you live now?
+
+Hast du **denn** keine Nachricht bekommen?
+: Didn’t you get any message then?
+
+Warum bist du **denn** so spät?
+: Why are you so late then?
+
+Ist das **denn** wirklich notwendig?
+: Is that really necessary, then?
+:::
 
 :::{warning}
 Do not mix up question-particle **denn** with conjunction *denn* meaning *because/for*. They are different structures with different roles.

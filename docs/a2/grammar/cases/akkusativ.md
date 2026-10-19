@@ -10,20 +10,6 @@ myst:
 ---
 # Akkusativ
 
-> Accusative case: direct objects and five essential prepositions
-
-:::{seealso}
-
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Grammar > Wechselpräpositionen](/a2/grammar/prepositions/wechselpraepositionen.md)
-- [A2 > Grammar > Temporale Präpositionen](/a2/grammar/prepositions/temporale-praepositionen.md)
-- [A2 > Grammar > Pronomen: alles, etwas, nichts](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md)
-- [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
-- [A2 > Grammar > Positionsverben](/a2/grammar/prepositions/positionsverben.md)
-- [A2 > Grammar > Verben mit Dativ und Akkusativ](/a2/grammar/cases/verben-mit-dativ-akkusativ.md)
-
-:::
-
 The accusative case is used to mark the **direct object**, the person or thing that directly receives the action of the verb. It also appears after five specific prepositions. The good news: **only masculine articles change form** in the accusative, so there is far less to memorise than you might expect.
 
 :::{important}
@@ -48,18 +34,25 @@ The direct object is the noun that receives the verb's action. To find it, ask *
 
 In German, the noun itself does not change, only the article in front of it may change form.
 
-- Ich kaufe **einen** Pullover.  
-  *I'm buying a sweater.* – Kaufe **was**? → einen Pullover.
-- Kennst du **den** Mann dort drüben?  
-  *Do you know the man over there?* – Kennst **wen**? → den Mann.
-- Wir haben **eine** Wohnung gesucht.  
-  *We were looking for an apartment.* – Gesucht **was**? → eine Wohnung.
-- Das Kind möchte **das** Spielzeug.  
-  *The child wants the toy.* – Möchte **was**? → das Spielzeug.
-- Er besucht **seine** Großeltern am Wochenende.  
-  *He visits his grandparents at the weekend.* – Besucht **wen**? → seine Großeltern.
-- Ich höre **die** Musik sehr gern.  
-  *I really like listening to the music.* – Höre **was**? → die Musik.
+:::{div} ol-examples
+Ich kaufe **einen** Pullover.
+: I'm buying a sweater. – Kaufe **was**? → einen Pullover.
+
+Kennst du **den** Mann dort drüben?
+: Do you know the man over there? – Kennst **wen**? → den Mann.
+
+Wir haben **eine** Wohnung gesucht.
+: We were looking for an apartment. – Gesucht **was**? → eine Wohnung.
+
+Das Kind möchte **das** Spielzeug.
+: The child wants the toy. – Möchte **was**? → das Spielzeug.
+
+Er besucht **seine** Großeltern am Wochenende.
+: He visits his grandparents at the weekend. – Besucht **wen**? → seine Großeltern.
+
+Ich höre **die** Musik sehr gern.
+: I really like listening to the music. – Höre **was**? → die Musik.
+:::
 
 :::{tip}
 The subject (*Nominativ*) answers *Wer?* (Who?), and the direct object (*Akkusativ*) answers *Wen oder was?* (Whom or what?). Keeping these two questions separate helps you identify the right case.
@@ -88,18 +81,25 @@ Possessive articles (*mein, dein, sein, ihr, unser, euer, Ihr*) follow the same 
 
 ### Examples
 
-- Er sieht {akk}`den` Arzt zweimal im Jahr.  
-  *He sees the doctor twice a year.* (maskulin: *der* → *den*)
-- Ich kaufe {akk}`einen` neuen Rucksack.  
-  *I'm buying a new backpack.* (maskulin: *ein* → *einen*)
-- Wir bestellen {akk}`eine` Pizza und {akk}`einen` Salat.  
-  *We're ordering a pizza and a salad.* (feminin: no change / maskulin: *einen*)
-- Sie liest {akk}`die` Zeitung beim Frühstück.  
-  *She reads the newspaper at breakfast.* (feminin: no change)
-- Er braucht {akk}`das` Geld bis Freitag.  
-  *He needs the money by Friday.* (neutrum: no change)
-- Ich suche {akk}`meinen` Schlüssel schon die ganze Zeit.  
-  *I've been looking for my key the whole time.* (maskulin possessiv: *mein* → *meinen*)
+:::{div} ol-examples
+Er sieht {akk}`den` Arzt zweimal im Jahr.
+: He sees the doctor twice a year. (maskulin: *der* → *den*)
+
+Ich kaufe {akk}`einen` neuen Rucksack.
+: I'm buying a new backpack. (maskulin: *ein* → *einen*)
+
+Wir bestellen {akk}`eine` Pizza und {akk}`einen` Salat.
+: We're ordering a pizza and a salad. (feminin: no change / maskulin: *einen*)
+
+Sie liest {akk}`die` Zeitung beim Frühstück.
+: She reads the newspaper at breakfast. (feminin: no change)
+
+Er braucht {akk}`das` Geld bis Freitag.
+: He needs the money by Friday. (neutrum: no change)
+
+Ich suche {akk}`meinen` Schlüssel schon die ganze Zeit.
+: I've been looking for my key the whole time. (maskulin possessiv: *mein* → *meinen*)
+:::
 
 :::{note}
 Only the **article** changes form, the noun itself stays the same. *Der Mann* (subject) becomes *Ich sehe **den** Mann* (direct object), but *Mann* does not change at all.
@@ -123,18 +123,25 @@ After these prepositions, the same article rules apply: only masculine changes f
 
 ### Examples
 
-- Ich gehe jeden Morgen {prep}`durch` {akk}`den` Park.  
-  *I walk through the park every morning.* (maskulin: *den*)
-- Das Paket ist {prep}`für` {akk}`meinen` Bruder.  
-  *The parcel is for my brother.* (maskulin possessiv: *meinen*)
-- Wir haben nichts {prep}`gegen` {akk}`den` Plan.  
-  *We have nothing against the plan.* (maskulin: *den*)
-- Er fährt nie {prep}`ohne` {akk}`seinen` Helm.  
-  *He never rides without his helmet.* (maskulin possessiv: *seinen*)
-- Sie laufen jeden Abend {prep}`um` {akk}`den` See.  
-  *They run around the lake every evening.* (maskulin: *den*)
-- Hast du etwas {prep}`gegen` {akk}`die` Kälte in der Wohnung?  
-  *Do you have anything against the cold in the flat?* (feminin: no change)
+:::{div} ol-examples
+Ich gehe jeden Morgen {prep}`durch` {akk}`den` Park.
+: I walk through the park every morning. (maskulin: *den*)
+
+Das Paket ist {prep}`für` {akk}`meinen` Bruder.
+: The parcel is for my brother. (maskulin possessiv: *meinen*)
+
+Wir haben nichts {prep}`gegen` {akk}`den` Plan.
+: We have nothing against the plan. (maskulin: *den*)
+
+Er fährt nie {prep}`ohne` {akk}`seinen` Helm.
+: He never rides without his helmet. (maskulin possessiv: *seinen*)
+
+Sie laufen jeden Abend {prep}`um` {akk}`den` See.
+: They run around the lake every evening. (maskulin: *den*)
+
+Hast du etwas {prep}`gegen` {akk}`die` Kälte in der Wohnung?
+: Do you have anything against the cold in the flat? (feminin: no change)
+:::
 
 :::{tip}
 A simple way to remember the five prepositions: think of the phrase **"d-f-g-o-u"** – *durch, für, gegen, ohne, um*. Whenever you see one of these words, the noun phrase that follows will always be accusative.
@@ -159,18 +166,25 @@ At A2, you often meet accusative and dative close together. Two patterns are esp
 
 ### Examples
 
-- Wir gehen in {akk}`den` Supermarkt.  
-  *We're going into the supermarket.* (Wohin? movement -> accusative)
-- Wir sind im Supermarkt und warten an {dativ}`der` Kasse.  
-  *We're in the supermarket and waiting at the checkout.* (Wo? location -> dative)
-- Sie hängt das Bild an {akk}`die` Wand.  
-  *She hangs the picture onto the wall.* (Wohin? destination -> accusative)
-- Das Bild hängt an {dativ}`der` Wand.  
-  *The picture is hanging on the wall.* (Wo? location -> dative)
-- Ich zeige {dativ}`meiner` Schwester {akk}`den` Weg.  
-  *I'm showing my sister the way.* (Wem? dative + Was? accusative)
-- Kannst du {dativ}`mir` {akk}`das` Salz geben?  
-  *Can you pass me the salt?* (receiver in dative, thing in accusative)
+:::{div} ol-examples
+Wir gehen in {akk}`den` Supermarkt.
+: We're going into the supermarket. (Wohin? movement -> accusative)
+
+Wir sind im Supermarkt und warten an {dativ}`der` Kasse.
+: We're in the supermarket and waiting at the checkout. (Wo? location -> dative)
+
+Sie hängt das Bild an {akk}`die` Wand.
+: She hangs the picture onto the wall. (Wohin? destination -> accusative)
+
+Das Bild hängt an {dativ}`der` Wand.
+: The picture is hanging on the wall. (Wo? location -> dative)
+
+Ich zeige {dativ}`meiner` Schwester {akk}`den` Weg.
+: I'm showing my sister the way. (Wem? dative + Was? accusative)
+
+Kannst du {dativ}`mir` {akk}`das` Salz geben?
+: Can you pass me the salt? (receiver in dative, thing in accusative)
+:::
 
 :::{tip}
 If you are unsure with two-way prepositions, first decide the question: **Wo?** or **Wohin?**. This usually gives you the right case immediately.
@@ -202,46 +216,29 @@ Most everyday German verbs take a direct object in the accusative. Here is a lis
 
 ### Examples
 
-- Er nimmt {akk}`den` Bus zur Schule.  
-  *He takes the bus to school.*
-- Wir suchen {akk}`eine` günstige Wohnung.  
-  *We're looking for a cheap apartment.*
-- Ich verstehe {akk}`die` Aufgabe nicht.  
-  *I don't understand the task.*
-- Hast du {akk}`meinen` Regenschirm gesehen?  
-  *Have you seen my umbrella?*
-- Sie trinkt {akk}`einen` Tee am Nachmittag.  
-  *She drinks a tea in the afternoon.*
-- Ich liebe {akk}`das` Wetter hier im Sommer.  
-  *I love the weather here in summer.*
+:::{div} ol-examples
+Er nimmt {akk}`den` Bus zur Schule.
+: He takes the bus to school.
 
----
+Wir suchen {akk}`eine` günstige Wohnung.
+: We're looking for a cheap apartment.
 
-## Summary
+Ich verstehe {akk}`die` Aufgabe nicht.
+: I don't understand the task.
 
-:::{admonition} Key points
-:class: note
+Hast du {akk}`meinen` Regenschirm gesehen?
+: Have you seen my umbrella?
 
-- **Wen oder was?** is the question that identifies the accusative direct object.
-- Only **masculine** article forms change in the accusative: *der* → **den**, *ein* → **einen**, *mein* → **meinen** (and other possessives).
-- Feminine (*die/eine*), neuter (*das/ein*), and plural (*die*) article forms are the same in nominative and accusative.
-- The five prepositions *durch*, *für*, *gegen*, *ohne*, *um* **always** take the accusative.
-- Only the **article** changes, the noun itself stays the same.
-- In two-way contexts, **Wohin?** usually signals accusative, while **Wo?** signals dative.
-- In many everyday sentences with two objects, the thing is accusative and the receiver is dative.
-:::
+Sie trinkt {akk}`einen` Tee am Nachmittag.
+: She drinks a tea in the afternoon.
 
-:::{admonition} Common mistakes
-:class: caution
-
-- *Ich sehe \*der Mann.* → Ich sehe **den** Mann. (Masculine direct object: *der* → *den*.)
-- *Das ist für \*ein Freund.* → Das ist für **einen** Freund. (Masculine after *für*: *ein* → *einen*.)
-- *Ich suche \*mein Schlüssel.* → Ich suche **meinen** Schlüssel. (Masculine possessive: *mein* → *meinen*.)
-- *Ich nehme \*die Bus.* → Ich nehme **den** Bus. (*Bus* is masculine, check the noun's gender first.)
-- Changing the **noun** instead of the article, for example, *Ich sehe den Mann\*en*. The noun *Mann* does not change: only the article does.
+Ich liebe {akk}`das` Wetter hier im Sommer.
+: I love the weather here in summer.
 :::
 
 ---
+
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/akkusativ-grundlagen
@@ -337,6 +334,32 @@ Ich finde meinen Schlüssel nicht.
 
 ---
 
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- **Wen oder was?** is the question that identifies the accusative direct object.
+- Only **masculine** article forms change in the accusative: *der* → **den**, *ein* → **einen**, *mein* → **meinen** (and other possessives).
+- Feminine (*die/eine*), neuter (*das/ein*), and plural (*die*) article forms are the same in nominative and accusative.
+- The five prepositions *durch*, *für*, *gegen*, *ohne*, *um* **always** take the accusative.
+- Only the **article** changes, the noun itself stays the same.
+- In two-way contexts, **Wohin?** usually signals accusative, while **Wo?** signals dative.
+- In many everyday sentences with two objects, the thing is accusative and the receiver is dative.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich sehe \*der Mann.* → Ich sehe **den** Mann. (Masculine direct object: *der* → *den*.)
+- *Das ist für \*ein Freund.* → Das ist für **einen** Freund. (Masculine after *für*: *ein* → *einen*.)
+- *Ich suche \*mein Schlüssel.* → Ich suche **meinen** Schlüssel. (Masculine possessive: *mein* → *meinen*.)
+- *Ich nehme \*die Bus.* → Ich nehme **den** Bus. (*Bus* is masculine, check the noun's gender first.)
+- Changing the **noun** instead of the article, for example, *Ich sehe den Mann\*en*. The noun *Mann* does not change: only the article does.
+:::
+
+---
+
 ## Related articles
 
 - [A2 > Grammar > Possessivartikel im Dativ](/a2/grammar/cases/possessivartikel-dativ.md)
@@ -344,3 +367,7 @@ Ich finde meinen Schlüssel nicht.
 - [A2 > Grammar > Verben mit festen Präpositionen](/a2/grammar/prepositions/verben-mit-praeposition.md)
 - [A2 > Grammar > Wechselpräpositionen](/a2/grammar/prepositions/wechselpraepositionen.md)
 - [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
+- [A2 > Grammar > Temporale Präpositionen](/a2/grammar/prepositions/temporale-praepositionen.md)
+- [A2 > Grammar > Pronomen: alles, etwas, nichts](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md)
+- [A2 > Grammar > Positionsverben](/a2/grammar/prepositions/positionsverben.md)
+- [A2 > Grammar > Verben mit Dativ und Akkusativ](/a2/grammar/cases/verben-mit-dativ-akkusativ.md)

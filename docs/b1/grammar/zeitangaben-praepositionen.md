@@ -10,8 +10,6 @@ myst:
 ---
 # Zeitangaben – Präpositionen
 
-> Time expressions with dative and genitive prepositions
-
 When you want to talk about *when* something happens, *how long* it lasts, or *how much time* has passed, German uses specific prepositions. Most of these take the **dative** case; a smaller group takes the **genitive**. Learning which preposition fits which situation will help you express yourself precisely and naturally.
 
 ---
@@ -32,32 +30,78 @@ These seven prepositions always take dative when followed by a noun. They answer
 
 ---
 
-- {prep}`Ab` {dativ}`dem` nächsten Semester studiert sie in Wien.  
-  *From next semester she will be studying in Vienna.*
+:::{div} ol-examples
+{prep}`Ab` {dativ}`dem` nächsten Semester studiert sie in Wien.
+: From next semester she will be studying in Vienna.
 
-- Das Meeting findet {prep}`am` Dienstagmorgen statt.  
-  *The meeting takes place on Tuesday morning.*
+Das Meeting findet {prep}`am` Dienstagmorgen statt.
+: The meeting takes place on Tuesday morning.
 
-- Wir haben {prep}`bis zum` Ende des Kurses noch viel zu lernen.  
-  *We still have a lot to learn until the end of the course.*
+Wir haben {prep}`bis zum` Ende des Kurses noch viel zu lernen.
+: We still have a lot to learn until the end of the course.
 
-- {prep}`In` einer Stunde fahren wir zum Bahnhof.  
-  *In an hour we'll drive to the station.*
+{prep}`In` einer Stunde fahren wir zum Bahnhof.
+: In an hour we'll drive to the station.
 
-- {prep}`Nach` {dativ}`dem` Abendessen gehen wir meistens spazieren.  
-  *After dinner we usually go for a walk.*
+{prep}`Nach` {dativ}`dem` Abendessen gehen wir meistens spazieren.
+: After dinner we usually go for a walk.
 
-- Ich lerne {prep}`seit` {dativ}`einem` Jahr Deutsch und verstehe schon vieles.  
-  *I've been learning German for a year and already understand a lot.*
+Ich lerne {prep}`seit` {dativ}`einem` Jahr Deutsch und verstehe schon vieles.
+: I've been learning German for a year and already understand a lot.
 
-- {prep}`Vor` drei Wochen hat er eine neue Stelle angefangen.  
-  *He started a new job three weeks ago.*
+{prep}`Vor` drei Wochen hat er eine neue Stelle angefangen.
+: He started a new job three weeks ago.
+:::
 
 :::{tip}
 *ab* is often used without an article in everyday speech: *ab Montag*, *ab nächste Woche*. Both forms are correct at B1 level.
 
 *vor* and *nach* are easy to mix up, remember: *vor* = before / ago (pointing backward), *nach* = after (pointing forward).
 :::
+
+---
+
+## Präpositionen mit Genitiv
+
+These three prepositions describe whether something falls *inside*, *outside*, or *during* a time period. They take the **genitive** case.
+
+Genitive articles: masculine/neuter → *des* (noun adds **-s** or **-es**), feminine/plural → *der*.
+
+| Präposition | Bedeutung | Beispiel |
+|---|---|---|
+| **außerhalb** | outside of (a time period) | außerhalb der Öffnungszeiten |
+| **innerhalb** | within (a time period) | innerhalb einer Woche |
+| **während** | during | während des Unterrichts |
+
+---
+
+:::{div} ol-examples
+{prep}`Außerhalb` **der** normalen Öffnungszeiten ist das Büro geschlossen.
+: Outside of regular opening hours the office is closed.
+
+Kannst du mir {prep}`innerhalb` **einer** Woche eine Antwort geben?
+: Can you give me an answer within a week?
+
+{prep}`Während` **des** Konzerts waren alle Handys ausgeschaltet.
+: During the concert all mobile phones were switched off.
+
+{prep}`Innerhalb` **der** nächsten drei Tage schicke ich dir die Unterlagen.
+: Within the next three days I'll send you the documents.
+
+{prep}`Außerhalb` **des** Semesters reise ich am liebsten ins Ausland.
+: Outside of the semester I like to travel abroad most.
+:::
+
+:::{note}
+In spoken German, *während* is frequently used with dative instead of genitive:
+
+- Written/formal: *während **des** Films* (Genitiv, masculine)
+- Spoken/informal: *während **dem** Film* (Dativ, masculine)
+
+Both forms are widely understood, but written German at B1 level and above uses the genitive form.
+:::
+
+## Hear it in practice
 
 :::{audio-examples}
 :track: b1/grammar/temporale-prapositionen-mit-dativ
@@ -128,46 +172,6 @@ Zu Weihnachten gibt es Geschenke.
 : At Christmas, there are presents.
 :::
 
----
-
-## Präpositionen mit Genitiv
-
-These three prepositions describe whether something falls *inside*, *outside*, or *during* a time period. They take the **genitive** case.
-
-Genitive articles: masculine/neuter → *des* (noun adds **-s** or **-es**), feminine/plural → *der*.
-
-| Präposition | Bedeutung | Beispiel |
-|---|---|---|
-| **außerhalb** | outside of (a time period) | außerhalb der Öffnungszeiten |
-| **innerhalb** | within (a time period) | innerhalb einer Woche |
-| **während** | during | während des Unterrichts |
-
----
-
-- {prep}`Außerhalb` **der** normalen Öffnungszeiten ist das Büro geschlossen.  
-  *Outside of regular opening hours the office is closed.*
-
-- Kannst du mir {prep}`innerhalb` **einer** Woche eine Antwort geben?  
-  *Can you give me an answer within a week?*
-
-- {prep}`Während` **des** Konzerts waren alle Handys ausgeschaltet.  
-  *During the concert all mobile phones were switched off.*
-
-- {prep}`Innerhalb` **der** nächsten drei Tage schicke ich dir die Unterlagen.  
-  *Within the next three days I'll send you the documents.*
-
-- {prep}`Außerhalb` **des** Semesters reise ich am liebsten ins Ausland.  
-  *Outside of the semester I like to travel abroad most.*
-
-:::{note}
-In spoken German, *während* is frequently used with dative instead of genitive:
-
-- Written/formal: *während **des** Films* (Genitiv, masculine)
-- Spoken/informal: *während **dem** Film* (Dativ, masculine)
-
-Both forms are widely understood, but written German at B1 level and above uses the genitive form.
-:::
-
 :::{audio-examples}
 :track: b1/grammar/temporale-prapositionen-genitiv-formell
 :title: Temporale Präpositionen - Genitiv (Formell)
@@ -236,6 +240,8 @@ Innerhalb weniger Minuten war alles vorbei.
 Während der Vorlesung macht sie Notizen.
 : During the lecture, she takes notes.
 :::
+
+---
 
 ## Summary
 

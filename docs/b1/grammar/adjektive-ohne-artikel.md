@@ -10,8 +10,6 @@ myst:
 ---
 # Adjektive ohne Artikel
 
-> Strong adjective endings, when there is no article before the noun
-
 When a German noun stands alone, with no definite or indefinite article, the adjective before it has to do all the work. It must signal the gender, case, and number of the noun on its own. These endings are called **strong endings** (*starke Endungen*).
 
 You will encounter this pattern regularly: on menus and shopping lists, in recipes, after quantity words like *viel* and *einige*, and in natural everyday phrases like *frisches Brot* or *heißer Kaffee*.
@@ -42,23 +40,25 @@ When no article is present, the adjective takes on the job of the article, it ca
 
 ### Examples
 
-- **Schwarzer** Kaffee schmeckt mir am besten.  
-  _Black coffee tastes best to me._ (Nominative masculine)
+:::{div} ol-examples
+**Schwarzer** Kaffee schmeckt mir am besten.
+: Black coffee tastes best to me. (Nominative masculine)
 
-- Möchtest du **heißen** Tee oder **kalte** Milch?  
-  _Would you like hot tea or cold milk?_ (Accusative masculine / feminine)
+Möchtest du **heißen** Tee oder **kalte** Milch?
+: Would you like hot tea or cold milk? (Accusative masculine / feminine)
 
-- Mit **frischem** Brot und **gutem** Käse ist das Frühstück perfekt.  
-  _With fresh bread and good cheese, breakfast is perfect._ (Dative neuter / masculine)
+Mit **frischem** Brot und **gutem** Käse ist das Frühstück perfekt.
+: With fresh bread and good cheese, breakfast is perfect. (Dative neuter / masculine)
 
-- Der Duft **frischen** Brotes erfüllt die ganze Küche.  
-  _The smell of fresh bread fills the whole kitchen._ (Genitive neuter, note the -en ending, not -es)
+Der Duft **frischen** Brotes erfüllt die ganze Küche.
+: The smell of fresh bread fills the whole kitchen. (Genitive neuter, note the -en ending, not -es)
 
-- Nach **langer** Reise bin ich wirklich müde.  
-  _After a long journey, I'm really tired._ (Dative feminine)
+Nach **langer** Reise bin ich wirklich müde.
+: After a long journey, I'm really tired. (Dative feminine)
 
-- **Gute** Freunde muss man pflegen.  
-  _Good friends are worth keeping._ (Plural Nominative)
+**Gute** Freunde muss man pflegen.
+: Good friends are worth keeping. (Plural Nominative)
+:::
 
 :::{note}
 In the Genitive, masculine and neuter nouns already add **-s** or **-es** to the noun itself (e.g., *Kaffees*, *Brotes*). Because the noun already shows the Genitive, the adjective uses **-en** rather than -es to avoid over-marking the case.
@@ -78,23 +78,25 @@ This happens most often:
 
 ### Examples
 
-- Sie hat viel **freie** Zeit am Wochenende.  
-  _She has a lot of free time at the weekend._ (Nominative feminine after *viel*)
+:::{div} ol-examples
+Sie hat viel **freie** Zeit am Wochenende.
+: She has a lot of free time at the weekend. (Nominative feminine after *viel*)
 
-- Ich trinke täglich viel **heißen** Kaffee.  
-  _I drink a lot of hot coffee every day._ (Accusative masculine after *viel*)
+Ich trinke täglich viel **heißen** Kaffee.
+: I drink a lot of hot coffee every day. (Accusative masculine after *viel*)
 
-- Mit wenig **frischem** Gemüse lässt sich trotzdem gut kochen.  
-  _You can still cook well with little fresh produce._ (Dative neuter after *wenig*)
+Mit wenig **frischem** Gemüse lässt sich trotzdem gut kochen.
+: You can still cook well with little fresh produce. (Dative neuter after *wenig*)
 
-- Einige **nette** Kollegen haben mir beim Umzug geholfen.  
-  _Several nice colleagues helped me with the move._ (Nominative plural after *einige*)
+Einige **nette** Kollegen haben mir beim Umzug geholfen.
+: Several nice colleagues helped me with the move. (Nominative plural after *einige*)
 
-- Ich brauche ein paar **warme** Pullover für den Herbst.  
-  _I need a few warm sweaters for autumn._ (Accusative plural after *ein paar*)
+Ich brauche ein paar **warme** Pullover für den Herbst.
+: I need a few warm sweaters for autumn. (Accusative plural after *ein paar*)
 
-- Drei **lange** Meetings in einem Tag sind anstrengend.  
-  _Three long meetings in one day are exhausting._ (Nominative plural after a number)
+Drei **lange** Meetings in einem Tag sind anstrengend.
+: Three long meetings in one day are exhausting. (Nominative plural after a number)
+:::
 
 :::{tip}
 *Viel* and *wenig* in the singular are almost never declined in everyday spoken German. Treat them as invisible, the adjective that follows them always takes the strong ending.

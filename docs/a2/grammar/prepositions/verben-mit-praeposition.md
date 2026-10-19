@@ -10,8 +10,6 @@ myst:
 ---
 # Verben mit festen Präpositionen
 
-> Fixed verb-preposition combinations you need at A2
-
 Many German verbs need a specific preposition, and this choice is usually fixed. You cannot rely on English here, because the German preposition is often different. The safest strategy is to learn each verb as one chunk: verb + preposition + case.
 
 *Examples:*
@@ -30,14 +28,19 @@ For example, English "to wait for" uses *for*, but German uses *auf*: *warten au
 
 **Examples:**
 
-- Ich warte {prep}`auf` den Bus.  
-  *I am waiting for the bus.*
-- Wir sprechen {prep}`über` das Wetter.  
-  *We are talking about the weather.*
-- Er denkt oft {prep}`an` seine Familie.  
-  *He often thinks about his family.*
-- Sie interessiert sich {prep}`für` Musik.  
-  *She is interested in music.*
+:::{div} ol-examples
+Ich warte {prep}`auf` den Bus.
+: I am waiting for the bus.
+
+Wir sprechen {prep}`über` das Wetter.
+: We are talking about the weather.
+
+Er denkt oft {prep}`an` seine Familie.
+: He often thinks about his family.
+
+Sie interessiert sich {prep}`für` Musik.
+: She is interested in music.
+:::
 
 :::{warning}
 Do not build these combinations by translating prepositions from English. Learn the German combination directly as one unit.
@@ -60,14 +63,19 @@ For this topic, the main pattern is:
 
 **Examples:**
 
-- Wir warten {prep}`auf` {akk}`den` Zug.  
-  *We are waiting for the train.*
-- Sie denkt {prep}`an` {akk}`ihren` Termin.  
-  *She is thinking about her appointment.*
-- Ich spreche {prep}`mit` {dativ}`meiner` Nachbarin.  
-  *I am speaking with my neighbor.*
-- Er träumt {prep}`von` {dativ}`einem` Haus am See.  
-  *He dreams of a house by the lake.*
+:::{div} ol-examples
+Wir warten {prep}`auf` {akk}`den` Zug.
+: We are waiting for the train.
+
+Sie denkt {prep}`an` {akk}`ihren` Termin.
+: She is thinking about her appointment.
+
+Ich spreche {prep}`mit` {dativ}`meiner` Nachbarin.
+: I am speaking with my neighbor.
+
+Er träumt {prep}`von` {dativ}`einem` Haus am See.
+: He dreams of a house by the lake.
+:::
 
 :::{tip}
 Use flashcards with three parts, not two: **warten + auf + Akk**, **helfen + bei + Dat**, **sich interessieren + für + Akk**.
@@ -98,40 +106,58 @@ Below are the most important A2 combinations grouped by preposition.
 
 **Examples:**
 
-- Wir warten {prep}`auf` {akk}`den` Lehrer.  
-  *We are waiting for the teacher.*
-- Ich freue mich {prep}`auf` {akk}`den` Urlaub.  
-  *I am looking forward to the holiday.*
-- Sie bereitet sich {prep}`auf` {akk}`die` Prüfung vor.  
-  *She is preparing for the exam.*
-- Denkst du {prep}`an` {akk}`deinen` Termin?  
-  *Are you thinking about your appointment?*
-- Er glaubt {prep}`an` {akk}`die` Zukunft.  
-  *He believes in the future.*
-- Wir erinnern uns {prep}`an` {akk}`den` Film.  
-  *We remember the film.*
-- Ich ärgere mich {prep}`über` {akk}`den` Lärm.  
-  *I am annoyed about the noise.*
-- Sie beschwert sich {prep}`über` {akk}`das` Essen.  
-  *She is complaining about the food.*
-- Wir sprechen {prep}`über` {akk}`das` Problem.  
-  *We are talking about the problem.*
-- Er interessiert sich {prep}`für` {akk}`Musik`.  
-  *He is interested in music.*
-- Ich danke dir {prep}`für` {akk}`deine` Hilfe.  
-  *I thank you for your help.*
-- Wir sprechen {prep}`mit` {dativ}`dem` Arzt.  
-  *We are speaking with the doctor.*
-- Sie fängt {prep}`mit` {dativ}`der` Arbeit an.  
-  *She starts with the work.*
-- Er hört {prep}`mit` {dativ}`dem` Rauchen auf.  
-  *He stops smoking.*
-- Ich träume {prep}`von` {dativ}`einer` Reise nach Berlin.  
-  *I dream of a trip to Berlin.*
-- Wir sprechen oft {prep}`von` {dativ}`unserer` Kindheit.  
-  *We often talk about our childhood.*
-- Kannst du mir {prep}`bei` {dativ}`den` Hausaufgaben helfen?  
-  *Can you help me with the homework?*
+:::{div} ol-examples
+Wir warten {prep}`auf` {akk}`den` Lehrer.
+: We are waiting for the teacher.
+
+Ich freue mich {prep}`auf` {akk}`den` Urlaub.
+: I am looking forward to the holiday.
+
+Sie bereitet sich {prep}`auf` {akk}`die` Prüfung vor.
+: She is preparing for the exam.
+
+Denkst du {prep}`an` {akk}`deinen` Termin?
+: Are you thinking about your appointment?
+
+Er glaubt {prep}`an` {akk}`die` Zukunft.
+: He believes in the future.
+
+Wir erinnern uns {prep}`an` {akk}`den` Film.
+: We remember the film.
+
+Ich ärgere mich {prep}`über` {akk}`den` Lärm.
+: I am annoyed about the noise.
+
+Sie beschwert sich {prep}`über` {akk}`das` Essen.
+: She is complaining about the food.
+
+Wir sprechen {prep}`über` {akk}`das` Problem.
+: We are talking about the problem.
+
+Er interessiert sich {prep}`für` {akk}`Musik`.
+: He is interested in music.
+
+Ich danke dir {prep}`für` {akk}`deine` Hilfe.
+: I thank you for your help.
+
+Wir sprechen {prep}`mit` {dativ}`dem` Arzt.
+: We are speaking with the doctor.
+
+Sie fängt {prep}`mit` {dativ}`der` Arbeit an.
+: She starts with the work.
+
+Er hört {prep}`mit` {dativ}`dem` Rauchen auf.
+: He stops smoking.
+
+Ich träume {prep}`von` {dativ}`einer` Reise nach Berlin.
+: I dream of a trip to Berlin.
+
+Wir sprechen oft {prep}`von` {dativ}`unserer` Kindheit.
+: We often talk about our childhood.
+
+Kannst du mir {prep}`bei` {dativ}`den` Hausaufgaben helfen?
+: Can you help me with the homework?
+:::
 
 :::{note}
 Many fixed-preposition verbs are reflexive: *sich freuen auf*, *sich freuen über*, *sich ärgern über*, *sich beschweren über*, *sich erinnern an*, *sich interessieren für*, *sich vorbereiten auf*, *sich gewöhnen an*.
@@ -143,29 +169,7 @@ Questions about the prepositional object often use **wo(r)-** forms for things, 
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- Fixed-preposition verbs must be learned as chunks, not translated word by word from English.
-- You must memorize two parts: the **preposition** and the **case**.
-- Most core A2 combinations here use **Akkusativ**; a smaller set uses **Dativ**.
-- Many of these verbs are reflexive, especially with *sich freuen*, *sich ärgern*, *sich interessieren*, *sich vorbereiten*, *sich erinnern*.
-- Questions about things often use **wo(r)-** forms (for example *worauf*, *woran*, *worüber*).
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Ich warte **für** den Bus.* → Ich warte **auf den** Bus. (warten takes **auf + Akk**)
-- *Ich interessiere mich **an** Musik.* → Ich interessiere mich **für** Musik. (interessieren takes **für + Akk**)
-- *Wir sprechen **mit** das Problem.* → Wir sprechen **über das** Problem. (topic = **über + Akk**)
-- *Kannst du mir **bei die** Hausaufgaben helfen?* → Kannst du mir **bei den** Hausaufgaben helfen? (**bei + Dativ**)
-- *Ich freue mich über den Urlaub nächste Woche.* → Ich freue mich **auf** den Urlaub nächste Woche. (future event = **auf**, not **über**)
-:::
-
----
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/verben-mit-praposition
@@ -261,6 +265,30 @@ Ich warte auf deine Antwort.
 
 Er interessiert sich für Geschichte.
 : He's interested in history.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Fixed-preposition verbs must be learned as chunks, not translated word by word from English.
+- You must memorize two parts: the **preposition** and the **case**.
+- Most core A2 combinations here use **Akkusativ**; a smaller set uses **Dativ**.
+- Many of these verbs are reflexive, especially with *sich freuen*, *sich ärgern*, *sich interessieren*, *sich vorbereiten*, *sich erinnern*.
+- Questions about things often use **wo(r)-** forms (for example *worauf*, *woran*, *worüber*).
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich warte **für** den Bus.* → Ich warte **auf den** Bus. (warten takes **auf + Akk**)
+- *Ich interessiere mich **an** Musik.* → Ich interessiere mich **für** Musik. (interessieren takes **für + Akk**)
+- *Wir sprechen **mit** das Problem.* → Wir sprechen **über das** Problem. (topic = **über + Akk**)
+- *Kannst du mir **bei die** Hausaufgaben helfen?* → Kannst du mir **bei den** Hausaufgaben helfen? (**bei + Dativ**)
+- *Ich freue mich über den Urlaub nächste Woche.* → Ich freue mich **auf** den Urlaub nächste Woche. (future event = **auf**, not **über**)
 :::
 
 ---

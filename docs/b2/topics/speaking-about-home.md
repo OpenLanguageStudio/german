@@ -6,17 +6,6 @@ myst:
 ---
 # Speaking about home
 
-> Über Heimat sprechen
-
-:::{seealso}
-
-- [A2 > Grammar > Nebensätze](/a2/grammar/sub-clauses/index.md)
-- [A2 > Grammar > Relativsätze](/a2/grammar/sub-clauses/relativsaetze.md)
-- [A2 > Grammar > Präposition](/a2/grammar/prepositions/index.md)
-- [A2 > Concepts > Making comparisons](/a2/concepts/making-comparisons.md)
-
-:::
-
 ## Vocabulary list
 
 | German | English |
@@ -98,3 +87,12 @@ Heute sage ich: Heimat ist dort, wo ich gefragt werde, wie es mir wirklich geht,
 - Amir: Ich sage: „Aus ...“, aber eigentlich frage ich zurück: „Meinst du, wo ich geboren bin oder wo ich mich zu Hause fühle?“
 - Lara: Gute Gegenfrage. Sie öffnet ein echtes Gespräch.
 - Amir: Genau. Heimat ist für mich heute eher ein Gespräch als ein Ort.
+
+---
+
+## Related articles
+
+- [A2 > Grammar > Nebensätze](/a2/grammar/sub-clauses/index.md)
+- [A2 > Grammar > Relativsätze](/a2/grammar/sub-clauses/relativsaetze.md)
+- [A2 > Grammar > Präposition](/a2/grammar/prepositions/index.md)
+- [A2 > Concepts > Making comparisons](/a2/concepts/making-comparisons.md)

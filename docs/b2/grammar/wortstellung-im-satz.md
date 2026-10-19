@@ -10,30 +10,6 @@ myst:
 ---
 # Wortstellung im Satz
 
-> Build clearer, more natural B2 sentences by controlling order in the middle field
-
-:::{seealso}
-
-- [B2 > Grammar > Negation](/b2/grammar/negation.md)
-- [B2 > Grammar > Modalsätze](/b2/grammar/modalsaetze.md)
-- [B2 > Grammar > Modalpartikeln](/b2/grammar/modalpartikeln.md)
-- [B2 > Grammar > Konnektor während](/b2/grammar/konnektor-waehrend.md)
-- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Grammar > Infinitivkonnektoren](/b2/grammar/infinitivkonnektoren.md)
-- [B2 > Grammar > Das Wort es](/b2/grammar/das-wort-es.md)
-- [B2 > Grammar > Indirekte Rede](/b2/grammar/indirekte-rede.md)
-- [B2 > Grammar > Nomen-Verb-Verbindungen](/b2/grammar/nomen-verb-verbindungen.md)
-- [B2 > Grammar > Nomen, Verben und Adjektive mit Präpositionen](/b2/grammar/nomen-verben-adjektive-praepositionen.md)
-- [B2 > Grammar > Irreale Vergleichssätze](/b2/grammar/irreale-vergleichssaetze.md)
-- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)
-- [B2 > Grammar > Relativsätze mit wer](/b2/grammar/relativsaetze-mit-wer.md)
-- [B2 > Grammar > Nominalisierung von Verben](/b2/grammar/nominalisierung.md)
-- [B1 > Grammar > Verben mit Präpositionen und Nebensatz](/b1/grammar/verben-mit-praepositionen.md)
-- [A2 > Grammar > Verben mit Dativ und Akkusativ](/a2/grammar/cases/verben-mit-dativ-akkusativ.md)
-- [A2 > Grammar > Wechselpräpositionen](/a2/grammar/prepositions/wechselpraepositionen.md)
-
-:::
-
 At B2, correct grammar is not enough. Word order also has to sound natural and match the communicative goal. This page sets out how to organise the *Mittelfeld* (the part between the finite verb and the verb at the end), which is where German gains its precision and fluency.
 
 *Examples:*
@@ -57,14 +33,19 @@ TeKaMoLo (Temporal, Kausal, Modal, Lokal) is a strong default pattern for many n
 
 **Examples:**
 
-- Wir haben {te}`gestern` {ka}`wegen eines Serverfehlers` {mo}`nur kurz` {lo}`im Büro` gesprochen.  
-  *Yesterday, we spoke only briefly in the office because of a server error.*
-- Ich werde {te}`morgen` {ka}`aus Zeitgründen` {mo}`per Video` {lo}`aus Berlin` teilnehmen.  
-  *Tomorrow, I will take part from Berlin by video for time reasons.*
-- Das Team hat {te}`am Montag` {ka}`auf Wunsch der Kundin` {mo}`sehr detailliert` {lo}`über den Ablauf` diskutiert.  
-  *On Monday, the team discussed the process in great detail at the client’s request.*
-- Wir arbeiten {te}`dieses Jahr` {ka}`wegen der Umstrukturierung` {mo}`enger` {lo}`mit der Finanzabteilung` zusammen.  
-  *This year, we are working more closely with the finance department because of the restructuring.*
+:::{div} ol-examples
+Wir haben {te}`gestern` {ka}`wegen eines Serverfehlers` {mo}`nur kurz` {lo}`im Büro` gesprochen.
+: Yesterday, we spoke only briefly in the office because of a server error.
+
+Ich werde {te}`morgen` {ka}`aus Zeitgründen` {mo}`per Video` {lo}`aus Berlin` teilnehmen.
+: Tomorrow, I will take part from Berlin by video for time reasons.
+
+Das Team hat {te}`am Montag` {ka}`auf Wunsch der Kundin` {mo}`sehr detailliert` {lo}`über den Ablauf` diskutiert.
+: On Monday, the team discussed the process in great detail at the client’s request.
+
+Wir arbeiten {te}`dieses Jahr` {ka}`wegen der Umstrukturierung` {mo}`enger` {lo}`mit der Finanzabteilung` zusammen.
+: This year, we are working more closely with the finance department because of the restructuring.
+:::
 
 :::{tip}
 
@@ -91,14 +72,19 @@ With two objects, German often places the dative object before the accusative ob
 
 **Examples:**
 
-- Die Assistentin hat {dativ}`dem Kunden` {akk}`den Entwurf` noch am selben Tag geschickt.  
-  *The assistant sent the client the draft the same day.*
-- Die Assistentin hat {akk}`ihn` {dativ}`dem Kunden` noch am selben Tag geschickt.  
-  *The assistant sent it to the client the same day.*
-- Kannst du {dativ}`mir` {akk}`die Datei` bis heute Abend weiterleiten?  
-  *Can you forward me the file by this evening?*
-- Wir haben {akk}`es` {dativ}`ihnen` bereits im letzten Gespräch erklärt.  
-  *We already explained it to them in the last meeting.*
+:::{div} ol-examples
+Die Assistentin hat {dativ}`dem Kunden` {akk}`den Entwurf` noch am selben Tag geschickt.
+: The assistant sent the client the draft the same day.
+
+Die Assistentin hat {akk}`ihn` {dativ}`dem Kunden` noch am selben Tag geschickt.
+: The assistant sent it to the client the same day.
+
+Kannst du {dativ}`mir` {akk}`die Datei` bis heute Abend weiterleiten?
+: Can you forward me the file by this evening?
+
+Wir haben {akk}`es` {dativ}`ihnen` bereits im letzten Gespräch erklärt.
+: We already explained it to them in the last meeting.
+:::
 
 :::{warning}
 
@@ -124,14 +110,19 @@ Prepositional phrases can have different functions, and this affects placement. 
 
 **Examples:**
 
-- Wir haben gestern lange {prep}`über` die neue Preisstrategie gesprochen.  
-  *We talked for a long time yesterday about the new pricing strategy.*
-- Sie konnte sich trotz des Lärms kaum {prep}`auf` die Präsentation konzentrieren.  
-  *Despite the noise, she could hardly concentrate on the presentation.*
-- Ich habe den Vorschlag im Workshop {prep}`mit` mehreren Teams aus Österreich diskutiert.  
-  *I discussed the proposal in the workshop with several teams from Austria.*
-- Der Projektleiter hat heute im Call {prep}`mit` Blick auf die Frist {prep}`auf` eine schnelle Entscheidung gedrängt.  
-  *In today’s call, with the deadline in mind, the project manager pushed for a quick decision.*
+:::{div} ol-examples
+Wir haben gestern lange {prep}`über` die neue Preisstrategie gesprochen.
+: We talked for a long time yesterday about the new pricing strategy.
+
+Sie konnte sich trotz des Lärms kaum {prep}`auf` die Präsentation konzentrieren.
+: Despite the noise, she could hardly concentrate on the presentation.
+
+Ich habe den Vorschlag im Workshop {prep}`mit` mehreren Teams aus Österreich diskutiert.
+: I discussed the proposal in the workshop with several teams from Austria.
+
+Der Projektleiter hat heute im Call {prep}`mit` Blick auf die Frist {prep}`auf` eine schnelle Entscheidung gedrängt.
+: In today’s call, with the deadline in mind, the project manager pushed for a quick decision.
+:::
 
 :::{note}
 
@@ -184,3 +175,16 @@ Click the link below to practice everything from this page with an interactive t
 - [B1 > Grammar > Relativsätze](/b1/grammar/relativsaetze.md)
 - [A2 > Grammar > Verben mit Dativ und Akkusativ](/a2/grammar/cases/verben-mit-dativ-akkusativ.md)
 - [A2 > Grammar > Wechselpräpositionen](/a2/grammar/prepositions/wechselpraepositionen.md)
+- [B2 > Grammar > Negation](/b2/grammar/negation.md)
+- [B2 > Grammar > Modalsätze](/b2/grammar/modalsaetze.md)
+- [B2 > Grammar > Modalpartikeln](/b2/grammar/modalpartikeln.md)
+- [B2 > Grammar > Konnektor während](/b2/grammar/konnektor-waehrend.md)
+- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
+- [B2 > Grammar > Infinitivkonnektoren](/b2/grammar/infinitivkonnektoren.md)
+- [B2 > Grammar > Das Wort es](/b2/grammar/das-wort-es.md)
+- [B2 > Grammar > Indirekte Rede](/b2/grammar/indirekte-rede.md)
+- [B2 > Grammar > Nomen-Verb-Verbindungen](/b2/grammar/nomen-verb-verbindungen.md)
+- [B2 > Grammar > Irreale Vergleichssätze](/b2/grammar/irreale-vergleichssaetze.md)
+- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)
+- [B2 > Grammar > Relativsätze mit wer](/b2/grammar/relativsaetze-mit-wer.md)
+- [B2 > Grammar > Nominalisierung von Verben](/b2/grammar/nominalisierung.md)

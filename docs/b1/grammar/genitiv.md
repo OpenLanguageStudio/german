@@ -10,8 +10,6 @@ myst:
 ---
 # Genitiv
 
-> The genitive case - showing ownership and connection between nouns
-
 The genitive case expresses that one thing belongs to, or is closely connected with, something else. In English you would say "the teacher's car" or "the end of the film" – German uses the genitive for both ideas. It turns up regularly in written German, news reports, and more formal speech.
 
 Genitive prepositions such as *wegen*, *trotz*, *außerhalb*, and *während* follow the same article forms but are covered in separate articles.
@@ -33,18 +31,25 @@ The genitive has its own article forms. The most important change is for **mascu
 *der* in the genitive (feminine/plural) looks the same as the masculine nominative *der*. Context and the noun's ending help you tell them apart.
 :::
 
-- Das ist das Auto {article}`des` Lehrers.  
-  *That is the teacher's car.*
-- Der Name {article}`der` Straße ist sehr alt.  
-  *The name of the street is very old.*
-- Das Ende {article}`eines` Buches bleibt oft im Gedächtnis.  
-  *The end of a book often stays in your memory.*
-- Das ist die Meinung {article}`meiner` Schwester.  
-  *That is my sister's opinion.*
-- Der Beginn {article}`des` Konzerts ist um 20 Uhr.  
-  *The start of the concert is at 8 pm.*
-- Die Ergebnisse {article}`der` Prüfungen werden morgen bekanntgegeben.  
-  *The results of the exams will be announced tomorrow.*
+:::{div} ol-examples
+Das ist das Auto {article}`des` Lehrers.
+: That is the teacher's car.
+
+Der Name {article}`der` Straße ist sehr alt.
+: The name of the street is very old.
+
+Das Ende {article}`eines` Buches bleibt oft im Gedächtnis.
+: The end of a book often stays in your memory.
+
+Das ist die Meinung {article}`meiner` Schwester.
+: That is my sister's opinion.
+
+Der Beginn {article}`des` Konzerts ist um 20 Uhr.
+: The start of the concert is at 8 pm.
+
+Die Ergebnisse {article}`der` Prüfungen werden morgen bekanntgegeben.
+: The results of the exams will be announced tomorrow.
+:::
 
 ---
 
@@ -62,18 +67,25 @@ In the genitive case, **masculine and neuter nouns** receive a special ending, e
 - After polysyllabic nouns: *der Lehrer → des Lehrer**s***, *das Konzert → des Konzert**s***
 - After nouns ending in a vowel: *der Opa → des Opa**s***
 
-- Das Auto {article}`des` Lehrer**s** steht vor der Schule.  
-  *The teacher's car is parked in front of the school.*
-- Der Titel {article}`des` Buch**es** ist auf Englisch.  
-  *The title of the book is in English.*
-- Das Büro {article}`des` Chef**s** befindet sich im zweiten Stock.  
-  *The boss's office is on the second floor.*
-- Die Farbe {article}`des` Haus**es** gefällt mir nicht.  
-  *I don't like the color of the house.*
-- Das Thema {article}`des` Aufsatz**es** war sehr interessant.  
-  *The topic of the essay was very interesting.*
-- Der Geruch {article}`des` Kaffee**s** am Morgen ist wunderbar.  
-  *The smell of the coffee in the morning is wonderful.*
+:::{div} ol-examples
+Das Auto {article}`des` Lehrer**s** steht vor der Schule.
+: The teacher's car is parked in front of the school.
+
+Der Titel {article}`des` Buch**es** ist auf Englisch.
+: The title of the book is in English.
+
+Das Büro {article}`des` Chef**s** befindet sich im zweiten Stock.
+: The boss's office is on the second floor.
+
+Die Farbe {article}`des` Haus**es** gefällt mir nicht.
+: I don't like the color of the house.
+
+Das Thema {article}`des` Aufsatz**es** war sehr interessant.
+: The topic of the essay was very interesting.
+
+Der Geruch {article}`des` Kaffee**s** am Morgen ist wunderbar.
+: The smell of the coffee in the morning is wonderful.
+:::
 
 :::{tip}
 If you are unsure whether to add -s or -es, say the word out loud. Adding -es to a long noun like *Konzert* would sound awkward (*des Konzert**es***), so -s is the better fit. With a short noun like *Haus*, the extra syllable -es makes it easier to pronounce.
@@ -94,18 +106,25 @@ After **any article**, definite or indefinite, adjectives in the genitive always
 The **-en** ending on genitive adjectives is completely consistent after all articles, no exceptions. Once you recognise a genitive article (*des*, *der*, *eines*, *meiner*…), you know the adjective that follows will end in **-en**.
 :::
 
-- Das ist die Meinung eines erfahren**en** Arztes.  
-  *That is the opinion of an experienced doctor.*
-- Die Adresse des neu**en** Mitarbeiters steht in der Liste.  
-  *The address of the new employee is on the list.*
-- Das Ergebnis meiner letzt**en** Prüfung war gut.  
-  *The result of my last exam was good.*
-- Die Geschichte eines klein**en** Kindes hat mich sehr berührt.  
-  *The story of a little child moved me deeply.*
-- Der Abschluss eines lang**en** Projekts ist immer erfreulich.  
-  *The completion of a long project is always satisfying.*
-- Das Ende des schön**en** Urlaubs kam viel zu schnell.  
-  *The end of the beautiful holiday came far too quickly.*
+:::{div} ol-examples
+Das ist die Meinung eines erfahren**en** Arztes.
+: That is the opinion of an experienced doctor.
+
+Die Adresse des neu**en** Mitarbeiters steht in der Liste.
+: The address of the new employee is on the list.
+
+Das Ergebnis meiner letzt**en** Prüfung war gut.
+: The result of my last exam was good.
+
+Die Geschichte eines klein**en** Kindes hat mich sehr berührt.
+: The story of a little child moved me deeply.
+
+Der Abschluss eines lang**en** Projekts ist immer erfreulich.
+: The completion of a long project is always satisfying.
+
+Das Ende des schön**en** Urlaubs kam viel zu schnell.
+: The end of the beautiful holiday came far too quickly.
+:::
 
 ---
 
@@ -130,18 +149,25 @@ If a name already ends in **-s, -ß, -x**, or **-z**, add an apostrophe instead 
 > **Klaus'** Auto – Klaus's car  
 > **Max'** Idee – Max's idea
 
-- Das ist **Sarahs** neues Apartment.  
-  *That is Sarah's new apartment.*
-- **Peters** Vorschlag hat allen sehr gut gefallen.  
-  *Peter's suggestion was well received by everyone.*
-- Die Wohnung des neuen Mieters ist noch nicht renoviert.  
-  *The apartment of the new tenant has not been renovated yet.*
-- Das Fahrrad meines Bruders ist leider kaputt.  
-  *My brother's bike is unfortunately broken.*
-- Der Garten unserer Nachbarn ist sehr gepflegt.  
-  *Our neighbors' garden is very well-kept.*
-- **Max'** Präsentation war die beste im ganzen Kurs.  
-  *Max's presentation was the best in the whole course.*
+:::{div} ol-examples
+Das ist **Sarahs** neues Apartment.
+: That is Sarah's new apartment.
+
+**Peters** Vorschlag hat allen sehr gut gefallen.
+: Peter's suggestion was well received by everyone.
+
+Die Wohnung des neuen Mieters ist noch nicht renoviert.
+: The apartment of the new tenant has not been renovated yet.
+
+Das Fahrrad meines Bruders ist leider kaputt.
+: My brother's bike is unfortunately broken.
+
+Der Garten unserer Nachbarn ist sehr gepflegt.
+: Our neighbors' garden is very well-kept.
+
+**Max'** Präsentation war die beste im ganzen Kurs.
+: Max's presentation was the best in the whole course.
+:::
 
 :::{tip}
 In everyday spoken German, *von + Dativ* is widely used instead of the genitive: *das Auto von meinem Lehrer* instead of *das Auto des Lehrers*. Both are understood, but the genitive is preferred in writing and formal speech.
@@ -149,28 +175,7 @@ In everyday spoken German, *von + Dativ* is widely used instead of the genitive:
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- Masculine and neuter nouns use *des* (definite) or *eines*/*meines* (indefinite/possessive) in the genitive.
-- Feminine and plural nouns use *der* in the genitive.
-- **Masculine and neuter nouns** add **-s** or **-es** to their form in the genitive.
-- After any article, adjectives always end in **-en** in the genitive, for all genders.
-- Proper names form the genitive by adding **-s** directly – **no apostrophe**: *Annas Buch*, *Tims Auto*.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Das Auto des Lehrer.* → Das Auto des Lehrer**s**. (Masculine nouns need -s or -es in the genitive)
-- *Das ist Annas' Buch.* → Das ist **Annas** Buch. (Proper names take -s with no apostrophe)
-- *Die Meinung **der** neuen Chefs.* → Die Meinung **des** neuen Chef**s**. (Masculine nouns use *des*, not *der*)
-- *Das Ende des Film.* → Das Ende des Film**s**. (The -s ending on the noun is required, don't drop it)
-- *Das Ergebnis einer gut**e** Arbeit.* → Das Ergebnis einer gut**en** Arbeit. (Adjectives always end in -en after a genitive article)
-- *Das Haus **von dem** Lehrer* passes in conversation, but in formal writing prefer *das Haus **des Lehrers***.
-:::
+## Hear it in practice
 
 :::{audio-examples}
 :track: b1/grammar/genitiv
@@ -248,6 +253,31 @@ Der Inhalt der Tasche ist wertvoll.
 
 Die Freundin meines Sohnes hat Medizin studiert.
 : My son's girlfriend studied medicine.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Masculine and neuter nouns use *des* (definite) or *eines*/*meines* (indefinite/possessive) in the genitive.
+- Feminine and plural nouns use *der* in the genitive.
+- **Masculine and neuter nouns** add **-s** or **-es** to their form in the genitive.
+- After any article, adjectives always end in **-en** in the genitive, for all genders.
+- Proper names form the genitive by adding **-s** directly – **no apostrophe**: *Annas Buch*, *Tims Auto*.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Das Auto des Lehrer.* → Das Auto des Lehrer**s**. (Masculine nouns need -s or -es in the genitive)
+- *Das ist Annas' Buch.* → Das ist **Annas** Buch. (Proper names take -s with no apostrophe)
+- *Die Meinung **der** neuen Chefs.* → Die Meinung **des** neuen Chef**s**. (Masculine nouns use *des*, not *der*)
+- *Das Ende des Film.* → Das Ende des Film**s**. (The -s ending on the noun is required, don't drop it)
+- *Das Ergebnis einer gut**e** Arbeit.* → Das Ergebnis einer gut**en** Arbeit. (Adjectives always end in -en after a genitive article)
+- *Das Haus **von dem** Lehrer* passes in conversation, but in formal writing prefer *das Haus **des Lehrers***.
 :::
 
 ---

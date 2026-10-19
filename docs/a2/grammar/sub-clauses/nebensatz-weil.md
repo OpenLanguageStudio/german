@@ -10,14 +10,6 @@ myst:
 ---
 # Nebensatz mit weil
 
-> Subordinate clauses with because
-
-:::{seealso}
-
-- [A2 > Grammar > Konnektoren: denn, deshalb, trotzdem](/a2/grammar/sub-clauses/konnektoren.md)
-- [A2 > Grammar > als und wenn - Unterschied](/a2/grammar/sub-clauses/nebensatz-als-wenn.md)
-:::
-
 *Weil* gives the reason for something, and it is everywhere in everyday German, spoken and written. The most important rule is simple: in a *weil*-clause, the conjugated verb goes to the end.
 
 *Examples:*
@@ -36,14 +28,19 @@ myst:
 
 **Examples:**
 
-- Ich bleibe zu Hause, {conj}`weil` ich krank {verb}`bin`.  
-  *I am staying home because I am sick.*
-- Sie fährt mit dem Fahrrad, {conj}`weil` der Bus zu spät {verb}`kommt`.  
-  *She goes by bike because the bus comes too late.*
-- Wir lernen heute Abend, {conj}`weil` wir morgen eine Prüfung {verb}`haben`.  
-  *We are studying this evening because we have an exam tomorrow.*
-- Er kauft Obst, {conj}`weil` er gesund essen {verb}`möchte`.  
-  *He is buying fruit because he wants to eat healthy food.*
+:::{div} ol-examples
+Ich bleibe zu Hause, {conj}`weil` ich krank {verb}`bin`.
+: I am staying home because I am sick.
+
+Sie fährt mit dem Fahrrad, {conj}`weil` der Bus zu spät {verb}`kommt`.
+: She goes by bike because the bus comes too late.
+
+Wir lernen heute Abend, {conj}`weil` wir morgen eine Prüfung {verb}`haben`.
+: We are studying this evening because we have an exam tomorrow.
+
+Er kauft Obst, {conj}`weil` er gesund essen {verb}`möchte`.
+: He is buying fruit because he wants to eat healthy food.
+:::
 
 :::{note}
 At A2, focus on *weil* first. It is very common in both spoken and written German. Compared with *da*, it is usually more frequent in everyday speech.
@@ -57,14 +54,19 @@ In standard German, the conjugated verb in the *weil*-clause is always in final 
 
 > main clause **,** {conj}`weil` + subject + other elements + {verb}`conjugated verb`
 
-- Ich gehe früh ins Bett, {conj}`weil` ich morgen um sechs Uhr aufstehen {verb}`muss`.  
-  *I am going to bed early because I have to get up at six tomorrow.*
-- Wir bleiben im Café, {conj}`weil` es draußen so kalt {verb}`ist`.  
-  *We are staying in the cafe because it is so cold outside.*
-- Sie kann heute nicht kommen, {conj}`weil` sie bis acht Uhr {verb}`arbeitet`.  
-  *She cannot come today because she is working until eight.*
-- Ich nehme einen Schirm mit, {conj}`weil` es später vielleicht {verb}`regnet`.  
-  *I am taking an umbrella because it might rain later.*
+:::{div} ol-examples
+Ich gehe früh ins Bett, {conj}`weil` ich morgen um sechs Uhr aufstehen {verb}`muss`.
+: I am going to bed early because I have to get up at six tomorrow.
+
+Wir bleiben im Café, {conj}`weil` es draußen so kalt {verb}`ist`.
+: We are staying in the cafe because it is so cold outside.
+
+Sie kann heute nicht kommen, {conj}`weil` sie bis acht Uhr {verb}`arbeitet`.
+: She cannot come today because she is working until eight.
+
+Ich nehme einen Schirm mit, {conj}`weil` es später vielleicht {verb}`regnet`.
+: I am taking an umbrella because it might rain later.
+:::
 
 :::{warning}
 Do not forget the comma: *Ich bleibe zu Hause weil ich krank bin.* is incorrect in standard writing.
@@ -83,18 +85,25 @@ You can place the *weil*-clause after the main clause or before it. If the *weil
 | Main clause first | Ich gehe früh ins Bett, {conj}`weil` ich müde {verb}`bin`. |
 | Weil-clause first | {conj}`Weil` ich müde {verb}`bin`, {verb}`gehe` ich früh ins Bett. |
 
-- Ich bleibe heute zu Hause, {conj}`weil` ich Kopfschmerzen {verb}`habe`.  
-  *I am staying home today because I have a headache.*
-- {conj}`Weil` ich Kopfschmerzen {verb}`habe`, {verb}`bleibe` ich heute zu Hause.  
-  *Because I have a headache, I am staying home today.*
-- Wir gehen zu Fuß, {conj}`weil` die Bahn schon weg {verb}`ist`.  
-  *We are going on foot because the train is already gone.*
-- {conj}`Weil` die Bahn schon weg {verb}`ist`, {verb}`gehen` wir zu Fuß.  
-  *Because the train is already gone, we are going on foot.*
-- Er trinkt Tee, {conj}`weil` sein Hals weh {verb}`tut`.  
-  *He is drinking tea because his throat hurts.*
-- {conj}`Weil` sein Hals weh {verb}`tut`, {verb}`trinkt` er Tee.  
-  *Because his throat hurts, he is drinking tea.*
+:::{div} ol-examples
+Ich bleibe heute zu Hause, {conj}`weil` ich Kopfschmerzen {verb}`habe`.
+: I am staying home today because I have a headache.
+
+{conj}`Weil` ich Kopfschmerzen {verb}`habe`, {verb}`bleibe` ich heute zu Hause.
+: Because I have a headache, I am staying home today.
+
+Wir gehen zu Fuß, {conj}`weil` die Bahn schon weg {verb}`ist`.
+: We are going on foot because the train is already gone.
+
+{conj}`Weil` die Bahn schon weg {verb}`ist`, {verb}`gehen` wir zu Fuß.
+: Because the train is already gone, we are going on foot.
+
+Er trinkt Tee, {conj}`weil` sein Hals weh {verb}`tut`.
+: He is drinking tea because his throat hurts.
+
+{conj}`Weil` sein Hals weh {verb}`tut`, {verb}`trinkt` er Tee.
+: Because his throat hurts, he is drinking tea.
+:::
 
 :::{note}
 When the *weil*-clause comes first, do not start the next clause with the subject. Put the verb first in the main clause.
@@ -115,12 +124,16 @@ Compared with *weil*, *denn* is a coordinating conjunction. That means the claus
 | Position | can start a sentence | cannot start a sentence |
 | Typical style | very common in speech and writing | common, often slightly more formal in writing |
 
-- Ich komme nicht, {conj}`weil` ich krank {verb}`bin`.  
-  *I am not coming because I am sick.*
-- Ich komme nicht, denn ich bin krank.  
-  *I am not coming, because I am sick.*
-- Umgangssprachlich: Ich komme nicht, weil ich bin krank.  
-  *Colloquial spoken German: I am not coming because I am sick.*
+:::{div} ol-examples
+Ich komme nicht, {conj}`weil` ich krank {verb}`bin`.
+: I am not coming because I am sick.
+
+Ich komme nicht, denn ich bin krank.
+: I am not coming, because I am sick.
+
+Umgangssprachlich: Ich komme nicht, weil ich bin krank.
+: Colloquial spoken German: I am not coming because I am sick.
+:::
 
 :::{warning}
 For A2 learners: actively produce the standard pattern with verb-final *weil*. Understand colloquial *weil + V2*, but avoid using it in writing and exams.
@@ -128,29 +141,8 @@ For A2 learners: actively produce the standard pattern with verb-final *weil*. U
 
 ---
 
-## Summary
+## Hear it in practice
 
-:::{admonition} Key points
-:class: note
-
-- *Weil* introduces a reason and starts a subordinate clause.
-- In standard German, the conjugated verb goes to the end of the *weil*-clause.
-- A comma always separates main clause and *weil*-clause.
-- You can use both orders: main clause + *weil*-clause, or *weil*-clause + main clause.
-- If the *weil*-clause comes first, use inversion in the main clause.
-- *Denn* also means "because", but it is a coordinator and keeps normal main-clause word order.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Ich bleibe zu Hause, weil ich \*bin müde.* → Ich bleibe zu Hause, weil ich müde **bin**. (verb-final rule)
-- *Ich bleibe zu Hause weil ich müde bin.* → Ich bleibe zu Hause**,** weil ich müde bin. (comma is required)
-- *Weil ich müde bin, \*ich bleibe zu Hause.* → Weil ich müde bin, **bleibe ich** zu Hause. (inversion in main clause)
-- *\*Denn ich müde bin, bleibe ich zu Hause.* → Ich bleibe zu Hause, denn ich **bin** müde. (denn cannot open the sentence)
-:::
-
----
 :::{audio-examples}
 :track: a2/grammar/nebensatz-mit-weil
 :title: Nebensatz mit weil
@@ -245,6 +237,30 @@ Sie sind glücklich, weil sie ein Baby bekommen.
 
 Wir gehen ins Restaurant, weil wir feiern wollen.
 : We're going to the restaurant because we want to celebrate.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *Weil* introduces a reason and starts a subordinate clause.
+- In standard German, the conjugated verb goes to the end of the *weil*-clause.
+- A comma always separates main clause and *weil*-clause.
+- You can use both orders: main clause + *weil*-clause, or *weil*-clause + main clause.
+- If the *weil*-clause comes first, use inversion in the main clause.
+- *Denn* also means "because", but it is a coordinator and keeps normal main-clause word order.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich bleibe zu Hause, weil ich \*bin müde.* → Ich bleibe zu Hause, weil ich müde **bin**. (verb-final rule)
+- *Ich bleibe zu Hause weil ich müde bin.* → Ich bleibe zu Hause**,** weil ich müde bin. (comma is required)
+- *Weil ich müde bin, \*ich bleibe zu Hause.* → Weil ich müde bin, **bleibe ich** zu Hause. (inversion in main clause)
+- *\*Denn ich müde bin, bleibe ich zu Hause.* → Ich bleibe zu Hause, denn ich **bin** müde. (denn cannot open the sentence)
 :::
 
 ---

@@ -10,21 +10,6 @@ myst:
 ---
 # Zweiteilige Konnektoren
 
-> Build nuanced B2 arguments with paired connectors in speech and writing
-
-:::{seealso}
-
-- [B2 > Grammar > Konnektor während](/b2/grammar/konnektor-waehrend.md)
-- [B2 > Grammar > Modalsätze](/b2/grammar/modalsaetze.md)
-- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Infinitivkonnektoren](/b2/grammar/infinitivkonnektoren.md)
-- [B2 > Grammar > Negation](/b2/grammar/negation.md)
-- [B1 > Grammar > Zweiteilige Konnektoren](/b1/grammar/zweiteilige-konnektoren.md)
-- [B1 > Grammar > Sätze mit je ..., desto/umso ...](/b1/grammar/je-desto.md)
-
-:::
-
 At B2, you often need to connect ideas precisely: add emphasis, weigh alternatives, concede a point, or structure two sides of an argument. Zweiteilige Konnektoren help you do that in a compact and natural way. The key is not only meaning, but also clean sentence structure and the right register.
 
 *Examples:*
@@ -46,16 +31,22 @@ Both pairs add information, but they do not sound identical. Use **sowohl ... al
 
 **Examples:**
 
-- Die Reform betrifft **sowohl** die Schulen **als auch** die Universitäten.  
-  *The reform affects both schools and universities.*
-- Wir müssen **sowohl** schneller entscheiden **als auch** transparenter kommunizieren.  
-  *We need to decide faster and communicate more transparently.*
-- Der Vorschlag ist **nicht nur** teuer, **sondern auch** organisatorisch riskant.  
-  *The proposal is not only expensive but also organizationally risky.*
-- Sie hat **nicht nur** die Analyse geschrieben, **sondern auch** die Präsentation übernommen.  
-  *She not only wrote the analysis but also took over the presentation.*
-- Das Problem ist **nicht nur** technisch, **sondern auch** politisch sensibel.  
-  *The problem is not only technical but also politically sensitive.*
+:::{div} ol-examples
+Die Reform betrifft **sowohl** die Schulen **als auch** die Universitäten.
+: The reform affects both schools and universities.
+
+Wir müssen **sowohl** schneller entscheiden **als auch** transparenter kommunizieren.
+: We need to decide faster and communicate more transparently.
+
+Der Vorschlag ist **nicht nur** teuer, **sondern auch** organisatorisch riskant.
+: The proposal is not only expensive but also organizationally risky.
+
+Sie hat **nicht nur** die Analyse geschrieben, **sondern auch** die Präsentation übernommen.
+: She not only wrote the analysis but also took over the presentation.
+
+Das Problem ist **nicht nur** technisch, **sondern auch** politisch sensibel.
+: The problem is not only technical but also politically sensitive.
+:::
 
 :::{warning}
 Do not mix the pairings. In standard German, *nicht nur* pairs with **sondern auch**, not with *aber auch*.
@@ -76,16 +67,22 @@ Use **entweder ... oder** to present two alternatives. Use **weder ... noch** to
 
 **Examples:**
 
-- Wir brauchen **entweder** eine Fristverlängerung **oder** zusätzliche Ressourcen.  
-  *We need either a deadline extension or additional resources.*
-- **Entweder** reagieren wir jetzt, **oder** die Kosten steigen weiter.  
-  *Either we act now, or costs will continue to rise.*
-- Das Konzept ist **weder** effizient **noch** nachhaltig.  
-  *The concept is neither efficient nor sustainable.*
-- Sie hat **weder** auf die Mail geantwortet **noch** zurückgerufen.  
-  *She neither replied to the email nor called back.*
-- Der Text ist **weder** fachlich präzise **noch** für Laien verständlich.  
-  *The text is neither technically precise nor understandable for non-experts.*
+:::{div} ol-examples
+Wir brauchen **entweder** eine Fristverlängerung **oder** zusätzliche Ressourcen.
+: We need either a deadline extension or additional resources.
+
+**Entweder** reagieren wir jetzt, **oder** die Kosten steigen weiter.
+: Either we act now, or costs will continue to rise.
+
+Das Konzept ist **weder** effizient **noch** nachhaltig.
+: The concept is neither efficient nor sustainable.
+
+Sie hat **weder** auf die Mail geantwortet **noch** zurückgerufen.
+: She neither replied to the email nor called back.
+
+Der Text ist **weder** fachlich präzise **noch** für Laien verständlich.
+: The text is neither technically precise nor understandable for non-experts.
+:::
 
 :::{tip}
 With **weder ... noch**, avoid adding extra negation (*nicht* / *kein*) in the same structure. The pair already carries the negation.
@@ -108,16 +105,22 @@ These pairs are central for B2 argumentation. **zwar ... aber** concedes one poi
 
 **Examples:**
 
-- Die Idee ist **zwar** ambitioniert, **aber** finanziell schwer umsetzbar.  
-  *The idea is admittedly ambitious, but financially hard to implement.*
-- Wir haben **zwar** Fortschritte gemacht, **aber** das Grundproblem bleibt bestehen.  
-  *We have admittedly made progress, but the core problem remains.*
-- **Einerseits** wollen viele mehr Flexibilität, **andererseits** erwarten sie klare Regeln.  
-  *On the one hand many want more flexibility, on the other hand they expect clear rules.*
-- **Einerseits** stärkt Homeoffice die Autonomie, **andererseits** erschwert es spontane Abstimmung.  
-  *On the one hand remote work strengthens autonomy, on the other hand it makes spontaneous coordination harder.*
-- **Einerseits** ist der Vorschlag langfristig sinnvoll, **andererseits** fehlt kurzfristig die Akzeptanz.  
-  *On the one hand the proposal is sensible in the long term, on the other hand short-term acceptance is missing.*
+:::{div} ol-examples
+Die Idee ist **zwar** ambitioniert, **aber** finanziell schwer umsetzbar.
+: The idea is admittedly ambitious, but financially hard to implement.
+
+Wir haben **zwar** Fortschritte gemacht, **aber** das Grundproblem bleibt bestehen.
+: We have admittedly made progress, but the core problem remains.
+
+**Einerseits** wollen viele mehr Flexibilität, **andererseits** erwarten sie klare Regeln.
+: On the one hand many want more flexibility, on the other hand they expect clear rules.
+
+**Einerseits** stärkt Homeoffice die Autonomie, **andererseits** erschwert es spontane Abstimmung.
+: On the one hand remote work strengthens autonomy, on the other hand it makes spontaneous coordination harder.
+
+**Einerseits** ist der Vorschlag langfristig sinnvoll, **andererseits** fehlt kurzfristig die Akzeptanz.
+: On the one hand the proposal is sensible in the long term, on the other hand short-term acceptance is missing.
+:::
 
 :::{note}
 In formal writing, **einerseits ... andererseits** often sounds more structured than **zwar ... aber**.
@@ -142,16 +145,22 @@ Use this pattern when one change depends on another change. The first clause wit
 
 **Examples:**
 
-- **Je klarer** die Zuständigkeiten sind, **desto schneller** werden Entscheidungen getroffen.  
-  *The clearer responsibilities are, the faster decisions are made.*
-- **Je länger** der Konflikt dauert, **umso schwieriger** wird ein Kompromiss.  
-  *The longer the conflict lasts, the more difficult a compromise becomes.*
-- **Je besser** ein Team vorbereitet ist, **desto flexibler** kann es auf Krisen reagieren.  
-  *The better a team is prepared, the more flexibly it can react to crises.*
-- **Je weniger** Vertrauen vorhanden ist, **umso höher** ist der Kontrollaufwand.  
-  *The less trust there is, the higher the control effort is.*
-- **Je präziser** die Fragen sind, **desto brauchbarer** fallen die Antworten aus.  
-  *The more precise the questions are, the more usable the answers turn out.*
+:::{div} ol-examples
+**Je klarer** die Zuständigkeiten sind, **desto schneller** werden Entscheidungen getroffen.
+: The clearer responsibilities are, the faster decisions are made.
+
+**Je länger** der Konflikt dauert, **umso schwieriger** wird ein Kompromiss.
+: The longer the conflict lasts, the more difficult a compromise becomes.
+
+**Je besser** ein Team vorbereitet ist, **desto flexibler** kann es auf Krisen reagieren.
+: The better a team is prepared, the more flexibly it can react to crises.
+
+**Je weniger** Vertrauen vorhanden ist, **umso höher** ist der Kontrollaufwand.
+: The less trust there is, the higher the control effort is.
+
+**Je präziser** die Fragen sind, **desto brauchbarer** fallen die Antworten aus.
+: The more precise the questions are, the more usable the answers turn out.
+:::
 
 :::{warning}
 Do not treat the second part as verb-final. After **desto/umso**, you still need main-clause verb placement.
@@ -202,3 +211,6 @@ Use the link below to practice the full topic interactively.
 - [B2 > Grammar > Negation](/b2/grammar/negation.md)
 - [B1 > Grammar > Zweiteilige Konnektoren](/b1/grammar/zweiteilige-konnektoren.md)
 - [B1 > Grammar > Sätze mit je ..., desto/umso ...](/b1/grammar/je-desto.md)
+- [B2 > Grammar > Konnektor während](/b2/grammar/konnektor-waehrend.md)
+- [B2 > Grammar > Modalsätze](/b2/grammar/modalsaetze.md)
+- [B2 > Grammar > Infinitivkonnektoren](/b2/grammar/infinitivkonnektoren.md)

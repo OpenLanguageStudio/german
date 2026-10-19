@@ -10,8 +10,6 @@ myst:
 ---
 # Wechselpräpositionen
 
-> Two-way prepositions: location (Wo?) vs. direction (Wohin?)
-
 :::{note}
 :class: dropdown
 Before reading this article, make sure you are comfortable with:
@@ -67,66 +65,93 @@ The following paired examples show every preposition. Each pair uses the same no
 
 **in**
 
-- Ich lege das Buch {prep}`in` {akk}`das` Regal.  
-  *I put the book on the shelf.* (Wohin? → Akkusativ)
-- Das Buch liegt {prep}`in` {dativ}`dem` Regal.  
-  *The book is on the shelf.* (Wo? → Dativ)
+:::{div} ol-examples
+Ich lege das Buch {prep}`in` {akk}`das` Regal.
+: I put the book on the shelf. (Wohin? → Akkusativ)
+
+Das Buch liegt {prep}`in` {dativ}`dem` Regal.
+: The book is on the shelf. (Wo? → Dativ)
+:::
 
 **an**
 
-- Sie hängt das Bild {prep}`an` {akk}`die` Wand.  
-  *She hangs the picture on the wall.* (Wohin? → Akkusativ)
-- Das Bild hängt {prep}`an` {dativ}`der` Wand.  
-  *The picture hangs on the wall.* (Wo? → Dativ)
+:::{div} ol-examples
+Sie hängt das Bild {prep}`an` {akk}`die` Wand.
+: She hangs the picture on the wall. (Wohin? → Akkusativ)
+
+Das Bild hängt {prep}`an` {dativ}`der` Wand.
+: The picture hangs on the wall. (Wo? → Dativ)
+:::
 
 **auf**
 
-- Er stellt die Tasse {prep}`auf` {akk}`den` Tisch.  
-  *He puts the cup on the table.* (Wohin? → Akkusativ)
-- Die Tasse steht {prep}`auf` {dativ}`dem` Tisch.  
-  *The cup is on the table.* (Wo? → Dativ)
+:::{div} ol-examples
+Er stellt die Tasse {prep}`auf` {akk}`den` Tisch.
+: He puts the cup on the table. (Wohin? → Akkusativ)
+
+Die Tasse steht {prep}`auf` {dativ}`dem` Tisch.
+: The cup is on the table. (Wo? → Dativ)
+:::
 
 **neben**
 
-- Ich stelle die Lampe {prep}`neben` {akk}`das` Sofa.  
-  *I put the lamp next to the sofa.* (Wohin? → Akkusativ)
-- Die Lampe steht {prep}`neben` {dativ}`dem` Sofa.  
-  *The lamp is next to the sofa.* (Wo? → Dativ)
+:::{div} ol-examples
+Ich stelle die Lampe {prep}`neben` {akk}`das` Sofa.
+: I put the lamp next to the sofa. (Wohin? → Akkusativ)
+
+Die Lampe steht {prep}`neben` {dativ}`dem` Sofa.
+: The lamp is next to the sofa. (Wo? → Dativ)
+:::
 
 **zwischen**
 
-- Er legt die Fernbedienung {prep}`zwischen` {akk}`die` Kissen.  
-  *He puts the remote between the cushions.* (Wohin? → Akkusativ)
-- Die Fernbedienung liegt {prep}`zwischen` {dativ}`den` Kissen.  
-  *The remote is between the cushions.* (Wo? → Dativ)
+:::{div} ol-examples
+Er legt die Fernbedienung {prep}`zwischen` {akk}`die` Kissen.
+: He puts the remote between the cushions. (Wohin? → Akkusativ)
+
+Die Fernbedienung liegt {prep}`zwischen` {dativ}`den` Kissen.
+: The remote is between the cushions. (Wo? → Dativ)
+:::
 
 **über**
 
-- Sie hängt die Lampe {prep}`über` {akk}`den` Tisch.  
-  *She hangs the lamp over the table.* (Wohin? → Akkusativ)
-- Die Lampe hängt {prep}`über` {dativ}`dem` Tisch.  
-  *The lamp hangs over the table.* (Wo? → Dativ)
+:::{div} ol-examples
+Sie hängt die Lampe {prep}`über` {akk}`den` Tisch.
+: She hangs the lamp over the table. (Wohin? → Akkusativ)
+
+Die Lampe hängt {prep}`über` {dativ}`dem` Tisch.
+: The lamp hangs over the table. (Wo? → Dativ)
+:::
 
 **unter**
 
-- Die Katze kriecht {prep}`unter` {akk}`das` Bett.  
-  *The cat crawls under the bed.* (Wohin? → Akkusativ)
-- Die Katze schläft {prep}`unter` {dativ}`dem` Bett.  
-  *The cat sleeps under the bed.* (Wo? → Dativ)
+:::{div} ol-examples
+Die Katze kriecht {prep}`unter` {akk}`das` Bett.
+: The cat crawls under the bed. (Wohin? → Akkusativ)
+
+Die Katze schläft {prep}`unter` {dativ}`dem` Bett.
+: The cat sleeps under the bed. (Wo? → Dativ)
+:::
 
 **vor**
 
-- Wir stellen das Fahrrad {prep}`vor` {akk}`die` Tür.  
-  *We put the bike in front of the door.* (Wohin? → Akkusativ)
-- Das Fahrrad steht {prep}`vor` {dativ}`der` Tür.  
-  *The bike is in front of the door.* (Wo? → Dativ)
+:::{div} ol-examples
+Wir stellen das Fahrrad {prep}`vor` {akk}`die` Tür.
+: We put the bike in front of the door. (Wohin? → Akkusativ)
+
+Das Fahrrad steht {prep}`vor` {dativ}`der` Tür.
+: The bike is in front of the door. (Wo? → Dativ)
+:::
 
 **hinter**
 
-- Die Kinder laufen {prep}`hinter` {akk}`das` Haus.  
-  *The children run behind the house.* (Wohin? → Akkusativ)
-- Die Kinder spielen {prep}`hinter` {dativ}`dem` Haus.  
-  *The children are playing behind the house.* (Wo? → Dativ)
+:::{div} ol-examples
+Die Kinder laufen {prep}`hinter` {akk}`das` Haus.
+: The children run behind the house. (Wohin? → Akkusativ)
+
+Die Kinder spielen {prep}`hinter` {dativ}`dem` Haus.
+: The children are playing behind the house. (Wo? → Dativ)
+:::
 
 :::{note}
 For feminine nouns in the accusative, the article stays *die*, it only changes to *der* in the dative:
@@ -148,18 +173,25 @@ In everyday German, four combinations are **always** contracted, you will rarely
 
 **Examples:**
 
-- Wir gehen heute Abend {prep}`ins` Kino.  
-  *We're going to the cinema tonight.* (Wohin? → in + das = ins)
-- Das Café ist {prep}`im` Erdgeschoss.  
-  *The café is on the ground floor.* (Wo? → in + dem = im)
-- Das Kind läuft {prep}`ans` Fenster und schaut hinaus.  
-  *The child runs to the window and looks out.* (Wohin? → an + das = ans)
-- Er wartet {prep}`am` Eingang auf mich.  
-  *He is waiting for me at the entrance.* (Wo? → an + dem = am)
-- Ich gehe {prep}`ins` Schwimmbad, kommst du mit?  
-  *I'm going to the swimming pool, are you coming?* (Wohin? → ins)
-- Sie sitzt {prep}`am` Schreibtisch und arbeitet.  
-  *She's sitting at the desk working.* (Wo? → am)
+:::{div} ol-examples
+Wir gehen heute Abend {prep}`ins` Kino.
+: We're going to the cinema tonight. (Wohin? → in + das = ins)
+
+Das Café ist {prep}`im` Erdgeschoss.
+: The café is on the ground floor. (Wo? → in + dem = im)
+
+Das Kind läuft {prep}`ans` Fenster und schaut hinaus.
+: The child runs to the window and looks out. (Wohin? → an + das = ans)
+
+Er wartet {prep}`am` Eingang auf mich.
+: He is waiting for me at the entrance. (Wo? → an + dem = am)
+
+Ich gehe {prep}`ins` Schwimmbad, kommst du mit?
+: I'm going to the swimming pool, are you coming? (Wohin? → ins)
+
+Sie sitzt {prep}`am` Schreibtisch und arbeitet.
+: She's sitting at the desk working. (Wo? → am)
+:::
 
 :::{note}
 Other contractions also exist – *aufs*, *vors*, *hinters*, *übers*, *unters*, but these are mostly spoken shortcuts and less predictable. Focus on *im*, *ins*, *am*, and *ans* first. They are the ones you will see and hear most often.
@@ -167,29 +199,7 @@ Other contractions also exist – *aufs*, *vors*, *hinters*, *übers*, *unters*,
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- Nine prepositions are **Wechselpräpositionen**: *in, an, auf, neben, zwischen, über, unter, vor, hinter*.
-- **Wohin?** (direction/movement) → **Akkusativ**: *den, die, das, die*
-- **Wo?** (location/position) → **Dativ**: *dem, der, dem, den*
-- Only **masculine** nouns change in the accusative (*der → den*). Feminine, neuter, and plural look the same in nominative and accusative.
-- Four contractions are standard: **im** (in+dem), **ins** (in+das), **am** (an+dem), **ans** (an+das).
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Ich bin \*in die Küche.* → Ich bin **in der** Küche. (*sein* describes a location → Wo? → Dativ)
-- *Ich gehe \*in der Schule.* → Ich gehe **in die** Schule. (*gehen* describes movement → Wohin? → Akkusativ)
-- *Das Buch liegt \*auf den Tisch.* → Das Buch liegt **auf dem** Tisch. (*liegen* = static position → Wo? → Dativ)
-- *Das Bild hängt \*an die Wand.* → Das Bild hängt **an der** Wand. (*hängen* intransitive = position → Wo? → Dativ)
-- *Ich gehe \*in dem Kino.* → Ich gehe **ins** Kino. (movement into a neuter noun → Wohin? → Akkusativ; use the contraction *ins*)
-:::
-
----
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/wechselprapositionen-wohin-und-wo
@@ -284,6 +294,30 @@ Sie läuft in den Park.
 
 Sie läuft im Park.
 : She's running in the park.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Nine prepositions are **Wechselpräpositionen**: *in, an, auf, neben, zwischen, über, unter, vor, hinter*.
+- **Wohin?** (direction/movement) → **Akkusativ**: *den, die, das, die*
+- **Wo?** (location/position) → **Dativ**: *dem, der, dem, den*
+- Only **masculine** nouns change in the accusative (*der → den*). Feminine, neuter, and plural look the same in nominative and accusative.
+- Four contractions are standard: **im** (in+dem), **ins** (in+das), **am** (an+dem), **ans** (an+das).
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich bin \*in die Küche.* → Ich bin **in der** Küche. (*sein* describes a location → Wo? → Dativ)
+- *Ich gehe \*in der Schule.* → Ich gehe **in die** Schule. (*gehen* describes movement → Wohin? → Akkusativ)
+- *Das Buch liegt \*auf den Tisch.* → Das Buch liegt **auf dem** Tisch. (*liegen* = static position → Wo? → Dativ)
+- *Das Bild hängt \*an die Wand.* → Das Bild hängt **an der** Wand. (*hängen* intransitive = position → Wo? → Dativ)
+- *Ich gehe \*in dem Kino.* → Ich gehe **ins** Kino. (movement into a neuter noun → Wohin? → Akkusativ; use the contraction *ins*)
 :::
 
 ---

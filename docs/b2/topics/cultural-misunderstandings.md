@@ -6,14 +6,6 @@ myst:
 ---
 # Cultural misunderstandings
 
-> Kulturelle Missverständnisse
-
-:::{seealso}
-
-- [B2 > Grammar > Two-part connectors](/b2/grammar/zweiteilige-konnektoren.md)
-
-:::
-
 ## Vocabulary list
 
 | German | English |
@@ -74,3 +66,9 @@ Heute denke ich: Interkulturelle Kompetenz besteht aus drei Teilen – beobachte
 - Jonas: Gute Idee. Ich versuche, mehr zu beobachten und erst dann direkt zu sein.
 - Tomoko: Ja, und im Zweifel nachfragen. Spart Zeit und Nerven.
 - Jonas: Und verhindert, dass kleine Dinge groß werden.
+
+---
+
+## Related articles
+
+- [B2 > Grammar > Two-part connectors](/b2/grammar/zweiteilige-konnektoren.md)

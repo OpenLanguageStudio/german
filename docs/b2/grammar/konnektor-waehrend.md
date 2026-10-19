@@ -10,18 +10,6 @@ myst:
 ---
 # Konnektor während
 
-> Use während to express either simultaneity or contrast, depending on context
-
-:::{seealso}
-
-- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Präpositionen mit Genitiv](/b2/grammar/praepositionen-mit-genitiv.md)
-- [B1 > Grammar > Temporal Nebensätze](/b1/grammar/temporal-nebensaetze.md)
-- [B1 > Grammar > Konzessiv Nebensätze](/b1/grammar/konzessiv-nebensaetze.md)
-
-:::
-
 With {conj}`während`, you can connect two clauses in two different ways. Sometimes it means two actions happen at the same time; sometimes it introduces a contrast between two facts. At B2, the key is to read the full sentence context and choose the meaning that fits the communicative goal.
 
 *Examples:*
@@ -42,16 +30,22 @@ In temporal use, {conj}`während` answers the question "when?" You use it when o
 
 **Examples:**
 
-- {conj}`Während` ich den Bericht {verb}`schrieb`, hat das Team schon mit der Auswertung begonnen.  
-  *While I was writing the report, the team had already started the analysis.*
-- Ich habe telefoniert, {conj}`während` ich auf den Zug {verb}`wartete`.  
-  *I was on the phone while I was waiting for the train.*
-- {conj}`Während` wir die Präsentation {verb}`überarbeiteten`, wurden neue Zahlen veröffentlicht.  
-  *While we were revising the presentation, new figures were published.*
-- Der Kunde stellte Rückfragen, {conj}`während` wir die Lösung live {verb}`testeten`.  
-  *The client asked follow-up questions while we were testing the solution live.*
-- {conj}`Während` sie in München {verb}`lebte`, hat sie ihr Netzwerk stark ausgebaut.  
-  *While she was living in Munich, she expanded her network a lot.*
+:::{div} ol-examples
+{conj}`Während` ich den Bericht {verb}`schrieb`, hat das Team schon mit der Auswertung begonnen.
+: While I was writing the report, the team had already started the analysis.
+
+Ich habe telefoniert, {conj}`während` ich auf den Zug {verb}`wartete`.
+: I was on the phone while I was waiting for the train.
+
+{conj}`Während` wir die Präsentation {verb}`überarbeiteten`, wurden neue Zahlen veröffentlicht.
+: While we were revising the presentation, new figures were published.
+
+Der Kunde stellte Rückfragen, {conj}`während` wir die Lösung live {verb}`testeten`.
+: The client asked follow-up questions while we were testing the solution live.
+
+{conj}`Während` sie in München {verb}`lebte`, hat sie ihr Netzwerk stark ausgebaut.
+: While she was living in Munich, she expanded her network a lot.
+:::
 
 :::{tip}
 Temporal {conj}`während` often appears with process-like actions (arbeiten, warten, diskutieren, testen) because these naturally overlap in time.
@@ -74,16 +68,22 @@ In concessive/contrastive use, {conj}`während` means "whereas" or "while" in th
 
 **Examples:**
 
-- {conj}`Während` viele Mitarbeitende Flexibilität fordern, wünschen sich andere klare Präsenzregeln.  
-  *While many employees demand flexibility, others want clear on-site rules.*
-- Die eine Gruppe priorisiert Tempo, {conj}`während` die andere mehr Wert auf Genauigkeit {verb}`legt`.  
-  *One group prioritizes speed, whereas the other places more value on accuracy.*
-- {conj}`Während` meine Kollegin lieber spontan entscheidet, plane ich jeden Schritt im Voraus.  
-  *While my colleague prefers to decide spontaneously, I plan every step in advance.*
-- Einige sehen Homeoffice als Chance, {conj}`während` andere den Teamzusammenhalt gefährdet {verb}`sehen`.  
-  *Some see remote work as an opportunity, whereas others see team cohesion at risk.*
-- {conj}`Während` der Entwurf intern gelobt wurde, reagierten externe Partner eher kritisch.  
-  *While the draft was praised internally, external partners reacted rather critically.*
+:::{div} ol-examples
+{conj}`Während` viele Mitarbeitende Flexibilität fordern, wünschen sich andere klare Präsenzregeln.
+: While many employees demand flexibility, others want clear on-site rules.
+
+Die eine Gruppe priorisiert Tempo, {conj}`während` die andere mehr Wert auf Genauigkeit {verb}`legt`.
+: One group prioritizes speed, whereas the other places more value on accuracy.
+
+{conj}`Während` meine Kollegin lieber spontan entscheidet, plane ich jeden Schritt im Voraus.
+: While my colleague prefers to decide spontaneously, I plan every step in advance.
+
+Einige sehen Homeoffice als Chance, {conj}`während` andere den Teamzusammenhalt gefährdet {verb}`sehen`.
+: Some see remote work as an opportunity, whereas others see team cohesion at risk.
+
+{conj}`Während` der Entwurf intern gelobt wurde, reagierten externe Partner eher kritisch.
+: While the draft was praised internally, external partners reacted rather critically.
+:::
 
 :::{note}
 In formal writing, concessive/contrastive {conj}`während` is common in reports and arguments. It often sounds more neutral than a short "aber" contrast.
@@ -101,14 +101,19 @@ The form is the same in both uses, so meaning comes from context. Look at the ki
 
 **Examples:**
 
-- {conj}`Während` ich den Vertrag {verb}`las`, machte sie sich Notizen.  
-  *While I was reading the contract, she took notes.*
-- {conj}`Während` ich den Vertrag positiv {verb}`bewerte`, hält sie ihn für zu riskant.  
-  *While I evaluate the contract positively, she considers it too risky.*
-- Er kochte, {conj}`während` ich den Tisch {verb}`deckte`.  
-  *He cooked while I set the table.*
-- Er arbeitet am liebsten allein, {conj}`während` sein Bruder ständig im Team {verb}`arbeitet`.  
-  *He prefers working alone, whereas his brother constantly works in a team.*
+:::{div} ol-examples
+{conj}`Während` ich den Vertrag {verb}`las`, machte sie sich Notizen.
+: While I was reading the contract, she took notes.
+
+{conj}`Während` ich den Vertrag positiv {verb}`bewerte`, hält sie ihn für zu riskant.
+: While I evaluate the contract positively, she considers it too risky.
+
+Er kochte, {conj}`während` ich den Tisch {verb}`deckte`.
+: He cooked while I set the table.
+
+Er arbeitet am liebsten allein, {conj}`während` sein Bruder ständig im Team {verb}`arbeitet`.
+: He prefers working alone, whereas his brother constantly works in a team.
+:::
 
 :::{warning}
 Do not confuse the connector {conj}`während` with the preposition **während + Genitiv**.

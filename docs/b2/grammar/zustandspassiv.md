@@ -10,17 +10,6 @@ myst:
 ---
 # Zustandspassiv
 
-> Distinguish an ongoing action from its finished result with German passive forms
-
-:::{seealso}
-
-- [B1 > Grammar > Passiv (Passive Voice)](/b1/grammar/passiv.md)
-- [B1 > Grammar > Partizip als Adjektiv](/b1/grammar/partizip-als-adjektiv.md)
-- [B2 > Grammar > Partizipien als Adjektive](/b2/grammar/partizipien-als-adjektive.md)
-- [A2 > Grammar > Verb werden](/a2/grammar/verbs/verb-werden.md)
-
-:::
-
 At B2, forming passive sentences correctly is only part of the job. The other part is choosing the right meaning: German uses *werden* for a process in progress and *sein* for a resulting state. That distinction is what makes reports, workplace communication, and formal writing sound precise.
 
 *Examples:*
@@ -41,14 +30,19 @@ Use this form when you focus on what is currently happening or what regularly ha
 
 **Examples:**
 
-- Die E-Mails **werden** heute Nachmittag **beantwortet**.  
-  *The emails are being answered this afternoon.*
-- Das Formular **wird** am Empfang **ausgefüllt**.  
-  *The form is being filled in at reception.*
-- Neue Mitarbeitende **werden** in den ersten Wochen intensiv **eingearbeitet**.  
-  *New employees are being trained intensively in the first weeks.*
-- Die Software **wird von** der IT-Abteilung **aktualisiert**.  
-  *The software is being updated by the IT department.*
+:::{div} ol-examples
+Die E-Mails **werden** heute Nachmittag **beantwortet**.
+: The emails are being answered this afternoon.
+
+Das Formular **wird** am Empfang **ausgefüllt**.
+: The form is being filled in at reception.
+
+Neue Mitarbeitende **werden** in den ersten Wochen intensiv **eingearbeitet**.
+: New employees are being trained intensively in the first weeks.
+
+Die Software **wird von** der IT-Abteilung **aktualisiert**.
+: The software is being updated by the IT department.
+:::
 
 :::{tip}
 If you can naturally ask *Was passiert gerade?* and answer with your sentence, you probably need *Vorgangspassiv* with *werden*.
@@ -70,14 +64,19 @@ Use this form when you describe a process in the past, especially in reports, ne
 
 **Examples:**
 
-- Der Antrag **wurde** gestern endgültig **genehmigt**.  
-  *The application was approved yesterday.*
-- Das Gebäude **wurde** im letzten Jahr komplett **renoviert**.  
-  *The building was completely renovated last year.*
-- Mehrere Vorschläge **wurden** im Meeting kritisch **diskutiert**.  
-  *Several proposals were discussed critically in the meeting.*
-- Die Ergebnisse **wurden von** zwei Teams unabhängig **ausgewertet**.  
-  *The results were evaluated independently by two teams.*
+:::{div} ol-examples
+Der Antrag **wurde** gestern endgültig **genehmigt**.
+: The application was approved yesterday.
+
+Das Gebäude **wurde** im letzten Jahr komplett **renoviert**.
+: The building was completely renovated last year.
+
+Mehrere Vorschläge **wurden** im Meeting kritisch **diskutiert**.
+: Several proposals were discussed critically in the meeting.
+
+Die Ergebnisse **wurden von** zwei Teams unabhängig **ausgewertet**.
+: The results were evaluated independently by two teams.
+:::
 
 :::{note}
 In many spoken contexts, German prefers Perfekt forms for past events. In formal written language, *wurde + Partizip II* remains very common.
@@ -99,14 +98,19 @@ Use this form when you describe the current condition after an action has alread
 
 **Examples:**
 
-- Der Konferenzraum **ist bereits reserviert**.  
-  *The conference room is already reserved.*
-- Die Aufgabe **ist vollständig erledigt**.  
-  *The task is fully completed.*
-- Alle Dokumente **sind digital unterschrieben**.  
-  *All documents are digitally signed.*
-- Das Fenster **ist wegen des Lärms geschlossen**.  
-  *The window is closed because of the noise.*
+:::{div} ol-examples
+Der Konferenzraum **ist bereits reserviert**.
+: The conference room is already reserved.
+
+Die Aufgabe **ist vollständig erledigt**.
+: The task is fully completed.
+
+Alle Dokumente **sind digital unterschrieben**.
+: All documents are digitally signed.
+
+Das Fenster **ist wegen des Lärms geschlossen**.
+: The window is closed because of the noise.
+:::
 
 :::{warning}
 Do not confuse this with adjective-only descriptions. In many sentences, the Partizip II behaves similarly to an adjective, but in this lesson you should focus on the result of a prior action.
@@ -128,14 +132,19 @@ Use this form for a state that existed at a point in the past. You are not narra
 
 **Examples:**
 
-- Als wir ankamen, **war** der Saal schon **vorbereitet**.  
-  *When we arrived, the hall was already prepared.*
-- Nach dem Sturm **waren** mehrere Straßen für Stunden **gesperrt**.  
-  *After the storm, several roads were closed for hours.*
-- Vor der Präsentation **war** die Technik endlich **eingerichtet**.  
-  *Before the presentation, the equipment was finally set up.*
-- Im Protokoll stand, dass alle Punkte **dokumentiert waren**.  
-  *The minutes said that all points were documented.*
+:::{div} ol-examples
+Als wir ankamen, **war** der Saal schon **vorbereitet**.
+: When we arrived, the hall was already prepared.
+
+Nach dem Sturm **waren** mehrere Straßen für Stunden **gesperrt**.
+: After the storm, several roads were closed for hours.
+
+Vor der Präsentation **war** die Technik endlich **eingerichtet**.
+: Before the presentation, the equipment was finally set up.
+
+Im Protokoll stand, dass alle Punkte **dokumentiert waren**.
+: The minutes said that all points were documented.
+:::
 
 :::{tip}
 A useful check is: can you paraphrase with "in diesem Moment war der Zustand so"? If yes, *war/waren + Partizip II* is often the right choice.
@@ -184,3 +193,4 @@ Click the link below to practice everything from this page with an interactive t
 - [B1 > Grammar > Passiv (Passive Voice)](/b1/grammar/passiv.md)
 - [B1 > Grammar > Partizip als Adjektiv](/b1/grammar/partizip-als-adjektiv.md)
 - [A2 > Grammar > Verb werden](/a2/grammar/verbs/verb-werden.md)
+- [B2 > Grammar > Partizipien als Adjektive](/b2/grammar/partizipien-als-adjektive.md)

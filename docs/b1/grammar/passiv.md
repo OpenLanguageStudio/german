@@ -25,18 +25,25 @@ Use the present passive to describe something that is happening now or something
 | es / der/die/das … | **wird** | gekauft |
 | sie (Pl.) / die … | **werden** | gemacht |
 
-- Das Auto **wird** gerade **repariert**.  
-  _The car is being repaired right now._
-- Die Kunden **werden** freundlich **begrüßt**.  
-  _The customers are welcomed in a friendly way._
-- Das Formular **wird** am Schalter **ausgefüllt**.  
-  _The form is filled in at the counter._
-- Das Abendessen **wird von** meiner Mutter **gekocht**.  
-  _Dinner is cooked by my mother._
-- Die Bestellung **wird** gerade **bearbeitet**.  
-  _Your order is currently being processed._
-- Der Raum **wird** zweimal pro Woche **gereinigt**.  
-  _The room is cleaned twice a week._
+:::{div} ol-examples
+Das Auto **wird** gerade **repariert**.
+: The car is being repaired right now.
+
+Die Kunden **werden** freundlich **begrüßt**.
+: The customers are welcomed in a friendly way.
+
+Das Formular **wird** am Schalter **ausgefüllt**.
+: The form is filled in at the counter.
+
+Das Abendessen **wird von** meiner Mutter **gekocht**.
+: Dinner is cooked by my mother.
+
+Die Bestellung **wird** gerade **bearbeitet**.
+: Your order is currently being processed.
+
+Der Raum **wird** zweimal pro Woche **gereinigt**.
+: The room is cleaned twice a week.
+:::
 
 :::{tip}
 To say who does the action, add **von + Dativ**: _Das Auto wird **von einem Mechaniker** repariert._
@@ -51,18 +58,25 @@ Use the simple past passive when describing completed events in the past. It is 
 
 > {verb}`wurde` / {verb}`wurden` + **Partizip II**
 
-- Das Gebäude **wurde** 1923 **gebaut**.  
-  _The building was built in 1923._
-- Der Patient **wurde** sofort **untersucht**.  
-  _The patient was examined immediately._
-- Das Fenster **wurde** gestern **geputzt**.  
-  _The window was cleaned yesterday._
-- Die Hausaufgaben **wurden** rechtzeitig **abgegeben**.  
-  _The homework was handed in on time._
-- Das Paket **wurde** leider nicht **geliefert**.  
-  _The package was unfortunately not delivered._
-- Der Vertrag **wurde von** beiden Seiten **unterschrieben**.  
-  _The contract was signed by both parties._
+:::{div} ol-examples
+Das Gebäude **wurde** 1923 **gebaut**.
+: The building was built in 1923.
+
+Der Patient **wurde** sofort **untersucht**.
+: The patient was examined immediately.
+
+Das Fenster **wurde** gestern **geputzt**.
+: The window was cleaned yesterday.
+
+Die Hausaufgaben **wurden** rechtzeitig **abgegeben**.
+: The homework was handed in on time.
+
+Das Paket **wurde** leider nicht **geliefert**.
+: The package was unfortunately not delivered.
+
+Der Vertrag **wurde von** beiden Seiten **unterschrieben**.
+: The contract was signed by both parties.
+:::
 
 :::{note}
 In spoken German, the **Perfekt** passive is often preferred over the *Präteritum* passive. However, you will frequently encounter the *Präteritum* passive in written texts and news reports, so it is important to recognise it.
@@ -82,18 +96,25 @@ The special past participle of _werden_ used in the passive is **worden**, not *
 - Wrong: Das Auto ist repariert *geworden*.
 :::
 
-- Das Auto **ist repariert worden**.  
-  _The car has been repaired._
-- Die Rechnung **ist bereits bezahlt worden**.  
-  _The invoice has already been paid._
-- Alle Dokumente **sind überprüft worden**.  
-  _All documents have been checked._
-- Der Fehler **ist endlich entdeckt worden**.  
-  _The mistake has finally been discovered._
-- Die E-Mail **ist vom Chef beantwortet worden**.  
-  _The email has been answered by the boss._
-- Das Projekt **ist erfolgreich abgeschlossen worden**.  
-  _The project has been completed successfully._
+:::{div} ol-examples
+Das Auto **ist repariert worden**.
+: The car has been repaired.
+
+Die Rechnung **ist bereits bezahlt worden**.
+: The invoice has already been paid.
+
+Alle Dokumente **sind überprüft worden**.
+: All documents have been checked.
+
+Der Fehler **ist endlich entdeckt worden**.
+: The mistake has finally been discovered.
+
+Die E-Mail **ist vom Chef beantwortet worden**.
+: The email has been answered by the boss.
+
+Das Projekt **ist erfolgreich abgeschlossen worden**.
+: The project has been completed successfully.
+:::
 
 ---
 
@@ -108,18 +129,25 @@ Combine a modal verb with the passive to express obligation, permission, ability
 | Präsens | muss/kann/soll … | Das Formular **muss ausgefüllt werden**. |
 | Präteritum | musste/konnte/sollte … | Das Formular **musste ausgefüllt werden**. |
 
-- Das Formular **muss ausgefüllt werden**.  
-  _The form must be filled in._
-- Die Rechnung **kann online bezahlt werden**.  
-  _The invoice can be paid online._
-- Der Fehler **darf nicht wiederholt werden**.  
-  _The mistake must not be repeated._
-- Das Paket **soll morgen geliefert werden**.  
-  _The package is supposed to be delivered tomorrow._
-- Die Heizung **musste sofort repariert werden**.  
-  _The heating had to be repaired immediately._
-- Das Licht **sollte ausgemacht werden**.  
-  _The light should be switched off._
+:::{div} ol-examples
+Das Formular **muss ausgefüllt werden**.
+: The form must be filled in.
+
+Die Rechnung **kann online bezahlt werden**.
+: The invoice can be paid online.
+
+Der Fehler **darf nicht wiederholt werden**.
+: The mistake must not be repeated.
+
+Das Paket **soll morgen geliefert werden**.
+: The package is supposed to be delivered tomorrow.
+
+Die Heizung **musste sofort repariert werden**.
+: The heating had to be repaired immediately.
+
+Das Licht **sollte ausgemacht werden**.
+: The light should be switched off.
+:::
 
 :::{tip}
 The *Partizip II* never changes, only the modal verb changes to match the tense and subject. Think of it as: **modal + Partizip II + werden**, where _werden_ is always the infinitive at the end.

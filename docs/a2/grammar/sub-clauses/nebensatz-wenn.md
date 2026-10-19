@@ -10,16 +10,6 @@ myst:
 ---
 # Nebensatz mit wenn
 
-> Subordinate clauses with if and when
-
-:::{seealso}
-
-- [A2 > Grammar > als und wenn - Unterschied](/a2/grammar/sub-clauses/nebensatz-als-wenn.md)
-- [A2 > Grammar > Nebensatz mit weil](/a2/grammar/sub-clauses/nebensatz-weil.md)
-- [A2 > Grammar > Konjunktiv II](/a2/grammar/verbs/konjunktiv-ii.md)
-
-:::
-
 With *wenn*, you can talk about conditions and about things that happen regularly or in the future. The key grammar rule is the same as in other subordinate clauses: the conjugated verb goes to the end.
 
 *Examples:*
@@ -38,16 +28,22 @@ Use *wenn* to say that one thing happens only under a condition. In English, thi
 
 **Examples:**
 
-- Ich helfe dir, {conj}`wenn` du Hilfe {verb}`brauchst`.  
-  *I will help you if you need help.*
-- {conj}`Wenn` ich Zeit {verb}`habe`, besuche ich dich.  
-  *If I have time, I will visit you.*
-- Wir bleiben zu Hause, {conj}`wenn` es stark {verb}`regnet`.  
-  *We stay at home if it rains heavily.*
-- {conj}`Wenn` du müde {verb}`bist`, solltest du schlafen.  
-  *If you are tired, you should sleep.*
-- Er kauft das Handy, {conj}`wenn` es nicht zu teuer {verb}`ist`.  
-  *He will buy the phone if it is not too expensive.*
+:::{div} ol-examples
+Ich helfe dir, {conj}`wenn` du Hilfe {verb}`brauchst`.
+: I will help you if you need help.
+
+{conj}`Wenn` ich Zeit {verb}`habe`, besuche ich dich.
+: If I have time, I will visit you.
+
+Wir bleiben zu Hause, {conj}`wenn` es stark {verb}`regnet`.
+: We stay at home if it rains heavily.
+
+{conj}`Wenn` du müde {verb}`bist`, solltest du schlafen.
+: If you are tired, you should sleep.
+
+Er kauft das Handy, {conj}`wenn` es nicht zu teuer {verb}`ist`.
+: He will buy the phone if it is not too expensive.
+:::
 
 :::{tip}
 At A2, *wenn* is the normal word for real, open conditions. You are not imagining something unreal yet. For more polite or hypothetical sentences like *Wenn ich mehr Zeit hätte ...*, see [A2 > Grammar > Konjunktiv II](/a2/grammar/verbs/konjunktiv-ii.md).
@@ -67,16 +63,22 @@ Use *wenn* when something happens regularly, usually, or every time a situation 
 
 **Examples:**
 
-- {conj}`Wenn` ich nach Hause {verb}`komme`, trinke ich zuerst einen Tee.  
-  *When I come home, I drink a tea first.*
-- Wir essen oft Pizza, {conj}`wenn` wir keine Zeit {verb}`haben`.  
-  *We often eat pizza when we do not have time.*
-- {conj}`Wenn` es im Winter früh dunkel {verb}`wird`, bleiben die Kinder lieber drinnen.  
-  *When it gets dark early in winter, the children prefer to stay inside.*
-- Sie lernt besser, {conj}`wenn` es ruhig {verb}`ist`.  
-  *She learns better when it is quiet.*
-- Ich freue mich immer, {conj}`wenn` du {verb}`kommst`.  
-  *I am always happy when you come.*
+:::{div} ol-examples
+{conj}`Wenn` ich nach Hause {verb}`komme`, trinke ich zuerst einen Tee.
+: When I come home, I drink a tea first.
+
+Wir essen oft Pizza, {conj}`wenn` wir keine Zeit {verb}`haben`.
+: We often eat pizza when we do not have time.
+
+{conj}`Wenn` es im Winter früh dunkel {verb}`wird`, bleiben die Kinder lieber drinnen.
+: When it gets dark early in winter, the children prefer to stay inside.
+
+Sie lernt besser, {conj}`wenn` es ruhig {verb}`ist`.
+: She learns better when it is quiet.
+
+Ich freue mich immer, {conj}`wenn` du {verb}`kommst`.
+: I am always happy when you come.
+:::
 
 :::{note}
 If you talk about one single finished moment in the past, German uses *als*, not *wenn*: *Als ich 18 wurde ...* This contrast is explained in [A2 > Grammar > als und wenn - Unterschied](/a2/grammar/sub-clauses/nebensatz-als-wenn.md).
@@ -96,16 +98,22 @@ You also use *wenn* for future events. German does not need a separate future ma
 
 **Examples:**
 
-- Ich rufe dich an, {conj}`wenn` ich zu Hause {verb}`bin`.  
-  *I will call you when I am at home.*
-- {conj}`Wenn` sie morgen {verb}`kommt`, können wir anfangen.  
-  *When she comes tomorrow, we can start.*
-- Wir fahren nach Berlin, {conj}`wenn` wir Urlaub {verb}`haben`.  
-  *We will go to Berlin when we have vacation.*
-- {conj}`Wenn` das neue Restaurant {verb}`aufmacht`, gehen wir zusammen hin.  
-  *When the new restaurant opens, we will go there together.*
-- Ich sage dir Bescheid, {conj}`wenn` er {verb}`anruft`.  
-  *I will let you know when he calls.*
+:::{div} ol-examples
+Ich rufe dich an, {conj}`wenn` ich zu Hause {verb}`bin`.
+: I will call you when I am at home.
+
+{conj}`Wenn` sie morgen {verb}`kommt`, können wir anfangen.
+: When she comes tomorrow, we can start.
+
+Wir fahren nach Berlin, {conj}`wenn` wir Urlaub {verb}`haben`.
+: We will go to Berlin when we have vacation.
+
+{conj}`Wenn` das neue Restaurant {verb}`aufmacht`, gehen wir zusammen hin.
+: When the new restaurant opens, we will go there together.
+
+Ich sage dir Bescheid, {conj}`wenn` er {verb}`anruft`.
+: I will let you know when he calls.
+:::
 
 :::{warning}
 Do not use *als* for future time. *Als* is only for one-time past situations.
@@ -117,31 +125,7 @@ Use the following link to practice this section.
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- *Wenn* can mean **if** or **when**, depending on context.
-- Use *wenn* for **conditions**, **repeated situations**, and **future time**.
-- In a *wenn*-clause, the conjugated verb goes to the **end**.
-- If the *wenn*-clause comes first, the main clause begins with the conjugated verb after the comma.
-- For one-time past events, use **als**, not *wenn*.
-
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Als ich Zeit habe, komme ich.* → **Wenn** ich Zeit habe, komme ich. (*als* is not used for present/future conditions)
-- *Wenn es regnet, wir bleiben zu Hause.* → Wenn es regnet, **bleiben wir** zu Hause. (main clause inversion after an initial subordinate clause)
-- *Ich rufe dich an, wenn ich bin zu Hause.* → Ich rufe dich an, wenn ich zu Hause **bin**. (verb goes to the end)
-- *Wenn ich war klein, ...* → **Als** ich klein war, ... (one-time past situation needs *als*)
-- *Wenn sie morgen kommen wird, ...* → Wenn sie morgen **kommt**, ... (use present tense in the wenn-clause)
-
-:::
-
----
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/nebensatz-mit-wenn
@@ -237,6 +221,32 @@ Wenn wir früh aufstehen, haben wir mehr Zeit.
 
 Ich nehme einen Schirm mit, wenn es regnet.
 : I take an umbrella when it rains.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *Wenn* can mean **if** or **when**, depending on context.
+- Use *wenn* for **conditions**, **repeated situations**, and **future time**.
+- In a *wenn*-clause, the conjugated verb goes to the **end**.
+- If the *wenn*-clause comes first, the main clause begins with the conjugated verb after the comma.
+- For one-time past events, use **als**, not *wenn*.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Als ich Zeit habe, komme ich.* → **Wenn** ich Zeit habe, komme ich. (*als* is not used for present/future conditions)
+- *Wenn es regnet, wir bleiben zu Hause.* → Wenn es regnet, **bleiben wir** zu Hause. (main clause inversion after an initial subordinate clause)
+- *Ich rufe dich an, wenn ich bin zu Hause.* → Ich rufe dich an, wenn ich zu Hause **bin**. (verb goes to the end)
+- *Wenn ich war klein, ...* → **Als** ich klein war, ... (one-time past situation needs *als*)
+- *Wenn sie morgen kommen wird, ...* → Wenn sie morgen **kommt**, ... (use present tense in the wenn-clause)
+
 :::
 
 ---

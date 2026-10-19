@@ -10,15 +10,6 @@ myst:
 ---
 # Pronomen – man, jemand, niemand
 
-> Indefinite pronouns for people: one/you/people, someone, no one
-
-:::{seealso}
-
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Concepts > Indirekte Fragen](/a2/concepts/indirect-questions.md)
-:::
-
 You use *man*, *jemand*, and *niemand* when you talk about people in a general or non-specific way. These words are very common in everyday German, and once you can separate their jobs clearly, your sentences become much more natural.
 
 *Examples:*
@@ -45,18 +36,25 @@ Use *man* when you mean people in general, not a specific person. English often 
 
 **Examples:**
 
-- **Man** sagt, dass dieses Restaurant sehr gut ist.  
-  *People say that this restaurant is very good.*
-- In Deutschland trinkt **man** viel Mineralwasser.  
-  *In Germany, people drink a lot of mineral water.*
-- Wie macht **man** das?  
-  *How do you do that?*
-- Im Sommer isst **man** oft Eis.  
-  *In summer, people often eat ice cream.*
-- Hier spricht **man** Deutsch und Englisch.  
-  *People speak German and English here.*
-- Nach der Arbeit ruht **man** sich aus.  
-  *After work, people rest.*
+:::{div} ol-examples
+**Man** sagt, dass dieses Restaurant sehr gut ist.
+: People say that this restaurant is very good.
+
+In Deutschland trinkt **man** viel Mineralwasser.
+: In Germany, people drink a lot of mineral water.
+
+Wie macht **man** das?
+: How do you do that?
+
+Im Sommer isst **man** oft Eis.
+: In summer, people often eat ice cream.
+
+Hier spricht **man** Deutsch und Englisch.
+: People speak German and English here.
+
+Nach der Arbeit ruht **man** sich aus.
+: After work, people rest.
+:::
 
 :::{tip}
 *Man* does not mean "a man" (*ein Mann*). It is a pronoun for people in general.
@@ -83,18 +81,25 @@ Both can appear with optional case endings.
 
 **Examples:**
 
-- **Jemand** hat an der Tür geklopft.  
-  *Someone knocked at the door.*
-- **Niemand** kennt die richtige Antwort.  
-  *No one knows the correct answer.*
-- Hat **jemand** meinen Schlüssel gesehen?  
-  *Has someone seen my key?*
-- Warum ruft **niemand** zurück?  
-  *Why is nobody calling back?*
-- Wenn **jemand** Hilfe braucht, kann er mich anrufen.  
-  *If someone needs help, they can call me.*
-- **Niemand** ist heute im Büro.  
-  *No one is in the office today.*
+:::{div} ol-examples
+**Jemand** hat an der Tür geklopft.
+: Someone knocked at the door.
+
+**Niemand** kennt die richtige Antwort.
+: No one knows the correct answer.
+
+Hat **jemand** meinen Schlüssel gesehen?
+: Has someone seen my key?
+
+Warum ruft **niemand** zurück?
+: Why is nobody calling back?
+
+Wenn **jemand** Hilfe braucht, kann er mich anrufen.
+: If someone needs help, they can call me.
+
+**Niemand** ist heute im Büro.
+: No one is in the office today.
+:::
 
 :::{note}
 At A2 level, you will often see both forms (for example *jemand* and *jemanden*). In careful writing, the endings are common, especially in object positions.
@@ -113,18 +118,25 @@ You can use *jemand* and *niemand* as direct and indirect objects. In these role
 
 **Examples:**
 
-- Ich suche **jemanden** für das Projekt.  
-  *I'm looking for someone for the project.*
-- Ich habe **niemanden** im Zug getroffen.  
-  *I met no one on the train.*
-- Kannst du **jemandem** kurz helfen?  
-  *Can you help someone quickly?*
-- Von **niemandem** habe ich eine Nachricht bekommen.  
-  *I got a message from no one.*
-- **Niemanden** habe ich gestern gesehen.  
-  *I saw no one yesterday.*
-- Mit **jemandem** möchte ich noch sprechen.  
-  *I still want to speak with someone.*
+:::{div} ol-examples
+Ich suche **jemanden** für das Projekt.
+: I'm looking for someone for the project.
+
+Ich habe **niemanden** im Zug getroffen.
+: I met no one on the train.
+
+Kannst du **jemandem** kurz helfen?
+: Can you help someone quickly?
+
+Von **niemandem** habe ich eine Nachricht bekommen.
+: I got a message from no one.
+
+**Niemanden** habe ich gestern gesehen.
+: I saw no one yesterday.
+
+Mit **jemandem** möchte ich noch sprechen.
+: I still want to speak with someone.
+:::
 
 :::{warning}
 Do not use *man* as an object.
@@ -136,28 +148,7 @@ Do not use *man* as an object.
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- Use **man** for general statements about people; verb is always **3rd person singular**.
-- Use **jemand** for "someone" and **niemand** for "no one".
-- These pronouns are for **people**, not things.
-- **jemand** and **niemand** can appear as objects, often with endings: **jemanden/niemanden**, **jemandem/niemandem**.
-- At A2 level, treat **man** as a **subject** form only.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Ich sehe **man*** → Ich sehe **jemanden** / **niemanden**. (*man* is not an object at A2 level.)
-- *Man **sind** oft müde nach der Arbeit.* → Man **ist** oft müde nach der Arbeit. (*man* takes singular verb forms.)
-- *Ich habe mit **jemanden** gesprochen.* → Ich habe mit **jemandem** gesprochen. (Dative object after *mit*.)
-- *Jemand hat nicht angerufen.* → **Niemand** hat angerufen. (Use the negative pronoun for "no one".)
-:::
-
----
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/pronomen-man-jemand-und-niemand
@@ -253,6 +244,29 @@ Jemand hat geklopft.
 
 Niemand möchte das machen.
 : Nobody wants to do that.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Use **man** for general statements about people; verb is always **3rd person singular**.
+- Use **jemand** for "someone" and **niemand** for "no one".
+- These pronouns are for **people**, not things.
+- **jemand** and **niemand** can appear as objects, often with endings: **jemanden/niemanden**, **jemandem/niemandem**.
+- At A2 level, treat **man** as a **subject** form only.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich sehe **man*** → Ich sehe **jemanden** / **niemanden**. (*man* is not an object at A2 level.)
+- *Man **sind** oft müde nach der Arbeit.* → Man **ist** oft müde nach der Arbeit. (*man* takes singular verb forms.)
+- *Ich habe mit **jemanden** gesprochen.* → Ich habe mit **jemandem** gesprochen. (Dative object after *mit*.)
+- *Jemand hat nicht angerufen.* → **Niemand** hat angerufen. (Use the negative pronoun for "no one".)
 :::
 
 ---

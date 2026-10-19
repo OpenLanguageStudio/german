@@ -10,8 +10,6 @@ myst:
 ---
 # N-Deklination
 
-> Weak masculine nouns with -(e)n in non-nominative singular forms
-
 *N-Deklination* is a common noun pattern in German. A specific group of mostly masculine nouns adds **-(e)n** in all singular cases except nominative. If you learn the main groups, your case endings become much more reliable in everyday speaking and writing.
 
 Declension overview (all four cases):
@@ -29,18 +27,25 @@ Declension overview (all four cases):
 
 Many masculine nouns ending in **-e** follow *N-Deklination*. This is one of the easiest groups to recognize.
 
-- **Der Junge** wartet schon vor der Schule.  
-  _The boy is already waiting in front of the school._
-- Ich sehe den Junge**n** jeden Morgen an der Haltestelle.  
-  _I see the boy at the bus stop every morning._
-- Wir sprechen mit dem Kunde**n** über den Vertrag.  
-  _We're talking with the customer about the contract._
-- Das ist die Tasche des Kollege**n** aus dem Büro.  
-  _That is the bag of the colleague from the office._
-- Sie kennt den Zeuge**n** aus dem Nachbarhaus.  
-  _She knows the witness from the neighboring house._
-- Das ist die Meinung des Gedanke**ns** hinter dem Projekt.  
-  _That is the idea behind the project._
+:::{div} ol-examples
+**Der Junge** wartet schon vor der Schule.
+: The boy is already waiting in front of the school.
+
+Ich sehe den Junge**n** jeden Morgen an der Haltestelle.
+: I see the boy at the bus stop every morning.
+
+Wir sprechen mit dem Kunde**n** über den Vertrag.
+: We're talking with the customer about the contract.
+
+Das ist die Tasche des Kollege**n** aus dem Büro.
+: That is the bag of the colleague from the office.
+
+Sie kennt den Zeuge**n** aus dem Nachbarhaus.
+: She knows the witness from the neighboring house.
+
+Das ist die Meinung des Gedanke**ns** hinter dem Projekt.
+: That is the idea behind the project.
+:::
 
 | Nominativ | Akk./Dat. | Genitiv |
 |---|---|---|
@@ -58,18 +63,25 @@ With this group, genitive is the common trap. Some nouns take **-ns** in genitiv
 
 *N-Deklination* often appears with nouns for people, professions, and animals. This is why the pattern comes up so often in real conversations.
 
-- Jeder **Mensch** braucht Pausen im Alltag.  
-  _Every person needs breaks in daily life._
-- Wir helfen dem Mensche**n** am Empfang sofort weiter.  
-  _We help the person at reception right away._
-- Sie bewundert den Helde**n** aus dem Film.  
-  _She admires the hero from the movie._
-- Ich habe den Löwe**n** im Zoo endlich gesehen.  
-  _I finally saw the lion at the zoo._
-- Das Fahrrad gehört dem Nachbar**n** von oben.  
-  _The bike belongs to the neighbor upstairs._
-- Ich habe Herrn Berger gestern im Flur getroffen.  
-  _I met Mr. Berger in the hallway yesterday._
+:::{div} ol-examples
+Jeder **Mensch** braucht Pausen im Alltag.
+: Every person needs breaks in daily life.
+
+Wir helfen dem Mensche**n** am Empfang sofort weiter.
+: We help the person at reception right away.
+
+Sie bewundert den Helde**n** aus dem Film.
+: She admires the hero from the movie.
+
+Ich habe den Löwe**n** im Zoo endlich gesehen.
+: I finally saw the lion at the zoo.
+
+Das Fahrrad gehört dem Nachbar**n** von oben.
+: The bike belongs to the neighbor upstairs.
+
+Ich habe Herrn Berger gestern im Flur getroffen.
+: I met Mr. Berger in the hallway yesterday.
+:::
 
 :::{note}
 Two frequent special forms are **der Herr** and **der Nachbar**. In singular non-nominative forms, both usually take **-n**: den Herrn, dem Herrn, des Herrn; den Nachbarn, dem Nachbarn, des Nachbarn.
@@ -90,18 +102,25 @@ Many international masculine nouns also use *N-Deklination*. Recognizing these e
 | -ist | der Polizist, der Journalist |
 | -oge | der Biologe, der Psychologe |
 
-- Ich kenne den Student**en** aus dem Sprachkurs.  
-  _I know the student from the language course._
-- Wir sprechen mit dem Polizist**en** vor dem Bahnhof.  
-  _We're speaking with the police officer in front of the station._
-- Das ist die Kamera des Fotograf**en**.  
-  _That is the photographer's camera._
-- Sie hat den Kandidat**en** am Montag interviewt.  
-  _She interviewed the candidate on Monday._
-- Die Assistentin hilft dem Präsident**en** beim Terminplan.  
-  _The assistant helps the president with the schedule._
-- Er arbeitet mit einem Biolog**en** an der Studie.  
-  _He is working with a biologist on the study._
+:::{div} ol-examples
+Ich kenne den Student**en** aus dem Sprachkurs.
+: I know the student from the language course.
+
+Wir sprechen mit dem Polizist**en** vor dem Bahnhof.
+: We're speaking with the police officer in front of the station.
+
+Das ist die Kamera des Fotograf**en**.
+: That is the photographer's camera.
+
+Sie hat den Kandidat**en** am Montag interviewt.
+: She interviewed the candidate on Monday.
+
+Die Assistentin hilft dem Präsident**en** beim Terminplan.
+: The assistant helps the president with the schedule.
+
+Er arbeitet mit einem Biolog**en** an der Studie.
+: He is working with a biologist on the study.
+:::
 
 :::{warning}
 Not every masculine profession noun is *N-Deklination*. For example, **der Autor** does not change this way in singular: mit dem Autor, des Autors.
@@ -109,25 +128,7 @@ Not every masculine profession noun is *N-Deklination*. For example, **der Autor
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-- Core rule: in singular, only **nominative** stays unchanged; accusative, dative, and genitive add **-(e)n**.
-- If the noun already ends in **-e**, you usually add **-n** (der Junge -> den Jungen).
-- For many other nouns, you add **-en** (der Student -> den Studenten).
-- Most nouns in this pattern describe **people or animals**.
-- Important exceptions to remember early: **der Herr**, **der Nachbar**, and genitive forms like **des Namens**.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-- *Ich sehe den Student.* -> Ich sehe den **Studenten**. (*Akkusativ* singular needs -(e)n)
-- *Wir helfen dem Polizist.* -> Wir helfen dem **Polizisten**. (*Dativ* singular also needs -(e)n)
-- *Das ist die Nummer des Name.* -> Das ist die Nummer des **Namens**. (mixed form with genitive -ns)
-- *Der Studenten kommt später.* -> Der **Student** kommt später. (nominative singular has no extra ending)
-- *Ich spreche mit dem Autoren.* -> Ich spreche mit dem **Autor**. (*Autor* is not *N-Deklination*)
-:::
+## Hear it in practice
 
 :::{audio-examples}
 :track: b1/grammar/n-deklination
@@ -208,6 +209,28 @@ Wir begegnen dem Touristen am Bahnhof.
 
 Der Chef spricht mit dem Praktikanten.
 : The boss speaks with the intern.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+- Core rule: in singular, only **nominative** stays unchanged; accusative, dative, and genitive add **-(e)n**.
+- If the noun already ends in **-e**, you usually add **-n** (der Junge -> den Jungen).
+- For many other nouns, you add **-en** (der Student -> den Studenten).
+- Most nouns in this pattern describe **people or animals**.
+- Important exceptions to remember early: **der Herr**, **der Nachbar**, and genitive forms like **des Namens**.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+- *Ich sehe den Student.* -> Ich sehe den **Studenten**. (*Akkusativ* singular needs -(e)n)
+- *Wir helfen dem Polizist.* -> Wir helfen dem **Polizisten**. (*Dativ* singular also needs -(e)n)
+- *Das ist die Nummer des Name.* -> Das ist die Nummer des **Namens**. (mixed form with genitive -ns)
+- *Der Studenten kommt später.* -> Der **Student** kommt später. (nominative singular has no extra ending)
+- *Ich spreche mit dem Autoren.* -> Ich spreche mit dem **Autor**. (*Autor* is not *N-Deklination*)
 :::
 
 ---

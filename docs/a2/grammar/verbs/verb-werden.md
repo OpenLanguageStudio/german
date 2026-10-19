@@ -10,14 +10,6 @@ myst:
 ---
 # Das Verb werden
 
-> To become / to get / to turn, describing change of state
-
-:::{seealso}
-
-- [A2 > Grammar > Adjektivendungen](/a2/grammar/adjectives/adjektivendungen.md)
-- [A2 > Grammar > Modalverben im Präteritum](/a2/grammar/verbs/modalverben-praeteritum.md)
-:::
-
 The verb *werden* is how everyday German describes change: someone becoming something new, conditions shifting, one state turning into another.
 At A2 level, this page focuses only on *werden* as a **main verb**.
 
@@ -52,16 +44,22 @@ The other forms follow the regular pattern.
 
 **Examples:**
 
-- Ich {verb}`werde` heute schnell müde.  
-  *I get tired quickly today.*
-- Du {verb}`wirst` nächstes Jahr 25.  
-  *You turn 25 next year.*
-- Er {verb}`wird` Ingenieur.  
-  *He is becoming an engineer.*
-- Wir {verb}`werden` langsam nervös.  
-  *We are getting nervous slowly.*
-- Was {verb}`wird` sie später?  
-  *What will she become later?*
+:::{div} ol-examples
+Ich {verb}`werde` heute schnell müde.
+: I get tired quickly today.
+
+Du {verb}`wirst` nächstes Jahr 25.
+: You turn 25 next year.
+
+Er {verb}`wird` Ingenieur.
+: He is becoming an engineer.
+
+Wir {verb}`werden` langsam nervös.
+: We are getting nervous slowly.
+
+Was {verb}`wird` sie später?
+: What will she become later?
+:::
 
 :::{tip}
 If you remember only two irregular present forms, learn these first: **wirst** and **wird**.
@@ -77,50 +75,68 @@ As a main verb, *werden* usually means **to become**, **to get/grow**, or **to t
 
 Use *werden* for jobs and roles.
 
-- Mein Bruder {verb}`wird` Lehrer.  
-  *My brother is becoming a teacher.*
-- Sie {verb}`wird` Ärztin.  
-  *She is becoming a doctor.*
-- Was möchtest du {verb}`werden`?  
-  *What do you want to become?*
+:::{div} ol-examples
+Mein Bruder {verb}`wird` Lehrer.
+: My brother is becoming a teacher.
+
+Sie {verb}`wird` Ärztin.
+: She is becoming a doctor.
+
+Was möchtest du {verb}`werden`?
+: What do you want to become?
+:::
 
 **Age**
 
 German says you *become* an age.
 
-- Er {verb}`wird` nächsten Monat 25.  
-  *He turns 25 next month.*
-- Wann {verb}`wirst` du achtzehn?  
-  *When do you turn eighteen?*
+:::{div} ol-examples
+Er {verb}`wird` nächsten Monat 25.
+: He turns 25 next month.
+
+Wann {verb}`wirst` du achtzehn?
+: When do you turn eighteen?
+:::
 
 **Weather and natural change (to get/grow)**
 
 Use *werden* when conditions change.
 
-- Es {verb}`wird` kalt.  
-  *It's getting cold.*
-- Es {verb}`wird` dunkel.  
-  *It's getting dark.*
-- Das Wetter {verb}`wird` besser.  
-  *The weather is getting better.*
+:::{div} ol-examples
+Es {verb}`wird` kalt.
+: It's getting cold.
+
+Es {verb}`wird` dunkel.
+: It's getting dark.
+
+Das Wetter {verb}`wird` besser.
+: The weather is getting better.
+:::
 
 **States and feelings**
 
 Use *werden* when someone changes state or feeling.
 
-- Ich {verb}`werde` nervös.  
-  *I'm getting nervous.*
-- Das Kind {verb}`wird` müde.  
-  *The child is getting tired.*
-- Wir {verb}`werden` nach dem Sport hungrig.  
-  *We get hungry after sport.*
+:::{div} ol-examples
+Ich {verb}`werde` nervös.
+: I'm getting nervous.
+
+Das Kind {verb}`wird` müde.
+: The child is getting tired.
+
+Wir {verb}`werden` nach dem Sport hungrig.
+: We get hungry after sport.
+:::
 
 **Colors and visible changes (to turn)**
 
-- Die Blätter {verb}`werden` gelb.  
-  *The leaves turn yellow.*
-- Sein Gesicht {verb}`wird` rot.  
-  *His face turns red.*
+:::{div} ol-examples
+Die Blätter {verb}`werden` gelb.
+: The leaves turn yellow.
+
+Sein Gesicht {verb}`wird` rot.
+: His face turns red.
+:::
 
 :::{tip}
 With professions, German normally uses no article after *werden*:
@@ -149,12 +165,16 @@ At A2, these are especially useful for simple storytelling and past events.
 | ihr | **wurdet** |
 | sie / Sie | **wurden** |
 
-- Ich {verb}`wurde` krank.  
-  *I got sick.*
-- Er {verb}`wurde` letztes Jahr Vater.  
-  *He became a father last year.*
-- Es {verb}`wurde` schnell kalt.  
-  *It got cold quickly.*
+:::{div} ol-examples
+Ich {verb}`wurde` krank.
+: I got sick.
+
+Er {verb}`wurde` letztes Jahr Vater.
+: He became a father last year.
+
+Es {verb}`wurde` schnell kalt.
+: It got cold quickly.
+:::
 
 ### Perfekt: ist geworden
 
@@ -162,12 +182,16 @@ The Perfekt is built with **sein + geworden**.
 
 Because *werden* describes a change of state, it takes **sein** as auxiliary.
 
-- Er {verb}`ist` Ingenieur {verb}`geworden`.  
-  *He has become an engineer.*
-- Sie {verb}`sind` gute Freunde {verb}`geworden`.  
-  *They became good friends.*
-- Ich {verb}`bin` letztes Jahr 30 {verb}`geworden`.  
-  *I turned 30 last year.*
+:::{div} ol-examples
+Er {verb}`ist` Ingenieur {verb}`geworden`.
+: He has become an engineer.
+
+Sie {verb}`sind` gute Freunde {verb}`geworden`.
+: They became good friends.
+
+Ich {verb}`bin` letztes Jahr 30 {verb}`geworden`.
+: I turned 30 last year.
+:::
 
 :::{note}
 Do not confuse:
@@ -178,29 +202,7 @@ Do not confuse:
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- As a **main verb**, *werden* means **become/get/turn** and describes change.
-- Present tense is irregular in two key forms: **du wirst**, **er/sie/es wird**.
-- Common A2 uses: professions, age, weather, feelings/states, and visible changes (colors).
-- In past narration, **wurde** is very common: *ich wurde*, *er wurde*.
-- Perfekt is **sein + geworden**: *ist geworden*, never *hat geworden*.
-- Futur I and Passiv uses of *werden* exist, but those are B1 topics and not covered here.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Er wird \*ein Lehrer.* → Er **wird Lehrer**. (no article before professions)
-- *Er \*hat Lehrer geworden.* → Er **ist** Lehrer geworden. (Perfekt uses *sein*, not *haben*)
-- *Ich \*werde gestern krank.* → Ich **wurde** gestern krank. (past event needs a past form)
-- *Du \*werdt schnell müde.* → Du **wirst** schnell müde. (*du* form is irregular)
-:::
-
----
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/das-verb-werden
@@ -296,6 +298,30 @@ Wir wurden müde vom Wandern.
 
 Wird deine Schwester auch Lehrerin?
 : Is your sister also becoming a teacher?
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- As a **main verb**, *werden* means **become/get/turn** and describes change.
+- Present tense is irregular in two key forms: **du wirst**, **er/sie/es wird**.
+- Common A2 uses: professions, age, weather, feelings/states, and visible changes (colors).
+- In past narration, **wurde** is very common: *ich wurde*, *er wurde*.
+- Perfekt is **sein + geworden**: *ist geworden*, never *hat geworden*.
+- Futur I and Passiv uses of *werden* exist, but those are B1 topics and not covered here.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Er wird \*ein Lehrer.* → Er **wird Lehrer**. (no article before professions)
+- *Er \*hat Lehrer geworden.* → Er **ist** Lehrer geworden. (Perfekt uses *sein*, not *haben*)
+- *Ich \*werde gestern krank.* → Ich **wurde** gestern krank. (past event needs a past form)
+- *Du \*werdt schnell müde.* → Du **wirst** schnell müde. (*du* form is irregular)
 :::
 
 ---

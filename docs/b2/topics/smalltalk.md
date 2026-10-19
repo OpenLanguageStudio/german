@@ -5,14 +5,6 @@ myst:
     keywords: "german, german learning, german language, b2, small talk, smalltalk, konversation, networking, vokabular"
 ---
 # Small talk
-> Smalltalk
-
-:::{seealso}
-- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
-- [A2 > Concepts > Indirect questions](/a2/concepts/indirect-questions.md)
-- [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
-- [B2 > Grammar > Modalpartikeln](/b2/grammar/modalpartikeln.md)
-:::
 
 ## Vocabulary list
 
@@ -76,7 +68,6 @@ myst:
 | naheliegend | obvious, self-evident |
 | unpassend | inappropriate |
 
-
 ## Useful phrases
 
 | German | English | Note |
@@ -123,3 +114,12 @@ Lara: Wollen wir nachher jemanden gemeinsam ansprechen?
 Jonas: Gute Idee – ich schlage vor, wir beginnen beim Data-Stand.
 Lara: Einverstanden. Dann bis gleich nach dem nächsten Slot.
 Jonas: Bis gleich – und danke für den angenehmen Einstieg.
+
+---
+
+## Related articles
+
+- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
+- [A2 > Concepts > Indirect questions](/a2/concepts/indirect-questions.md)
+- [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
+- [B2 > Grammar > Modalpartikeln](/b2/grammar/modalpartikeln.md)

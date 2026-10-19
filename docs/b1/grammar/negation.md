@@ -10,8 +10,6 @@ myst:
 ---
 # Stellung von "nicht" im Satz
 
-> Position of "nicht" in a sentence
-
 Knowing where to put *nicht* is one of the key B1 word-order skills. In German, *nicht* does not have one fixed slot. Its position changes with meaning: sometimes you negate the whole statement, and sometimes you negate one specific detail.
 
 ---
@@ -28,18 +26,25 @@ To say that an action does not or did not happen at all, put *nicht* near the **
 | Separable prefix | before the prefix | Ich rufe **nicht** an. |
 | Predicate adjective | before the adjective | Das ist **nicht** richtig. |
 
-- Ich verstehe das {adv}`nicht`.  
-  _I don't understand that._
-- Sie hat die Rechnung {adv}`nicht` {verb}`bezahlt`.  
-  _She didn't pay the bill._
-- Wir können diesen Termin {adv}`nicht` {verb}`verschieben`.  
-  _We can't postpone this appointment._
-- Ich rufe heute Abend {adv}`nicht` {verb}`an`.  
-  _I'm not calling tonight._
-- Der Plan klingt {adv}`nicht` {adj}`realistisch`.  
-  _The plan doesn't sound realistic._
-- Das ist {adv}`nicht` mein {noun}`Koffer`.  
-  _That's not my suitcase._
+:::{div} ol-examples
+Ich verstehe das {adv}`nicht`.
+: I don't understand that.
+
+Sie hat die Rechnung {adv}`nicht` {verb}`bezahlt`.
+: She didn't pay the bill.
+
+Wir können diesen Termin {adv}`nicht` {verb}`verschieben`.
+: We can't postpone this appointment.
+
+Ich rufe heute Abend {adv}`nicht` {verb}`an`.
+: I'm not calling tonight.
+
+Der Plan klingt {adv}`nicht` {adj}`realistisch`.
+: The plan doesn't sound realistic.
+
+Das ist {adv}`nicht` mein {noun}`Koffer`.
+: That's not my suitcase.
+:::
 
 :::{tip}
 A useful way to think about it: the finite verb stays fixed at position 2. *Nicht* aims for the end of the clause, but it can never go after the final verb-bracket element. It sits just before it.
@@ -51,16 +56,22 @@ A useful way to think about it: the finite verb stays fixed at position 2. *Nich
 
 Sometimes you want to say that one particular detail, not the whole action, is untrue. Place *nicht* directly before the element you are correcting. This is almost always followed by *sondern* to give the right alternative.
 
-- Ich war {adv}`nicht` heute im Museum, {conj}`sondern` gestern.  
-  _I wasn't at the museum today, but yesterday._
-- Wir fahren {adv}`nicht` mit dem Bus, {conj}`sondern` mit der Bahn.  
-  _We're not going by bus, but by train._
-- Das Konzert fängt {adv}`nicht` um 20 Uhr an, {conj}`sondern` um 21 Uhr.  
-  _The concert doesn't start at 8 pm, but at 9 pm._
-- Er wohnt {adv}`nicht` in Köln, {conj}`sondern` in Düsseldorf.  
-  _He doesn't live in Cologne, but in Düsseldorf._
-- {adv}`Nicht` Lukas hat den Fehler gemacht, {conj}`sondern` sein Kollege.  
-  _It wasn't Lukas who made the mistake, but his colleague._
+:::{div} ol-examples
+Ich war {adv}`nicht` heute im Museum, {conj}`sondern` gestern.
+: I wasn't at the museum today, but yesterday.
+
+Wir fahren {adv}`nicht` mit dem Bus, {conj}`sondern` mit der Bahn.
+: We're not going by bus, but by train.
+
+Das Konzert fängt {adv}`nicht` um 20 Uhr an, {conj}`sondern` um 21 Uhr.
+: The concert doesn't start at 8 pm, but at 9 pm.
+
+Er wohnt {adv}`nicht` in Köln, {conj}`sondern` in Düsseldorf.
+: He doesn't live in Cologne, but in Düsseldorf.
+
+{adv}`Nicht` Lukas hat den Fehler gemacht, {conj}`sondern` sein Kollege.
+: It wasn't Lukas who made the mistake, but his colleague.
+:::
 
 :::{note}
 Partial vs. total negation can change the whole meaning of a sentence. Compare:
@@ -87,18 +98,25 @@ German has two main negation words, and the choice depends on what grammatical r
 | Noun + indefinite article | kein | Ich habe **keinen** Hunger. |
 | Noun without article | kein | Er hat **kein** Geld. |
 
-- Sie hat {adv}`nicht` zugehört.  
-  _She wasn't listening._
-- Das war {adv}`nicht` {adj}`notwendig`.  
-  _That wasn't necessary._
-- Ich kenne die Lehrerin {adv}`nicht`.  
-  _I don't know the teacher._
-- Das ist {adv}`nicht` sein {noun}`Fahrrad`.  
-  _That's not his bicycle._
-- Hast du {article}`keinen` {noun}`Stift`?  
-  _Don't you have a pen?_
-- Wir haben hier {article}`kein` {noun}`Netz`.  
-  _We don't have any signal here._
+:::{div} ol-examples
+Sie hat {adv}`nicht` zugehört.
+: She wasn't listening.
+
+Das war {adv}`nicht` {adj}`notwendig`.
+: That wasn't necessary.
+
+Ich kenne die Lehrerin {adv}`nicht`.
+: I don't know the teacher.
+
+Das ist {adv}`nicht` sein {noun}`Fahrrad`.
+: That's not his bicycle.
+
+Hast du {article}`keinen` {noun}`Stift`?
+: Don't you have a pen?
+
+Wir haben hier {article}`kein` {noun}`Netz`.
+: We don't have any signal here.
+:::
 
 :::{warning}
 A very common mistake: *"Ich habe nicht Zeit."* Whenever you negate a noun with no definite article, use *kein*: *Ich habe **keine** Zeit.*
@@ -110,16 +128,22 @@ A very common mistake: *"Ich habe nicht Zeit."* Whenever you negate a noun with 
 
 The *nicht … sondern* construction does more than contrast two ideas. It *replaces* a false element with the true one. Unlike *aber* (which simply adds a contradicting fact), *sondern* says: "no, the actual truth is this." Use it whenever you are correcting something explicitly.
 
-- Das ist {adv}`nicht` Zucker, {conj}`sondern` Salz.  
-  _That isn't sugar, it's salt._
-- Wir kommen {adv}`nicht` am Freitag, {conj}`sondern` am Samstag.  
-  _We're not coming on Friday, but on Saturday._
-- Er hat {adv}`nicht` aufgehört, {conj}`sondern` eine Pause gemacht.  
-  _He didn't stop, he just took a break._
-- {adv}`Nicht` die Uhr, {conj}`sondern` das Handy hat geklingelt.  
-  _It wasn't the clock that rang, but the phone._
-- Sie fährt {adv}`nicht` nach Wien, {conj}`sondern` nach Graz.  
-  _She's not going to Vienna, but to Graz._
+:::{div} ol-examples
+Das ist {adv}`nicht` Zucker, {conj}`sondern` Salz.
+: That isn't sugar, it's salt.
+
+Wir kommen {adv}`nicht` am Freitag, {conj}`sondern` am Samstag.
+: We're not coming on Friday, but on Saturday.
+
+Er hat {adv}`nicht` aufgehört, {conj}`sondern` eine Pause gemacht.
+: He didn't stop, he just took a break.
+
+{adv}`Nicht` die Uhr, {conj}`sondern` das Handy hat geklingelt.
+: It wasn't the clock that rang, but the phone.
+
+Sie fährt {adv}`nicht` nach Wien, {conj}`sondern` nach Graz.
+: She's not going to Vienna, but to Graz.
+:::
 
 :::{tip}
 Quick test: if you can say "no, on the contrary, the truth is...", use *sondern*. If you are just adding an extra fact or contrast without replacing it, use *aber*: *Das Essen war nicht gut, **aber** ich habe trotzdem alles gegessen.* (adding a fact, not correcting)

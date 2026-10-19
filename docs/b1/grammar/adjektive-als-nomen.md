@@ -10,8 +10,6 @@ myst:
 ---
 # Adjektive als Nomen
 
-> Nominalized adjectives, using adjectives as nouns
-
 In German, any adjective can be turned into a noun just by capitalizing it. These **nominalized adjectives** (*substantivierte Adjektive*) name people by a characteristic – *der Bekannte* (the male acquaintance), *die Angestellte* (the female employee), or express abstract qualities like *das Neue* (the new thing) or *das Beste* (the best). The key insight is that these new nouns still **decline exactly like adjectives**: their endings follow the same rules as ordinary adjective declension.
 
 ---
@@ -37,16 +35,22 @@ Here are some of the most common nominalized adjectives you will encounter at B1
 | arbeitslos | der/die Arbeitslose | the unemployed person |
 | jugendlich | der/die Jugendliche | the young person / teenager |
 
-- Das ist **meine Bekannte**, sie wohnt im selben Haus wie ich.  
-  _This is my acquaintance, she lives in the same building as me._
-- Ich habe gestern **einen Verwandten** aus Wien besucht.  
-  _I visited a relative from Vienna yesterday._
-- **Viele Jugendliche** in unserer Stadt treffen sich am Wochenende im Park.  
-  _Many young people in our city meet in the park at weekends._
-- **Das Neue** an diesem Kurs ist die Online-Plattform.  
-  _The new thing about this course is the online platform._
-- Der Direktor hat **den Angestellten** für seine gute Arbeit gelobt.  
-  _The director praised the employee for his good work._
+:::{div} ol-examples
+Das ist **meine Bekannte**, sie wohnt im selben Haus wie ich.
+: This is my acquaintance, she lives in the same building as me.
+
+Ich habe gestern **einen Verwandten** aus Wien besucht.
+: I visited a relative from Vienna yesterday.
+
+**Viele Jugendliche** in unserer Stadt treffen sich am Wochenende im Park.
+: Many young people in our city meet in the park at weekends.
+
+**Das Neue** an diesem Kurs ist die Online-Plattform.
+: The new thing about this course is the online platform.
+
+Der Direktor hat **den Angestellten** für seine gute Arbeit gelobt.
+: The director praised the employee for his good work.
+:::
 
 :::{tip}
 When you look up one of these words in a German dictionary, you will see an entry like **der/die Bekannte**. This notation signals a nominalized adjective – *der* for a male person, *die* for a female person, and their forms change with the article and case just like any adjective.
@@ -78,18 +82,25 @@ Nominalized adjectives decline exactly like regular adjectives placed before a n
 
 Examples:
 
-- **Der Bekannte** meiner Mutter ist Zahnarzt.  
-  _My mother's acquaintance is a dentist._ (Nom., masculine, after _der_)
-- Ich habe **die Angestellte** an der Kasse gefragt.  
-  _I asked the employee at the checkout._ (Akk., feminine, after _die_)
-- Wir haben **dem Fremden** den Weg durch die Stadt erklärt.  
-  _We explained the way through the city to the stranger._ (Dat., masculine, after _dem_)
-- Ich habe **eine Verwandte** in Hamburg.  
-  _I have a relative (f.) in Hamburg._ (Nom., feminine, after _eine_)
-- Er ist **ein Angestellter** bei der Stadtverwaltung.  
-  _He is an employee at the city council._ (Nom., masculine, after _ein_)
-- **Meine Verwandten** kommen dieses Jahr nicht zu Besuch.  
-  _My relatives are not coming to visit this year._ (Nom., plural, after _meine_)
+:::{div} ol-examples
+**Der Bekannte** meiner Mutter ist Zahnarzt.
+: My mother's acquaintance is a dentist. (Nom., masculine, after _der_)
+
+Ich habe **die Angestellte** an der Kasse gefragt.
+: I asked the employee at the checkout. (Akk., feminine, after _die_)
+
+Wir haben **dem Fremden** den Weg durch die Stadt erklärt.
+: We explained the way through the city to the stranger. (Dat., masculine, after _dem_)
+
+Ich habe **eine Verwandte** in Hamburg.
+: I have a relative (f.) in Hamburg. (Nom., feminine, after _eine_)
+
+Er ist **ein Angestellter** bei der Stadtverwaltung.
+: He is an employee at the city council. (Nom., masculine, after _ein_)
+
+**Meine Verwandten** kommen dieses Jahr nicht zu Besuch.
+: My relatives are not coming to visit this year. (Nom., plural, after _meine_)
+:::
 
 :::{note}
 The two patterns differ in only three spots: masculine nominative (-er instead of -e) and neuter nominative/accusative (-es instead of -e). All other forms are identical. After *alles* (Type 1), the neuter takes -e: **alles Gute**, the classic phrase for birthday wishes.
@@ -121,16 +132,22 @@ At B1 level, this matters in two main contexts:
 
 Examples:
 
-- Hast du **etwas Gutes** zum Abendessen mitgebracht?  
-  _Did you bring something good for dinner?_ (neuter Akk., after _etwas_ → -es)
-- **Nichts Besonderes** ist heute passiert.  
-  _Nothing special happened today._ (neuter Nom., after _nichts_ → -es)
-- Er hat uns **etwas Interessantes** aus seiner Reise erzählt.  
-  _He told us something interesting from his trip._ (neuter Akk., after _etwas_ → -es)
-- **Viele Arbeitslose** suchen gerade eine neue Stelle.  
-  _Many unemployed people are currently looking for a new position._ (plural Nom., after _viele_ → -e)
-- **Einige Bekannte** haben mich gestern Abend angerufen.  
-  _A few acquaintances called me yesterday evening._ (plural Nom., after _einige_ → -e)
+:::{div} ol-examples
+Hast du **etwas Gutes** zum Abendessen mitgebracht?
+: Did you bring something good for dinner? (neuter Akk., after _etwas_ → -es)
+
+**Nichts Besonderes** ist heute passiert.
+: Nothing special happened today. (neuter Nom., after _nichts_ → -es)
+
+Er hat uns **etwas Interessantes** aus seiner Reise erzählt.
+: He told us something interesting from his trip. (neuter Akk., after _etwas_ → -es)
+
+**Viele Arbeitslose** suchen gerade eine neue Stelle.
+: Many unemployed people are currently looking for a new position. (plural Nom., after _viele_ → -e)
+
+**Einige Bekannte** haben mich gestern Abend angerufen.
+: A few acquaintances called me yesterday evening. (plural Nom., after _einige_ → -e)
+:::
 
 :::{warning}
 After **etwas** and **nichts**, the nominalized adjective is **always neuter**, regardless of context. Always use the -es ending: *etwas Gutes*, *nichts Neues*, *etwas Interessantes*. Never say *etwas Gute* or *etwas Guter*.
