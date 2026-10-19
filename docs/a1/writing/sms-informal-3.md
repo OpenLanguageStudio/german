@@ -31,7 +31,7 @@ What makes it work: the opener checks availability before proposing (*Was machst
 ### Hear it in practice
 
 :::{audio-examples}
-:track: a1/writing
+:track: a1/writing/sms-informal-3
 :title: Eine Nachricht - Was machst du am Samstag?
 :title-en: Making Plans
 :multiline:

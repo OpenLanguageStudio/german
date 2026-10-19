@@ -34,7 +34,7 @@ What makes it work: the *Betreff* already asks the question; the occasion and th
 ### Hear it in practice
 
 :::{audio-examples}
-:track: a1/writing
+:track: a1/writing/email-informal-2
 :title: Eine Einladung zum Geburtstag
 :title-en: Inviting a Friend Over
 :multiline:

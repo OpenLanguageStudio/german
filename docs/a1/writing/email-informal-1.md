@@ -34,7 +34,7 @@ What makes it work: the greeting *Liebe Lena* (a male friend would get *Lieber J
 ### Hear it in practice
 
 :::{audio-examples}
-:track: a1/writing
+:track: a1/writing/email-informal-1
 :title: Eine E-Mail an eine Freundin
 :title-en: An Email to a Friend
 :multiline:

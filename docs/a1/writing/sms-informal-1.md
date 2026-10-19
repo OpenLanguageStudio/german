@@ -27,7 +27,7 @@ What makes it work: *es tut mir leid, aber ...* opens the cancellation before th
 ### Hear it in practice
 
 :::{audio-examples}
-:track: a1/writing
+:track: a1/writing/sms-informal-1
 :title: Eine Nachricht - Ich kann nicht kommen
 :title-en: Cancelling Plans
 :multiline:

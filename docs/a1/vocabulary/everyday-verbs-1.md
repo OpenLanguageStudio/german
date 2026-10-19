@@ -34,7 +34,7 @@ One small wrinkle worth hearing: *arbeiten* inserts an extra e in the *du* form 
 Each verb comes as a pair of sentences in two different persons: *ich* one moment, *du* or *ihr* the next. Across the ten pairs you hear every conjugation slot German has, and a short review coda at the end replays four of the verbs in forms you know from the grammar albums.
 
 :::{audio-examples}
-:track: a1/vocabulary
+:track: a1/vocabulary/everyday-verbs-1
 :title: Alltagsverben 1
 :title-en: Everyday Verbs 1
 

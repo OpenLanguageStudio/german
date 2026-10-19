@@ -81,7 +81,7 @@ Der Aufzug ist kaputt.
 ## Hear it in practice
 
 :::{audio-examples}
-:track: a1/concepts
+:track: a1/concepts/understanding-public-information
 :title: Öffentliche Informationen verstehen
 :title-en: Understanding public information
 

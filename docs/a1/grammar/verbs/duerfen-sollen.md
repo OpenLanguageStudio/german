@@ -72,7 +72,7 @@ Wir {verb}`sollen` um acht Uhr da **sein**.
 ## Hear it in practice
 
 :::{audio-examples}
-:track: a1/grammar
+:track: a1/grammar/duerfen-sollen
 :title: Modalverben dürfen und sollen
 :title-en: Modal verbs dürfen and sollen
 

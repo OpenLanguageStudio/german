@@ -32,7 +32,7 @@ What makes it work: the thanks come first and name their object (*für das schö
 ### Hear it in practice
 
 :::{audio-examples}
-:track: a1/writing
+:track: a1/writing/postcard-3
 :title: Eine Dankeskarte
 :title-en: A Thank-You Note
 :multiline:

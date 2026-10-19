@@ -37,7 +37,7 @@ Note the German quirk: *die Sonnenbrille* is singular, one item, unlike English 
 One beach day from arrival to ice cream, with the holiday postcard vocabulary along for the ride.
 
 :::{audio-examples}
-:track: a1/vocabulary
+:track: a1/vocabulary/at-the-beach-1
 :title: Am Strand 1
 :title-en: At the Beach 1
 

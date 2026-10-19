@@ -80,7 +80,7 @@ Nein, aber ich kann Klavier spielen.
 ## Hear it in practice
 
 :::{audio-examples}
-:track: a1/concepts
+:track: a1/concepts/talking-about-abilities
 :title: Über Fähigkeiten sprechen
 :title-en: Talking about abilities
 

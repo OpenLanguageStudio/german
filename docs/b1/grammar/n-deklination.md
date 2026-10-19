@@ -130,7 +130,7 @@ Not every masculine profession noun is *N-Deklination*. For example, **der Autor
 :::
 
 :::{audio-examples}
-:track: b1/grammar
+:track: b1/grammar/n-deklination
 :title: N-Deklination
 :title-en: N-Declension
 

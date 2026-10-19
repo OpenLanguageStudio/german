@@ -35,7 +35,7 @@ The farm is childhood-picture-book vocabulary, and that is exactly why it sticks
 A day on the farm, animal by animal, from the early alarm to the fresh eggs.
 
 :::{audio-examples}
-:track: a1/vocabulary
+:track: a1/vocabulary/on-the-farm-1
 :title: Auf dem Bauernhof 1
 :title-en: On the Farm 1
 
