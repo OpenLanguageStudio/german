@@ -156,13 +156,9 @@ Both are correct. The noun version is common in writing and formal speech.
 - *Ich hoffe, dass er \*zu kommen.* → Ich hoffe, dass er **kommt**. (After *„dass"*, the second verb must be a conjugated form, not *„zu + Infinitiv"*.)
 :::
 :::{audio-examples}
-:album: b1/grammar/core
-:name: infinitiv-mit-zu-nach-bestimmten-verben
+:track: b1/grammar/infinitiv-mit-zu-nach-bestimmten-verben
 :title: Infinitiv mit zu - nach bestimmten Verben
-:title-en: Infinitive with zu — After Certain Verbs
-:voice: emilia
-:spotify: https://open.spotify.com/track/7zkFJzoAJxWmcM8ahhiQLF
-:youtube-music: https://music.youtube.com/watch?v=WjaMT6hs83o
+:title-en: Infinitive with zu: After Certain Verbs
 
 Ich versuche, jeden Tag Deutsch zu lernen.
 : I try to learn German every day.
@@ -235,13 +231,9 @@ Wir planen, früher zu starten.
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: infinitiv-mit-zu-nach-adjektiven
+:track: b1/grammar/infinitiv-mit-zu-nach-adjektiven
 :title: Infinitiv mit zu - nach Adjektiven
-:title-en: Infinitive with zu — After Adjectives
-:voice: emilia
-:spotify: https://open.spotify.com/track/3V6pqqPJWIktUPZDyxI86f
-:youtube-music: https://music.youtube.com/watch?v=UbM5WrvetmE
+:title-en: Infinitive with zu: After Adjectives
 
 Es ist wichtig, pünktlich zu sein.
 : It is important to be on time.
@@ -314,13 +306,9 @@ Wir finden es praktisch, ein Auto zu besitzen.
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: infinitiv-mit-zu-nach-nomen
+:track: b1/grammar/infinitiv-mit-zu-nach-nomen
 :title: Infinitiv mit zu - nach Nomen
-:title-en: Infinitive with zu — After Nouns
-:voice: emilia
-:spotify: https://open.spotify.com/track/5NogVHPejvBdoojRVwwk1e
-:youtube-music: https://music.youtube.com/watch?v=xTpcUQgoj-I
+:title-en: Infinitive with zu: After Nouns
 
 Er hat die Absicht, Deutsch zu lernen.
 : He has the intention to learn German.

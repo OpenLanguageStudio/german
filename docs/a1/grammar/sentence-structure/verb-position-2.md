@@ -56,7 +56,7 @@ Starting with time or place is not fancy German; it is normal German. *Heute fah
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-3
+:track: a1/grammar
 :title: Das Verb auf Position 2
 :title-en: The verb in second position
 

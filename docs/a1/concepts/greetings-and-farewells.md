@@ -74,7 +74,7 @@ Regional greetings are everywhere in Germany: *Moin* in the north, *Grüß Gott*
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-1
+:track: a1/concepts
 :title: Begrüßung und Abschied
 :title-en: Greetings and farewells
 

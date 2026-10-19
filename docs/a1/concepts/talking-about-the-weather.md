@@ -80,7 +80,7 @@ Im Herbst ist es oft windig.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-2
+:track: a1/concepts
 :title: Über das Wetter sprechen
 :title-en: Talking about the weather
 

@@ -34,7 +34,7 @@ Sport is Germany's second language, and football its grammar. Whether you play o
 A sporting week: training, the match, the pool, and both possible endings of the game.
 
 :::{audio-examples}
-:album: a1/vocabulary/part-1
+:track: a1/vocabulary
 :title: Sport und Spiele 1
 :title-en: Sports and Games 1
 

@@ -62,7 +62,7 @@ Wir fahren {prep}`für` eine Woche nach Italien.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-4
+:track: a1/grammar
 :title: Die Präposition für
 :title-en: The preposition für
 

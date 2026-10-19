@@ -81,7 +81,7 @@ Es gibt einen Park in der Nähe.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-2
+:track: a1/concepts
 :title: Sagen, wo etwas ist
 :title-en: Describing where things are
 

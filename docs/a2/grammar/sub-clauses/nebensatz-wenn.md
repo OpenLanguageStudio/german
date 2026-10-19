@@ -144,11 +144,9 @@ Use the following link to practice this section.
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: nebensatz-mit-wenn
+:track: a2/grammar/nebensatz-mit-wenn
 :title: Nebensatz mit wenn
 :title-en: Subordinate Clauses with wenn
-:voice: sophie
 
 Wenn ich Zeit habe, besuche ich dich.
 : If I have time, I'll visit you.

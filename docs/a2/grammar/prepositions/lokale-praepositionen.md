@@ -205,13 +205,9 @@ When you give directions, you often combine several local prepositions in one sh
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
-:name: lokale-prapositionen-mit-dativ
+:track: a2/grammar/lokale-prapositionen-mit-dativ
 :title: Lokale Präpositionen mit Dativ
 :title-en: Local Prepositions with the Dative
-:voice: max
-:spotify: https://open.spotify.com/track/2chGEZT7PNqjcUmVwcqe6a
-:youtube-music: https://music.youtube.com/watch?v=eII-qGGUMec
 
 Ich gehe am Park vorbei.
 : I walk past the park.
@@ -299,13 +295,9 @@ Ich laufe bis zum Spielplatz.
 :::
 
 :::{audio-examples}
-:album: a2/grammar/part-1
-:name: lokale-prapositionen-mit-akkusativ
+:track: a2/grammar/lokale-prapositionen-mit-akkusativ
 :title: Lokale Präpositionen mit Akkusativ
 :title-en: Local Prepositions with the Accusative
-:voice: max
-:spotify: https://open.spotify.com/track/44F6I0NuIz6I7OtzGXNNNr
-:youtube-music: https://music.youtube.com/watch?v=brj3xJuHvqM
 
 Wir gehen durch den Park.
 : We walk through the park.

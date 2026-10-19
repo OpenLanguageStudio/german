@@ -168,11 +168,9 @@ In answers, keep the same logic: dative answers *Wem?*, accusative answers *Was?
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: verben-mit-dativ-und-akkusativ
+:track: a2/grammar/verben-mit-dativ-und-akkusativ
 :title: Verben mit Dativ und Akkusativ
 :title-en: Verbs with Dative and Accusative
-:voice: sophie
 
 Ich gebe dir das Buch.
 : I'm giving you the book.

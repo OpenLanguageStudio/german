@@ -169,13 +169,9 @@ If you want to express possession now and full genitive feels difficult, keep us
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
-:name: genitiv-mit-namen
+:track: a2/grammar/genitiv-mit-namen
 :title: Genitiv mit Namen
 :title-en: The Genitive with Names
-:voice: max
-:spotify: https://open.spotify.com/track/7g3A7cJS9AVvYeZ8BnidUs
-:youtube-music: https://music.youtube.com/watch?v=NwKk_7zGI2k
 
 Das ist Toms Auto.
 : That's Tom's car.

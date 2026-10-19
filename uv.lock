@@ -227,7 +227,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "open-language", git = "https://github.com/OpenLanguageStudio/open-language?rev=79ae61c164c6a1db8fa3d3599792d895da78cea3" }]
+requires-dist = [{ name = "open-language", git = "https://github.com/OpenLanguageStudio/open-language?rev=v0.1.0" }]
 
 [[package]]
 name = "h11"
@@ -373,7 +373,7 @@ wheels = [
 [[package]]
 name = "open-language"
 version = "0.1.0"
-source = { git = "https://github.com/OpenLanguageStudio/open-language?rev=79ae61c164c6a1db8fa3d3599792d895da78cea3#79ae61c164c6a1db8fa3d3599792d895da78cea3" }
+source = { git = "https://github.com/OpenLanguageStudio/open-language?rev=v0.1.0#52cb606b0d2bbad6e476e10d909bef43159362d8" }
 dependencies = [
     { name = "markdown-it-py" },
     { name = "mdit-py-plugins" },

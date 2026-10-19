@@ -66,7 +66,7 @@ Before reading this article, make sure you are comfortable with:
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-1
+:track: a1/grammar
 :title: Interrogativartikel
 :title-en: Interrogative articles
 

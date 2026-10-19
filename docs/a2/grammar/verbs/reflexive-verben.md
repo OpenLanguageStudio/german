@@ -164,12 +164,9 @@ When a sentence has a modal verb (like *müssen*, *können*, *wollen*), the conj
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
+:track: a2/grammar
 :title: Reflexive Verben
 :title-en: Reflexive Verbs
-:voice: max
-:spotify: https://open.spotify.com/track/1iBp1Gy73gNqVpORGoEOUi
-:youtube-music: https://music.youtube.com/watch?v=kVamodAvovE
 
 Ich freue mich auf das Wochenende.
 : I'm looking forward to the weekend.

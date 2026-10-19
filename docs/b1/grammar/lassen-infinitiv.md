@@ -151,13 +151,9 @@ Use *gelassen* only when *lassen* is the main verb with no following infinitive 
 - *Er ~~lässt~~ sein Buch hier.* → Er **lässt** sein Buch hier. ✓ But Perfekt: Er hat sein Buch hier **gelassen**. (*gelassen* is correct here because there is no following infinitive and the meaning is "to leave behind")
 :::
 :::{audio-examples}
-:album: b1/grammar/core
-:name: das-verb-lassen
+:track: b1/grammar/das-verb-lassen
 :title: Das verb Lassen
 :title-en: The Verb lassen
-:voice: emilia
-:spotify: https://open.spotify.com/track/7r3ro7iVerDhKH9bSzaxlv
-:youtube-music: https://music.youtube.com/watch?v=kgEW8RwVrd8
 
 Ich lasse mein Auto reparieren.
 : I'm having my car repaired.

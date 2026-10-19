@@ -68,7 +68,7 @@ Using the full form where a contraction is normal (*in dem Kino*) is not wrong, 
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-4
+:track: a1/grammar
 :title: Kurzformen im, ins, zum und zur
 :title-en: Contracted prepositions
 

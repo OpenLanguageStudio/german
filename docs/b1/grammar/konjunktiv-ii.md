@@ -168,13 +168,9 @@ Common patterns:
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: konjunktiv-ii-review
+:track: b1/grammar/konjunktiv-ii-review
 :title: Konjunktiv II - Review
-:title-en: Konjunktiv II — Review
-:voice: emilia
-:spotify: https://open.spotify.com/track/7frtSioUuyuIOQXD01JvkA
-:youtube-music: https://music.youtube.com/watch?v=IwmWrUe4q04
+:title-en: Konjunktiv II: Review
 
 Du solltest früher schlafen gehen.
 : You should go to bed earlier.

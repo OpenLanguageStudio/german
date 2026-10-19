@@ -34,7 +34,7 @@ Clothes and colours travel together: you rarely name a jacket without saying whi
 Colours ride along with the clothes in most sentences, so both sets settle in together; the everyday plurals (*Schuhe, Kleider*) get their own turns.
 
 :::{audio-examples}
-:album: a1/vocabulary/part-1
+:track: a1/vocabulary
 :title: Kleidung und Farben 1
 :title-en: Clothes and Colours 1
 

@@ -130,12 +130,9 @@ Not every masculine profession noun is *N-Deklination*. For example, **der Autor
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
+:track: b1/grammar
 :title: N-Deklination
 :title-en: N-Declension
-:voice: emilia
-:spotify: https://open.spotify.com/track/2nZGKISaOrVJSQ49khuh1O
-:youtube-music: https://music.youtube.com/watch?v=xRufcelyL8s
 
 Siehst du den Studenten dort?
 : Do you see the student there?

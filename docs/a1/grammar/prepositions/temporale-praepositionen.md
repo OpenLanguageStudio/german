@@ -69,7 +69,7 @@ Ich lerne {prep}`seit` einem Jahr Deutsch.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-4
+:track: a1/grammar
 :title: Temporale Präpositionen - Grundlagen
 :title-en: Temporal prepositions, the basics
 

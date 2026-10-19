@@ -68,7 +68,7 @@ Ich danke {dativ}`Ihnen`.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-3
+:track: a1/grammar
 :title: Personalpronomen im Dativ
 :title-en: Personal pronouns in the dative
 

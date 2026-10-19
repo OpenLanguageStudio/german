@@ -134,12 +134,9 @@ When it comes second, the word order is normal:
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
+:track: b1/grammar
 :title: Plusquamperfekt
 :title-en: The Past Perfect
-:voice: emilia
-:spotify: https://open.spotify.com/track/09iqUR6gbmrhXlX8z8hFyK
-:youtube-music: https://music.youtube.com/watch?v=iWcCAfezrNQ
 
 Wir hatten das Buch schon gelesen.
 : We had already read the book.

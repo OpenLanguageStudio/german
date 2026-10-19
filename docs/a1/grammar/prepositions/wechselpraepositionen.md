@@ -61,7 +61,7 @@ These same prepositions can also express direction (*ins Kino gehen*), and then 
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-4
+:track: a1/grammar
 :title: Wechselpräpositionen
 :title-en: Two-way prepositions
 

@@ -63,7 +63,7 @@ Wo kann {pronoun}`man` hier parken?
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-3
+:track: a1/grammar
 :title: Das Pronomen man
 :title-en: The impersonal pronoun man
 

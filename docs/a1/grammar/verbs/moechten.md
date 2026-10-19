@@ -62,7 +62,7 @@ Er {verb}`möchte` nach Berlin **fahren**.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-2
+:track: a1/grammar
 :title: möchten
 :title-en: The polite want
 

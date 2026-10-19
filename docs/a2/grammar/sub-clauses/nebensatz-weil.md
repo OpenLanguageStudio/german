@@ -152,11 +152,9 @@ For A2 learners: actively produce the standard pattern with verb-final *weil*. U
 
 ---
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: nebensatz-mit-weil
+:track: a2/grammar/nebensatz-mit-weil
 :title: Nebensatz mit weil
 :title-en: Subordinate Clauses with weil
-:voice: sophie
 
 Ich bleibe zu Hause, weil ich krank bin.
 : I'm staying home because I'm sick.

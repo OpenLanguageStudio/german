@@ -37,7 +37,7 @@ You will stand in a German supermarket within days of arriving, and this is the 
 One shopping trip, shelf by shelf, ending where every trip ends: at the *Kasse*, with or without a *Tüte*.
 
 :::{audio-examples}
-:album: a1/vocabulary/part-1
+:track: a1/vocabulary
 :title: Im Supermarkt 1
 :title-en: In the Supermarket 1
 

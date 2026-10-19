@@ -34,7 +34,7 @@ The park is where German cities breathe: children on the playground, bikes on th
 One green afternoon in seventeen sentences: trees and flowers, the playground, a bench with a view.
 
 :::{audio-examples}
-:album: a1/vocabulary/part-1
+:track: a1/vocabulary
 :title: Im Park 1
 :title-en: At the Park 1
 

@@ -142,13 +142,9 @@ After *nicht so...wie*, the adjective is always in its **positive form**, never 
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
-:name: vergleiche-mit-als-und-wie
+:track: a2/grammar/vergleiche-mit-als-und-wie
 :title: Vergleiche mit als und wie
 :title-en: Comparisons with als and wie
-:voice: max
-:spotify: https://open.spotify.com/track/2OoBY8Tikml38cuoUlH69j
-:youtube-music: https://music.youtube.com/watch?v=XXhRsvPszNs
 
 Sie ist größer als ich.
 : She's taller than me.

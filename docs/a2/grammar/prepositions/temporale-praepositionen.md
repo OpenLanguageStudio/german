@@ -288,11 +288,9 @@ If you learn these as fixed phrases, speaking about time becomes much faster.
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: temporale-prapositionen
+:track: a2/grammar/temporale-prapositionen
 :title: Temporale Präpositionen
 :title-en: Temporal Prepositions
-:voice: sophie
 
 Ich arbeite bis 18 Uhr.
 : I work until 6 p.m.

@@ -81,7 +81,7 @@ Zusammen oder getrennt? Zusammen, bitte.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-2
+:track: a1/concepts
 :title: Essen und Trinken bestellen
 :title-en: Ordering food and drink
 

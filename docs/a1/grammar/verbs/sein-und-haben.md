@@ -71,7 +71,7 @@ German is hungry with *haben*, not with *sein*: *Ich habe Hunger*, never *Ich bi
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-2
+:track: a1/grammar
 :title: sein und haben
 :title-en: The verbs sein and haben
 

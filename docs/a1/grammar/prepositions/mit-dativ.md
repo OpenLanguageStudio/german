@@ -66,7 +66,7 @@ Ein Brötchen {prep}`mit` Käse, bitte.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-4
+:track: a1/grammar
 :title: Die Präposition mit
 :title-en: The preposition mit
 

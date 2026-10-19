@@ -114,12 +114,9 @@ Sentences with **nur brauchen + zu + Inf.** often carry a reassuring tone, you'r
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
+:track: b1/grammar
 :title: Brauchen + zu + Infinitiv
 :title-en: Brauchen + zu + Infinitive
-:voice: emilia
-:spotify: https://open.spotify.com/track/4JKKRlPLofl5DJ6dnmhili
-:youtube-music: https://music.youtube.com/watch?v=zR1j2Hw8F-s
 
 Du brauchst das nicht zu machen.
 : You don't need to do that.

@@ -223,13 +223,9 @@ The key difference: Konjunktiv II **adds the umlaut back**; Präteritum **has no
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
-:name: modalverben-im-prateritum
+:track: a2/grammar/modalverben-im-prateritum
 :title: Modalverben im Präteritum
 :title-en: Modal Verbs in the Simple Past
-:voice: max
-:spotify: https://open.spotify.com/track/6hoAe3z2UrxMHKyG0WwyH4
-:youtube-music: https://music.youtube.com/watch?v=UIwrpoYwm_U
 
 Ich konnte gestern nicht kommen.
 : I couldn't come yesterday.

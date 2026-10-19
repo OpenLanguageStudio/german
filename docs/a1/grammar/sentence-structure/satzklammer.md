@@ -73,7 +73,7 @@ The bracket returns in the past tense: *Ich habe Pizza gegessen* frames the sent
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-3
+:track: a1/grammar
 :title: Die Satzklammer
 :title-en: The sentence bracket
 

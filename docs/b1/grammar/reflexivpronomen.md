@@ -49,13 +49,8 @@ A prepositional phrase does not change this rule. In *Ich interessiere mich für
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: reflexivpronomen-akkusativ
+:track: b1/grammar/reflexivpronomen-akkusativ
 :title: Reflexivpronomen Akkusativ
-:title-en: Reflexive Pronouns — Accusative
-:voice: emilia
-:spotify: https://open.spotify.com/track/0uqXdtqbvtGQXuMshRwcmR
-:youtube-music: https://music.youtube.com/watch?v=7P98zzy8e-A
 
 Ich freue mich auf das Wochenende.
 : I'm looking forward to the weekend.
@@ -180,13 +175,8 @@ With body parts, German normally uses a dative reflexive pronoun plus a definite
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: reflexivpronomen-dativ
+:track: b1/grammar/reflexivpronomen-dativ
 :title: Reflexivpronomen Dativ
-:title-en: Reflexive Pronouns — Dative
-:voice: emilia
-:spotify: https://open.spotify.com/track/2hYicPB49GzUzdDIA2yYzU
-:youtube-music: https://music.youtube.com/watch?v=u-tbpQ6M724
 
 Er kämmt sich die Haare.
 : He combs his hair.

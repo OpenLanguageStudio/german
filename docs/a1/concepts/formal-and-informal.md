@@ -67,7 +67,7 @@ Do not let this scare you. At this stage any competent German speaker can tell a
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-1
+:track: a1/concepts
 :title: Duzen und Siezen
 :title-en: Formal and informal
 

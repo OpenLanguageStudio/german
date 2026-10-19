@@ -155,13 +155,9 @@ In practice, the two words can sometimes overlap. Germans may occasionally use *
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
-:name: interrogativartikel-was-fur-ein-und-welcher
+:track: a2/grammar/interrogativartikel-was-fur-ein-und-welcher
 :title: Interrogativartikel - Was für ein und Welcher
-:title-en: Interrogative Articles — Was für ein and Welcher
-:voice: max
-:spotify: https://open.spotify.com/track/6JjbHkcSfdNOnWlnPajheH
-:youtube-music: https://music.youtube.com/watch?v=hfB0cXW-lCo
+:title-en: Interrogative Articles: Was für ein and Welcher
 
 Was für ein Auto hast du?
 : What kind of car do you have?

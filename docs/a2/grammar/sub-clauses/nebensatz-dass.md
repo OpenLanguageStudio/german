@@ -251,11 +251,9 @@ Use the following link to practice this section.
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: nebensatz-mit-dass
+:track: a2/grammar/nebensatz-mit-dass
 :title: Nebensatz mit dass
 :title-en: Subordinate Clauses with dass
-:voice: sophie
 
 Ich glaube, dass er recht hat.
 : I believe that he's right.

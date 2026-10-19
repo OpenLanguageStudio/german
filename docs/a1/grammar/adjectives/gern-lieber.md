@@ -69,7 +69,7 @@ Was isst du **am liebsten**?
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-4
+:track: a1/grammar
 :title: gern, lieber, am liebsten
 :title-en: gern, lieber, am liebsten
 

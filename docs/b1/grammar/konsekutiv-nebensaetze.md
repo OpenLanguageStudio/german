@@ -56,13 +56,9 @@ At B1, focus first on **deshalb** and **deswegen**. They are the safest and most
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: folgen-ausdrucken-mit-deswegen-darum-deshalb
+:track: b1/grammar/folgen-ausdrucken-mit-deswegen-darum-deshalb
 :title: Deswegen, darum und deshalb - Folgen ausdrücken
 :title-en: Expressing Consequences with deswegen, darum, deshalb
-:voice: emilia
-:spotify: https://open.spotify.com/track/0J6T7USR5K9pWFCQAur2wX
-:youtube-music: https://music.youtube.com/watch?v=GwBzfAOgjCc
 
 Es regnet, deswegen bleibe ich zu Hause.
 : It's raining, that's why I'm staying at home.

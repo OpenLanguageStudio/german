@@ -72,7 +72,7 @@ Meine Frau kommt aus Brasilien.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-1
+:track: a1/concepts
 :title: Über die Familie sprechen
 :title-en: Talking about family
 

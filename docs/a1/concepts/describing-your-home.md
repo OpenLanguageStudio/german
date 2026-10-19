@@ -83,7 +83,7 @@ Die Wohnung gefällt {dativ}`mir` sehr.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-2
+:track: a1/concepts
 :title: Die Wohnung beschreiben
 :title-en: Describing your home
 

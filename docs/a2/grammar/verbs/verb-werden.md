@@ -203,13 +203,9 @@ Do not confuse:
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
-:name: das-verb-werden
+:track: a2/grammar/das-verb-werden
 :title: Das Verb werden
 :title-en: The Verb werden
-:voice: max
-:spotify: https://open.spotify.com/track/1b1FpdTb2N1uzKtWecJhUr
-:youtube-music: https://music.youtube.com/watch?v=Q8pARqsuyxc
 
 Ich werde Lehrer.
 : I'm becoming a teacher.
@@ -300,12 +296,6 @@ Wir wurden müde vom Wandern.
 
 Wird deine Schwester auch Lehrerin?
 : Is your sister also becoming a teacher?
-
-Ich werde immer dicker.
-: I'm getting fatter and fatter.
-
-Sie sind gute Kollegen geworden.
-: They became good colleagues.
 :::
 
 ---

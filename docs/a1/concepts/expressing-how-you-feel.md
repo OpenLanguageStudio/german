@@ -83,7 +83,7 @@ Alles ist in Ordnung.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-2
+:track: a1/concepts
 :title: Gefühle ausdrücken
 :title-en: Expressing how you feel
 

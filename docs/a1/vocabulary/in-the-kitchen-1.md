@@ -33,7 +33,7 @@ The kitchen is where German households actually live, and its vocabulary comes u
 The sentences walk through the kitchen the way an evening does: setting the table, cooking, and finding things where they live.
 
 :::{audio-examples}
-:album: a1/vocabulary/part-1
+:track: a1/vocabulary
 :title: In der Küche 1
 :title-en: In the Kitchen 1
 

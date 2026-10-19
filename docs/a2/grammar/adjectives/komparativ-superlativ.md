@@ -185,13 +185,9 @@ Three very common German words form comparatives and superlatives in a completel
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
-:name: adjektive-komparativ-und-superlativ
+:track: a2/grammar/adjektive-komparativ-und-superlativ
 :title: Adjektive - Komparativ und Superlativ
-:title-en: Adjectives — Comparative and Superlative
-:voice: max
-:spotify: https://open.spotify.com/track/2zmeINrmeIGl1Yyw225Rcj
-:youtube-music: https://music.youtube.com/watch?v=Qj4jgbv96wA
+:title-en: Adjectives: Comparative and Superlative
 
 Mein Auto ist schneller als dein Auto.
 : My car is faster than your car.

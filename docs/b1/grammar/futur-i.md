@@ -112,12 +112,9 @@ The signal words are not grammatically required, but they make your intention cl
 - Using *Futur I* for every future statement in conversation – "Ich **fahre** morgen nach München" sounds more natural in speech than "Ich **werde** morgen nach München fahren"
 :::
 :::{audio-examples}
-:album: b1/grammar/core
+:track: b1/grammar
 :title: Futur I
 :title-en: Future Tense I
-:voice: emilia
-:spotify: https://open.spotify.com/track/0c2edgfAArWYLCPBg4zi2J
-:youtube-music: https://music.youtube.com/watch?v=bIPcBltF19c
 
 Ich werde morgen nach Berlin fahren.
 : I will go to Berlin tomorrow.

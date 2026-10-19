@@ -36,7 +36,7 @@ Germany is a nation of gardeners, from balcony tomatoes to the beloved *Schreber
 A gardening year in miniature: planting in spring, watering in summer, cutting in autumn, and the apples as the reward.
 
 :::{audio-examples}
-:album: a1/vocabulary/part-1
+:track: a1/vocabulary
 :title: Im Garten 1
 :title-en: In the Garden 1
 

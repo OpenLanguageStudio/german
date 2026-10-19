@@ -34,7 +34,7 @@ The last two rows pair by theme rather than by opposite: *schön* and *müde* de
 Each pair comes as two neighbouring sentences, so the contrast does the teaching: the house is big, the flat is small. Listen for the rhythm of the pairs.
 
 :::{audio-examples}
-:album: a1/vocabulary/part-1
+:track: a1/vocabulary
 :title: Alltagsadjektive 1
 :title-en: Everyday Adjectives 1
 

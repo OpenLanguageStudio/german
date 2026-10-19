@@ -80,7 +80,7 @@ Kennst du {akk}`den Film`?
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-1
+:track: a1/grammar
 :title: Der Akkusativ
 :title-en: The accusative case
 

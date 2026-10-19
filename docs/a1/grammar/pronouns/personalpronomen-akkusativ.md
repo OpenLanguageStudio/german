@@ -67,7 +67,7 @@ Das Buch? Ich lese {akk}`es` gerade.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-3
+:track: a1/grammar
 :title: Personalpronomen im Akkusativ
 :title-en: Personal pronouns in the accusative
 

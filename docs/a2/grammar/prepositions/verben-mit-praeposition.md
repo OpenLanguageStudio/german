@@ -168,11 +168,9 @@ Questions about the prepositional object often use **wo(r)-** forms for things, 
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: verben-mit-praposition
+:track: a2/grammar/verben-mit-praposition
 :title: Verben mit Präposition
 :title-en: Verbs with Prepositions
-:voice: sophie
 
 Ich freue mich auf das Wochenende.
 : I'm looking forward to the weekend.

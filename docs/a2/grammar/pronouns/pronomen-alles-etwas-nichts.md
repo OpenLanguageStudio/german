@@ -214,13 +214,9 @@ This article's pronouns are for things and ideas. For people, German uses differ
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-1
-:name: pronomen-alles-etwas-und-nichts
+:track: a2/grammar/pronomen-alles-etwas-und-nichts
 :title: Pronomen - alles, etwas und nichts
-:title-en: Pronouns — alles, etwas, and nichts
-:voice: max
-:spotify: https://open.spotify.com/track/04NTWaa3jUFX6zCl93kdQL
-:youtube-music: https://music.youtube.com/watch?v=nHGBw0bfDBg
+:title-en: Pronouns: alles, etwas, and nichts
 
 Ich habe alles verstanden.
 : I understood everything.

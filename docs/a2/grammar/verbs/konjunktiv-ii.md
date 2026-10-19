@@ -75,11 +75,9 @@ Use the following link to practice this section.
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: konjunktiv-ii-sollte-fur-ratschlage
+:track: a2/grammar/konjunktiv-ii-sollte-fur-ratschlage
 :title: Konjunktiv II - sollte für Ratschläge
-:title-en: Konjunktiv II — sollte for Giving Advice
-:voice: sophie
+:title-en: Konjunktiv II: sollte for Giving Advice
 
 Du solltest mehr schlafen.
 : You should sleep more.
@@ -170,12 +168,6 @@ Sie sollten die Regeln beachten.
 
 Ich sollte mehr lesen.
 : I should read more.
-
-Er sollte seine Eltern anrufen.
-: He should call his parents.
-
-Wir sollten das besprechen.
-: We should discuss that.
 :::
 
 ## könnte for polite requests
@@ -232,11 +224,9 @@ Use the following link to practice this section.
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: konjunktiv-ii-von-konnen-hofliche-bitten
+:track: a2/grammar/konjunktiv-ii-von-konnen-hofliche-bitten
 :title: Konjunktiv II von können - höfliche Bitten
-:title-en: Konjunktiv II of können — Polite Requests
-:voice: sophie
+:title-en: Konjunktiv II of können: Polite Requests
 
 Könntest du mir bitte helfen?
 : Could you please help me?
@@ -327,24 +317,6 @@ Könnten wir einen anderen Termin finden?
 
 Könnte ich bitte bezahlen?
 : Could I please pay?
-
-Könntest du mir deine Adresse schicken?
-: Could you send me your address?
-
-Könnten Sie mir bitte helfen?
-: Could you please help me?
-
-Könnte ich noch einen Kaffee haben?
-: Could I have another coffee?
-
-Könntest du das Licht anmachen?
-: Could you turn on the light?
-
-Könnten wir das Thema wechseln?
-: Could we change the subject?
-
-Könnte ich bitte durchgehen?
-: Could I please get through?
 :::
 
 ## Practical use: when to choose *sollte* or *könnte*

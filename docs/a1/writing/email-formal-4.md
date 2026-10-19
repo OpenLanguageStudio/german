@@ -36,7 +36,7 @@ What makes it work: the *Betreff* names the ad, so the reader knows which flat b
 ### Hear it in practice
 
 :::{audio-examples}
-:album: a1/writing/part-1
+:track: a1/writing
 :title: Eine E-Mail zu einer Wohnungsanzeige
 :title-en: Asking About an Apartment
 :multiline:

@@ -73,7 +73,7 @@ Wohin {verb}`bist` du **gefahren**?
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-4
+:track: a1/grammar
 :title: Das Perfekt
 :title-en: The Perfekt tense
 

@@ -68,7 +68,7 @@ If dictation gets too fast, two short phrases save you: *Noch einmal, bitte* and
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-1
+:track: a1/concepts
 :title: Buchstabieren und das Alphabet
 :title-en: Spelling and the alphabet
 

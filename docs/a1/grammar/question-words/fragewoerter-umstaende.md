@@ -69,7 +69,7 @@ Wie oft machst du Sport?
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/grammar/part-3
+:track: a1/grammar
 :title: Fragewörter wo, wann, wie und warum
 :title-en: Question words for circumstances
 

@@ -71,7 +71,7 @@ Ich mag {akk}`keinen Fisch`.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-1
+:track: a1/concepts
 :title: Vorlieben ausdrücken
 :title-en: Expressing likes and dislikes
 

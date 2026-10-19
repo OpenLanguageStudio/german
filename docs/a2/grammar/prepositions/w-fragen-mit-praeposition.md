@@ -167,11 +167,9 @@ Use the following link to practice this section.
 ---
 
 :::{audio-examples}
-:album: a2/grammar/part-2
-:name: w-fragen-mit-praposition
+:track: a2/grammar/w-fragen-mit-praposition
 :title: W-Fragen mit Präposition
 :title-en: W-Questions with Prepositions
-:voice: sophie
 
 Worauf wartest du? – Auf den Bus.
 : What are you waiting for? – For the bus.

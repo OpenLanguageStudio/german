@@ -69,7 +69,7 @@ Ich lebe seit zwei Jahren in Deutschland.
 ## Hear it in practice
 
 :::{audio-examples}
-:album: a1/concepts/part-1
+:track: a1/concepts
 :title: Beruf und Herkunft
 :title-en: Talking about profession and origin
 

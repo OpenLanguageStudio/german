@@ -60,13 +60,9 @@ These seven prepositions always take dative when followed by a noun. They answer
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: temporale-prapositionen-mit-dativ
+:track: b1/grammar/temporale-prapositionen-mit-dativ
 :title: Temporale Präpositionen mit Dativ
 :title-en: Temporal Prepositions with the Dative
-:voice: emilia
-:spotify: https://open.spotify.com/track/1leYrjeSpxruF7nHKV5Us4
-:youtube-music: https://music.youtube.com/watch?v=GtONJ6qQZSI
 
 Ich gehe am Montag zum Arzt.
 : I'm going to the doctor on Monday.
@@ -173,13 +169,9 @@ Both forms are widely understood, but written German at B1 level and above uses 
 :::
 
 :::{audio-examples}
-:album: b1/grammar/core
-:name: temporale-prapositionen-genitiv-formell
+:track: b1/grammar/temporale-prapositionen-genitiv-formell
 :title: Temporale Präpositionen - Genitiv (Formell)
-:title-en: Temporal Prepositions — Genitive (Formal)
-:voice: emilia
-:spotify: https://open.spotify.com/track/63YXYtQ5jUmOI2d8FWjD6T
-:youtube-music: https://music.youtube.com/watch?v=OCtEuXJUQ1o
+:title-en: Temporal Prepositions: Genitive (Formal)
 
 Während des Unterrichts ist mein Handy aus.
 : During class, my phone is off.
