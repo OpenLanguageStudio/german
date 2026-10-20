@@ -6,6 +6,8 @@ myst:
 ---
 # Small talk
 
+Small talk keeps a conversation going with someone not yet known well, at a networking event, a party or a conference. This topic covers safe openers, ways to keep a *Gesprächsthema* going and polite ways to move on.
+
 ## Vocabulary list
 
 | German | English |
@@ -80,7 +82,7 @@ myst:
 
 ## Short story
 
-At einer Netzwerkveranstaltung an einem kühlen Abend nach einem unerwarteten Wetterumschwung stehen Lara und Jonas etwas abseits. Eine kurze Stille wirkt plötzlich länger, als sie ist. Lara spürt leichte Verlegenheit und sucht schnell nach einem neutralen Gesprächsanlass – nichts zu persönlich, aber auch nicht zu technisch. Sie entscheidet sich für einen sanften Einstieg: das Umfeld und dann ein Übergang zum Arbeitsalltag.
+Auf einer Netzwerkveranstaltung an einem kühlen Abend nach einem unerwarteten Wetterumschwung stehen Lara und Jonas etwas abseits. Eine kurze Stille wirkt plötzlich länger, als sie ist. Lara spürt leichte Verlegenheit und sucht schnell nach einem neutralen Gesprächsanlass – nichts zu persönlich, aber auch nicht zu technisch. Sie entscheidet sich für einen sanften Einstieg: das Umfeld und dann ein Übergang zum Arbeitsalltag.
 
 „Ganz schön frischer Abend nach dem Wetterumschwung, oder?“ fragt sie. Jonas nickt, dankbar für die Auflösung der Stille. Das Thema bleibt bewusst eine scheinbare Belanglosigkeit, doch es erfüllt seinen Zweck: Es schafft eine kleine Vertrautheit. Lara stellt eine Zwischenfrage, knüpft an und lenkt das Gesprächsthema hin zu etwas Nachhaltigerem: „Warst du schon öfter auf dieser Netzwerkveranstaltung?“ Jonas erzählt kurz, dass er die Kennenlernphase in neuen Teams oft schwierig findet und Smalltalk ihm hilft, Spannungen abzubauen. Er beschreibt, wie ein gut gewählter Anlass – ein Vortrag, das Buffet, ein technisches Detail – ein natürlicher Gesprächsanlass sein kann.
 

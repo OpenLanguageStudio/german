@@ -6,6 +6,8 @@ myst:
 ---
 # Speaking about home
 
+*Heimat* is one of the harder German words to translate: it can mean a place, a language, a family or a feeling. This topic covers the vocabulary for talking about where someone comes from, *Heimweh* and *Fernweh*, and how the idea of home changes after a move.
+
 ## Vocabulary list
 
 | German | English |

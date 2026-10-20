@@ -6,6 +6,8 @@ myst:
 ---
 # Multilingualism
 
+Growing up or living with several languages shapes accent, identity and the way people switch between them. This topic covers the vocabulary for talking about first and second languages, pronunciation, interpreting and *Code-Switching*.
+
 ## Vocabulary list
 
 | German | English |

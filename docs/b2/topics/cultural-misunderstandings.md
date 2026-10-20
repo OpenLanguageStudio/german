@@ -6,6 +6,8 @@ myst:
 ---
 # Cultural misunderstandings
 
+Most cultural misunderstandings come from small things: how direct a criticism is, how much eye contact feels normal, when irony is welcome. This topic collects the words for those moments and for talking about them afterwards, from a *Fauxpas* to *ins Fettnäpfchen treten*.
+
 ## Vocabulary list
 
 | German | English |

@@ -76,8 +76,8 @@ In the dative case, **all four article types change their endings**. This is dif
 Ich gebe {dativ}`dem` Kind einen Apfel.
 : I give the child an apple. (neuter → dem)
 
-Das Geschenk ist für {dativ}`meiner` Mutter.
-: The present is for my mother. (feminine → meiner)
+Das Geschenk ist von {dativ}`meiner` Mutter.
+: The present is from my mother. (feminine → meiner)
 
 Er hilft {dativ}`einem` alten Mann.
 : He helps an old man. (masculine → einem)

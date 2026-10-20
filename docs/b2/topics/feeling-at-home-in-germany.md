@@ -6,6 +6,8 @@ myst:
 ---
 # Feeling at home in Germany
 
+Feeling at home in a new country grows out of everyday routines: a regular bakery, a club, a neighbour who says hello. This topic covers the words for settling in, from the *Behördengang* in the first weeks to *Ehrenamt* and *Feierabend* later on.
+
 ## Vocabulary list
 
 | German | English |

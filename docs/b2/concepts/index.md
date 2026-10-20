@@ -1,5 +1,7 @@
 # Concepts
 
+B2 concepts are about arguing and evaluating: giving reasons, agreeing and disagreeing, weighing advantages against disadvantages and connecting arguments into a discussion. The articles listed below are planned and not written yet.
+
 eine Begründung ausdrücken
 *(Expressing a Reason)*
 
@@ -12,13 +14,13 @@ Widerspruch/Ablehnung ausdrücken
 Äußerungen bewerten
 *(Evaluating Statements)*
 
-uber eigene Erwartungen sprechen
+über eigene Erwartungen sprechen
 *(Talking about Personal Expectations)*
 
 starke Zweifel ausdrücken
 *(Expressing Strong Doubts)*
 
-Wicktigkeit ausdrücken
+Wichtigkeit ausdrücken
 *(Expressing Importance)*
 
 Argumente/Gegenargumente nennen
@@ -33,7 +35,7 @@ Argumente austauschen
 Vor- und Nachteile nennen
 *(Stating Advantages and Disadvantages)*
 
-Vermutungen ausdrucken
+Vermutungen ausdrücken
 *(Expressing Assumptions)*
 
 ```{toctree}

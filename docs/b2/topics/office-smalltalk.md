@@ -6,6 +6,8 @@ myst:
 ---
 # Office small talk
 
+Small talk at work fills the gaps between tasks: the queue at the coffee machine, the minutes before a meeting, the walk to lunch. This topic covers the words and phrases for those conversations, which stay friendly and light without becoming personal.
+
 ## Vocabulary list
 
 | German | English |

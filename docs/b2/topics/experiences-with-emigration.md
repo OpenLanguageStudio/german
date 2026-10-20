@@ -6,6 +6,8 @@ myst:
 ---
 # Experiences with emigration
 
+Emigrating starts with paperwork long before it becomes a new life: *Anmeldung*, residence permits and the recognition of qualifications. This topic covers the vocabulary of that first year, from the offices to the moment the new country starts to feel familiar.
+
 ## Vocabulary list
 
 | German | English |
