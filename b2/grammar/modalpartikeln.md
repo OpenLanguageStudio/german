@@ -222,5 +222,5 @@ Click the link below to practice everything from this page with an interactive t
 - [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
 - [B2 > Grammar > Negation](/b2/grammar/negation.md)
 - [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Topics > Small talk](/b2/topics/smalltalk.md)
+- [B2 > Vocabulary > Small talk](/b2/vocabulary/smalltalk.md)
 - [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)

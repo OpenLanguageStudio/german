@@ -1,6 +1,14 @@
 # Concepts
 
-B2 concepts are about arguing and evaluating: giving reasons, agreeing and disagreeing, weighing advantages against disadvantages and connecting arguments into a discussion. The articles listed below are planned and not written yet.
+B2 concepts are about arguing and evaluating: giving reasons, agreeing and disagreeing, weighing advantages against disadvantages and connecting arguments into a discussion. The first article is below. The functions listed after it are planned and not written yet.
+
+```{toctree}
+:maxdepth: 1
+
+organising-a-festival
+```
+
+## Planned
 
 eine Begründung ausdrücken
 *(Expressing a Reason)*
@@ -37,10 +45,4 @@ Vor- und Nachteile nennen
 
 Vermutungen ausdrücken
 *(Expressing Assumptions)*
-
-```{toctree}
-:maxdepth: 1
-:caption: Contents
-
-```
 

@@ -1,7 +1,3 @@
----
-orphan: true
----
-
 # B2
 
 ```{toctree}
@@ -11,7 +7,5 @@ orphan: true
 
 concepts/index
 grammar/index
-topics/index
-situations/index
-
+vocabulary/index
 ```
