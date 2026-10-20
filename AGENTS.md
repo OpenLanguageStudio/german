@@ -13,6 +13,7 @@ The German coursebook for Open Language. Content only: articles in the level dir
 ## Rules for changes
 
 - Every article follows its category template. `ol validate` is the authority; if it fails, the article is not done.
+- The rules a script cannot check are in the package's [authoring rules](https://github.com/OpenLanguageStudio/open-language/blob/main/docs/reference/authoring-rules.md). The questions a reviewer asks are in its review rubric, `ol/authoring/review-rubric.yml`. Read both before writing or reviewing an article.
 - `.ol-validate-baseline` lists older articles that do not meet the templates yet. It only shrinks: fix an article, remove its line. Never add a line.
 - The file name of a published article never changes. Links and listening tracks depend on it.
 - Headings are in English. German words in running text are in italics.
