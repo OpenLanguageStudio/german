@@ -5,7 +5,8 @@ The German coursebook from Open Language: grammar, concepts, writing and vocabul
 ## Layout
 
 ```
-docs/<level>/<category>/    articles, one topic each
+<level>/<category>/         articles, one topic each
+index.md, conf.py           the site's home page and its build settings
 open-language.yml           workspace settings and the cast of voices
 ```
 

@@ -1,6 +1,6 @@
 # AGENTS.md
 
-The German coursebook for Open Language. Content only: articles under `docs/`, built with the `ol` tools from the `open-language` package.
+The German coursebook for Open Language. Content only: articles in the level directories (`a1/` to `b2/`) at the top of the repository, built with the `ol` tools from the `open-language` package.
 
 ## Commands
 

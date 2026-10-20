@@ -11,22 +11,18 @@ _ol_docs = Path(ol.docs.__file__).parent
 # sphinx-build runs from the workspace root; fall back to the env var when it doesn't.
 if not Path(os.getenv("OPEN_LANGUAGE_CONFIG", "open-language.yml")).exists():
     os.environ["OPEN_LANGUAGE_CONFIG"] = str(
-        (Path(__file__).parent.parent / "open-language.yml").resolve()
+        (Path(__file__).parent / "open-language.yml").resolve()
     )
 lang = Language()
 
 
-# https://sphinx-book-theme.readthedocs.io/en/stable/
-html_static_path = [
-    "_static"
-]
 html_theme = "pydata_sphinx_theme"
 html_title = lang.title
 html_context = {"target_language": lang.name}
 
 # sphinxext.opengraph — without these it emits "Project name not set" and
 # relative og:url values alongside the explicit per-page html_meta og tags.
-with open(Path(__file__).parent.parent / "pyproject.toml", "rb") as _f:
+with open(Path(__file__).parent / "pyproject.toml", "rb") as _f:
     ogp_site_url = tomllib.load(_f)["project"]["urls"]["homepage"]
 ogp_site_name = lang.title
 
@@ -91,12 +87,12 @@ rst_prolog = """
 master_doc = "index"
 
 # Path to additional templates relative to this directory
-templates_path = ["_templates", str(_ol_docs / "_templates")]
+templates_path = [str(_ol_docs / "_templates")]
 
 # The suffix of source filenames.
 # source_suffix = ".rst"
 
-html_static_path = ["_static", str(_ol_docs / "_static")]
+html_static_path = [str(_ol_docs / "_static")]
 
 def setup(app):
     app.add_css_file("stylesheet.css")
@@ -112,9 +108,11 @@ def setup(app):
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 exclude_patterns = [
-    # match any directory not beginning with docs
-    "^(?!docs).*",
     "_build",
+    ".venv",
+    ".github",
+    "README.md",
+    "AGENTS.md",
 ]
 
 # The reST default role (used for this markup: `text`) to use for all documents.
