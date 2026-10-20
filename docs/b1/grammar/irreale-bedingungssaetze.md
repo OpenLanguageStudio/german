@@ -10,8 +10,6 @@ myst:
 ---
 # Irreale Bedingungssätze
 
-> Unreal conditional sentences with *Konjunktiv II*
-
 You use *irreale Bedingungssätze* when you imagine a condition that is not true now, and then describe the result. In B1, the focus is clear sentence structure with *Konjunktiv II*.
 
 ---
@@ -53,29 +51,31 @@ The form without *wenn* is common and natural, but only when the condition claus
 
 ## Examples
 
-- **Wenn** ich nicht so viel arbeiten **müsste**, **würde** ich öfter Sport machen.  
-  *If I did not have to work so much, I would exercise more often.*
+:::{div} ol-examples
+**Wenn** ich nicht so viel arbeiten **müsste**, **würde** ich öfter Sport machen.
+: If I did not have to work so much, I would exercise more often.
 
-- **Wenn** wir näher am Bahnhof **wohnen würden**, **wären** wir morgens entspannter.  
-  *If we lived closer to the station, we would be more relaxed in the mornings.*
+**Wenn** wir näher am Bahnhof **wohnen würden**, **wären** wir morgens entspannter.
+: If we lived closer to the station, we would be more relaxed in the mornings.
 
-- **Wenn** du früher losgehen **würdest**, **kämest** du pünktlich an.  
-  *If you left earlier, you would arrive on time.*
+**Wenn** du früher losgehen **würdest**, **kämest** du pünktlich an.
+: If you left earlier, you would arrive on time.
 
-- Ich **würde** den Kurs buchen, **wenn** er nicht so teuer **wäre**.  
-  *I would book the course if it were not so expensive.*
+Ich **würde** den Kurs buchen, **wenn** er nicht so teuer **wäre**.
+: I would book the course if it were not so expensive.
 
-- Wir **würden** heute kochen, **wenn** wir genug Zeit **hätten**.  
-  *We would cook today if we had enough time.*
+Wir **würden** heute kochen, **wenn** wir genug Zeit **hätten**.
+: We would cook today if we had enough time.
 
-- **Hätte** ich morgen frei, **würde** ich mit dir an den See fahren.  
-  *If I had tomorrow off, I would drive to the lake with you.*
+**Hätte** ich morgen frei, **würde** ich mit dir an den See fahren.
+: If I had tomorrow off, I would drive to the lake with you.
 
-- **Wäre** ich an deiner Stelle, **würde** ich zuerst mit dem Chef sprechen.  
-  *If I were in your place, I would speak to the boss first.*
+**Wäre** ich an deiner Stelle, **würde** ich zuerst mit dem Chef sprechen.
+: If I were in your place, I would speak to the boss first.
 
-- **Könnte** er besser planen, **hätte** er weniger Stress im Alltag.  
-  *If he could plan better, he would have less stress in everyday life.*
+**Könnte** er besser planen, **hätte** er weniger Stress im Alltag.
+: If he could plan better, he would have less stress in everyday life.
+:::
 
 :::{note}
 At B1 level, *Konjunktiv II* is the key signal for unreal meaning. *Präsens* often sounds like a real or open condition.
@@ -83,27 +83,7 @@ At B1 level, *Konjunktiv II* is the key signal for unreal meaning. *Präsens* of
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- In unreal conditionals, both clauses usually use *Konjunktiv II*.
-- In the *wenn*-clause, the conjugated verb goes to the **end**.
-- In the main clause, the conjugated verb is in position 2.
-- Use *wäre*, *hätte*, *könnte* for *sein*/*haben*/modal verbs; for many other verbs use *würde* + infinitive.
-- You can omit *wenn* when the condition clause comes first and starts with the conjugated verb.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Wenn ich mehr Zeit habe, würde ich mehr lesen.* -> Wenn ich mehr Zeit **hätte**, würde ich mehr lesen. (Use *Konjunktiv II* in the *wenn*-clause.)
-- *Wenn ich Zeit hätte, ich würde kommen.* -> Wenn ich Zeit hätte, **würde ich** kommen. (Verb before subject in the main clause after initial *wenn*-clause.)
-- *Wenn ich würde mehr Geld haben, ...* -> Wenn ich mehr Geld **hätte**, ... (Do not use *würde* + *haben* here.)
-- *Ich würde sein entspannter, wenn ich Urlaub hätte.* -> Ich **wäre** entspannter, wenn ich Urlaub hätte. (Use *wäre*, not *würde sein*.)
-- *Hätte ich Zeit würde ich helfen.* -> **Hätte ich Zeit, würde ich helfen.** (Comma required between clauses.)
-:::
+## Hear it in practice
 
 :::{audio-examples}
 :track: b1/grammar/konjunktiv-ii-irreale-bedingungssatze
@@ -172,6 +152,30 @@ Wenn wir mehr Zeit hätten, würden wir bleiben.
 
 Ich würde dir schreiben, wenn ich deine Adresse wüsste.
 : I would write to you if I knew your address.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- In unreal conditionals, both clauses usually use *Konjunktiv II*.
+- In the *wenn*-clause, the conjugated verb goes to the **end**.
+- In the main clause, the conjugated verb is in position 2.
+- Use *wäre*, *hätte*, *könnte* for *sein*/*haben*/modal verbs; for many other verbs use *würde* + infinitive.
+- You can omit *wenn* when the condition clause comes first and starts with the conjugated verb.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Wenn ich mehr Zeit habe, würde ich mehr lesen.* -> Wenn ich mehr Zeit **hätte**, würde ich mehr lesen. (Use *Konjunktiv II* in the *wenn*-clause.)
+- *Wenn ich Zeit hätte, ich würde kommen.* -> Wenn ich Zeit hätte, **würde ich** kommen. (Verb before subject in the main clause after initial *wenn*-clause.)
+- *Wenn ich würde mehr Geld haben, ...* -> Wenn ich mehr Geld **hätte**, ... (Do not use *würde* + *haben* here.)
+- *Ich würde sein entspannter, wenn ich Urlaub hätte.* -> Ich **wäre** entspannter, wenn ich Urlaub hätte. (Use *wäre*, not *würde sein*.)
+- *Hätte ich Zeit würde ich helfen.* -> **Hätte ich Zeit, würde ich helfen.** (Comma required between clauses.)
 :::
 
 ---

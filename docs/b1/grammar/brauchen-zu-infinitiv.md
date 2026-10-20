@@ -10,8 +10,6 @@ myst:
 ---
 # brauchen + zu + Infinitiv
 
-> A modal alternative to müssen, saying "don't have to" and "all you need to do"
-
 The verb **brauchen** normally means *to need* and takes a noun object. At B1 it takes on a special construction: **brauchen + zu + Infinitiv**, which works like a modal verb, but only when the sentence contains **nicht**, **kein**, or **nur**. It is the natural way to say that something is unnecessary, or that a small action is all that is required.
 
 ---
@@ -28,23 +26,25 @@ Use **nicht brauchen + zu + Infinitiv** to say that something is not necessary, 
 | Er **braucht** heute nicht **zu kommen**. | Er **muss** heute nicht **kommen**. | He doesn't have to come today. |
 | Sie **braucht** keinen Arzt **zu rufen**. | Sie **muss** keinen Arzt **rufen**. | She doesn't have to call a doctor. |
 
-- Du **brauchst** das Formular nicht **zu unterschreiben**.  
-  _You don't have to sign the form._
+:::{div} ol-examples
+Du **brauchst** das Formular nicht **zu unterschreiben**.
+: You don't have to sign the form.
 
-- Er **braucht** am Wochenende nicht **zu arbeiten**.  
-  _He doesn't have to work on the weekend._
+Er **braucht** am Wochenende nicht **zu arbeiten**.
+: He doesn't have to work on the weekend.
 
-- Wir **brauchen** das Zimmer nicht **aufzuräumen**.  
-  _We don't have to tidy the room._
+Wir **brauchen** das Zimmer nicht **aufzuräumen**.
+: We don't have to tidy the room.
 
-- Sie **braucht** keinen neuen Pass **zu beantragen**.  
-  _She doesn't have to apply for a new passport._
+Sie **braucht** keinen neuen Pass **zu beantragen**.
+: She doesn't have to apply for a new passport.
 
-- Ihr **braucht** nicht so früh **aufzustehen**.  
-  _You don't have to get up so early._
+Ihr **braucht** nicht so früh **aufzustehen**.
+: You don't have to get up so early.
 
-- Das Kind **braucht** kein Gemüse **zu essen**.  
-  _The child doesn't have to eat any vegetables._
+Das Kind **braucht** kein Gemüse **zu essen**.
+: The child doesn't have to eat any vegetables.
+:::
 
 :::{note}
 **nicht brauchen + zu + Inf.** and **nicht müssen** mean exactly the same thing. In everyday speech, Germans use both equally. Choose the one that sounds more natural to you in context.
@@ -68,20 +68,22 @@ Use **nur brauchen + zu + Infinitiv** to say that one small or simple action is 
 | Du **brauchst** nur **anzurufen**. | Du **musst** nur **anrufen**. | You just have to call. |
 | Sie **braucht** nur **zu warten**. | Sie **muss** nur **warten**. | She just has to wait. |
 
-- Du **brauchst** nur die erste Seite **zu lesen**.  
-  _You only need to read the first page._
+:::{div} ol-examples
+Du **brauchst** nur die erste Seite **zu lesen**.
+: You only need to read the first page.
 
-- Er **braucht** nur auf den Knopf **zu drücken**.  
-  _He just has to press the button._
+Er **braucht** nur auf den Knopf **zu drücken**.
+: He just has to press the button.
 
-- Ihr **braucht** nur kurz **zu warten**, ich bin gleich fertig.  
-  _You just need to wait a moment – I'll be done soon._
+Ihr **braucht** nur kurz **zu warten**, ich bin gleich fertig.
+: You just need to wait a moment – I'll be done soon.
 
-- Sie **braucht** nur ihren Namen **einzutragen**.  
-  _She only needs to write in her name._
+Sie **braucht** nur ihren Namen **einzutragen**.
+: She only needs to write in her name.
 
-- Du **brauchst** nur **zu fragen** und ich helfe dir sofort.  
-  _You just need to ask and I'll help you straight away._
+Du **brauchst** nur **zu fragen** und ich helfe dir sofort.
+: You just need to ask and I'll help you straight away.
+:::
 
 :::{tip}
 Sentences with **nur brauchen + zu + Inf.** often carry a reassuring tone, you're telling someone the task is simpler than they think. You will often hear this in customer service, instructions, or when someone offers help:
@@ -92,26 +94,7 @@ Sentences with **nur brauchen + zu + Inf.** often carry a reassuring tone, you'r
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-- **brauchen + zu + Infinitiv** is only used with **nicht**, **kein**, **nichts**, **kaum**, or **nur**.
-- Without one of these words, use **müssen** instead.
-- **nicht brauchen + zu + Inf.** = "don't have to / need not" (same meaning as **nicht müssen**).
-- **nur brauchen + zu + Inf.** = "all you have to do is…" (same meaning as **nur müssen**).
-- The **zu + Infinitiv** goes to the **end of the clause**, just like other infinitive constructions.
-- In everyday spoken German, **zu** is often dropped; in formal or written language, always include it.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-- *Ich brauche heute **zu arbeiten**.* → Ich **muss** heute arbeiten. (`brauchen + zu` requires `nicht` or `nur`, drop it and use `müssen` instead)
-- *Du brauchst das nicht **lesen**.* → Du brauchst das nicht **zu lesen**. (in formal and written language, `zu` is required)
-- *Du brauchst das nicht zu tun* = Du darfst das nicht tun. → These are NOT the same. **nicht brauchen** = don't have to; **nicht dürfen** = must not / forbidden.
-- *Er **braucht** nicht **zu müssen** kommen.* → Er **braucht** nicht **zu kommen**. (never combine `brauchen` and `müssen` together like this, choose one)
-- *Du **brauchst** nur **zu** die erste Seite **lesen**.* → Du brauchst nur die erste Seite **zu lesen**. (`zu` attaches directly before the infinitive at the end, not elsewhere in the sentence)
-:::
+## Hear it in practice
 
 :::{audio-examples}
 :track: b1/grammar/brauchen-zu-infinitiv
@@ -195,6 +178,29 @@ Braucht ihr heute nur zehn Minuten zu üben?
 
 Du brauchst nur einen Stift mitzubringen.
 : You only need to bring a pen.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+- **brauchen + zu + Infinitiv** is only used with **nicht**, **kein**, **nichts**, **kaum**, or **nur**.
+- Without one of these words, use **müssen** instead.
+- **nicht brauchen + zu + Inf.** = "don't have to / need not" (same meaning as **nicht müssen**).
+- **nur brauchen + zu + Inf.** = "all you have to do is…" (same meaning as **nur müssen**).
+- The **zu + Infinitiv** goes to the **end of the clause**, just like other infinitive constructions.
+- In everyday spoken German, **zu** is often dropped; in formal or written language, always include it.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+- *Ich brauche heute **zu arbeiten**.* → Ich **muss** heute arbeiten. (`brauchen + zu` requires `nicht` or `nur`, drop it and use `müssen` instead)
+- *Du brauchst das nicht **lesen**.* → Du brauchst das nicht **zu lesen**. (in formal and written language, `zu` is required)
+- *Du brauchst das nicht zu tun* = Du darfst das nicht tun. → These are NOT the same. **nicht brauchen** = don't have to; **nicht dürfen** = must not / forbidden.
+- *Er **braucht** nicht **zu müssen** kommen.* → Er **braucht** nicht **zu kommen**. (never combine `brauchen` and `müssen` together like this, choose one)
+- *Du **brauchst** nur **zu** die erste Seite **lesen**.* → Du brauchst nur die erste Seite **zu lesen**. (`zu` attaches directly before the infinitive at the end, not elsewhere in the sentence)
 :::
 
 ---

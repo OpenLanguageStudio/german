@@ -5,13 +5,8 @@ myst:
     keywords: "german, german learning, german language, b2, office small talk, beruf, arbeit, networking, kollegen"
 ---
 # Office small talk
-> Smalltalk im Büro
 
-:::{seealso}
-
-- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
-
-:::
+Small talk at work fills the gaps between tasks: the queue at the coffee machine, the minutes before a meeting, the walk to lunch. This topic covers the words and phrases for those conversations, which stay friendly and light without becoming personal.
 
 ## Vocabulary list
 
@@ -110,3 +105,9 @@ Jana: Alles klar. Ich will dich nicht vom Feierabend abhalten.
 Tom: Kein Problem – danke fürs Einchecken.
 Jana: Melde dich einfach, falls was aufploppt.
 Tom: Mach ich.
+
+---
+
+## Related articles
+
+- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)

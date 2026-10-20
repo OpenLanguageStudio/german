@@ -10,8 +10,6 @@ myst:
 ---
 # Sätze mit je ..., desto/umso ...
 
-> Expressing proportional change: the more..., the more/less...
-
 This structure ties one change to another. It is the German pattern behind ideas like "the more ..., the better ..." or "the less ..., the easier ...", and it turns up in everyday speech, in advice, and in arguments.
 
 ---
@@ -29,20 +27,22 @@ The most common order is: je-clause first, desto/umso-clause second. You can als
 
 ### Examples
 
-- **{conj}`Je` {adj}`früher`** wir losfahren, **{conj}`desto` {adj}`schneller`** sind wir am See.  
-  _The earlier we leave, the faster we are at the lake._
+:::{div} ol-examples
+**{conj}`Je` {adj}`früher`** wir losfahren, **{conj}`desto` {adj}`schneller`** sind wir am See.
+: The earlier we leave, the faster we are at the lake.
 
-- **{conj}`Je` {adj}`mehr`** du übst, **{conj}`umso` {adj}`sicherer`** sprichst du im Meeting.  
-  _The more you practise, the more confidently you speak in the meeting._
+**{conj}`Je` {adj}`mehr`** du übst, **{conj}`umso` {adj}`sicherer`** sprichst du im Meeting.
+: The more you practise, the more confidently you speak in the meeting.
 
-- **{conj}`Je` {adj}`länger`** der Film dauert, **{conj}`desto` {adj}`müder`** werden die Kinder.  
-  _The longer the film lasts, the more tired the children get._
+**{conj}`Je` {adj}`länger`** der Film dauert, **{conj}`desto` {adj}`müder`** werden die Kinder.
+: The longer the film lasts, the more tired the children get.
 
-- **{conj}`Umso` {adj}`teurer`** die Miete wird, **{conj}`je` {adj}`schwieriger`** ist die Wohnungssuche.  
-  _The more expensive rent becomes, the harder apartment hunting is._
+**{conj}`Umso` {adj}`teurer`** die Miete wird, **{conj}`je` {adj}`schwieriger`** ist die Wohnungssuche.
+: The more expensive rent becomes, the harder apartment hunting is.
 
-- **{conj}`Desto` {adj}`weniger`** Zucker du isst, **{conj}`je` {adj}`besser`** fühlst du dich tagsüber.  
-  _The less sugar you eat, the better you feel during the day._
+**{conj}`Desto` {adj}`weniger`** Zucker du isst, **{conj}`je` {adj}`besser`** fühlst du dich tagsüber.
+: The less sugar you eat, the better you feel during the day.
+:::
 
 :::{tip}
 In B1 writing and speaking, keep the first pattern as your default: **Je ..., desto/umso ...**. It is clearer and easier to build.
@@ -56,17 +56,19 @@ In the je-structure, **desto** and **umso** normally mean the same thing. Many s
 
 ### Examples
 
-- **{conj}`Je` {adj}`ruhiger`** es hier ist, **{conj}`desto` {adj}`besser`** kann ich arbeiten.  
-  _The quieter it is here, the better I can work._
+:::{div} ol-examples
+**{conj}`Je` {adj}`ruhiger`** es hier ist, **{conj}`desto` {adj}`besser`** kann ich arbeiten.
+: The quieter it is here, the better I can work.
 
-- **{conj}`Je` {adj}`später`** wir buchen, **{conj}`umso` {adj}`teurer`** werden die Tickets.  
-  _The later we book, the more expensive the tickets become._
+**{conj}`Je` {adj}`später`** wir buchen, **{conj}`umso` {adj}`teurer`** werden die Tickets.
+: The later we book, the more expensive the tickets become.
 
-- **{conj}`Je` {adj}`weniger`** Stress du hast, **{conj}`desto` {adj}`leichter`** schläfst du ein.  
-  _The less stress you have, the more easily you fall asleep._
+**{conj}`Je` {adj}`weniger`** Stress du hast, **{conj}`desto` {adj}`leichter`** schläfst du ein.
+: The less stress you have, the more easily you fall asleep.
 
-- **{conj}`Je` {adj}`klarer`** die Aufgabe ist, **{conj}`umso` {adj}`schneller`** erledigt das Team sie.  
-  _The clearer the task is, the faster the team finishes it._
+**{conj}`Je` {adj}`klarer`** die Aufgabe ist, **{conj}`umso` {adj}`schneller`** erledigt das Team sie.
+: The clearer the task is, the faster the team finishes it.
+:::
 
 :::{warning}
 Do not use the positive form here. You need a comparative in both parts.

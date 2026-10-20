@@ -10,15 +10,6 @@ myst:
 ---
 # Modalverben im Präteritum
 
-> Modal verbs in the simple past
-
-:::{seealso}
-
-- [A2 > Grammar > Perfekt](/a2/grammar/verbs/perfekt.md)
-- [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
-
-:::
-
 When you want to talk about what you could do, had to do, or were not allowed to do in the past, you use the Präteritum forms of the modal verbs. These five forms – **konnte**, **musste**, **wollte**, **durfte**, and **sollte**, come up constantly in everyday German, and they are more straightforward to learn than they might look.
 
 :::{important}
@@ -49,12 +40,16 @@ Compare the Perfekt of a modal verb with the preferred Präteritum:
 | *Wir haben lange warten müssen.* | *Wir mussten lange warten.* |
 | *Sie hat nicht bleiben dürfen.* | *Sie durfte nicht bleiben.* |
 
-- Gestern {verb}`konnte` ich nicht schlafen.  
-  *Yesterday I couldn't sleep.*
-- Wir {verb}`mussten` früh aufstehen.  
-  *We had to get up early.*
-- Er {verb}`wollte` nicht mitkommen.  
-  *He didn't want to come along.*
+:::{div} ol-examples
+Gestern {verb}`konnte` ich nicht schlafen.
+: Yesterday I couldn't sleep.
+
+Wir {verb}`mussten` früh aufstehen.
+: We had to get up early.
+
+Er {verb}`wollte` nicht mitkommen.
+: He didn't want to come along.
+:::
 
 :::{tip}
 *Sein* (war) and *haben* (hatte) follow the same rule, they also prefer Präteritum in everyday speech. Modal verbs simply belong to the same group.
@@ -87,18 +82,25 @@ Full conjugation for all five modals:
 | ihr | konn**tet** | muss**tet** | woll**tet** | durf**tet** | soll**tet** |
 | sie / Sie | konn**ten** | muss**ten** | woll**ten** | durf**ten** | soll**ten** |
 
-- {verb}`Konntest` du die Aufgabe lösen?  
-  *Were you able to solve the task?*
-- Sie {verb}`musste` um 7 Uhr aufstehen.  
-  *She had to get up at 7 o'clock.*
-- Wir {verb}`wollten` einen Spaziergang machen.  
-  *We wanted to go for a walk.*
-- Ihr {verb}`durftet` nicht so laut sein.  
-  *You weren't allowed to be so loud.*
-- Die Kinder {verb}`sollten` um 20 Uhr im Bett sein.  
-  *The children were supposed to be in bed at 8 pm.*
-- Ich {verb}`konnte` ihn gut verstehen.  
-  *I could understand him well.*
+:::{div} ol-examples
+{verb}`Konntest` du die Aufgabe lösen?
+: Were you able to solve the task?
+
+Sie {verb}`musste` um 7 Uhr aufstehen.
+: She had to get up at 7 o'clock.
+
+Wir {verb}`wollten` einen Spaziergang machen.
+: We wanted to go for a walk.
+
+Ihr {verb}`durftet` nicht so laut sein.
+: You weren't allowed to be so loud.
+
+Die Kinder {verb}`sollten` um 20 Uhr im Bett sein.
+: The children were supposed to be in bed at 8 pm.
+
+Ich {verb}`konnte` ihn gut verstehen.
+: I could understand him well.
+:::
 
 :::{note}
 **wollen** and **sollen** have no umlaut in the infinitive, so their stems stay unchanged. Their Präteritum forms (*wollte*, *sollte*) look just like ordinary weak verbs with **-te**.
@@ -114,56 +116,76 @@ Each modal has a distinct meaning in the past. Here are all five with natural, e
 
 Use **konnte** to talk about ability or possibility in the past.
 
-- Ich {verb}`konnte` kein Wort auf Deutsch verstehen.  
-  *I couldn't understand a single word of German.*
-- Als Kind {verb}`konnte` er sehr gut Fußball spielen.  
-  *As a child, he could play football very well.*
-- Wir {verb}`konnten` das Restaurant nicht finden.  
-  *We couldn't find the restaurant.*
+:::{div} ol-examples
+Ich {verb}`konnte` kein Wort auf Deutsch verstehen.
+: I couldn't understand a single word of German.
+
+Als Kind {verb}`konnte` er sehr gut Fußball spielen.
+: As a child, he could play football very well.
+
+Wir {verb}`konnten` das Restaurant nicht finden.
+: We couldn't find the restaurant.
+:::
 
 ### müssen, had to
 
 Use **musste** when someone was required or needed to do something.
 
-- Sie {verb}`musste` zum Arzt gehen.  
-  *She had to go to the doctor.*
-- Wir {verb}`mussten` den ganzen Tag im Büro bleiben.  
-  *We had to stay in the office all day.*
-- {verb}`Musstest` du gestern arbeiten?  
-  *Did you have to work yesterday?*
+:::{div} ol-examples
+Sie {verb}`musste` zum Arzt gehen.
+: She had to go to the doctor.
+
+Wir {verb}`mussten` den ganzen Tag im Büro bleiben.
+: We had to stay in the office all day.
+
+{verb}`Musstest` du gestern arbeiten?
+: Did you have to work yesterday?
+:::
 
 ### dürfen, was allowed to
 
 Use **durfte** for permission or the absence of it in the past.
 
-- Wir {verb}`durften` als Kinder im Garten spielen.  
-  *We were allowed to play in the garden as children.*
-- Er {verb}`durfte` die Schule früher verlassen.  
-  *He was allowed to leave school early.*
-- Sie {verb}`durften` das Zimmer nicht betreten.  
-  *They weren't allowed to enter the room.*
+:::{div} ol-examples
+Wir {verb}`durften` als Kinder im Garten spielen.
+: We were allowed to play in the garden as children.
+
+Er {verb}`durfte` die Schule früher verlassen.
+: He was allowed to leave school early.
+
+Sie {verb}`durften` das Zimmer nicht betreten.
+: They weren't allowed to enter the room.
+:::
 
 ### wollen, wanted to
 
 Use **wollte** for wishes or intentions in the past.
 
-- Das Kind {verb}`wollte` nicht schlafen.  
-  *The child didn't want to sleep.*
-- Ich {verb}`wollte` ihm helfen, aber ich hatte keine Zeit.  
-  *I wanted to help him, but I had no time.*
-- Wir {verb}`wollten` ins Kino gehen, aber der Film war ausverkauft.  
-  *We wanted to go to the cinema, but the film was sold out.*
+:::{div} ol-examples
+Das Kind {verb}`wollte` nicht schlafen.
+: The child didn't want to sleep.
+
+Ich {verb}`wollte` ihm helfen, aber ich hatte keine Zeit.
+: I wanted to help him, but I had no time.
+
+Wir {verb}`wollten` ins Kino gehen, aber der Film war ausverkauft.
+: We wanted to go to the cinema, but the film was sold out.
+:::
 
 ### sollen, was supposed to
 
 Use **sollte** when someone had an obligation set by another person or prior arrangement.
 
-- Ich {verb}`sollte` um 8 Uhr am Bahnhof sein.  
-  *I was supposed to be at the station at 8 o'clock.*
-- Er {verb}`sollte` seine Hausaufgaben machen.  
-  *He was supposed to do his homework.*
-- Das Geschäft {verb}`sollte` um neun Uhr öffnen, aber die Tür war noch zu.  
-  *The shop was supposed to open at nine, but the door was still locked.*
+:::{div} ol-examples
+Ich {verb}`sollte` um 8 Uhr am Bahnhof sein.
+: I was supposed to be at the station at 8 o'clock.
+
+Er {verb}`sollte` seine Hausaufgaben machen.
+: He was supposed to do his homework.
+
+Das Geschäft {verb}`sollte` um neun Uhr öffnen, aber die Tür war noch zu.
+: The shop was supposed to open at nine, but the door was still locked.
+:::
 
 ---
 
@@ -188,14 +210,19 @@ The key difference: Konjunktiv II **adds the umlaut back**; Präteritum **has no
 - *Ich sollte mehr lernen.*, past fact ("I was supposed to study more") or Konjunktiv II advice ("I should study more").
 :::
 
-- Ich {verb}`konnte` gestern nicht schlafen. *(Präteritum, past fact)*  
-  *I couldn't sleep yesterday.*
-- {verb}`Könntest` du mir bitte helfen? *(Konjunktiv II, polite request)*  
-  *Could you please help me?*
-- Er {verb}`musste` früh aufstehen. *(Präteritum, past necessity)*  
-  *He had to get up early.*
-- Ich {verb}`müsste` eigentlich früher aufstehen. *(Konjunktiv II, moral obligation)*  
-  *I really should get up earlier.*
+:::{div} ol-examples
+Ich {verb}`konnte` gestern nicht schlafen. *(Präteritum, past fact)*
+: I couldn't sleep yesterday.
+
+{verb}`Könntest` du mir bitte helfen? *(Konjunktiv II, polite request)*
+: Could you please help me?
+
+Er {verb}`musste` früh aufstehen. *(Präteritum, past necessity)*
+: He had to get up early.
+
+Ich {verb}`müsste` eigentlich früher aufstehen. *(Konjunktiv II, moral obligation)*
+: I really should get up earlier.
+:::
 
 ---
 
@@ -221,6 +248,8 @@ The key difference: Konjunktiv II **adds the umlaut back**; Präteritum **has no
 :::
 
 ---
+
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/modalverben-im-prateritum

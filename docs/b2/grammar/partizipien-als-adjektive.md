@@ -10,15 +10,6 @@ myst:
 ---
 # Partizipien als Adjektive
 
-> Use participles before nouns to write and speak more compact, precise German
-
-:::{seealso}
-- [B1 > Grammar > Partizip als Adjektiv](/b1/grammar/partizip-als-adjektiv.md)
-- [B2 > Grammar > Zustandspassiv](/b2/grammar/zustandspassiv.md)
-- [B2 > Grammar > Passiv und Passiversatzformen](/b2/grammar/passiv-und-passiversatzformen.md)
-- [A2 > Grammar > Adjektivendungen](/a2/grammar/adjectives/adjektivendungen.md)
-:::
-
 At B2, participles help you compress information and sound more natural in formal writing, reports, and precise descriptions. You can place *Partizip I* or *Partizip II* directly before a noun, but then the form behaves like an adjective and needs the correct adjective ending.
 
 *Examples:*
@@ -43,14 +34,19 @@ Use *Partizip I* when the noun is actively doing something or when you want to s
 
 **Examples:**
 
-- Wir haben gestern einen {adj}`spannenden` Film gesehen.  
-  _We watched an exciting film yesterday._
-- Die {adj}`lachenden` Kinder rannten über den Hof.  
-  _The laughing children ran across the courtyard._
-- Das Team reagierte auf die {adj}`steigenden` Kosten sehr schnell.  
-  _The team reacted very quickly to the rising costs._
-- In der E-Mail fehlten zwei {adj}`entscheidende` Informationen.  
-  _Two crucial pieces of information were missing in the email._
+:::{div} ol-examples
+Wir haben gestern einen {adj}`spannenden` Film gesehen.
+: We watched an exciting film yesterday.
+
+Die {adj}`lachenden` Kinder rannten über den Hof.
+: The laughing children ran across the courtyard.
+
+Das Team reagierte auf die {adj}`steigenden` Kosten sehr schnell.
+: The team reacted very quickly to the rising costs.
+
+In der E-Mail fehlten zwei {adj}`entscheidende` Informationen.
+: Two crucial pieces of information were missing in the email.
+:::
 
 :::{tip}
 For many learners, a helpful shortcut is this: if English naturally uses an *-ing* adjective, German often uses *Partizip I* in the same position.
@@ -71,14 +67,19 @@ Use *Partizip II* as an adjective when you describe a completed action or result
 
 **Examples:**
 
-- Sonntags gibt es hier nur einen {adj}`geschlossenen` Laden in der Straße.  
-  _On Sundays there is only a closed shop on this street._
-- Zum Abendessen gab es {adj}`gebratene` Kartoffeln und Salat.  
-  _For dinner there were fried potatoes and salad._
-- Die {adj}`reparierte` Maschine läuft jetzt wieder stabil.  
-  _The repaired machine is running reliably again now._
-- Wir diskutierten die {adj}`veröffentlichten` Zahlen aus dem Quartalsbericht.  
-  _We discussed the published figures from the quarterly report._
+:::{div} ol-examples
+Sonntags gibt es hier nur einen {adj}`geschlossenen` Laden in der Straße.
+: On Sundays there is only a closed shop on this street.
+
+Zum Abendessen gab es {adj}`gebratene` Kartoffeln und Salat.
+: For dinner there were fried potatoes and salad.
+
+Die {adj}`reparierte` Maschine läuft jetzt wieder stabil.
+: The repaired machine is running reliably again now.
+
+Wir diskutierten die {adj}`veröffentlichten` Zahlen aus dem Quartalsbericht.
+: We discussed the published figures from the quarterly report.
+:::
 
 :::{warning}
 Do not assume every *Partizip II* is passive in meaning. With some intransitive verbs, the meaning is active: *der eingeschlafene Passagier* means "the passenger who fell asleep," not "the passenger who was put to sleep."
@@ -98,14 +99,19 @@ When a participle stands directly before a noun, it declines exactly like any ad
 
 **Examples:**
 
-- Der {adj}`lachende` Junge begrüßte uns zuerst.  
-  _The laughing boy greeted us first._
-- Ein {adj}`lachender` Junge stand schon an der Tür.  
-  _A laughing boy was already standing at the door._
-- Ich sehe den {adj}`lachenden` Jungen auf dem Foto.  
-  _I see the laughing boy in the photo._
-- Wir brauchen {adj}`aktualisierte` Daten bis morgen früh.  
-  _We need updated data by tomorrow morning._
+:::{div} ol-examples
+Der {adj}`lachende` Junge begrüßte uns zuerst.
+: The laughing boy greeted us first.
+
+Ein {adj}`lachender` Junge stand schon an der Tür.
+: A laughing boy was already standing at the door.
+
+Ich sehe den {adj}`lachenden` Jungen auf dem Foto.
+: I see the laughing boy in the photo.
+
+Wir brauchen {adj}`aktualisierte` Daten bis morgen früh.
+: We need updated data by tomorrow morning.
+:::
 
 :::{note}
 Your ending choice comes from adjective declension, not from the participle itself. Learn the ending system once, then apply it to both regular adjectives and participial adjectives.
@@ -125,14 +131,19 @@ At B2, participial adjectives are especially useful for concise style. You can o
 
 **Examples:**
 
-- Wir analysieren die gestern {adj}`veröffentlichten` Zahlen sehr genau.  
-  _We are analyzing the figures published yesterday very closely._
-- Die gerade {adj}`verhandelnden` Parteien brauchen noch Zeit.  
-  _The parties currently negotiating still need time._
-- Das bereits {adj}`gelöste` Problem tauchte heute wieder auf.  
-  _The already solved problem came up again today._
-- Sie stellte eine Liste mit den noch {adj}`offenen` Punkten zusammen.  
-  _She compiled a list of the points that are still open._
+:::{div} ol-examples
+Wir analysieren die gestern {adj}`veröffentlichten` Zahlen sehr genau.
+: We are analyzing the figures published yesterday very closely.
+
+Die gerade {adj}`verhandelnden` Parteien brauchen noch Zeit.
+: The parties currently negotiating still need time.
+
+Das bereits {adj}`gelöste` Problem tauchte heute wieder auf.
+: The already solved problem came up again today.
+
+Sie stellte eine Liste mit den noch {adj}`offenen` Punkten zusammen.
+: She compiled a list of the points that are still open.
+:::
 
 :::{tip}
 If a relative clause only adds compact descriptive information, a participial phrase is often the cleaner B2 choice. If the sentence becomes too dense, keep the relative clause for readability.

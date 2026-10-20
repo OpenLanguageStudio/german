@@ -10,16 +10,6 @@ myst:
 ---
 # Doch bei Verneinungsfragen
 
-> Using doch to answer negative questions and statements
-
-:::{seealso}
-
-- [A2 > Grammar > Interrogativartikel: was für ein und welch-](/a2/grammar/pronouns/interrogativartikel-was-fuer-welche.md)
-- [A2 > Concepts > Indirekte Fragen](/a2/concepts/indirect-questions.md)
-- [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
-
-:::
-
 German has a special response word that English does not have: **doch**. It answers a negative question or a negative statement with the positive opposite. Learning it early heads off a lot of daily misunderstandings.
 
 :::{important}
@@ -47,18 +37,25 @@ In many situations, German uses three short answer words:
 
 ### Example Set: Three-way System
 
-- Kommst du morgen? - {adv}`Ja`, ich komme morgen.  
-  _Are you coming tomorrow? - Yes, I am coming tomorrow._
-- Kommst du morgen? - {adv}`Nein`, ich komme morgen nicht.  
-  _Are you coming tomorrow? - No, I am not coming tomorrow._
-- Kommst du morgen nicht? - {adv}`Doch`, ich komme morgen.  
-  _Aren't you coming tomorrow? - Yes, I am coming tomorrow._
-- Hast du keinen Hunger? - {adv}`Doch`, ich habe Hunger.  
-  _Aren't you hungry? - Yes, I am hungry._
-- Ist das nicht dein Fahrrad? - {adv}`Doch`, das ist mein Fahrrad.  
-  _Isn't that your bike? - Yes, it is my bike._
-- Habt ihr heute keinen Unterricht? - {adv}`Doch`, wir haben heute Unterricht.  
-  _Don't you have class today? - Yes, we do have class today._
+:::{div} ol-examples
+Kommst du morgen? - {adv}`Ja`, ich komme morgen.
+: Are you coming tomorrow? - Yes, I am coming tomorrow.
+
+Kommst du morgen? - {adv}`Nein`, ich komme morgen nicht.
+: Are you coming tomorrow? - No, I am not coming tomorrow.
+
+Kommst du morgen nicht? - {adv}`Doch`, ich komme morgen.
+: Aren't you coming tomorrow? - Yes, I am coming tomorrow.
+
+Hast du keinen Hunger? - {adv}`Doch`, ich habe Hunger.
+: Aren't you hungry? - Yes, I am hungry.
+
+Ist das nicht dein Fahrrad? - {adv}`Doch`, das ist mein Fahrrad.
+: Isn't that your bike? - Yes, it is my bike.
+
+Habt ihr heute keinen Unterricht? - {adv}`Doch`, wir haben heute Unterricht.
+: Don't you have class today? - Yes, we do have class today.
+:::
 
 :::{tip}
 
@@ -85,18 +82,25 @@ Common negative markers in these questions or statements:
 
 ### Example Set: Negative Markers
 
-- Hast du heute {adv}`nicht` Zeit? - {adv}`Doch`, ich habe heute Zeit.  
-  _Don't you have time today? - Yes, I do have time today._
-- Hast du {adv}`kein` Geld dabei? - {adv}`Doch`, ich habe Geld dabei.  
-  _Don't you have any money with you? - Yes, I do have money with me._
-- Gehst du {adv}`nie` schwimmen? - {adv}`Doch`, ich gehe im Sommer oft schwimmen.  
-  _Do you never go swimming? - Yes, I do, often in summer._
-- Kennt dich {adv}`niemand` hier? - {adv}`Doch`, meine Nachbarin kennt mich.  
-  _Does nobody know you here? - Yes, my neighbor knows me._
-- Du hast {adv}`keine` Geschwister, oder? - {adv}`Doch`, ich habe einen Bruder.  
-  _You don't have siblings, right? - Actually, I do, I have a brother._
-- Ihr seid heute {adv}`nicht` im Büro? - {adv}`Doch`, wir sind heute im Büro.  
-  _You're not in the office today? - Yes, we are in the office today._
+:::{div} ol-examples
+Hast du heute {adv}`nicht` Zeit? - {adv}`Doch`, ich habe heute Zeit.
+: Don't you have time today? - Yes, I do have time today.
+
+Hast du {adv}`kein` Geld dabei? - {adv}`Doch`, ich habe Geld dabei.
+: Don't you have any money with you? - Yes, I do have money with me.
+
+Gehst du {adv}`nie` schwimmen? - {adv}`Doch`, ich gehe im Sommer oft schwimmen.
+: Do you never go swimming? - Yes, I do, often in summer.
+
+Kennt dich {adv}`niemand` hier? - {adv}`Doch`, meine Nachbarin kennt mich.
+: Does nobody know you here? - Yes, my neighbor knows me.
+
+Du hast {adv}`keine` Geschwister, oder? - {adv}`Doch`, ich habe einen Bruder.
+: You don't have siblings, right? - Actually, I do, I have a brother.
+
+Ihr seid heute {adv}`nicht` im Büro? - {adv}`Doch`, wir sind heute im Büro.
+: You're not in the office today? - Yes, we are in the office today.
+:::
 
 :::{note}
 
@@ -118,18 +122,25 @@ A short **Doch!** can already be enough. But in real conversation, it is often c
 
 ### Example Set: Pattern in Use
 
-- Du kommst nicht mit. - {adv}`Doch`, ich komme mit.  
-  _You're not coming along. - Yes, I am coming along._
-- Du trinkst keinen Kaffee. - {adv}`Doch`, ich trinke Kaffee.  
-  _You don't drink coffee. - Actually, I do drink coffee._
-- Ihr habt nie Zeit. - {adv}`Doch`, wir haben heute Abend Zeit.  
-  _You never have time. - Actually, we do have time this evening._
-- Das funktioniert nicht. - {adv}`Doch`, das funktioniert.  
-  _That doesn't work. - Yes, it does work._
-- Du verstehst mich nicht. - {adv}`Doch`, ich verstehe dich.  
-  _You don't understand me. - Yes, I do understand you._
-- Sie kennt niemanden hier. - {adv}`Doch`, sie kennt ihre Kollegin hier.  
-  _She doesn't know anyone here. - Actually, she knows her colleague here._
+:::{div} ol-examples
+Du kommst nicht mit. - {adv}`Doch`, ich komme mit.
+: You're not coming along. - Yes, I am coming along.
+
+Du trinkst keinen Kaffee. - {adv}`Doch`, ich trinke Kaffee.
+: You don't drink coffee. - Actually, I do drink coffee.
+
+Ihr habt nie Zeit. - {adv}`Doch`, wir haben heute Abend Zeit.
+: You never have time. - Actually, we do have time this evening.
+
+Das funktioniert nicht. - {adv}`Doch`, das funktioniert.
+: That doesn't work. - Yes, it does work.
+
+Du verstehst mich nicht. - {adv}`Doch`, ich verstehe dich.
+: You don't understand me. - Yes, I do understand you.
+
+Sie kennt niemanden hier. - {adv}`Doch`, sie kennt ihre Kollegin hier.
+: She doesn't know anyone here. - Actually, she knows her colleague here.
+:::
 
 :::{warning}
 
@@ -152,18 +163,25 @@ You use **doch** not only for questions, but also to disagree with a negative st
 
 ### Example Set: Correcting Assumptions
 
-- Das stimmt nicht. - {adv}`Doch`, das stimmt.  
-  _That's not true. - Yes, it is true._
-- Du bist nie pünktlich. - {adv}`Doch`, heute bin ich pünktlich.  
-  _You're never on time. - Actually, I am on time today._
-- Ihr habt keine Reservierung. - {adv}`Doch`, wir haben eine Reservierung auf Müller.  
-  _You don't have a reservation. - Actually, we do have a reservation under Müller._
-- Niemand hilft dir. - {adv}`Doch`, meine Schwester hilft mir.  
-  _Nobody helps you. - Actually, my sister helps me._
-- Du hast das nicht erklärt. - {adv}`Doch`, ich habe es erklärt.  
-  _You didn't explain that. - Yes, I did explain it._
-- Er war nie in Berlin. - {adv}`Doch`, er war letztes Jahr in Berlin.  
-  _He has never been to Berlin. - Actually, he was in Berlin last year._
+:::{div} ol-examples
+Das stimmt nicht. - {adv}`Doch`, das stimmt.
+: That's not true. - Yes, it is true.
+
+Du bist nie pünktlich. - {adv}`Doch`, heute bin ich pünktlich.
+: You're never on time. - Actually, I am on time today.
+
+Ihr habt keine Reservierung. - {adv}`Doch`, wir haben eine Reservierung auf Müller.
+: You don't have a reservation. - Actually, we do have a reservation under Müller.
+
+Niemand hilft dir. - {adv}`Doch`, meine Schwester hilft mir.
+: Nobody helps you. - Actually, my sister helps me.
+
+Du hast das nicht erklärt. - {adv}`Doch`, ich habe es erklärt.
+: You didn't explain that. - Yes, I did explain it.
+
+Er war nie in Berlin. - {adv}`Doch`, er war letztes Jahr in Berlin.
+: He has never been to Berlin. - Actually, he was in Berlin last year.
+:::
 
 :::{tip}
 
@@ -189,30 +207,7 @@ Use the following link to practice this section.
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- German often uses three response words in this area: **ja**, **nein**, **doch**.
-- Use **doch** when you answer a negative question or correct a negative statement with a positive meaning.
-- Typical negative triggers are **nicht**, **kein**, **nie**, and **niemand**.
-- A clear pattern is: **Doch, + positive sentence**.
-- **Doch** helps you disagree and correct misunderstandings in everyday conversations.
-
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- Using **ja** to contradict a negative question: _Kommst du nicht? - Ja._ -> safer: **Doch, ich komme.**
-- Keeping negation after **doch** by accident: _Doch, ich habe kein Geld._ -> **Doch, ich habe Geld.**
-- Using **doch** when you actually agree with the negative: _Du kommst nicht? - Doch._ (wrong meaning) -> use **Nein**, wenn du wirklich nicht kommst.
-- Answering only with one word in unclear contexts. Better: add a short full sentence after **doch**.
-
-:::
-
----
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/doch-nach-ja-nein-fragen
@@ -281,6 +276,31 @@ War das nicht deine Idee? - Doch, das war meine Idee.
 
 Hast du kein Auto? - Doch, es steht draußen.
 : Don't you have a car? - Yes, it's outside.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- German often uses three response words in this area: **ja**, **nein**, **doch**.
+- Use **doch** when you answer a negative question or correct a negative statement with a positive meaning.
+- Typical negative triggers are **nicht**, **kein**, **nie**, and **niemand**.
+- A clear pattern is: **Doch, + positive sentence**.
+- **Doch** helps you disagree and correct misunderstandings in everyday conversations.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- Using **ja** to contradict a negative question: _Kommst du nicht? - Ja._ -> safer: **Doch, ich komme.**
+- Keeping negation after **doch** by accident: _Doch, ich habe kein Geld._ -> **Doch, ich habe Geld.**
+- Using **doch** when you actually agree with the negative: _Du kommst nicht? - Doch._ (wrong meaning) -> use **Nein**, wenn du wirklich nicht kommst.
+- Answering only with one word in unclear contexts. Better: add a short full sentence after **doch**.
+
 :::
 
 ---

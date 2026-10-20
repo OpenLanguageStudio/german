@@ -10,14 +10,6 @@ myst:
 ---
 # Nebensatz mit dass
 
-> Subordinate clauses with *dass* to report thoughts, opinions, and facts
-
-:::{seealso}
-
-- [A2 > Concepts > Indirekte Fragen](/a2/concepts/indirect-questions.md)
-
-:::
-
 A *dass* clause reports what someone says, thinks, knows, or feels, and folds two ideas into a single sentence. At A2 it is one of the most useful patterns for everyday conversation and short texts.
 
 *Examples:*
@@ -47,18 +39,25 @@ You often use it after these common verbs:
 
 **Examples:**
 
-- Ich denke, {conj}`dass` der Bus heute pünktlich ist.  
-  *I think that the bus is on time today.*
-- Sie sagt, {conj}`dass` ihr Bruder in Berlin arbeitet.  
-  *She says that her brother works in Berlin.*
-- Wir glauben, {conj}`dass` das Café noch offen ist.  
-  *We believe that the cafe is still open.*
-- Er hofft, {conj}`dass` seine Freundin später kommt.  
-  *He hopes that his girlfriend will come later.*
-- Ich weiß, {conj}`dass` du heute viel zu tun hast.  
-  *I know that you have a lot to do today.*
-- Ich sehe, {conj}`dass` du müde bist.  
-  *I can see that you are tired.*
+:::{div} ol-examples
+Ich denke, {conj}`dass` der Bus heute pünktlich ist.
+: I think that the bus is on time today.
+
+Sie sagt, {conj}`dass` ihr Bruder in Berlin arbeitet.
+: She says that her brother works in Berlin.
+
+Wir glauben, {conj}`dass` das Café noch offen ist.
+: We believe that the cafe is still open.
+
+Er hofft, {conj}`dass` seine Freundin später kommt.
+: He hopes that his girlfriend will come later.
+
+Ich weiß, {conj}`dass` du heute viel zu tun hast.
+: I know that you have a lot to do today.
+
+Ich sehe, {conj}`dass` du müde bist.
+: I can see that you are tired.
+:::
 
 :::{note}
 In English, {conj}`dass` is often translated as "that".
@@ -78,18 +77,25 @@ In a *dass* clause, the conjugated verb goes to the end of the subordinate claus
 
 **Examples:**
 
-- Ich finde, {conj}`dass` der Film sehr spannend {verb}`ist`.  
-  *I think that the movie is very exciting.*
-- Wir meinen, {conj}`dass` die Aufgabe nicht schwer {verb}`ist`.  
-  *We think that the task is not difficult.*
-- Er sagt, {conj}`dass` er morgen früh {verb}`aufsteht`.  
-  *He says that he is getting up early tomorrow.*
-- Sie weiß, {conj}`dass` wir heute nicht kommen {verb}`können`.  
-  *She knows that we cannot come today.*
-- Ich glaube, {conj}`dass` dein Handy im Auto {verb}`liegt`.  
-  *I believe that your phone is in the car.*
-- Wir sehen, {conj}`dass` die Kinder schon im Garten {verb}`spielen`.  
-  *We can see that the children are already playing in the garden.*
+:::{div} ol-examples
+Ich finde, {conj}`dass` der Film sehr spannend {verb}`ist`.
+: I think that the movie is very exciting.
+
+Wir meinen, {conj}`dass` die Aufgabe nicht schwer {verb}`ist`.
+: We think that the task is not difficult.
+
+Er sagt, {conj}`dass` er morgen früh {verb}`aufsteht`.
+: He says that he is getting up early tomorrow.
+
+Sie weiß, {conj}`dass` wir heute nicht kommen {verb}`können`.
+: She knows that we cannot come today.
+
+Ich glaube, {conj}`dass` dein Handy im Auto {verb}`liegt`.
+: I believe that your phone is in the car.
+
+Wir sehen, {conj}`dass` die Kinder schon im Garten {verb}`spielen`.
+: We can see that the children are already playing in the garden.
+:::
 
 :::{tip}
 When you write the sentence, check the last word in the *dass* clause. It should be the conjugated verb.
@@ -112,14 +118,19 @@ A comma always separates the main clause and the *dass* clause. In A2 writing, k
 
 **Examples:**
 
-- Ich denke, {conj}`dass` wir heute zu Hause bleiben.  
-  *I think that we are staying at home today.*
-- Sie sagt, {conj}`dass` der Kurs um neun beginnt.  
-  *She says that the course starts at nine.*
-- Wir wissen, {conj}`dass` der Supermarkt sonntags zu ist.  
-  *We know that the supermarket is closed on Sundays.*
-- Er meint, {conj}`dass` das Essen zu salzig ist.  
-  *He thinks that the food is too salty.*
+:::{div} ol-examples
+Ich denke, {conj}`dass` wir heute zu Hause bleiben.
+: I think that we are staying at home today.
+
+Sie sagt, {conj}`dass` der Kurs um neun beginnt.
+: She says that the course starts at nine.
+
+Wir wissen, {conj}`dass` der Supermarkt sonntags zu ist.
+: We know that the supermarket is closed on Sundays.
+
+Er meint, {conj}`dass` das Essen zu salzig ist.
+: He thinks that the food is too salty.
+:::
 
 :::{warning}
 Do not remove the comma before {conj}`dass`. For this A2 pattern, also keep {conj}`dass` in the sentence.
@@ -145,18 +156,25 @@ You can also use *dass* after adjectives and expressions, not only after verbs.
 
 **Examples:**
 
-- Es ist wichtig, {conj}`dass` du genug Wasser trinkst.  
-  *It is important that you drink enough water.*
-- Es ist gut, {conj}`dass` wir heute früher fertig sind.  
-  *It is good that we are finished earlier today.*
-- Es ist schade, {conj}`dass` der Park jetzt geschlossen ist.  
-  *It is a pity that the park is closed now.*
-- Ich bin froh, {conj}`dass` du heute Zeit hast.  
-  *I am glad that you have time today.*
-- Ich bin sicher, {conj}`dass` der Termin passt.  
-  *I am sure that the appointment works.*
-- Wir sind froh, {conj}`dass` unsere Lehrerin wieder da ist.  
-  *We are glad that our teacher is back.*
+:::{div} ol-examples
+Es ist wichtig, {conj}`dass` du genug Wasser trinkst.
+: It is important that you drink enough water.
+
+Es ist gut, {conj}`dass` wir heute früher fertig sind.
+: It is good that we are finished earlier today.
+
+Es ist schade, {conj}`dass` der Park jetzt geschlossen ist.
+: It is a pity that the park is closed now.
+
+Ich bin froh, {conj}`dass` du heute Zeit hast.
+: I am glad that you have time today.
+
+Ich bin sicher, {conj}`dass` der Termin passt.
+: I am sure that the appointment works.
+
+Wir sind froh, {conj}`dass` unsere Lehrerin wieder da ist.
+: We are glad that our teacher is back.
+:::
 
 ### Practice: adjectives and expressions
 
@@ -172,16 +190,22 @@ A *dass* clause can come first for emphasis. Then the main clause starts with th
 
 **Examples:**
 
-- {conj}`Dass` du heute da bist, {verb}`freut` mich sehr.  
-  *That you are here today makes me very happy.*
-- {conj}`Dass` der Zug so spät ist, {verb}`ärgert` uns.  
-  *That the train is so late annoys us.*
-- {conj}`Dass` sie so gut Deutsch spricht, {verb}`finde` ich toll.  
-  *I think it's great that she speaks German so well.*
-- {conj}`Dass` wir morgen frei haben, {verb}`weiß` mein Bruder schon.  
-  *My brother already knows that we are free tomorrow.*
-- {conj}`Dass` das Restaurant heute zu ist, {verb}`hat` niemand gewusst.  
-  *Nobody knew that the restaurant is closed today.*
+:::{div} ol-examples
+{conj}`Dass` du heute da bist, {verb}`freut` mich sehr.
+: That you are here today makes me very happy.
+
+{conj}`Dass` der Zug so spät ist, {verb}`ärgert` uns.
+: That the train is so late annoys us.
+
+{conj}`Dass` sie so gut Deutsch spricht, {verb}`finde` ich toll.
+: I think it's great that she speaks German so well.
+
+{conj}`Dass` wir morgen frei haben, {verb}`weiß` mein Bruder schon.
+: My brother already knows that we are free tomorrow.
+
+{conj}`Dass` das Restaurant heute zu ist, {verb}`hat` niemand gewusst.
+: Nobody knew that the restaurant is closed today.
+:::
 
 :::{tip}
 After the first clause, German main-clause order still follows the verb-second rule. Because the first clause takes position one, the verb comes immediately after the comma.
@@ -204,14 +228,19 @@ These two words sound the same, so learners often mix them up.
 
 **Examples:**
 
-- Ich weiß, **dass** du **das** Buch heute brauchst.  
-  *I know that you need the book today.*
-- **Das** ist der Kaffee, den ich immer trinke.  
-  *That is the coffee I always drink.*
-- Wir glauben, **dass** **das** Wetter morgen besser ist.  
-  *We believe that the weather is better tomorrow.*
-- **Das** Handy ist neu, aber ich finde, **dass** es zu teuer ist.  
-  *The phone is new, but I think that it is too expensive.*
+:::{div} ol-examples
+Ich weiß, **dass** du **das** Buch heute brauchst.
+: I know that you need the book today.
+
+**Das** ist der Kaffee, den ich immer trinke.
+: That is the coffee I always drink.
+
+Wir glauben, **dass** **das** Wetter morgen besser ist.
+: We believe that the weather is better tomorrow.
+
+**Das** Handy ist neu, aber ich finde, **dass** es zu teuer ist.
+: The phone is new, but I think that it is too expensive.
+:::
 
 :::{warning}
 If the word introduces a new clause, use **dass**. If it points to a thing or is an article before a noun, use **das**.
@@ -223,32 +252,7 @@ Use the following link to practice this section.
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- Use **dass** to report what someone says, thinks, knows, hopes, or believes.
-- In a **dass** clause, the conjugated verb goes to the **end**.
-- Put a **comma** before a *dass* clause.
-- After expressions like **Es ist wichtig** or **Ich bin froh**, you can also use a *dass* clause.
-- If the *dass* clause comes first, the main clause begins with the conjugated verb.
-- **dass** introduces a clause; **das** is an article or pronoun.
-
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Ich denke dass er müde ist.* → Ich denke**,** dass er müde ist. (Comma is required.)
-- *Ich glaube, dass er heute kommt nicht.* → Ich glaube, dass er heute nicht **kommt**. (Verb goes to the end.)
-- *Es ist wichtig, das du pünktlich bist.* → Es ist wichtig, **dass** du pünktlich bist. (*dass* introduces the clause.)
-- *Dass er heute kommt, ich freue mich.* → Dass er heute kommt, **freue** ich mich. (Verb comes first in the main clause after initial clause.)
-- *Ich weiß, das Buch gut ist.* → Ich weiß, **dass** das Buch gut ist. (Clause introducer is *dass*.)
-
-:::
-
----
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/nebensatz-mit-dass
@@ -344,6 +348,33 @@ Er weiß, dass ich morgen ankomme.
 
 Ich hoffe, dass du gesund bleibst.
 : I hope that you stay healthy.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Use **dass** to report what someone says, thinks, knows, hopes, or believes.
+- In a **dass** clause, the conjugated verb goes to the **end**.
+- Put a **comma** before a *dass* clause.
+- After expressions like **Es ist wichtig** or **Ich bin froh**, you can also use a *dass* clause.
+- If the *dass* clause comes first, the main clause begins with the conjugated verb.
+- **dass** introduces a clause; **das** is an article or pronoun.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich denke dass er müde ist.* → Ich denke**,** dass er müde ist. (Comma is required.)
+- *Ich glaube, dass er heute kommt nicht.* → Ich glaube, dass er heute nicht **kommt**. (Verb goes to the end.)
+- *Es ist wichtig, das du pünktlich bist.* → Es ist wichtig, **dass** du pünktlich bist. (*dass* introduces the clause.)
+- *Dass er heute kommt, ich freue mich.* → Dass er heute kommt, **freue** ich mich. (Verb comes first in the main clause after initial clause.)
+- *Ich weiß, das Buch gut ist.* → Ich weiß, **dass** das Buch gut ist. (Clause introducer is *dass*.)
+
 :::
 
 ## Practice: full review

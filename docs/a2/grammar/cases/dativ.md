@@ -10,17 +10,6 @@ myst:
 ---
 # Dativ
 
-> Dative case foundations: indirect objects, articles, prepositions, and verbs
-
-:::{seealso}
-
-- [A2 > Grammar > Adjektivdeklination](/a2/grammar/adjectives/adjektivendungen.md)
-- [A2 > Grammar > Temporale Präpositionen](/a2/grammar/prepositions/temporale-praepositionen.md)
-- [A2 > Grammar > Verben mit Dativ und Akkusativ](/a2/grammar/cases/verben-mit-dativ-akkusativ.md)
-- [A2 > Grammar > Positionsverben](/a2/grammar/prepositions/positionsverben.md)
-
-:::
-
 The dative case marks *to whom* or *for whom* something happens. It turns up in every sentence about giving, showing, or doing something for someone, and after a set of prepositions and verbs that always demand it.
 
 *Examples:*
@@ -47,14 +36,19 @@ So the full sentence is: *Ich gebe **meiner Schwester** ein Buch.* (I give my si
 
 **Examples:**
 
-- Ich schicke {dativ}`meinem` Vater eine Nachricht.  
-  *I'm sending my father a message.*
-- Die Lehrerin erklärt {dativ}`den` Schülern die Aufgabe.  
-  *The teacher explains the task to the students.*
-- Er bringt {dativ}`seiner` Freundin Blumen.  
-  *He brings his girlfriend flowers.*
-- Kannst du {dativ}`mir` bitte helfen?  
-  *Can you please help me?*
+:::{div} ol-examples
+Ich schicke {dativ}`meinem` Vater eine Nachricht.
+: I'm sending my father a message.
+
+Die Lehrerin erklärt {dativ}`den` Schülern die Aufgabe.
+: The teacher explains the task to the students.
+
+Er bringt {dativ}`seiner` Freundin Blumen.
+: He brings his girlfriend flowers.
+
+Kannst du {dativ}`mir` bitte helfen?
+: Can you please help me?
+:::
 
 :::{note}
 The indirect object answers *Wem?* and is in the dative case. The direct object answers *Wen?* or *Was?* and stays in the accusative. Both can appear in the same sentence.
@@ -78,18 +72,25 @@ In the dative case, **all four article types change their endings**. This is dif
 
 **Examples:**
 
-- Ich gebe {dativ}`dem` Kind einen Apfel.  
-  *I give the child an apple.* (neuter → dem)
-- Das Geschenk ist für {dativ}`meiner` Mutter.  
-  *The present is for my mother.* (feminine → meiner)
-- Er hilft {dativ}`einem` alten Mann.  
-  *He helps an old man.* (masculine → einem)
-- Sie antwortet {dativ}`keiner` Fremden.  
-  *She doesn't reply to a stranger.* (feminine → keiner)
-- Das gehört {dativ}`den` Kindern.  
-  *That belongs to the children.* (plural → den + -n on noun)
-- Ich wohne bei {dativ}`meinen` Eltern.  
-  *I live with my parents.* (plural → meinen + -n already on noun)
+:::{div} ol-examples
+Ich gebe {dativ}`dem` Kind einen Apfel.
+: I give the child an apple. (neuter → dem)
+
+Das Geschenk ist von {dativ}`meiner` Mutter.
+: The present is from my mother. (feminine → meiner)
+
+Er hilft {dativ}`einem` alten Mann.
+: He helps an old man. (masculine → einem)
+
+Sie antwortet {dativ}`keiner` Fremden.
+: She doesn't reply to a stranger. (feminine → keiner)
+
+Das gehört {dativ}`den` Kindern.
+: That belongs to the children. (plural → den + -n on noun)
+
+Ich wohne bei {dativ}`meinen` Eltern.
+: I live with my parents. (plural → meinen + -n already on noun)
+:::
 
 :::{tip}
 A quick memory trick: masculine and neuter both end in **-em** (einem/keinem/meinem), while feminine ends in **-er** (einer/keiner/meiner). The plural always ends in **-en** and adds **-n** to the noun.
@@ -114,18 +115,25 @@ Some prepositions **always** require the dative case. You never need to decide, 
 
 **Examples:**
 
-- Ich komme {prep}`aus` {dativ}`der` Türkei.  
-  *I come from Turkey.*
-- Wir fahren {prep}`mit` {dativ}`dem` Zug nach Hamburg.  
-  *We're travelling to Hamburg by train.*
-- Sie wohnt {prep}`bei` {dativ}`ihrer` Schwester.  
-  *She lives with her sister.*
-- Er schläft immer {prep}`nach` {dativ}`dem` Mittagessen.  
-  *He always sleeps after lunch.*
-- Ich kenne ihn {prep}`seit` {dativ}`einem` Jahr.  
-  *I've known him for a year.*
-- Das Café ist {prep}`gegenüber` {dativ}`dem` Park.  
-  *The café is opposite the park.*
+:::{div} ol-examples
+Ich komme {prep}`aus` {dativ}`der` Türkei.
+: I come from Turkey.
+
+Wir fahren {prep}`mit` {dativ}`dem` Zug nach Hamburg.
+: We're travelling to Hamburg by train.
+
+Sie wohnt {prep}`bei` {dativ}`ihrer` Schwester.
+: She lives with her sister.
+
+Er schläft immer {prep}`nach` {dativ}`dem` Mittagessen.
+: He always sleeps after lunch.
+
+Ich kenne ihn {prep}`seit` {dativ}`einem` Jahr.
+: I've known him for a year.
+
+Das Café ist {prep}`gegenüber` {dativ}`dem` Park.
+: The café is opposite the park.
+:::
 
 :::{note}
 *Nach* has two uses: **after** (a time or event) and **to** (with cities and countries that have no article – *nach Berlin*, *nach Spanien*). With places that do have an article like *die Schweiz*, use *in die Schweiz* instead.
@@ -152,43 +160,29 @@ Certain German verbs take a **dative object** instead of an accusative one. In E
 
 **Examples:**
 
-- Ich helfe {dativ}`meinem` Bruder mit den Hausaufgaben.  
-  *I help my brother with the homework.*
-- Sie hat {dativ}`dem` Lehrer nicht geantwortet.  
-  *She didn't answer the teacher.*
-- Das neue Restaurant gefällt {dativ}`uns` sehr gut.  
-  *We really like the new restaurant.*
-- Diese Jacke gehört {dativ}`meiner` Kollegin.  
-  *This jacket belongs to my colleague.*
-- Wir gratulieren {dativ}`dir` zum Geburtstag!  
-  *We congratulate you on your birthday!*
-- Er hat {dativ}`mir` für das Geschenk gedankt.  
-  *He thanked me for the present.*
+:::{div} ol-examples
+Ich helfe {dativ}`meinem` Bruder mit den Hausaufgaben.
+: I help my brother with the homework.
 
----
+Sie hat {dativ}`dem` Lehrer nicht geantwortet.
+: She didn't answer the teacher.
 
-## Summary
+Das neue Restaurant gefällt {dativ}`uns` sehr gut.
+: We really like the new restaurant.
 
-:::{admonition} Key points
-:class: note
+Diese Jacke gehört {dativ}`meiner` Kollegin.
+: This jacket belongs to my colleague.
 
-- The dative case marks the **indirect object**, the person receiving or benefiting. Ask *Wem?*
-- **All article types** change in the dative: masculine/neuter → **-em**, feminine → **-er**, plural → **-en** (noun also adds **-n**).
-- Eight prepositions **always** take the dative: *aus, bei, mit, nach, seit, von, zu, gegenüber*.
-- Some verbs **always** take a dative object: *helfen, danken, gefallen, gehören, antworten, gratulieren*.
-:::
+Wir gratulieren {dativ}`dir` zum Geburtstag!
+: We congratulate you on your birthday!
 
-:::{admonition} Common mistakes
-:class: caution
-
-- *Ich helfe \*meinen Freund.* → Ich helfe **meinem** Freund. (*helfen* always takes dative, masculine → meinem, not meinen)
-- *Ich fahre mit \*den Bus.* → Ich fahre mit **dem** Bus. (*mit* takes dative, masculine singular → dem, not den)
-- *Das gefällt \*mich.* → Das gefällt **mir**. (*gefallen* takes dative, use dative pronoun *mir*, not accusative *mich*)
-- *Die Kinder spielen mit \*den Ball.* → mit **dem** Ball. (Ball is masculine singular, dative needs **dem**, not *den*)
-- *Das Buch gehört den Kinder.* → den Kinder**n**. (Plural dative nouns add -n unless already ending in -n or -s)
+Er hat {dativ}`mir` für das Geschenk gedankt.
+: He thanked me for the present.
 :::
 
 ---
+
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/dativ-grundlagen
@@ -281,8 +275,35 @@ Er zeigt den Kindern den Weg.
 
 ---
 
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- The dative case marks the **indirect object**, the person receiving or benefiting. Ask *Wem?*
+- **All article types** change in the dative: masculine/neuter → **-em**, feminine → **-er**, plural → **-en** (noun also adds **-n**).
+- Eight prepositions **always** take the dative: *aus, bei, mit, nach, seit, von, zu, gegenüber*.
+- Some verbs **always** take a dative object: *helfen, danken, gefallen, gehören, antworten, gratulieren*.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich helfe \*meinen Freund.* → Ich helfe **meinem** Freund. (*helfen* always takes dative, masculine → meinem, not meinen)
+- *Ich fahre mit \*den Bus.* → Ich fahre mit **dem** Bus. (*mit* takes dative, masculine singular → dem, not den)
+- *Das gefällt \*mich.* → Das gefällt **mir**. (*gefallen* takes dative, use dative pronoun *mir*, not accusative *mich*)
+- *Die Kinder spielen mit \*den Ball.* → mit **dem** Ball. (Ball is masculine singular, dative needs **dem**, not *den*)
+- *Das Buch gehört den Kinder.* → den Kinder**n**. (Plural dative nouns add -n unless already ending in -n or -s)
+:::
+
+---
+
 ## Related articles
 
 - [A2 > Grammar > Possessivartikel im Dativ](/a2/grammar/cases/possessivartikel-dativ.md)
 - [A2 > Grammar > Verben mit festen Präpositionen](/a2/grammar/prepositions/verben-mit-praeposition.md)
 - [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
+- [A2 > Grammar > Adjektivdeklination](/a2/grammar/adjectives/adjektivendungen.md)
+- [A2 > Grammar > Temporale Präpositionen](/a2/grammar/prepositions/temporale-praepositionen.md)
+- [A2 > Grammar > Verben mit Dativ und Akkusativ](/a2/grammar/cases/verben-mit-dativ-akkusativ.md)
+- [A2 > Grammar > Positionsverben](/a2/grammar/prepositions/positionsverben.md)

@@ -10,8 +10,6 @@ myst:
 ---
 # Zweiteilige Konnektoren
 
-> Paired conjunctions: connecting ideas in two parts
-
 *Zweiteilige Konnektoren* always come in pairs, you use both parts together to link two ideas, phrases, or complete sentences. They let you express addition, alternatives, negation, contrast, and different perspectives in a single, well-structured sentence. Mastering them will make your spoken and written German sound much more natural and sophisticated.
 
 ## Quick reference
@@ -52,23 +50,25 @@ Both pairs keep normal verb position (verb in second position). When they connec
 
 ### Examples
 
-- Sie spricht **sowohl** Deutsch **als auch** Englisch.  
-  _She speaks both German and English._
+:::{div} ol-examples
+Sie spricht **sowohl** Deutsch **als auch** Englisch.
+: She speaks both German and English.
 
-- Das Konzert war **sowohl** laut **als auch** mitreißend.  
-  _The concert was both loud and exciting._
+Das Konzert war **sowohl** laut **als auch** mitreißend.
+: The concert was both loud and exciting.
 
-- Wir besuchen **sowohl** die Altstadt **als auch** das Museum.  
-  _We're visiting both the old town and the museum._
+Wir besuchen **sowohl** die Altstadt **als auch** das Museum.
+: We're visiting both the old town and the museum.
 
-- Er ist **nicht nur** freundlich, **sondern auch** sehr kompetent.  
-  _He is not only friendly but also very competent._
+Er ist **nicht nur** freundlich, **sondern auch** sehr kompetent.
+: He is not only friendly but also very competent.
 
-- Das Buch ist **nicht nur** spannend, **sondern auch** sehr lehrreich.  
-  _The book is not only exciting but also very educational._
+Das Buch ist **nicht nur** spannend, **sondern auch** sehr lehrreich.
+: The book is not only exciting but also very educational.
 
-- **Nicht nur** die Eltern, **sondern auch** die Kinder haben mitgeholfen.  
-  _Not only the parents but also the children helped out._
+**Nicht nur** die Eltern, **sondern auch** die Kinder haben mitgeholfen.
+: Not only the parents but also the children helped out.
+:::
 
 :::{warning}
 *nicht nur* always pairs with **sondern auch**, never with *aber auch*. Writing *nicht nur* ... *aber auch* is a very common error.
@@ -95,20 +95,22 @@ Both versions are correct. The clause after **oder** always follows normal word 
 
 ### Examples
 
-- **Entweder** bestellst du Pizza, **oder** wir kochen selbst.  
-  _Either you order pizza, or we cook ourselves._
+:::{div} ol-examples
+**Entweder** bestellst du Pizza, **oder** wir kochen selbst.
+: Either you order pizza, or we cook ourselves.
 
-- Du kannst **entweder** mit dem Bus **oder** mit dem Fahrrad fahren.  
-  _You can travel either by bus or by bike._
+Du kannst **entweder** mit dem Bus **oder** mit dem Fahrrad fahren.
+: You can travel either by bus or by bike.
 
-- **Entweder** trinke ich noch einen Kaffee, **oder** ich gehe nach Hause.  
-  _Either I'll have one more coffee, or I'll go home._
+**Entweder** trinke ich noch einen Kaffee, **oder** ich gehe nach Hause.
+: Either I'll have one more coffee, or I'll go home.
 
-- Das Paket kommt **entweder** heute **oder** morgen an.  
-  _The parcel will arrive either today or tomorrow._
+Das Paket kommt **entweder** heute **oder** morgen an.
+: The parcel will arrive either today or tomorrow.
 
-- **Entweder** hast du den Schlüssel, **oder** ich muss den Vermieter anrufen.  
-  _Either you have the key, or I'll have to call the landlord._
+**Entweder** hast du den Schlüssel, **oder** ich muss den Vermieter anrufen.
+: Either you have the key, or I'll have to call the landlord.
+:::
 
 ---
 
@@ -128,23 +130,25 @@ Use **weder...noch** to say that **neither** of two things is true or possible. 
 
 ### Examples
 
-- Er ist **weder** müde **noch** krank.  
-  _He is neither tired nor ill._
+:::{div} ol-examples
+Er ist **weder** müde **noch** krank.
+: He is neither tired nor ill.
 
-- Ich habe **weder** Zeit **noch** Lust, das zu machen.  
-  _I have neither the time nor the inclination to do that._
+Ich habe **weder** Zeit **noch** Lust, das zu machen.
+: I have neither the time nor the inclination to do that.
 
-- Sie kann **weder** gut singen **noch** tanzen.  
-  _She can neither sing nor dance well._
+Sie kann **weder** gut singen **noch** tanzen.
+: She can neither sing nor dance well.
 
-- Das Restaurant war **weder** günstig **noch** besonders lecker.  
-  _The restaurant was neither cheap nor particularly tasty._
+Das Restaurant war **weder** günstig **noch** besonders lecker.
+: The restaurant was neither cheap nor particularly tasty.
 
-- **Weder** Anna **noch** Markus hat angerufen.  
-  _Neither Anna nor Markus called._
+**Weder** Anna **noch** Markus hat angerufen.
+: Neither Anna nor Markus called.
 
-- **Weder** hat er geschrieben, **noch** hat er angerufen.  
-  _He neither wrote nor called._
+**Weder** hat er geschrieben, **noch** hat er angerufen.
+: He neither wrote nor called.
+:::
 
 :::{tip}
 When *weder* starts a full clause (as in the last example), the verb comes in position 2, this is emphatic but perfectly correct. The most common pattern, however, is to embed *weder* within the clause after the subject.
@@ -171,20 +175,22 @@ Use **zwar...aber** when you want to **acknowledge something is true**, then imm
 
 ### Examples
 
-- Das Hotel ist **zwar** teuer, **aber** sehr komfortabel.  
-  _The hotel is admittedly expensive, but very comfortable._
+:::{div} ol-examples
+Das Hotel ist **zwar** teuer, **aber** sehr komfortabel.
+: The hotel is admittedly expensive, but very comfortable.
 
-- Ich habe **zwar** nicht viel Zeit, **aber** ich helfe dir gern.  
-  _I admittedly don't have much time, but I'm happy to help._
+Ich habe **zwar** nicht viel Zeit, **aber** ich helfe dir gern.
+: I admittedly don't have much time, but I'm happy to help.
 
-- **Zwar** regnet es, **aber** wir gehen trotzdem spazieren.  
-  _Admittedly it's raining, but we're going for a walk anyway._
+**Zwar** regnet es, **aber** wir gehen trotzdem spazieren.
+: Admittedly it's raining, but we're going for a walk anyway.
 
-- Er kann **zwar** gut kochen, **aber** er macht selten selbst Essen.  
-  _He admittedly cooks well, but he rarely cooks for himself._
+Er kann **zwar** gut kochen, **aber** er macht selten selbst Essen.
+: He admittedly cooks well, but he rarely cooks for himself.
 
-- Das ist **zwar** eine gute Idee, **aber** wir haben leider kein Budget dafür.  
-  _That is admittedly a good idea, but unfortunately we have no budget for it._
+Das ist **zwar** eine gute Idee, **aber** wir haben leider kein Budget dafür.
+: That is admittedly a good idea, but unfortunately we have no budget for it.
+:::
 
 :::{tip}
 **zwar...aber** is related in meaning to *obwohl* (although), but the structures differ. *Obwohl* introduces a subordinate clause (verb goes to the end); *zwar...aber* keeps verb-second in both clauses. Compare:
@@ -211,20 +217,22 @@ They can also appear after the subject within the clause, but the clause-initial
 
 ### Examples
 
-- **Einerseits** finde ich meinen Job sehr spannend, **andererseits** ist er extrem stressig.  
-  _On the one hand I find my job very interesting, on the other hand it's extremely stressful._
+:::{div} ol-examples
+**Einerseits** finde ich meinen Job sehr spannend, **andererseits** ist er extrem stressig.
+: On the one hand I find my job very interesting, on the other hand it's extremely stressful.
 
-- **Einerseits** möchte ich umziehen, **andererseits** hänge ich sehr an meiner Wohnung.  
-  _On the one hand I want to move, on the other hand I'm very attached to my apartment._
+**Einerseits** möchte ich umziehen, **andererseits** hänge ich sehr an meiner Wohnung.
+: On the one hand I want to move, on the other hand I'm very attached to my apartment.
 
-- **Einerseits** ist das Studium anstrengend, **andererseits** macht es wirklich viel Spaß.  
-  _On the one hand studying is tiring, on the other hand it's a lot of fun._
+**Einerseits** ist das Studium anstrengend, **andererseits** macht es wirklich viel Spaß.
+: On the one hand studying is tiring, on the other hand it's a lot of fun.
 
-- **Einerseits** spart man mit dem Fahrrad Geld, **andererseits** dauert die Fahrt deutlich länger.  
-  _On the one hand you save money cycling, on the other hand the journey takes considerably longer._
+**Einerseits** spart man mit dem Fahrrad Geld, **andererseits** dauert die Fahrt deutlich länger.
+: On the one hand you save money cycling, on the other hand the journey takes considerably longer.
 
-- **Einerseits** wäre ein längerer Urlaub schön, **andererseits** fehlt mir momentan einfach die Zeit.  
-  _On the one hand a longer holiday would be nice, on the other hand I simply don't have the time right now._
+**Einerseits** wäre ein längerer Urlaub schön, **andererseits** fehlt mir momentan einfach die Zeit.
+: On the one hand a longer holiday would be nice, on the other hand I simply don't have the time right now.
+:::
 
 :::{note}
 **einerseits...andererseits** is especially useful in discussions, opinion essays (**Erörterungen**), and job interviews when you need to weigh up two sides of an issue.

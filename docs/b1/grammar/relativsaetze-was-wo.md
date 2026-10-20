@@ -10,8 +10,6 @@ myst:
 ---
 # Relativsätze mit „was" und „wo"
 
-> Relative clauses using "was" and "wo" instead of der/die/das
-
 A relative clause normally links to a noun with **der/die/das**. But German turns to **was** and **wo** in certain situations: when there is no single noun to refer back to, or when the clause attaches to a place. Telling those two apart is a real step toward natural-sounding German.
 
 ---
@@ -30,40 +28,55 @@ Use **was** as the relative pronoun in three situations. In all three cases, the
 
 When the antecedent is an indefinite pronoun such as **alles** (everything), **nichts** (nothing), **etwas** (something), **vieles** (many things), or **einiges** (some things), always use **was**.
 
-- Das ist **alles**, **was** ich dir sagen kann.  
-  _That's everything I can tell you._
-- Sie hat **nichts** gesagt, **was** ich nicht schon wusste.  
-  _She said nothing that I didn't already know._
-- Hast du **etwas**, **was** du mir empfehlen kannst?  
-  _Do you have something you can recommend to me?_
-- Er hat **vieles** erzählt, **was** mich sehr interessiert hat.  
-  _He told me many things that interested me a lot._
-- Ich habe **einiges** gehört, **was** mich nachdenklich gemacht hat.  
-  _I heard some things that made me think._
+:::{div} ol-examples
+Das ist **alles**, **was** ich dir sagen kann.
+: That's everything I can tell you.
+
+Sie hat **nichts** gesagt, **was** ich nicht schon wusste.
+: She said nothing that I didn't already know.
+
+Hast du **etwas**, **was** du mir empfehlen kannst?
+: Do you have something you can recommend to me?
+
+Er hat **vieles** erzählt, **was** mich sehr interessiert hat.
+: He told me many things that interested me a lot.
+
+Ich habe **einiges** gehört, **was** mich nachdenklich gemacht hat.
+: I heard some things that made me think.
+:::
 
 ### After neuter superlatives
 
 When a superlative is used as a noun with the neuter article **das** (e.g., *das Beste*, *das Wichtigste*, *das Schönste*), use **was**, not *das*, to begin the relative clause.
 
-- Das ist das **Schönste**, **was** mir je passiert ist.  
-  _That's the most beautiful thing that has ever happened to me._
-- Das Beste, **was** du tun kannst, ist ehrlich zu sein.  
-  _The best thing you can do is to be honest._
-- Das war das **Wichtigste**, **was** wir in der Stunde gelernt haben.  
-  _That was the most important thing we learned in the lesson._
-- Das ist das **Lustigste**, **was** ich je gehört habe.  
-  _That's the funniest thing I've ever heard._
+:::{div} ol-examples
+Das ist das **Schönste**, **was** mir je passiert ist.
+: That's the most beautiful thing that has ever happened to me.
+
+Das Beste, **was** du tun kannst, ist ehrlich zu sein.
+: The best thing you can do is to be honest.
+
+Das war das **Wichtigste**, **was** wir in der Stunde gelernt haben.
+: That was the most important thing we learned in the lesson.
+
+Das ist das **Lustigste**, **was** ich je gehört habe.
+: That's the funniest thing I've ever heard.
+:::
 
 ### After a whole preceding clause
 
 Sometimes the relative clause does not refer to a single noun but to the entire previous statement. In this case, always use **was**.
 
-- Sie hat die Prüfung bestanden, **was** uns alle sehr gefreut hat.  
-  _She passed the exam, which made all of us very happy._
-- Er ist zum zweiten Mal zu spät gekommen, **was** den Chef geärgert hat.  
-  _He was late for the second time, which annoyed the boss._
-- Das Konzert war ausverkauft, **was** wir nicht erwartet hatten.  
-  _The concert was sold out, which we hadn't expected._
+:::{div} ol-examples
+Sie hat die Prüfung bestanden, **was** uns alle sehr gefreut hat.
+: She passed the exam, which made all of us very happy.
+
+Er ist zum zweiten Mal zu spät gekommen, **was** den Chef geärgert hat.
+: He was late for the second time, which annoyed the boss.
+
+Das Konzert war ausverkauft, **was** wir nicht erwartet hatten.
+: The concert was sold out, which we hadn't expected.
+:::
 
 ### Was with prepositions: wo-compounds
 
@@ -98,25 +111,35 @@ Use **wo** as a relative pronoun when linking a relative clause to a **place**. 
 
 **Examples with places:**
 
-- Das ist die Stadt, **wo** meine Großeltern noch heute wohnen.  
-  _That's the city where my grandparents still live today._
-- Wir haben ein Hostel gesucht, **wo** man auch kochen kann.  
-  _We looked for a hostel where you can also cook._
-- Das ist der Strand, **wo** wir unseren Urlaub verbracht haben.  
-  _That's the beach where we spent our holiday._
-- Das Restaurant, **wo** wir gestern gegessen haben, war wirklich gut.  
-  _The restaurant where we ate yesterday was really good._
-- Ich zeige dir das Viertel, **wo** ich früher gewohnt habe.  
-  _I'll show you the neighbourhood where I used to live._
+:::{div} ol-examples
+Das ist die Stadt, **wo** meine Großeltern noch heute wohnen.
+: That's the city where my grandparents still live today.
+
+Wir haben ein Hostel gesucht, **wo** man auch kochen kann.
+: We looked for a hostel where you can also cook.
+
+Das ist der Strand, **wo** wir unseren Urlaub verbracht haben.
+: That's the beach where we spent our holiday.
+
+Das Restaurant, **wo** wir gestern gegessen haben, war wirklich gut.
+: The restaurant where we ate yesterday was really good.
+
+Ich zeige dir das Viertel, **wo** ich früher gewohnt habe.
+: I'll show you the neighbourhood where I used to live.
+:::
 
 **Examples with time expressions:**
 
-- Das war die Zeit, **wo** ich noch kein Deutsch konnte.  
-  _That was the time when I still couldn't speak German._
-- Es gibt Momente, **wo** man einfach eine Pause braucht.  
-  _There are moments when you just need a break._
-- Erinnerst du dich an den Tag, **wo** alles angefangen hat?  
-  _Do you remember the day when everything began?_
+:::{div} ol-examples
+Das war die Zeit, **wo** ich noch kein Deutsch konnte.
+: That was the time when I still couldn't speak German.
+
+Es gibt Momente, **wo** man einfach eine Pause braucht.
+: There are moments when you just need a break.
+
+Erinnerst du dich an den Tag, **wo** alles angefangen hat?
+: Do you remember the day when everything began?
+:::
 
 :::{tip}
 In formal written German, the preposition + relative pronoun is generally preferred: *in der, in dem, an dem*. Using "wo" is completely correct and sounds natural in spoken language and informal writing, it is also more comfortable to say, since you only need one word.

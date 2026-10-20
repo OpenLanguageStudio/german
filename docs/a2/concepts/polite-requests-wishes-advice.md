@@ -8,18 +8,6 @@ myst:
 
 Politeness in German softens a request rather than lengthening it. The same small set of forms covers asking for something, expressing a wish, and offering gentle advice.
 
-:::{seealso}
-**Grammar**
-
-- [Konjunktiv II](/a2/grammar/verbs/konjunktiv-ii.md)
-- [A2 > Grammar > Finalsätze: damit und um ... zu](/a2/grammar/sub-clauses/finalsaetze.md)
-- [Modalverben im Präteritum](/a2/grammar/verbs/modalverben-praeteritum.md)
-- [A2 > Grammar > Doch bei Verneinungsfragen](/a2/grammar/pronouns/doch-negative-fragen.md)
-
-Topics
-
-:::
-
 ## When to use it
 
 - Asking for help or service politely
@@ -42,14 +30,19 @@ Topics
 
 ## Examples
 
-- **Könnten** Sie mir bitte helfen?  
-	_Could you please help me?_
-- Ich **möchte** einen Kaffee, bitte.  
-	_I’d like a coffee, please._
-- Ich **wünschte**, ich **hätte** mehr Zeit.  
-	_I wish I had more time._
-- Es **wäre** besser, wenn du früher ins Bett gehst.  
-	_It would be better if you went to bed earlier._
+:::{div} ol-examples
+**Könnten** Sie mir bitte helfen?
+: Could you please help me?
+
+Ich **möchte** einen Kaffee, bitte.
+: I’d like a coffee, please.
+
+Ich **wünschte**, ich **hätte** mehr Zeit.
+: I wish I had more time.
+
+Es **wäre** besser, wenn du früher ins Bett gehst.
+: It would be better if you went to bed earlier.
+:::
 
 ## Register and tone
 
@@ -60,3 +53,12 @@ Könnten/Würden are safer for politeness. Use Sie formally; du informally.
 - Rewrite: “Help me” → polite request (Sie-Form).
 - Make a wish about free time using Konjunktiv II of haben.
 - Give advice about drinking water using solltest.
+
+---
+
+## Related articles
+
+- [A2 > Grammar > Konjunktiv II – sollte und könnte](/a2/grammar/verbs/konjunktiv-ii.md)
+- [A2 > Grammar > Finalsätze: damit und um ... zu](/a2/grammar/sub-clauses/finalsaetze.md)
+- [A2 > Grammar > Modalverben im Präteritum](/a2/grammar/verbs/modalverben-praeteritum.md)
+- [A2 > Grammar > Doch bei Verneinungsfragen](/a2/grammar/pronouns/doch-negative-fragen.md)

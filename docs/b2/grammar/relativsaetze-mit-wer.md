@@ -10,18 +10,6 @@ myst:
 ---
 # Relativsätze mit wer
 
-> Use patterns like wer ..., der ... to make general statements about people
-
-:::{seealso}
-
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Indefinitpronomen](/b2/grammar/indefinitpronomen.md)
-- [B1 > Grammar > Relativsätze](/b1/grammar/relativsaetze.md)
-- [B1 > Grammar > Relativsätze mit "was" und "wo"](/b1/grammar/relativsaetze-was-wo.md)
-- [A2 > Grammar > Relativsätze](/a2/grammar/sub-clauses/relativsaetze.md)
-
-:::
-
 *Wer/wen/wem* clauses do not refer to one specific noun like *der Mann* or *die Frau*. They make a general statement about people, often with a structure like *Wer ..., der ...*. At B2, this helps you sound concise in arguments, comments, and proverb-like sentences.
 
 *Examples:*
@@ -46,14 +34,19 @@ The key B2 rule: the case in the first clause and the case in the second clause 
 
 **Examples:**
 
-- **Wer** offen kommuniziert, **der** löst viele Konflikte schneller.  
-  *Whoever communicates openly solves many conflicts faster.*
-- **Wen** wir einstellen, **den** schulen wir in den ersten Wochen intensiv.  
-  *Whoever we hire, we train intensively in the first weeks.*
-- **Wem** du vertraust, **dem** gibst du oft auch mehr Verantwortung.  
-  *Whoever you trust, you often also give more responsibility.*
-- **Wem** wir heute schreiben, **der** antwortet meistens noch am selben Tag.  
-  *Whoever we write to today usually replies the same day.*
+:::{div} ol-examples
+**Wer** offen kommuniziert, **der** löst viele Konflikte schneller.
+: Whoever communicates openly solves many conflicts faster.
+
+**Wen** wir einstellen, **den** schulen wir in den ersten Wochen intensiv.
+: Whoever we hire, we train intensively in the first weeks.
+
+**Wem** du vertraust, **dem** gibst du oft auch mehr Verantwortung.
+: Whoever you trust, you often also give more responsibility.
+
+**Wem** wir heute schreiben, **der** antwortet meistens noch am selben Tag.
+: Whoever we write to today usually replies the same day.
+:::
 
 :::{tip}
 If you are unsure about the case, split the sentence into two simple clauses and ask case questions in each clause separately.
@@ -73,14 +66,19 @@ Use this pattern when the free relative pronoun is the subject in the first clau
 
 **Examples:**
 
-- **Wer** regelmäßig Feedback einholt, **der** entwickelt sich schneller.  
-  *Whoever gets feedback regularly develops faster.*
-- **Wer** im Team klar priorisiert, **der** spart viel Zeit.  
-  *Whoever prioritizes clearly in a team saves a lot of time.*
-- **Wer** gut vorbereitet ist, **der** wirkt in Gesprächen souveräner.  
-  *Whoever is well prepared appears more confident in conversations.*
-- **Wer** Verantwortung übernimmt, **der** gewinnt oft das Vertrauen der anderen.  
-  *Whoever takes responsibility often gains others' trust.*
+:::{div} ol-examples
+**Wer** regelmäßig Feedback einholt, **der** entwickelt sich schneller.
+: Whoever gets feedback regularly develops faster.
+
+**Wer** im Team klar priorisiert, **der** spart viel Zeit.
+: Whoever prioritizes clearly in a team saves a lot of time.
+
+**Wer** gut vorbereitet ist, **der** wirkt in Gesprächen souveräner.
+: Whoever is well prepared appears more confident in conversations.
+
+**Wer** Verantwortung übernimmt, **der** gewinnt oft das Vertrauen der anderen.
+: Whoever takes responsibility often gains others' trust.
+:::
 
 :::{note}
 In modern German, the correlate can be omitted in many contexts: *Wer gut vorbereitet ist, wirkt souveräner.* At B2, both versions are useful; with *der* the contrast sounds more explicit.
@@ -101,16 +99,22 @@ In B2 usage, accusative often appears because the person from the first clause b
 
 **Examples:**
 
-- **Wer** zu spät absagt, **den** berücksichtigen wir beim nächsten Termin später.  
-  *Whoever cancels late, we consider later for the next appointment.*
-- **Wer** gute Fragen stellt, **den** nehmen Personalverantwortliche oft positiv wahr.  
-  *Whoever asks good questions is often perceived positively by hiring managers.*
-- **Wen** das Thema interessiert, **der** kann sich für das Seminar anmelden.  
-  *Whoever is interested in the topic can register for the seminar.*
-- **Wen** wir nominieren, **der** muss die Entscheidung gut begründen.  
-  *Whoever we nominate must justify the decision well.*
-- **Wer** die Frist ignoriert, **den** informiert das System automatisch erneut.  
-  *Whoever ignores the deadline gets automatically informed again by the system.*
+:::{div} ol-examples
+**Wer** zu spät absagt, **den** berücksichtigen wir beim nächsten Termin später.
+: Whoever cancels late, we consider later for the next appointment.
+
+**Wer** gute Fragen stellt, **den** nehmen Personalverantwortliche oft positiv wahr.
+: Whoever asks good questions is often perceived positively by hiring managers.
+
+**Wen** das Thema interessiert, **der** kann sich für das Seminar anmelden.
+: Whoever is interested in the topic can register for the seminar.
+
+**Wen** wir nominieren, **der** muss die Entscheidung gut begründen.
+: Whoever we nominate must justify the decision well.
+
+**Wer** die Frist ignoriert, **den** informiert das System automatisch erneut.
+: Whoever ignores the deadline gets automatically informed again by the system.
+:::
 
 :::{warning}
 Do not force the same case in both halves. *Wer ..., den ...* is often correct, because the second clause may require an accusative object.
@@ -130,16 +134,22 @@ This pattern appears when the first clause needs dative, often with verbs like *
 
 **Examples:**
 
-- **Wem** man früh Verantwortung überträgt, **der** wächst oft schnell in die Rolle hinein.  
-  *Whoever you give responsibility to early often grows into the role quickly.*
-- **Wem** wir langfristig vertrauen, **der** bekommt strategische Projekte.  
-  *Whoever we trust long-term gets strategic projects.*
-- **Wem** du aufmerksam zuhörst, **der** fühlt sich ernst genommen.  
-  *Whoever you listen to attentively feels taken seriously.*
-- **Wem** das Angebot wirklich hilft, **der** soll sich direkt bei uns melden.  
-  *Whoever the offer really helps should contact us directly.*
-- **Wem** der Vorschlag nicht passt, **dem** bieten wir eine Alternative an.  
-  *Whoever the proposal does not suit, we offer an alternative.*
+:::{div} ol-examples
+**Wem** man früh Verantwortung überträgt, **der** wächst oft schnell in die Rolle hinein.
+: Whoever you give responsibility to early often grows into the role quickly.
+
+**Wem** wir langfristig vertrauen, **der** bekommt strategische Projekte.
+: Whoever we trust long-term gets strategic projects.
+
+**Wem** du aufmerksam zuhörst, **der** fühlt sich ernst genommen.
+: Whoever you listen to attentively feels taken seriously.
+
+**Wem** das Angebot wirklich hilft, **der** soll sich direkt bei uns melden.
+: Whoever the offer really helps should contact us directly.
+
+**Wem** der Vorschlag nicht passt, **dem** bieten wir eine Alternative an.
+: Whoever the proposal does not suit, we offer an alternative.
+:::
 
 :::{tip}
 The pattern *Wem ..., der ...* is fully normal. You can also get *Wem ..., dem ...* when the second clause also needs dative.
@@ -189,3 +199,4 @@ Click the link below to practice everything from this page with an interactive t
 - [B1 > Grammar > Relativsätze](/b1/grammar/relativsaetze.md)
 - [B1 > Grammar > Relativsätze mit "was" und "wo"](/b1/grammar/relativsaetze-was-wo.md)
 - [A2 > Grammar > Relativsätze](/a2/grammar/sub-clauses/relativsaetze.md)
+- [B2 > Grammar > Indefinitpronomen](/b2/grammar/indefinitpronomen.md)

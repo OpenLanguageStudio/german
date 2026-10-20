@@ -10,17 +10,9 @@ myst:
 ---
 # Nominalisierung von Verben
 
-> Turn verbs into precise noun phrases for formal writing, reports, and advanced academic German
-
 :::{note}
 :class: dropdown
 Before reading this article, make sure you are comfortable with:
-- [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)
-:::
-
-:::{seealso}
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Passiv und Passiversatzformen](/b2/grammar/passiv-und-passiversatzformen.md)
 - [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)
 :::
 
@@ -44,14 +36,19 @@ Nominalized structures let you package complex ideas in fewer clauses. Instead o
 
 **Examples:**
 
-- Das Team **analysiert** die Daten sehr genau.  
-  _The team analyzes the data very carefully._
-- Die **Analyse** der Daten ist sehr genau.  
-  _The analysis of the data is very precise._
-- Wir **beobachten** eine schnelle Veränderung.  
-  _We observe a rapid change._
-- Die schnelle **Veränderung** ist deutlich messbar.  
-  _The rapid change is clearly measurable._
+:::{div} ol-examples
+Das Team **analysiert** die Daten sehr genau.
+: The team analyzes the data very carefully.
+
+Die **Analyse** der Daten ist sehr genau.
+: The analysis of the data is very precise.
+
+Wir **beobachten** eine schnelle Veränderung.
+: We observe a rapid change.
+
+Die schnelle **Veränderung** ist deutlich messbar.
+: The rapid change is clearly measurable.
+:::
 
 :::{tip}
 In formal writing, nominal style is useful. In spoken conversation, verbal style often sounds more natural and easier to follow.
@@ -75,24 +72,34 @@ German forms nominalizations in different ways. Some are highly productive (espe
 
 **Examples:**
 
-- Der **Abbau** von Bürokratie spart Zeit.  
-  _The reduction of bureaucracy saves time._
-- Das **Erkennen** von Mustern ist wichtig in der Forschung.  
-  _Recognizing patterns is important in research._
-- Die **Veränderung** der Strategie kam sehr spät.  
-  _The change in strategy came very late._
-- Ein schneller **Lerner** profitiert von klaren Routinen.  
-  _A fast learner benefits from clear routines._
-- Die **Folge** dieser Entscheidung war ein langer Konflikt.  
-  _The consequence of this decision was a long conflict._
-- Sein **Glaube** an das Projekt blieb stark.  
-  _His belief in the project remained strong._
-- Das **Erlebnis** hat sie nachhaltig geprägt.  
-  _The experience shaped her in a lasting way._
-- Diese **Erkenntnis** verändert unseren Ansatz.  
-  _This insight changes our approach._
-- Die **Reaktion** auf die Nachricht war gemischt.  
-  _The reaction to the news was mixed._
+:::{div} ol-examples
+Der **Abbau** von Bürokratie spart Zeit.
+: The reduction of bureaucracy saves time.
+
+Das **Erkennen** von Mustern ist wichtig in der Forschung.
+: Recognizing patterns is important in research.
+
+Die **Veränderung** der Strategie kam sehr spät.
+: The change in strategy came very late.
+
+Ein schneller **Lerner** profitiert von klaren Routinen.
+: A fast learner benefits from clear routines.
+
+Die **Folge** dieser Entscheidung war ein langer Konflikt.
+: The consequence of this decision was a long conflict.
+
+Sein **Glaube** an das Projekt blieb stark.
+: His belief in the project remained strong.
+
+Das **Erlebnis** hat sie nachhaltig geprägt.
+: The experience shaped her in a lasting way.
+
+Diese **Erkenntnis** verändert unseren Ansatz.
+: This insight changes our approach.
+
+Die **Reaktion** auf die Nachricht war gemischt.
+: The reaction to the news was mixed.
+:::
 
 :::{warning}
 Not every verb allows every nominalization pattern. Some forms are productive, others are fixed lexical items. Learn uncertain forms with article and plural: for example, *die Erkenntnis, die Erkenntnisse*.
@@ -108,34 +115,46 @@ When you nominalize a sentence, complements often change case marking and connec
 
 A nominative subject in a verbal sentence often becomes a genitive attribute in a nominal phrase.
 
-- Der Körper reagiert auf Musik. -> die **Reaktion des Körpers** auf Musik.  
-  _The body reacts to music. -> the body's reaction to music._
-- Die Regierung plant neue Maßnahmen. -> die **Planung der Regierung** neuer Maßnahmen.  
-  _The government plans new measures. -> the government's planning of new measures._
-- Das Team reagiert schnell auf neue Daten. -> die schnelle **Reaktion des Teams** auf neue Daten.  
-  _The team reacts quickly to new data. -> the team's quick reaction to new data._
+:::{div} ol-examples
+Der Körper reagiert auf Musik. -> die **Reaktion des Körpers** auf Musik.
+: The body reacts to music. -> the body's reaction to music.
+
+Die Regierung plant neue Maßnahmen. -> die **Planung der Regierung** neuer Maßnahmen.
+: The government plans new measures. -> the government's planning of new measures.
+
+Das Team reagiert schnell auf neue Daten. -> die schnelle **Reaktion des Teams** auf neue Daten.
+: The team reacts quickly to new data. -> the team's quick reaction to new data.
+:::
 
 ### Accusative object with article word -> genitive
 
 If the accusative object has an article word, nominal style usually uses a genitive construction.
 
-- Musik verändert den Blutdruck. -> die **Veränderung des Blutdrucks** durch Musik.  
-  _Music changes blood pressure. -> the change in blood pressure through music._
-- Die Reform verbessert die Struktur. -> die **Verbesserung der Struktur** durch die Reform.  
-  _The reform improves the structure. -> the improvement of the structure through the reform._
-- Der Kurs erweitert den Wortschatz. -> die **Erweiterung des Wortschatzes** durch den Kurs.  
-  _The course expands vocabulary. -> the expansion of vocabulary through the course._
+:::{div} ol-examples
+Musik verändert den Blutdruck. -> die **Veränderung des Blutdrucks** durch Musik.
+: Music changes blood pressure. -> the change in blood pressure through music.
+
+Die Reform verbessert die Struktur. -> die **Verbesserung der Struktur** durch die Reform.
+: The reform improves the structure. -> the improvement of the structure through the reform.
+
+Der Kurs erweitert den Wortschatz. -> die **Erweiterung des Wortschatzes** durch den Kurs.
+: The course expands vocabulary. -> the expansion of vocabulary through the course.
+:::
 
 ### Accusative object without article word -> von + dative
 
 If the accusative object has no article word (especially mass/abstract nouns), nominal style often uses **von + Dativ**.
 
-- Musik baut Stress ab. -> der **Abbau von Stress** durch Musik.  
-  _Music reduces stress. -> the reduction of stress through music._
-- Schlaf reduziert Druck. -> die **Reduktion von Druck** durch Schlaf.  
-  _Sleep reduces pressure. -> the reduction of pressure through sleep._
-- Bewegung fördert Ausdauer. -> die **Förderung von Ausdauer** durch Bewegung.  
-  _Exercise promotes endurance. -> the promotion of endurance through exercise._
+:::{div} ol-examples
+Musik baut Stress ab. -> der **Abbau von Stress** durch Musik.
+: Music reduces stress. -> the reduction of stress through music.
+
+Schlaf reduziert Druck. -> die **Reduktion von Druck** durch Schlaf.
+: Sleep reduces pressure. -> the reduction of pressure through sleep.
+
+Bewegung fördert Ausdauer. -> die **Förderung von Ausdauer** durch Bewegung.
+: Exercise promotes endurance. -> the promotion of endurance through exercise.
+:::
 
 :::{note}
 The agent can still be added with **durch + Akkusativ** (cause/means) or sometimes **von + Dativ** (actor in passive-like contexts), depending on meaning and style.
@@ -149,14 +168,19 @@ At B2, the goal is not to nominalize everything. Too many nominal phrases can so
 
 **Examples:**
 
-- Verbal: Der Bericht erklärt, warum die Zahlen sinken.  
-  _Verbal: The report explains why the numbers are falling._
-- Nominal: Der Bericht enthält eine **Erklärung des Rückgangs** der Zahlen.  
-  _Nominal: The report contains an explanation of the decline in numbers._
-- Verbal: Das Team prüfte den Antrag und verbesserte den Entwurf.  
-  _Verbal: The team reviewed the application and improved the draft._
-- Nominal: Nach der **Prüfung des Antrags** erfolgte die **Verbesserung des Entwurfs**.  
-  _Nominal: After the review of the application, the improvement of the draft followed._
+:::{div} ol-examples
+Verbal: Der Bericht erklärt, warum die Zahlen sinken.
+: Verbal: The report explains why the numbers are falling.
+
+Nominal: Der Bericht enthält eine **Erklärung des Rückgangs** der Zahlen.
+: Nominal: The report contains an explanation of the decline in numbers.
+
+Verbal: Das Team prüfte den Antrag und verbesserte den Entwurf.
+: Verbal: The team reviewed the application and improved the draft.
+
+Nominal: Nach der **Prüfung des Antrags** erfolgte die **Verbesserung des Entwurfs**.
+: Nominal: After the review of the application, the improvement of the draft followed.
+:::
 
 :::{tip}
 A practical strategy: draft in verbal style first, then nominalize only the key information blocks.

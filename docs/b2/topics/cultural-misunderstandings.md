@@ -6,13 +6,7 @@ myst:
 ---
 # Cultural misunderstandings
 
-> Kulturelle Missverständnisse
-
-:::{seealso}
-
-- [B2 > Grammar > Two-part connectors](/b2/grammar/zweiteilige-konnektoren.md)
-
-:::
+Most cultural misunderstandings come from small things: how direct a criticism is, how much eye contact feels normal, when irony is welcome. This topic collects the words for those moments and for talking about them afterwards, from a *Fauxpas* to *ins Fettnäpfchen treten*.
 
 ## Vocabulary list
 
@@ -74,3 +68,9 @@ Heute denke ich: Interkulturelle Kompetenz besteht aus drei Teilen – beobachte
 - Jonas: Gute Idee. Ich versuche, mehr zu beobachten und erst dann direkt zu sein.
 - Tomoko: Ja, und im Zweifel nachfragen. Spart Zeit und Nerven.
 - Jonas: Und verhindert, dass kleine Dinge groß werden.
+
+---
+
+## Related articles
+
+- [B2 > Grammar > Two-part connectors](/b2/grammar/zweiteilige-konnektoren.md)

@@ -10,20 +10,6 @@ myst:
 ---
 # Vergleichssätze
 
-> Build clear, nuanced comparisons with als, wie, and je ..., desto/umso ...
-
-:::{seealso}
-
-- [B2 > Grammar > Konnektor während](/b2/grammar/konnektor-waehrend.md)
-- [B2 > Grammar > Modalsätze](/b2/grammar/modalsaetze.md)
-- [B2 > Grammar > Irreale Vergleichssätze mit als, als ob, als wenn](/b2/grammar/irreale-vergleichssaetze.md)
-- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B1 > Grammar > Sätze mit je ..., desto/umso ...](/b1/grammar/je-desto.md)
-- [A2 > Grammar > Vergleiche mit als und wie](/a2/grammar/adjectives/vergleiche-als-wie.md)
-
-:::
-
 At B2, you often need to compare ideas precisely, not just people or objects. Vergleichssätze help you show equality, difference, and proportional change in arguments, reports, and everyday conversation. The key is choosing the right connector and keeping the sentence structure consistent.
 
 *Examples:*
@@ -45,16 +31,22 @@ In standard German, {conj}`wie` is used for equality and {conj}`als` for inequal
 
 **Examples:**
 
-- Ihr Bericht ist **genauso präzise wie** der Bericht aus der Rechtsabteilung.  
-  *Her report is just as precise as the report from the legal department.*
-- Dieser Ansatz ist **flexibler als** unser alter Prozess.  
-  *This approach is more flexible than our old process.*
-- Die Situation war **nicht so eindeutig wie** am Anfang gedacht.  
-  *The situation was not as clear as initially thought.*
-- Die neue Regelung ist **strenger als** viele erwartet haben.  
-  *The new regulation is stricter than many expected.*
-- Seine Erklärung klang **weniger überzeugend als** gestern.  
-  *His explanation sounded less convincing than yesterday.*
+:::{div} ol-examples
+Ihr Bericht ist **genauso präzise wie** der Bericht aus der Rechtsabteilung.
+: Her report is just as precise as the report from the legal department.
+
+Dieser Ansatz ist **flexibler als** unser alter Prozess.
+: This approach is more flexible than our old process.
+
+Die Situation war **nicht so eindeutig wie** am Anfang gedacht.
+: The situation was not as clear as initially thought.
+
+Die neue Regelung ist **strenger als** viele erwartet haben.
+: The new regulation is stricter than many expected.
+
+Seine Erklärung klang **weniger überzeugend als** gestern.
+: His explanation sounded less convincing than yesterday.
+:::
 
 :::{warning}
 In some regional varieties, you may hear forms like *besser wie* or *als wie*. For B2 exams, professional writing, and standard German, keep this rule: **Komparativ + als**, **so/genauso + wie**.
@@ -74,16 +66,22 @@ Use this structure when two things are presented as equivalent in one feature. Y
 
 **Examples:**
 
-- Die neue Software ist **genauso stabil wie** die alte Version.  
-  *The new software is just as stable as the old version.*
-- Unser Team reagiert heute **so schnell wie** im letzten Quartal.  
-  *Our team reacts as quickly today as in the last quarter.*
-- Die Kandidatin argumentierte **annähernd so differenziert wie** ihr Kollege.  
-  *The candidate argued almost as nuancedly as her colleague.*
-- Die zweite Präsentation war **nicht ganz so klar wie** die erste.  
-  *The second presentation was not quite as clear as the first one.*
-- Dieses Modell arbeitet **fast so effizient wie** das deutlich teurere Gerät.  
-  *This model works almost as efficiently as the much more expensive device.*
+:::{div} ol-examples
+Die neue Software ist **genauso stabil wie** die alte Version.
+: The new software is just as stable as the old version.
+
+Unser Team reagiert heute **so schnell wie** im letzten Quartal.
+: Our team reacts as quickly today as in the last quarter.
+
+Die Kandidatin argumentierte **annähernd so differenziert wie** ihr Kollege.
+: The candidate argued almost as nuancedly as her colleague.
+
+Die zweite Präsentation war **nicht ganz so klar wie** die erste.
+: The second presentation was not quite as clear as the first one.
+
+Dieses Modell arbeitet **fast so effizient wie** das deutlich teurere Gerät.
+: This model works almost as efficiently as the much more expensive device.
+:::
 
 :::{tip}
 At B2, adding adverbs such as *annähernd*, *fast*, or *nicht ganz* helps you avoid black-and-white comparisons and sound more natural in discussions.
@@ -107,18 +105,25 @@ This group covers different types of difference: **Komparativ + als** for measur
 
 **Examples:**
 
-- Die aktuelle Lösung ist **robuster als** die frühere Version.  
-  *The current solution is more robust than the earlier version.*
-- Der neue Leiter kommuniziert **anders als** seine Vorgängerin.  
-  *The new manager communicates differently from his predecessor.*
-- Diese Maßnahme war **nichts anderes als** ein kurzfristiger Kompromiss.  
-  *This measure was nothing other than a short-term compromise.*
-- Die Stellungnahme ist **etwas anderes als** eine rechtlich bindende Zusage.  
-  *The statement is something different from a legally binding commitment.*
-- Für viele Mitarbeitende war die Änderung **nichts anderes als** eine zusätzliche Belastung.  
-  *For many employees, the change was nothing other than an additional burden.*
-- Das Ergebnis fiel **deutlich schwächer aus als** im letzten Jahr.  
-  *The result turned out significantly weaker than last year.*
+:::{div} ol-examples
+Die aktuelle Lösung ist **robuster als** die frühere Version.
+: The current solution is more robust than the earlier version.
+
+Der neue Leiter kommuniziert **anders als** seine Vorgängerin.
+: The new manager communicates differently from his predecessor.
+
+Diese Maßnahme war **nichts anderes als** ein kurzfristiger Kompromiss.
+: This measure was nothing other than a short-term compromise.
+
+Die Stellungnahme ist **etwas anderes als** eine rechtlich bindende Zusage.
+: The statement is something different from a legally binding commitment.
+
+Für viele Mitarbeitende war die Änderung **nichts anderes als** eine zusätzliche Belastung.
+: For many employees, the change was nothing other than an additional burden.
+
+Das Ergebnis fiel **deutlich schwächer aus als** im letzten Jahr.
+: The result turned out significantly weaker than last year.
+:::
 
 :::{note}
 **anders als** is common in both neutral and formal registers. **nichts anderes als** sounds stronger and often evaluative, so use it when you intentionally want emphasis.
@@ -143,16 +148,22 @@ Use this structure to show proportional change: when one factor changes, another
 
 **Examples:**
 
-- **Je klarer** wir kommunizieren, **desto weniger** Missverständnisse entstehen.  
-  *The more clearly we communicate, the fewer misunderstandings arise.*
-- **Je früher** du Rückmeldung gibst, **umso schneller** kann ich den Entwurf überarbeiten.  
-  *The earlier you give feedback, the faster I can revise the draft.*
-- **Je länger** die Sitzung dauert, **desto unkonzentrierter** wird die Gruppe.  
-  *The longer the meeting lasts, the less focused the group becomes.*
-- **Je präziser** die Daten sind, **umso verlässlicher** sind unsere Prognosen.  
-  *The more precise the data are, the more reliable our forecasts are.*
-- **Je weniger** Zeit bleibt, **desto wichtiger** wird eine klare Priorisierung.  
-  *The less time remains, the more important clear prioritization becomes.*
+:::{div} ol-examples
+**Je klarer** wir kommunizieren, **desto weniger** Missverständnisse entstehen.
+: The more clearly we communicate, the fewer misunderstandings arise.
+
+**Je früher** du Rückmeldung gibst, **umso schneller** kann ich den Entwurf überarbeiten.
+: The earlier you give feedback, the faster I can revise the draft.
+
+**Je länger** die Sitzung dauert, **desto unkonzentrierter** wird die Gruppe.
+: The longer the meeting lasts, the less focused the group becomes.
+
+**Je präziser** die Daten sind, **umso verlässlicher** sind unsere Prognosen.
+: The more precise the data are, the more reliable our forecasts are.
+
+**Je weniger** Zeit bleibt, **desto wichtiger** wird eine klare Priorisierung.
+: The less time remains, the more important clear prioritization becomes.
+:::
 
 :::{tip}
 Short forms are common in speech: *Je früher, desto besser.* They are natural, but in formal writing full clauses are usually clearer.
@@ -202,3 +213,6 @@ Use the link below to practice the full topic interactively.
 - [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
 - [B1 > Grammar > Sätze mit je ..., desto/umso ...](/b1/grammar/je-desto.md)
 - [A2 > Grammar > Vergleiche mit als und wie](/a2/grammar/adjectives/vergleiche-als-wie.md)
+- [B2 > Grammar > Konnektor während](/b2/grammar/konnektor-waehrend.md)
+- [B2 > Grammar > Modalsätze](/b2/grammar/modalsaetze.md)
+- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)

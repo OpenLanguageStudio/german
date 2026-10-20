@@ -10,13 +10,6 @@ myst:
 ---
 # Perfekt
 
-> Conversational past tense
-
-:::{seealso}
-
-- [A2 > Grammar > Modalverben im Präteritum](/a2/grammar/verbs/modalverben-praeteritum.md)
-:::
-
 The *Perfekt* is the tense German speakers reach for most when talking about the past.
 Whether you are telling a friend what you did at the weekend, explaining why you
 are late, or sharing a story over dinner, this is the tense for the job.
@@ -56,23 +49,25 @@ The **-e-** before the final **-t** is added whenever the stem already ends in
 
 ### Examples
 
-- Ich {verb}`habe` ein Buch {verb}`gekauft`.  
-  *I bought a book.*
+:::{div} ol-examples
+Ich {verb}`habe` ein Buch {verb}`gekauft`.
+: I bought a book.
 
-- Sie {verb}`hat` gestern Fußball {verb}`gespielt`.  
-  *She played football yesterday.*
+Sie {verb}`hat` gestern Fußball {verb}`gespielt`.
+: She played football yesterday.
 
-- Wir {verb}`haben` das ganze Wochenende {verb}`gearbeitet`.  
-  *We worked the whole weekend.*
+Wir {verb}`haben` das ganze Wochenende {verb}`gearbeitet`.
+: We worked the whole weekend.
 
-- Er {verb}`hat` zwei Stunden auf den Zug {verb}`gewartet`.  
-  *He waited two hours for the train.*
+Er {verb}`hat` zwei Stunden auf den Zug {verb}`gewartet`.
+: He waited two hours for the train.
 
-- Ich {verb}`habe` mein Zimmer {verb}`aufgeräumt`.  
-  *I tidied up my room.*
+Ich {verb}`habe` mein Zimmer {verb}`aufgeräumt`.
+: I tidied up my room.
 
-- {verb}`Habt` ihr schon {verb}`gefrühstückt`?  
-  *Have you already had breakfast?*
+{verb}`Habt` ihr schon {verb}`gefrühstückt`?
+: Have you already had breakfast?
+:::
 
 :::{tip}
 Separable verbs (like *aufräumen*, *einkaufen*, *anrufen*) insert **ge-** between the
@@ -80,6 +75,136 @@ prefix and the stem: *auf·ge·räumt*, *ein·ge·kauft*, *an·ge·rufen*.
 Verbs ending in **-ieren** (like *telefonieren*, *studieren*) take no *ge-* and end
 in just **-t**: *telefoniert*, *studiert*.
 :::
+
+---
+
+## Perfekt mit sein
+
+A smaller but important group of verbs uses *sein* instead of *haben*. These
+fall into two main groups: verbs that express **movement from one place to
+another** (gehen, fahren, kommen, fliegen…), and verbs that express a **change
+of state** (aufwachen, einschlafen, aufstehen, werden). A few other common
+verbs also take *sein*: *bleiben*, *sein* itself, and *passieren*.
+
+> {verb}`sein` (conjugated, position 2) + rest of sentence + {verb}`Partizip II` (final position)
+
+| Common sein-verbs | Partizip II |
+|---|---|
+| gehen (to go) | gegangen |
+| fahren (to drive / travel) | gefahren |
+| kommen (to come) | gekommen |
+| fliegen (to fly) | geflogen |
+| laufen (to run / walk) | gelaufen |
+| reisen (to travel) | gereist |
+| aufstehen (to get up) | aufgestanden |
+| aufwachen (to wake up) | aufgewacht |
+| einschlafen (to fall asleep) | eingeschlafen |
+| werden (to become) | geworden |
+| bleiben (to stay) | geblieben |
+| passieren (to happen) | passiert |
+
+### Examples
+
+:::{div} ol-examples
+Ich {verb}`bin` gestern in die Stadt {verb}`gefahren`.
+: I drove into town yesterday.
+
+Wir {verb}`sind` früh nach Hause {verb}`gegangen`.
+: We went home early.
+
+Sie {verb}`ist` um halb sieben {verb}`aufgestanden`.
+: She got up at half past six.
+
+Das Baby {verb}`ist` endlich {verb}`eingeschlafen`.
+: The baby finally fell asleep.
+
+Der Zug {verb}`ist` schon um 10 Uhr {verb}`abgefahren`.
+: The train already departed at 10 o'clock.
+
+{verb}`Bist` du schon mal nach Japan {verb}`geflogen`?
+: Have you ever flown to Japan?
+:::
+
+:::{tip}
+A handy rule of thumb: if the verb describes **moving from A to B** or **changing
+condition** (asleep ↔ awake, sitting ↔ standing), it almost certainly takes *sein*.
+Everything else uses *haben*. When in doubt, check a dictionary, the auxiliary is
+always listed for German verbs.
+:::
+
+---
+
+## Unregelmäßige Partizipien
+
+Many of the most common German verbs have **irregular participles** that you
+need to memorise, the stem changes, and the ending is **-en** instead of **-t**.
+The good news is that these are the everyday verbs, so they quickly
+become familiar with practice.
+
+> **ge-** + changed stem + **-en** (e.g. schreiben → ge**schrieb**en)
+
+### High-frequency irregular verbs
+
+| Infinitiv | Partizip II | Hilfsverb |
+|---|---|---|
+| schreiben (to write) | geschrieben | haben |
+| lesen (to read) | gelesen | haben |
+| trinken (to drink) | getrunken | haben |
+| essen (to eat) | gegessen | haben |
+| singen (to sing) | gesungen | haben |
+| sehen (to see / watch) | gesehen | haben |
+| schlafen (to sleep) | geschlafen | haben |
+| sprechen (to speak) | gesprochen | haben |
+| laufen (to run / walk) | gelaufen | sein |
+| kommen (to come) | gekommen | sein |
+| fahren (to drive / travel) | gefahren | sein |
+| fliegen (to fly) | geflogen | sein |
+| gehen (to go) | gegangen | sein |
+
+### Verbs with no ge- prefix
+
+Verbs that start with an **inseparable prefix** (such as *be-*, *ver-*, *er-*, *ent-*, *emp-*) do **not** add *ge-* in the Partizip II. This applies whether the verb is regular or irregular.
+
+| Infinitiv | Partizip II | Note |
+|---|---|---|
+| verstehen (to understand) | verstanden | inseparable *ver-* |
+| bekommen (to receive) | bekommen | inseparable *be-* |
+| vergessen (to forget) | vergessen | inseparable *ver-* |
+| erzählen (to tell / narrate) | erzählt | inseparable *er-* |
+| bezahlen (to pay) | bezahlt | inseparable *be-* |
+
+### Examples
+
+:::{div} ol-examples
+Ich {verb}`habe` das Buch schon {verb}`gelesen`.
+: I have already read the book.
+
+Er {verb}`hat` zwei Gläser Wasser {verb}`getrunken`.
+: He drank two glasses of water.
+
+Wir {verb}`haben` zusammen {verb}`gegessen` und viel {verb}`gesprochen`.
+: We ate together and talked a lot.
+
+Sie {verb}`hat` ein Lied {verb}`gesungen`.
+: She sang a song.
+
+Ich {verb}`habe` die Erklärung nicht {verb}`verstanden`.
+: I didn't understand the explanation.
+
+{verb}`Hast` du dein Passwort wieder {verb}`vergessen`?
+: Have you forgotten your password again?
+:::
+
+:::{note}
+Irregular participles need to be memorised individually, there is no reliable
+spelling rule that predicts the stem change. The most effective approach is to
+learn each verb as a set of three: **infinitive → Partizip II → auxiliary**
+(e.g. *schreiben → geschrieben → haben*, *gehen → gegangen → sein*).
+:::
+
+---
+
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/perfekt-mit-haben
@@ -177,60 +302,6 @@ Sie haben viel geredet.
 : They talked a lot.
 :::
 
----
-
-## Perfekt mit sein
-
-A smaller but important group of verbs uses *sein* instead of *haben*. These
-fall into two main groups: verbs that express **movement from one place to
-another** (gehen, fahren, kommen, fliegen…), and verbs that express a **change
-of state** (aufwachen, einschlafen, aufstehen, werden). A few other common
-verbs also take *sein*: *bleiben*, *sein* itself, and *passieren*.
-
-> {verb}`sein` (conjugated, position 2) + rest of sentence + {verb}`Partizip II` (final position)
-
-| Common sein-verbs | Partizip II |
-|---|---|
-| gehen (to go) | gegangen |
-| fahren (to drive / travel) | gefahren |
-| kommen (to come) | gekommen |
-| fliegen (to fly) | geflogen |
-| laufen (to run / walk) | gelaufen |
-| reisen (to travel) | gereist |
-| aufstehen (to get up) | aufgestanden |
-| aufwachen (to wake up) | aufgewacht |
-| einschlafen (to fall asleep) | eingeschlafen |
-| werden (to become) | geworden |
-| bleiben (to stay) | geblieben |
-| passieren (to happen) | passiert |
-
-### Examples
-
-- Ich {verb}`bin` gestern in die Stadt {verb}`gefahren`.  
-  *I drove into town yesterday.*
-
-- Wir {verb}`sind` früh nach Hause {verb}`gegangen`.  
-  *We went home early.*
-
-- Sie {verb}`ist` um halb sieben {verb}`aufgestanden`.  
-  *She got up at half past six.*
-
-- Das Baby {verb}`ist` endlich {verb}`eingeschlafen`.  
-  *The baby finally fell asleep.*
-
-- Der Zug {verb}`ist` schon um 10 Uhr {verb}`abgefahren`.  
-  *The train already departed at 10 o'clock.*
-
-- {verb}`Bist` du schon mal nach Japan {verb}`geflogen`?  
-  *Have you ever flown to Japan?*
-
-:::{tip}
-A handy rule of thumb: if the verb describes **moving from A to B** or **changing
-condition** (asleep ↔ awake, sitting ↔ standing), it almost certainly takes *sein*.
-Everything else uses *haben*. When in doubt, check a dictionary, the auxiliary is
-always listed for German verbs.
-:::
-
 :::{audio-examples}
 :track: a2/grammar/perfekt-mit-sein
 :title: Perfekt mit sein
@@ -325,74 +396,6 @@ Wir sind nach Hause zurückgekommen.
 
 Sie sind zwei Stunden geschwommen.
 : They swam for two hours.
-:::
-
----
-
-## Unregelmäßige Partizipien
-
-Many of the most common German verbs have **irregular participles** that you
-need to memorise, the stem changes, and the ending is **-en** instead of **-t**.
-The good news is that these are the everyday verbs, so they quickly
-become familiar with practice.
-
-> **ge-** + changed stem + **-en** (e.g. schreiben → ge**schrieb**en)
-
-### High-frequency irregular verbs
-
-| Infinitiv | Partizip II | Hilfsverb |
-|---|---|---|
-| schreiben (to write) | geschrieben | haben |
-| lesen (to read) | gelesen | haben |
-| trinken (to drink) | getrunken | haben |
-| essen (to eat) | gegessen | haben |
-| singen (to sing) | gesungen | haben |
-| sehen (to see / watch) | gesehen | haben |
-| schlafen (to sleep) | geschlafen | haben |
-| sprechen (to speak) | gesprochen | haben |
-| laufen (to run / walk) | gelaufen | sein |
-| kommen (to come) | gekommen | sein |
-| fahren (to drive / travel) | gefahren | sein |
-| fliegen (to fly) | geflogen | sein |
-| gehen (to go) | gegangen | sein |
-
-### Verbs with no ge- prefix
-
-Verbs that start with an **inseparable prefix** (such as *be-*, *ver-*, *er-*, *ent-*, *emp-*) do **not** add *ge-* in the Partizip II. This applies whether the verb is regular or irregular.
-
-| Infinitiv | Partizip II | Note |
-|---|---|---|
-| verstehen (to understand) | verstanden | inseparable *ver-* |
-| bekommen (to receive) | bekommen | inseparable *be-* |
-| vergessen (to forget) | vergessen | inseparable *ver-* |
-| erzählen (to tell / narrate) | erzählt | inseparable *er-* |
-| bezahlen (to pay) | bezahlt | inseparable *be-* |
-
-### Examples
-
-- Ich {verb}`habe` das Buch schon {verb}`gelesen`.  
-  *I have already read the book.*
-
-- Er {verb}`hat` zwei Gläser Wasser {verb}`getrunken`.  
-  *He drank two glasses of water.*
-
-- Wir {verb}`haben` zusammen {verb}`gegessen` und viel {verb}`gesprochen`.  
-  *We ate together and talked a lot.*
-
-- Sie {verb}`hat` ein Lied {verb}`gesungen`.  
-  *She sang a song.*
-
-- Ich {verb}`habe` die Erklärung nicht {verb}`verstanden`.  
-  *I didn't understand the explanation.*
-
-- {verb}`Hast` du dein Passwort wieder {verb}`vergessen`?  
-  *Have you forgotten your password again?*
-
-:::{note}
-Irregular participles need to be memorised individually, there is no reliable
-spelling rule that predicts the stem change. The most effective approach is to
-learn each verb as a set of three: **infinitive → Partizip II → auxiliary**
-(e.g. *schreiben → geschrieben → haben*, *gehen → gegangen → sein*).
 :::
 
 :::{audio-examples}
@@ -516,3 +519,8 @@ Sie sind nach Berlin geflogen.
 - *Wir **haben** gegangen.* (when subject is *wir*), correct! But remember *ihr*: **Ihr seid** gegangen. (*sein* must agree with the subject)
 :::
 
+---
+
+## Related articles
+
+- [A2 > Grammar > Modalverben im Präteritum](/a2/grammar/verbs/modalverben-praeteritum.md)

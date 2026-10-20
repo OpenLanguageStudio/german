@@ -10,17 +10,6 @@ myst:
 ---
 # Irreale Vergleichssätze mit als, als ob, als wenn
 
-> Describe unreal comparisons naturally in B2 German
-
-:::{seealso}
-
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)
-- [B2 > Grammar > Indirekte Rede](/b2/grammar/indirekte-rede.md)
-- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
-
-:::
-
 Irreale Vergleichssätze compare reality with something imagined. In German, that comparison is usually marked by {conj}`als`, {conj}`als ob`, or {conj}`als wenn` plus **Konjunktiv II**. At B2 the pattern is what makes descriptions of impressions, feelings, and behaviour precise.
 
 *Examples:*
@@ -44,16 +33,22 @@ With {conj}`als` in unreal comparisons, German usually uses a condensed clause w
 
 **Examples:**
 
-- Der Chef behandelt uns, als {verb}`wären` wir gleichberechtigte Partner.  
-  *The boss treats us as if we were equal partners.*
-- Er spricht mit mir, als {verb}`kennte` er mich seit Jahren.  
-  *He talks to me as if he had known me for years.*
-- Sie lächelte, als {verb}`hätte` sie die Lösung längst gefunden.  
-  *She smiled as if she had found the solution long ago.*
-- Er reagierte, als {verb}`wäre` das alles völlig normal.  
-  *He reacted as if all of this were completely normal.*
-- Die Mannschaft spielte, als {verb}`gäbe` es keinen Druck.  
-  *The team played as if there were no pressure.*
+:::{div} ol-examples
+Der Chef behandelt uns, als {verb}`wären` wir gleichberechtigte Partner.
+: The boss treats us as if we were equal partners.
+
+Er spricht mit mir, als {verb}`kennte` er mich seit Jahren.
+: He talks to me as if he had known me for years.
+
+Sie lächelte, als {verb}`hätte` sie die Lösung längst gefunden.
+: She smiled as if she had found the solution long ago.
+
+Er reagierte, als {verb}`wäre` das alles völlig normal.
+: He reacted as if all of this were completely normal.
+
+Die Mannschaft spielte, als {verb}`gäbe` es keinen Druck.
+: The team played as if there were no pressure.
+:::
 
 :::{tip}
 This short {conj}`als` structure is common in spoken and written German. If you are unsure, you can usually reformulate with {conj}`als ob`.
@@ -78,16 +73,22 @@ Use the following link to practice this section:
 
 **Examples:**
 
-- Die Kollegen tun immer so, als ob sie alle perfekt {verb}`wären`.  
-  *The colleagues always act as if they were all perfect.*
-- Es scheint so, als wenn wir uns schon lange kennen {verb}`würden`.  
-  *It seems as if we had known each other for a long time.*
-- Er antwortet, als ob ihn die Kritik nicht {verb}`interessieren würde`.  
-  *He answers as if the criticism did not interest him.*
-- Die Nachbarin schaut mich an, als wenn ich etwas falsch gemacht {verb}`hätte`.  
-  *The neighbor looks at me as if I had done something wrong.*
-- Das Kind redet, als ob es schon erwachsen {verb}`wäre`.  
-  *The child talks as if it were already an adult.*
+:::{div} ol-examples
+Die Kollegen tun immer so, als ob sie alle perfekt {verb}`wären`.
+: The colleagues always act as if they were all perfect.
+
+Es scheint so, als wenn wir uns schon lange kennen {verb}`würden`.
+: It seems as if we had known each other for a long time.
+
+Er antwortet, als ob ihn die Kritik nicht {verb}`interessieren würde`.
+: He answers as if the criticism did not interest him.
+
+Die Nachbarin schaut mich an, als wenn ich etwas falsch gemacht {verb}`hätte`.
+: The neighbor looks at me as if I had done something wrong.
+
+Das Kind redet, als ob es schon erwachsen {verb}`wäre`.
+: The child talks as if it were already an adult.
+:::
 
 :::{note}
 In modern usage, {conj}`als ob` is generally more frequent than {conj}`als wenn`, but both are correct at B2 level.
@@ -114,14 +115,19 @@ At B2 level, an important restriction is: this comparison clause is normally **n
 
 **Examples:**
 
-- Es wirkt, als ob das Team ohne klaren Plan arbeiten {verb}`würde`.  
-  *It seems as if the team were working without a clear plan.*
-- Ich fühlte mich, als {verb}`hätte` jemand den Boden unter mir weggezogen.  
-  *I felt as if someone had pulled the ground out from under me.*
-- Sie tut so, als wenn sie von dem Problem nichts {verb}`wüsste`.  
-  *She acts as if she knew nothing about the problem.*
-- Es klingt, als ob ihr euch schon lange {verb}`kennen würdet`.  
-  *It sounds as if you had known each other for a long time.*
+:::{div} ol-examples
+Es wirkt, als ob das Team ohne klaren Plan arbeiten {verb}`würde`.
+: It seems as if the team were working without a clear plan.
+
+Ich fühlte mich, als {verb}`hätte` jemand den Boden unter mir weggezogen.
+: I felt as if someone had pulled the ground out from under me.
+
+Sie tut so, als wenn sie von dem Problem nichts {verb}`wüsste`.
+: She acts as if she knew nothing about the problem.
+
+Es klingt, als ob ihr euch schon lange {verb}`kennen würdet`.
+: It sounds as if you had known each other for a long time.
+:::
 
 :::{warning}
 Do not front this type of clause:
@@ -170,3 +176,4 @@ Use the link below to practice the full topic interactively.
 - [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
 - [B2 > Grammar > Indirekte Rede](/b2/grammar/indirekte-rede.md)
 - [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
+- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)

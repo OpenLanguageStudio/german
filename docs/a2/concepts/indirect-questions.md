@@ -6,8 +6,21 @@ myst:
 ---
 # Indirect questions
 
-:::{seealso}
-**Grammar**
+Short overview: Use ob for yes/no questions and w‑words for information questions. The finite verb goes to the end.
+
+## Examples
+
+:::{div} ol-examples
+Kannst du mir sagen, {subj}`ob` er kommt?
+: Can you tell me if he is coming?
+
+Weißt du, {subj}`wann` der Film {verb}`anfängt`?
+: Do you know when the movie starts?
+:::
+
+---
+
+## Related articles
 
 - [A2 > Grammar > Relativsätze – Nominativ und Akkusativ](/a2/grammar/sub-clauses/relativsaetze.md)
 - [A2 > Grammar > Interrogativartikel: was für ein und welch-](/a2/grammar/pronouns/interrogativartikel-was-fuer-welche.md)
@@ -17,16 +30,5 @@ myst:
 - [A2 > Grammar > Temporale Präpositionen](/a2/grammar/prepositions/temporale-praepositionen.md)
 - [A2 > Grammar > Doch bei Verneinungsfragen](/a2/grammar/pronouns/doch-negative-fragen.md)
 - [A2 > Grammar > Finalsätze: damit und um ... zu](/a2/grammar/sub-clauses/finalsaetze.md)
-- [Nebensätze](/a2/grammar/sub-clauses/index.md)
-- [W‑Fragen mit Präposition](/a2/grammar/prepositions/w-fragen-mit-praeposition.md)
-:::
-
-Short overview: Use ob for yes/no questions and w‑words for information questions. The finite verb goes to the end.
-
-## Examples
-
-- Kannst du mir sagen, {subj}`ob` er kommt?  
-  _Can you tell me if he is coming?_
-- Weißt du, {subj}`wann` der Film {verb}`anfängt`?  
-  _Do you know when the movie starts?_
-
+- [A2 > Grammar > Subordinate Clauses](/a2/grammar/sub-clauses/index.md)
+- [A2 > Grammar > W-Fragen mit Präposition](/a2/grammar/prepositions/w-fragen-mit-praeposition.md)

@@ -8,14 +8,6 @@ myst:
 
 Hypothetical and contrary-to-fact situations run on Konjunktiv II, the form German reserves for things that are imagined rather than real.
 
-:::{seealso}
-
-- [B1 > Grammar > Irreale Bedingungssätze](/b1/grammar/irreale-bedingungssaetze.md)
-- Grammar: [/b1/grammar/konjunktiv-ii.md](/b1/grammar/konjunktiv-ii.md)
-- Grammar: [/b1/grammar/plusquamperfekt.md](/b1/grammar/plusquamperfekt.md)
-
-:::
-
 ## When to use it
 
 - Wishes, regrets, advice.
@@ -33,12 +25,16 @@ Hypothetical and contrary-to-fact situations run on Konjunktiv II, the form Germ
 
 ## Examples
 
-- **Wenn** ich mehr Zeit **hätte**, **würde** ich mehr lesen.  
-  _If I had more time, I would read more._
-- **Wenn** ich gestern früher **gekommen wäre**, **hätten** wir mehr geschafft.  
-  _If I had come earlier yesterday, we would have achieved more._
-- **Könntest** du mir bitte helfen?  
-  _Could you please help me?_
+:::{div} ol-examples
+**Wenn** ich mehr Zeit **hätte**, **würde** ich mehr lesen.
+: If I had more time, I would read more.
+
+**Wenn** ich gestern früher **gekommen wäre**, **hätten** wir mehr geschafft.
+: If I had come earlier yesterday, we would have achieved more.
+
+**Könntest** du mir bitte helfen?
+: Could you please help me?
+:::
 
 ## Register and tone
 
@@ -49,3 +45,10 @@ Use würde + Infinitiv for many verbs; use K2 forms of sein/haben/modal verbs of
 - Complete a wenn-clause for a present hypothetical.
 - Transform a sentence into a past unreal conditional.
 
+---
+
+## Related articles
+
+- [B1 > Grammar > Irreale Bedingungssätze](/b1/grammar/irreale-bedingungssaetze.md)
+- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
+- [B1 > Grammar > Plusquamperfekt (Past Perfect)](/b1/grammar/plusquamperfekt.md)

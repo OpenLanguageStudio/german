@@ -10,8 +10,6 @@ myst:
 ---
 # Verben mit Präpositionen und Nebensatz
 
-> Verbs with prepositions and subordinate clauses
-
 Many German verbs come with a fixed preposition, such as warten auf, denken an, or sich freuen über. When that preposition is followed by a whole clause instead of a noun, German usually adds a linking form like darauf, daran, or damit. That linking form is what connects such verbs to dass-clauses, questions, and zu-infinitive clauses in natural B1 German.
 
 ---
@@ -33,35 +31,37 @@ When the prepositional object is a noun, you use the noun directly. When the obj
 | nach | danach | wonach |
 | um | darum | worum |
 
-- Er wartet auf eine Antwort.  
-  *He is waiting for an answer.*
+:::{div} ol-examples
+Er wartet auf eine Antwort.
+: He is waiting for an answer.
 
-- Er wartet {prep}`darauf`, {conj}`dass` er eine Antwort bekommt.  
-  *He is waiting for the fact that he gets an answer.*
+Er wartet {prep}`darauf`, {conj}`dass` er eine Antwort bekommt.
+: He is waiting for the fact that he gets an answer.
 
-- Sie ärgert sich über den Lärm.  
-  *She is annoyed by the noise.*
+Sie ärgert sich über den Lärm.
+: She is annoyed by the noise.
 
-- Sie ärgert sich {prep}`darüber`, {conj}`dass` es hier so laut ist.  
-  *She is annoyed that it is so loud here.*
+Sie ärgert sich {prep}`darüber`, {conj}`dass` es hier so laut ist.
+: She is annoyed that it is so loud here.
 
-- Wir denken an den Urlaub.  
-  *We are thinking about the holiday.*
+Wir denken an den Urlaub.
+: We are thinking about the holiday.
 
-- Wir denken {prep}`daran`, {conj}`dass` wir noch nichts gebucht haben.  
-  *We are thinking about the fact that we have not booked anything yet.*
+Wir denken {prep}`daran`, {conj}`dass` wir noch nichts gebucht haben.
+: We are thinking about the fact that we have not booked anything yet.
 
-- Er interessiert sich für neue Technologien.  
-  *He is interested in new technologies.*
+Er interessiert sich für neue Technologien.
+: He is interested in new technologies.
 
-- Er interessiert sich {prep}`dafür`, {conj}`dass` nachhaltige Lösungen entwickelt werden.  
-  *He is interested in sustainable solutions being developed.*
+Er interessiert sich {prep}`dafür`, {conj}`dass` nachhaltige Lösungen entwickelt werden.
+: He is interested in sustainable solutions being developed.
 
-- Sie kümmert sich um das Projekt.  
-  *She is taking care of the project.*
+Sie kümmert sich um das Projekt.
+: She is taking care of the project.
 
-- Sie kümmert sich {prep}`darum`, {conj}`dass` alles pünktlich fertig wird.  
-  *She makes sure that everything is finished on time.*
+Sie kümmert sich {prep}`darum`, {conj}`dass` alles pünktlich fertig wird.
+: She makes sure that everything is finished on time.
+:::
 
 :::{note}
 The da-compound can also come first for emphasis.
@@ -86,25 +86,29 @@ When you ask about things or events, replace the da-compound with the matching w
 | mit | womit | Womit hast du angefangen? |
 | um | worum | Worum bittet er? |
 
-- {prep}`Worauf` wartest du? - Ich warte {prep}`darauf`, dass der Zug ankommt.  
-  *What are you waiting for? - I am waiting for the train to arrive.*
+:::{div} ol-examples
+{prep}`Worauf` wartest du? - Ich warte {prep}`darauf`, dass der Zug ankommt.
+: What are you waiting for? - I am waiting for the train to arrive.
 
-- {prep}`Worüber` sprechen sie? - Sie sprechen {prep}`darüber`, wie das Projekt läuft.  
-  *What are they talking about? - They are talking about how the project is going.*
+{prep}`Worüber` sprechen sie? - Sie sprechen {prep}`darüber`, wie das Projekt läuft.
+: What are they talking about? - They are talking about how the project is going.
 
-- {prep}`Woran` denkst du? - Ich denke {prep}`daran`, dass ich morgen einen Termin habe.  
-  *What are you thinking about? - I am thinking about the fact that I have an appointment tomorrow.*
+{prep}`Woran` denkst du? - Ich denke {prep}`daran`, dass ich morgen einen Termin habe.
+: What are you thinking about? - I am thinking about the fact that I have an appointment tomorrow.
 
-- {prep}`Worum` bittet er? - Er bittet {prep}`darum`, dass die Frist verlängert wird.  
-  *What is he asking for? - He is asking for the deadline to be extended.*
+{prep}`Worum` bittet er? - Er bittet {prep}`darum`, dass die Frist verlängert wird.
+: What is he asking for? - He is asking for the deadline to be extended.
 
-- {prep}`Womit` hast du angefangen? - Ich habe {prep}`damit` angefangen, das Zimmer aufzuräumen.  
-  *What did you start with? - I started by tidying the room.*
+{prep}`Womit` hast du angefangen? - Ich habe {prep}`damit` angefangen, das Zimmer aufzuräumen.
+: What did you start with? - I started by tidying the room.
+:::
 
 For people, do not use wo-compounds. Use the preposition with wen or wem instead.
 
-- Auf wen wartest du? - Ich warte auf meinen Freund.  
-  *Who are you waiting for? - I am waiting for my friend.*
+:::{div} ol-examples
+Auf wen wartest du? - Ich warte auf meinen Freund.
+: Who are you waiting for? - I am waiting for my friend.
+:::
 
 :::{tip}
 Use wo(r)-compounds only for things, events, and abstract ideas. For people, always use the normal preposition plus question word or pronoun.
@@ -118,28 +122,36 @@ When the subject of both clauses is the same, you can often shorten the dass-cla
 
 > da(r)+Präposition + zu + infinitive
 
-- Ich freue mich {prep}`darauf`, zu reisen.  
-  *I am looking forward to travelling.*
+:::{div} ol-examples
+Ich freue mich {prep}`darauf`, zu reisen.
+: I am looking forward to travelling.
+:::
 
   (= Ich freue mich darauf, dass ich reise.)
 
-- Ich habe {prep}`damit` angefangen, Deutsch zu lernen.  
-  *I started learning German.*
+:::{div} ol-examples
+Ich habe {prep}`damit` angefangen, Deutsch zu lernen.
+: I started learning German.
+:::
 
   (= Ich habe damit angefangen, dass ich Deutsch lerne.)
 
-- Sie hat sich {prep}`daran` gewöhnt, früh aufzustehen.  
-  *She has got used to getting up early.*
+:::{div} ol-examples
+Sie hat sich {prep}`daran` gewöhnt, früh aufzustehen.
+: She has got used to getting up early.
+:::
 
   (= Sie hat sich daran gewöhnt, dass sie früh aufsteht.)
 
 If the subjects are different, keep the dass-clause.
 
-- Ich warte darauf, dass er anruft.  
-  *I am waiting for him to call.*
+:::{div} ol-examples
+Ich warte darauf, dass er anruft.
+: I am waiting for him to call.
 
-- Ich warte darauf, anzurufen.  
-  *Wrong here, because it changes the meaning to "I am the one calling."*
+Ich warte darauf, anzurufen.
+: Wrong here, because it changes the meaning to "I am the one calling."
+:::
 
 :::{warning}
 Only shorten to a zu-infinitive when the same person or thing is responsible for both actions.

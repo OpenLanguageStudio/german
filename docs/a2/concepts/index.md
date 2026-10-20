@@ -6,12 +6,6 @@ myst:
 ---
 # Concepts
 
-:::{seealso}
-
-- [A2 > Grammar](/a2/index.md)
-
-:::
-
 ```{toctree}
 :maxdepth: 2
 :numbered:
@@ -20,3 +14,9 @@ indirect-questions
 making-comparisons
 polite-requests-wishes-advice
 ```
+
+---
+
+## Related articles
+
+- [A2 > Index.Md > A2](/a2/index.md)

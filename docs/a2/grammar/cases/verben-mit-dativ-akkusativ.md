@@ -10,14 +10,6 @@ myst:
 ---
 # Verben mit Dativ und Akkusativ
 
-> Verbs with two objects: who receives something and what is given
-
-:::{seealso}
-
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-:::
-
 :::{note}
 :class: dropdown
 Before reading this article, make sure you are comfortable with:
@@ -63,18 +55,25 @@ Many common verbs can take two objects at the same time. Ask *Wem?* for the dati
 
 **Examples:**
 
-- Ich gebe {dativ}`meiner Schwester` {akk}`das Buch`.  
-  *I give my sister the book.*
-- Wir schenken {dativ}`unserer Mutter` {akk}`Blumen`.  
-  *We give our mother flowers.*
-- Der Lehrer zeigt {dativ}`den Schülern` {akk}`eine Karte`.  
-  *The teacher shows the students a map.*
-- Kannst du {dativ}`mir` {akk}`deinen Stift` leihen?  
-  *Can you lend me your pen?*
-- Ich biete {dativ}`dir` {akk}`einen Kaffee` an.  
-  *I'm offering you a coffee.*
-- Sie empfiehlt {dativ}`ihrem Freund` {akk}`diesen Film`.  
-  *She recommends this film to her friend.*
+:::{div} ol-examples
+Ich gebe {dativ}`meiner Schwester` {akk}`das Buch`.
+: I give my sister the book.
+
+Wir schenken {dativ}`unserer Mutter` {akk}`Blumen`.
+: We give our mother flowers.
+
+Der Lehrer zeigt {dativ}`den Schülern` {akk}`eine Karte`.
+: The teacher shows the students a map.
+
+Kannst du {dativ}`mir` {akk}`deinen Stift` leihen?
+: Can you lend me your pen?
+
+Ich biete {dativ}`dir` {akk}`einen Kaffee` an.
+: I'm offering you a coffee.
+
+Sie empfiehlt {dativ}`ihrem Freund` {akk}`diesen Film`.
+: She recommends this film to her friend.
+:::
 
 :::{tip}
 When you build a sentence, first find the person (*Wem?*), then the thing (*Was?*). This helps you pick the right case quickly.
@@ -94,18 +93,25 @@ With two noun phrases, German usually puts the dative object before the accusati
 
 **Examples:**
 
-- Ich gebe {dativ}`dem Kind` {akk}`das Buch`.  
-  *I give the child the book.*
-- Ich gebe {akk}`es` {dativ}`dem Kind`.  
-  *I give it to the child.*
-- Ich gebe {akk}`es` {dativ}`ihm`.  
-  *I give it to him.*
-- Kannst du {akk}`es` {dativ}`mir` erklären?  
-  *Can you explain it to me?*
-- Der Kellner bringt {dativ}`dem Paar` {akk}`die Rechnung`.  
-  *The waiter brings the bill to the couple.*
-- Der Kellner bringt {akk}`sie` {dativ}`ihnen`.  
-  *The waiter brings it to them.*
+:::{div} ol-examples
+Ich gebe {dativ}`dem Kind` {akk}`das Buch`.
+: I give the child the book.
+
+Ich gebe {akk}`es` {dativ}`dem Kind`.
+: I give it to the child.
+
+Ich gebe {akk}`es` {dativ}`ihm`.
+: I give it to him.
+
+Kannst du {akk}`es` {dativ}`mir` erklären?
+: Can you explain it to me?
+
+Der Kellner bringt {dativ}`dem Paar` {akk}`die Rechnung`.
+: The waiter brings the bill to the couple.
+
+Der Kellner bringt {akk}`sie` {dativ}`ihnen`.
+: The waiter brings it to them.
+:::
 
 :::{warning}
 A common mistake is to keep noun order when you replace the accusative noun with a pronoun. Not: *Ich gebe dem Kind es.* Better: *Ich gebe es dem Kind.*
@@ -124,18 +130,25 @@ You can ask for each object separately. Ask *Wem?* for the dative person and *Wa
 
 **Examples:**
 
-- **Wem** gibst du das Buch?  
-  *Who are you giving the book to?*
-- **Was** gibst du dem Kind?  
-  *What are you giving the child?*
-- **Wem** schickst du die E-Mail?  
-  *Who are you sending the email to?*
-- **Was** schickst du deiner Freundin?  
-  *What are you sending your friend?*
-- **Wem** erklärt der Lehrer die Regel?  
-  *Who is the teacher explaining the rule to?*
-- **Was** erklärt der Lehrer den Kindern?  
-  *What is the teacher explaining to the children?*
+:::{div} ol-examples
+**Wem** gibst du das Buch?
+: Who are you giving the book to?
+
+**Was** gibst du dem Kind?
+: What are you giving the child?
+
+**Wem** schickst du die E-Mail?
+: Who are you sending the email to?
+
+**Was** schickst du deiner Freundin?
+: What are you sending your friend?
+
+**Wem** erklärt der Lehrer die Regel?
+: Who is the teacher explaining the rule to?
+
+**Was** erklärt der Lehrer den Kindern?
+: What is the teacher explaining to the children?
+:::
 
 :::{note}
 In answers, keep the same logic: dative answers *Wem?*, accusative answers *Was?*. This helps you check your own sentence.
@@ -143,29 +156,7 @@ In answers, keep the same logic: dative answers *Wem?*, accusative answers *Was?
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- With verbs like **geben, zeigen, schicken**, you often need two objects: dative person (*Wem?*) and accusative thing (*Was?*).
-- Normal order with two noun phrases is usually **dative before accusative**: *Ich gebe dem Kind das Buch.*
-- If the accusative object is a pronoun, it moves before the dative object: *Ich gebe es dem Kind.*
-- If both objects are pronouns, use **accusative first, then dative**: *Ich gebe es ihm.*
-- Questions help you check case choice: *Wem?* for dative, *Was?* for accusative.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Ich gebe dem Kind \*es.* → Ich gebe **es** dem Kind. (Accusative pronoun comes before the dative noun.)
-- *Ich erkläre \*ihm es.* → Ich erkläre **es ihm**. (With two pronouns: accusative first, then dative.)
-- *Wen gibst du dem Kind?* → **Was** gibst du dem Kind? (*Was?* asks for the thing in accusative.)
-- *Was gibst du \*der Kind?* → Was gibst du **dem** Kind? (*Kind* is neuter; dative singular article is *dem*.)
-- *Ich empfehle \*du den Film.* → Ich empfehle **dir** den Film. (*empfehlen* needs a dative person.)
-:::
-
----
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/verben-mit-dativ-und-akkusativ
@@ -261,6 +252,30 @@ Ich leihe dir mein Fahrrad.
 
 Sie zeigt ihren Freunden die Stadt.
 : She's showing her friends the city.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- With verbs like **geben, zeigen, schicken**, you often need two objects: dative person (*Wem?*) and accusative thing (*Was?*).
+- Normal order with two noun phrases is usually **dative before accusative**: *Ich gebe dem Kind das Buch.*
+- If the accusative object is a pronoun, it moves before the dative object: *Ich gebe es dem Kind.*
+- If both objects are pronouns, use **accusative first, then dative**: *Ich gebe es ihm.*
+- Questions help you check case choice: *Wem?* for dative, *Was?* for accusative.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich gebe dem Kind \*es.* → Ich gebe **es** dem Kind. (Accusative pronoun comes before the dative noun.)
+- *Ich erkläre \*ihm es.* → Ich erkläre **es ihm**. (With two pronouns: accusative first, then dative.)
+- *Wen gibst du dem Kind?* → **Was** gibst du dem Kind? (*Was?* asks for the thing in accusative.)
+- *Was gibst du \*der Kind?* → Was gibst du **dem** Kind? (*Kind* is neuter; dative singular article is *dem*.)
+- *Ich empfehle \*du den Film.* → Ich empfehle **dir** den Film. (*empfehlen* needs a dative person.)
 :::
 
 ---

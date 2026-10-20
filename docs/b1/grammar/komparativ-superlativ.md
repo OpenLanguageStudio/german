@@ -10,8 +10,6 @@ myst:
 ---
 # Komparativ und Superlativ vor Nomen
 
-> Comparative and superlative adjectives before nouns
-
 A comparative after a verb is straightforward, as in *dieser Zug ist schneller*, because no ending is needed. But what about *der schnellere Zug* or *das beste Angebot*? Whenever a comparative or superlative adjective appears **directly before a noun**, it must be **declined**, it takes the same endings as any other adjective in that position. It works in two steps: first the comparative or superlative stem, then the declension ending on top.
 
 ---
@@ -70,18 +68,25 @@ The comparative stem (*adjective + -er*) is treated exactly like a regular adjec
 
 Examples:
 
-- Wir nehmen den **schnelleren** Zug um 8 Uhr.  
-  *We're taking the faster train at 8 o'clock.*
-- Ich suche eine **günstigere** Wohnung in der Innenstadt.  
-  *I'm looking for a more affordable flat in the city centre.*
-- Das ist ein **besseres** Angebot als das letzte Mal.  
-  *That's a better offer than last time.*
-- Sie hat mit einem **älteren** Kollegen gesprochen.  
-  *She spoke with an older colleague.*
-- Hast du einen **größeren** Koffer für die Reise?  
-  *Do you have a bigger suitcase for the trip?*
-- Er schläft lieber in einem **ruhigeren** Zimmer.  
-  *He prefers sleeping in a quieter room.*
+:::{div} ol-examples
+Wir nehmen den **schnelleren** Zug um 8 Uhr.
+: We're taking the faster train at 8 o'clock.
+
+Ich suche eine **günstigere** Wohnung in der Innenstadt.
+: I'm looking for a more affordable flat in the city centre.
+
+Das ist ein **besseres** Angebot als das letzte Mal.
+: That's a better offer than last time.
+
+Sie hat mit einem **älteren** Kollegen gesprochen.
+: She spoke with an older colleague.
+
+Hast du einen **größeren** Koffer für die Reise?
+: Do you have a bigger suitcase for the trip?
+
+Er schläft lieber in einem **ruhigeren** Zimmer.
+: He prefers sleeping in a quieter room.
+:::
 
 :::{tip}
 Without any article (strong declension), the comparative adjective carries all the grammatical information itself:
@@ -91,6 +96,113 @@ Without any article (strong declension), the comparative adjective carries all t
 
 This pattern is less common in everyday speech, but you will encounter it in writing.
 :::
+
+---
+
+## Declining the superlative before a noun
+
+The superlative stem (*adjective + -st*- or *-est*-) is also declined like a regular adjective. Superlatives before nouns are almost always used with the **definite article** (*der, die, das*), this is by far the most natural pattern.
+
+**After a definite article** (*der, die, das*), weak endings:
+
+| | Maskulin | Feminin | Neutrum | Plural |
+|---|---|---|---|---|
+| Nom | der schnellst**e** Zug | die schnellst**e** Route | das schnellst**e** Modell | die schnellst**en** Züge |
+| Akk | den schnellst**en** Zug | die schnellst**e** Route | das schnellst**e** Modell | die schnellst**en** Züge |
+| Dat | dem schnellst**en** Zug | der schnellst**en** Route | dem schnellst**en** Modell | den schnellst**en** Zügen |
+| Gen | des schnellst**en** Zuges | der schnellst**en** Route | des schnellst**en** Modells | der schnellst**en** Züge |
+
+**After a possessive article** (*mein, dein, sein*, …), mixed endings:
+
+| | Maskulin | Feminin | Neutrum | Plural |
+|---|---|---|---|---|
+| Nom | mein schnellst**er** Zug | meine schnellst**e** Route | mein schnellst**es** Modell | meine schnellst**en** Züge |
+| Akk | meinen schnellst**en** Zug | meine schnellst**e** Route | mein schnellst**es** Modell | meine schnellst**en** Züge |
+| Dat | meinem schnellst**en** Zug | meiner schnellst**en** Route | meinem schnellst**en** Modell | meinen schnellst**en** Zügen |
+
+Examples:
+
+:::{div} ol-examples
+Das war **der längste** Tag meines Lebens.
+: That was the longest day of my life.
+
+Sie kauft immer **die günstigsten** Produkte im Supermarkt.
+: She always buys the cheapest products at the supermarket.
+
+Wir wohnen in **dem schönsten** Viertel der Stadt.
+: We live in the most beautiful neighbourhood in the city.
+
+Er hat **das schwerste** Paket alleine getragen.
+: He carried the heaviest package on his own.
+
+Das ist **mein liebstes** Buch aus diesem Jahr.
+: This is my favourite book from this year.
+
+Entschuldigung, wo ist **die nächste** Apotheke?
+: Excuse me, where is the nearest pharmacy?
+:::
+
+:::{note}
+The *am + …-sten* form is only used when the adjective does **not** appear directly before a noun. Compare:
+
+- Dieser Zug ist **am schnellsten**. – *This train is the fastest.* (predicative, after *sein*)
+- Das ist **der schnellste** Zug. – *This is the fastest train.* (attributive, before a noun)
+:::
+
+---
+
+## Irregular forms
+
+A small set of very common adjectives form their comparative and superlative in an irregular way. These appear all the time in conversation, so they are worth learning by heart. After forming the irregular stem, you still add the same declension endings as usual.
+
+| Base form | Comparative stem | Superlative stem | Meaning |
+|---|---|---|---|
+| gut | besser- | best- | good |
+| viel | mehr | meist- | much / many |
+| gern | lieber- | liebst- | gladly / preferably |
+| hoch | höher- | höchst- | high |
+| nah | näher- | nächst- | near / next |
+| groß | größer- | größt- | big / great |
+
+:::{warning}
+**mehr** (comparative of *viel*) is **never declined** before a noun, it always stays as **mehr**, regardless of case, gender, or number:
+
+- Es gibt **mehr** Möglichkeiten als früher. ✓ – *There are more options than before.*
+- ~~Es gibt mehrere Möglichkeiten~~ (Note: *mehrere* is a separate word meaning "several", not the comparative of *viel*)
+
+**weniger** (comparative of *wenig*, less/fewer) is also not declined before a noun.
+
+For preferences before a noun, German also often uses **Lieblings-** in everyday speech:
+
+- mein **Lieblings**buch
+- mein **liebstes** Buch
+:::
+
+Examples:
+
+:::{div} ol-examples
+Das ist **der beste** Film des Jahres.
+: That is the best film of the year.
+
+Sie hat **die meisten** Punkte in der Klasse.
+: She has the most points in the class.
+
+Wir brauchen **einen besseren** Plan für das Projekt.
+: We need a better plan for the project.
+
+Er wohnt in **einem höheren** Stockwerk.
+: He lives on a higher floor.
+
+Das ist **mein liebstes** Gericht.
+: That is my favourite dish.
+
+Entschuldigung, wo ist **die nächste** Bushaltestelle?
+: Excuse me, where is the nearest bus stop?
+:::
+
+---
+
+## Hear it in practice
 
 :::{audio-examples}
 :track: b1/grammar/komparativ-vor-nomen-nominativ
@@ -248,51 +360,6 @@ Ich suche einen schnelleren Zug.
 : I am looking for a faster train.
 :::
 
----
-
-## Declining the superlative before a noun
-
-The superlative stem (*adjective + -st*- or *-est*-) is also declined like a regular adjective. Superlatives before nouns are almost always used with the **definite article** (*der, die, das*), this is by far the most natural pattern.
-
-**After a definite article** (*der, die, das*), weak endings:
-
-| | Maskulin | Feminin | Neutrum | Plural |
-|---|---|---|---|---|
-| Nom | der schnellst**e** Zug | die schnellst**e** Route | das schnellst**e** Modell | die schnellst**en** Züge |
-| Akk | den schnellst**en** Zug | die schnellst**e** Route | das schnellst**e** Modell | die schnellst**en** Züge |
-| Dat | dem schnellst**en** Zug | der schnellst**en** Route | dem schnellst**en** Modell | den schnellst**en** Zügen |
-| Gen | des schnellst**en** Zuges | der schnellst**en** Route | des schnellst**en** Modells | der schnellst**en** Züge |
-
-**After a possessive article** (*mein, dein, sein*, …), mixed endings:
-
-| | Maskulin | Feminin | Neutrum | Plural |
-|---|---|---|---|---|
-| Nom | mein schnellst**er** Zug | meine schnellst**e** Route | mein schnellst**es** Modell | meine schnellst**en** Züge |
-| Akk | meinen schnellst**en** Zug | meine schnellst**e** Route | mein schnellst**es** Modell | meine schnellst**en** Züge |
-| Dat | meinem schnellst**en** Zug | meiner schnellst**en** Route | meinem schnellst**en** Modell | meinen schnellst**en** Zügen |
-
-Examples:
-
-- Das war **der längste** Tag meines Lebens.  
-  *That was the longest day of my life.*
-- Sie kauft immer **die günstigsten** Produkte im Supermarkt.  
-  *She always buys the cheapest products at the supermarket.*
-- Wir wohnen in **dem schönsten** Viertel der Stadt.  
-  *We live in the most beautiful neighbourhood in the city.*
-- Er hat **das schwerste** Paket alleine getragen.  
-  *He carried the heaviest package on his own.*
-- Das ist **mein liebstes** Buch aus diesem Jahr.  
-  *This is my favourite book from this year.*
-- Entschuldigung, wo ist **die nächste** Apotheke?  
-  *Excuse me, where is the nearest pharmacy?*
-
-:::{note}
-The *am + …-sten* form is only used when the adjective does **not** appear directly before a noun. Compare:
-
-- Dieser Zug ist **am schnellsten**. – *This train is the fastest.* (predicative, after *sein*)
-- Das ist **der schnellste** Zug. – *This is the fastest train.* (attributive, before a noun)
-:::
-
 :::{audio-examples}
 :track: b1/grammar/superlativ-vor-nomen
 :title: Superlativ vor Nomen
@@ -379,50 +446,6 @@ Er hat den größten Erfolg gehabt.
 Das ist die tiefste Stelle des Sees.
 : That's the deepest spot of the lake.
 :::
-
----
-
-## Irregular forms
-
-A small set of very common adjectives form their comparative and superlative in an irregular way. These appear all the time in conversation, so they are worth learning by heart. After forming the irregular stem, you still add the same declension endings as usual.
-
-| Base form | Comparative stem | Superlative stem | Meaning |
-|---|---|---|---|
-| gut | besser- | best- | good |
-| viel | mehr | meist- | much / many |
-| gern | lieber- | liebst- | gladly / preferably |
-| hoch | höher- | höchst- | high |
-| nah | näher- | nächst- | near / next |
-| groß | größer- | größt- | big / great |
-
-:::{warning}
-**mehr** (comparative of *viel*) is **never declined** before a noun, it always stays as **mehr**, regardless of case, gender, or number:
-
-- Es gibt **mehr** Möglichkeiten als früher. ✓ – *There are more options than before.*
-- ~~Es gibt mehrere Möglichkeiten~~ (Note: *mehrere* is a separate word meaning "several", not the comparative of *viel*)
-
-**weniger** (comparative of *wenig*, less/fewer) is also not declined before a noun.
-
-For preferences before a noun, German also often uses **Lieblings-** in everyday speech:
-
-- mein **Lieblings**buch
-- mein **liebstes** Buch
-:::
-
-Examples:
-
-- Das ist **der beste** Film des Jahres.  
-  *That is the best film of the year.*
-- Sie hat **die meisten** Punkte in der Klasse.  
-  *She has the most points in the class.*
-- Wir brauchen **einen besseren** Plan für das Projekt.  
-  *We need a better plan for the project.*
-- Er wohnt in **einem höheren** Stockwerk.  
-  *He lives on a higher floor.*
-- Das ist **mein liebstes** Gericht.  
-  *That is my favourite dish.*
-- Entschuldigung, wo ist **die nächste** Bushaltestelle?  
-  *Excuse me, where is the nearest bus stop?*
 
 ---
 

@@ -10,19 +10,6 @@ myst:
 ---
 # Negation
 
-> Advanced negation through word formation and precise placement of nicht
-
-:::{seealso}
-
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Indefinitpronomen](/b2/grammar/indefinitpronomen.md)
-- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Grammar > Nomen-Verb-Verbindungen](/b2/grammar/nomen-verb-verbindungen.md)
-- [B1 > Grammar > brauchen + zu + Infinitiv](/b1/grammar/brauchen-zu-infinitiv.md)
-- [A2 > Grammar > Doch bei Verneinungsfragen](/a2/grammar/pronouns/doch-negative-fragen.md)
-
-:::
-
 At B2, negation is not only about saying no. It also covers how German builds negative meaning inside words, and how the exact position of **nicht** shifts focus. That precision is what discussions, reports, and nuanced everyday communication depend on.
 
 *Examples:*
@@ -45,18 +32,25 @@ These prefixes often appear in formal or academic vocabulary. They can express a
 
 **Examples:**
 
-- Nach dem Nachtflug war ich völlig **des**orientiert.  
-  *After the night flight, I was completely disoriented.*
-- Er wirkte bei dem Thema auffällig **des**interessiert.  
-  *He seemed noticeably disinterested in the topic.*
-- Das Team wurde wegen eines Regelverstoßes **dis**qualifiziert.  
-  *The team was disqualified due to a rule violation.*
-- Die Entwicklung war in den letzten Monaten **dis**kontinuierlich.  
-  *Development was discontinuous over the last months.*
-- Ich habe deine Nachricht völlig **miss**verstanden.  
-  *I completely misunderstood your message.*
-- Der **Miss**brauch persönlicher Daten bleibt ein großes Problem.  
-  *The misuse of personal data remains a major problem.*
+:::{div} ol-examples
+Nach dem Nachtflug war ich völlig **des**orientiert.
+: After the night flight, I was completely disoriented.
+
+Er wirkte bei dem Thema auffällig **des**interessiert.
+: He seemed noticeably disinterested in the topic.
+
+Das Team wurde wegen eines Regelverstoßes **dis**qualifiziert.
+: The team was disqualified due to a rule violation.
+
+Die Entwicklung war in den letzten Monaten **dis**kontinuierlich.
+: Development was discontinuous over the last months.
+
+Ich habe deine Nachricht völlig **miss**verstanden.
+: I completely misunderstood your message.
+
+Der **Miss**brauch persönlicher Daten bleibt ein großes Problem.
+: The misuse of personal data remains a major problem.
+:::
 
 :::{warning}
 Not every word with these letter sequences is a transparent negation pattern. Learn frequent full words as chunks, especially in formal registers.
@@ -81,20 +75,28 @@ These forms are very common at B2 because they appear in abstract adjectives and
 
 **Examples:**
 
-- Die neue Regel ist für viele Mitarbeitende **un**klar.  
-  *The new rule is unclear for many employees.*
-- Seine Reaktion war überraschend **un**emotional.  
-  *His reaction was surprisingly unemotional.*
-- Das alte System ist inzwischen **in**effizient.  
-  *The old system is inefficient by now.*
-- Eine solche Klausel wäre wahrscheinlich **il**legal.  
-  *Such a clause would probably be illegal.*
-- Dieser Einwand ist für die aktuelle Frage **ir**relevant.  
-  *This objection is irrelevant to the current question.*
-- Der Bericht beschreibt ein **a**symmetrisches Machtverhältnis.  
-  *The report describes an asymmetric power relationship.*
-- Ihre Antwort blieb bewusst **non**verbal.  
-  *Her response remained deliberately nonverbal.*
+:::{div} ol-examples
+Die neue Regel ist für viele Mitarbeitende **un**klar.
+: The new rule is unclear for many employees.
+
+Seine Reaktion war überraschend **un**emotional.
+: His reaction was surprisingly unemotional.
+
+Das alte System ist inzwischen **in**effizient.
+: The old system is inefficient by now.
+
+Eine solche Klausel wäre wahrscheinlich **il**legal.
+: Such a clause would probably be illegal.
+
+Dieser Einwand ist für die aktuelle Frage **ir**relevant.
+: This objection is irrelevant to the current question.
+
+Der Bericht beschreibt ein **a**symmetrisches Machtverhältnis.
+: The report describes an asymmetric power relationship.
+
+Ihre Antwort blieb bewusst **non**verbal.
+: Her response remained deliberately nonverbal.
+:::
 
 :::{tip}
 When several prefixes seem possible, choose the form that is actually established in usage. For example, German normally uses **illegal**, not *unlegal*.
@@ -119,22 +121,31 @@ German also creates negative meaning through suffixes and compounds. This is ver
 
 **Examples:**
 
-- Nach der Kündigung war er mehrere Monate arbeits**los**.  
-  *After the dismissal, he was unemployed for several months.*
-- Bei der Nachricht war sie kurz sprach**los**.  
-  *She was briefly speechless at the news.*
-- Ich trinke heute nur alkoholfrei**e** Getränke.  
-  *I am only drinking alcohol-free beverages today.*
-- Die Firma bietet jetzt auch zucker**frei**e Produkte an.  
-  *The company now also offers sugar-free products.*
-- Viele fanden die Debatte am Ende sinn**leer**.  
-  *Many found the debate empty of meaning in the end.*
-- Der Bericht blieb leider inhalts**leer** und vage.  
-  *The report remained empty of content and vague.*
-- Für **Nicht**mitglieder ist die Teilnahme teurer.  
-  *Participation is more expensive for non-members.*
-- Die lange **Nicht**zahlung führte zu einer Mahnung.  
-  *The prolonged non-payment led to a reminder notice.*
+:::{div} ol-examples
+Nach der Kündigung war er mehrere Monate arbeits**los**.
+: After the dismissal, he was unemployed for several months.
+
+Bei der Nachricht war sie kurz sprach**los**.
+: She was briefly speechless at the news.
+
+Ich trinke heute nur alkoholfrei**e** Getränke.
+: I am only drinking alcohol-free beverages today.
+
+Die Firma bietet jetzt auch zucker**frei**e Produkte an.
+: The company now also offers sugar-free products.
+
+Viele fanden die Debatte am Ende sinn**leer**.
+: Many found the debate empty of meaning in the end.
+
+Der Bericht blieb leider inhalts**leer** und vage.
+: The report remained empty of content and vague.
+
+Für **Nicht**mitglieder ist die Teilnahme teurer.
+: Participation is more expensive for non-members.
+
+Die lange **Nicht**zahlung führte zu einer Mahnung.
+: The prolonged non-payment led to a reminder notice.
+:::
 
 :::{note}
 You may see older outline notes that write **-ller**. In current standard usage, the common productive pattern here is **-leer** (for example, *sinnleer*, *inhaltsleer*).
@@ -159,20 +170,28 @@ At B2, you need to control what exactly is negated. A practical core rule is: **
 
 **Examples:**
 
-- Ich kann heute leider **nicht** kommen.  
-  *Unfortunately, I cannot come today.*
-- Ich komme **nicht** heute, sondern erst morgen.  
-  *I am not coming today, but only tomorrow.*
-- Sie hat den Vertrag **nicht** unterschrieben.  
-  *She did not sign the contract.*
-- Wir haben **nicht** über das Budget gesprochen, sondern über Personalfragen.  
-  *We did not talk about the budget, but about personnel issues.*
-- Das ist **nicht** meine endgültige Entscheidung.  
-  *That is not my final decision.*
-- Er reagierte **nicht** ruhig, sondern sehr nervös.  
-  *He did not react calmly, but very nervously.*
-- Die Gäste sind **nicht** mit dem Zug angereist.  
-  *The guests did not arrive by train.*
+:::{div} ol-examples
+Ich kann heute leider **nicht** kommen.
+: Unfortunately, I cannot come today.
+
+Ich komme **nicht** heute, sondern erst morgen.
+: I am not coming today, but only tomorrow.
+
+Sie hat den Vertrag **nicht** unterschrieben.
+: She did not sign the contract.
+
+Wir haben **nicht** über das Budget gesprochen, sondern über Personalfragen.
+: We did not talk about the budget, but about personnel issues.
+
+Das ist **nicht** meine endgültige Entscheidung.
+: That is not my final decision.
+
+Er reagierte **nicht** ruhig, sondern sehr nervös.
+: He did not react calmly, but very nervously.
+
+Die Gäste sind **nicht** mit dem Zug angereist.
+: The guests did not arrive by train.
+:::
 
 :::{tip}
 If you are unsure, test the sentence as a subordinate clause with **dass**. The position of **nicht** and the scope often become easier to see.
@@ -221,3 +240,6 @@ Click the link below to practice everything from this page with an interactive t
 - [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
 - [B1 > Grammar > brauchen + zu + Infinitiv](/b1/grammar/brauchen-zu-infinitiv.md)
 - [A2 > Grammar > Doch bei Verneinungsfragen](/a2/grammar/pronouns/doch-negative-fragen.md)
+- [B2 > Grammar > Indefinitpronomen](/b2/grammar/indefinitpronomen.md)
+- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
+- [B2 > Grammar > Nomen-Verb-Verbindungen](/b2/grammar/nomen-verb-verbindungen.md)

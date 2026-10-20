@@ -10,8 +10,6 @@ myst:
 ---
 # Konjunktiv II
 
-> Polite requests, wishes, and hypothetical statements
-
 *Konjunktiv II* lets you step back from straightforward factual statements. You use it whenever you want to be polite, describe something you wish were true, or talk about an idea that isn't quite real, like how you'd love to have more free time, or asking a colleague if they *could* (not just *can*) help you out. At B1 level, you will mainly use two building blocks: the **würde + Infinitiv** construction for most verbs, and a short list of important special forms.
 
 ---
@@ -29,18 +27,25 @@ For the vast majority of German verbs, you form Konjunktiv II by placing the con
 | ihr | **würdet** | Ihr **würdet** das anders sehen. |
 | sie/Sie | **würden** | Sie **würden** das verstehen. |
 
-- Ich {verb}`würde` gern öfter ins Konzert gehen.  
-  *I would like to go to concerts more often.*
-- {verb}`Würdest` du mir kurz helfen?  
-  *Would you help me for a moment?*
-- Am liebsten {verb}`würde` ich eine längere Auszeit nehmen.  
-  *Ideally, I would take a longer break.*
-- Wir {verb}`würden` einen anderen Termin vorziehen.  
-  *We would prefer a different appointment.*
-- Das {verb}`würde` mir sehr helfen.  
-  *That would help me a lot.*
-- Er {verb}`würde` die Sache ganz anders angehen.  
-  *He would approach the matter quite differently.*
+:::{div} ol-examples
+Ich {verb}`würde` gern öfter ins Konzert gehen.
+: I would like to go to concerts more often.
+
+{verb}`Würdest` du mir kurz helfen?
+: Would you help me for a moment?
+
+Am liebsten {verb}`würde` ich eine längere Auszeit nehmen.
+: Ideally, I would take a longer break.
+
+Wir {verb}`würden` einen anderen Termin vorziehen.
+: We would prefer a different appointment.
+
+Das {verb}`würde` mir sehr helfen.
+: That would help me a lot.
+
+Er {verb}`würde` die Sache ganz anders angehen.
+: He would approach the matter quite differently.
+:::
 
 :::{note}
 The reason most verbs use *würde + Infinitiv* is that the "real" Konjunktiv II form of regular verbs looks identical to the Präteritum, which creates confusion. Using *würde* makes the meaning clear. For the special forms below, this is not a problem, they look distinct enough.
@@ -61,18 +66,25 @@ The reason most verbs use *würde + Infinitiv* is that the "real" Konjunktiv II 
 | müssen | musste | **müsste** |
 | dürfen | durfte | **dürfte** |
 
-- Das {verb}`wäre` wirklich eine gute Idee.  
-  *That would really be a good idea.*
-- Ich {verb}`hätte` gern mehr Zeit für meine Hobbys.  
-  *I would like more time for my hobbies.*
-- Das {verb}`könnte` ein Problem sein.  
-  *That could be a problem.*
-- Du {verb}`solltest` früher mit dem Lernen anfangen.  
-  *You should start studying earlier.*
-- Ich {verb}`müsste` eigentlich mehr schlafen.  
-  *I should really be sleeping more.*
-- {verb}`Dürfte` ich Sie kurz etwas fragen?  
-  *May I ask you something briefly?*
+:::{div} ol-examples
+Das {verb}`wäre` wirklich eine gute Idee.
+: That would really be a good idea.
+
+Ich {verb}`hätte` gern mehr Zeit für meine Hobbys.
+: I would like more time for my hobbies.
+
+Das {verb}`könnte` ein Problem sein.
+: That could be a problem.
+
+Du {verb}`solltest` früher mit dem Lernen anfangen.
+: You should start studying earlier.
+
+Ich {verb}`müsste` eigentlich mehr schlafen.
+: I should really be sleeping more.
+
+{verb}`Dürfte` ich Sie kurz etwas fragen?
+: May I ask you something briefly?
+:::
 
 :::{tip}
 Notice that **sollte** looks the same as the *Präteritum* of *sollen*. Context usually makes it clear: when you mean "should" (advice/recommendation), it is *Konjunktiv II*. When you mean "was supposed to" (something that was arranged), it is *Präteritum*: *Er sollte um acht da sein.* (He was supposed to be there at eight.)
@@ -91,18 +103,25 @@ One of the most practical uses of *Konjunktiv II* is making requests sound softe
 | I would like... | **Ich hätte gern** ... | **Ich hätte gern** ... |
 | May I...? | **Dürfte** ich ...? | **Dürfte** ich ...? |
 
-- {verb}`Könntest` du mir bitte das Salz reichen?  
-  *Could you please pass me the salt?*
-- {verb}`Würden` Sie mir Ihren Namen nennen?  
-  *Would you give me your name?*
-- Ich {verb}`hätte` gern einen Fensterplatz, bitte.  
-  *I would like a window seat, please.*
-- {verb}`Könnten` wir das Treffen auf nächste Woche verschieben?  
-  *Could we move the meeting to next week?*
-- {verb}`Dürfte` ich kurz Ihr Telefon benutzen?  
-  *May I use your phone for a moment?*
-- {verb}`Würdest` du mir beim Tragen helfen?  
-  *Would you help me carry (it)?*
+:::{div} ol-examples
+{verb}`Könntest` du mir bitte das Salz reichen?
+: Could you please pass me the salt?
+
+{verb}`Würden` Sie mir Ihren Namen nennen?
+: Would you give me your name?
+
+Ich {verb}`hätte` gern einen Fensterplatz, bitte.
+: I would like a window seat, please.
+
+{verb}`Könnten` wir das Treffen auf nächste Woche verschieben?
+: Could we move the meeting to next week?
+
+{verb}`Dürfte` ich kurz Ihr Telefon benutzen?
+: May I use your phone for a moment?
+
+{verb}`Würdest` du mir beim Tragen helfen?
+: Would you help me carry (it)?
+:::
 
 :::{note}
 **Könnten Sie** is standard in formal and professional settings. **Könntest du** suits friends and close colleagues. **Dürfte ich** feels more formal and respectful, useful in shops, offices, or when addressing someone you do not know well.
@@ -125,18 +144,25 @@ Common patterns:
 | **An deiner Stelle würde ich** ... | In your place, I would ... |
 | **Ich wünschte**, ich ... | I wish I ... |
 
-- Ich {verb}`hätte` gern mehr Zeit für Sport.  
-  *I would like more time for sport.*
-- Es {verb}`wäre` schön, öfter ins Ausland zu reisen.  
-  *It would be nice to travel abroad more often.*
-- Ich {verb}`wäre` gern selbstständig.  
-  *I would like to be self-employed.*
-- An deiner Stelle {verb}`würde` ich einen Arzt aufsuchen.  
-  *In your place, I would see a doctor.*
-- Das {verb}`könnte` eine interessante Lösung sein.  
-  *That could be an interesting solution.*
-- Ich wünschte, ich {verb}`hätte` mehr Urlaub.  
-  *I wish I had more holiday.*
+:::{div} ol-examples
+Ich {verb}`hätte` gern mehr Zeit für Sport.
+: I would like more time for sport.
+
+Es {verb}`wäre` schön, öfter ins Ausland zu reisen.
+: It would be nice to travel abroad more often.
+
+Ich {verb}`wäre` gern selbstständig.
+: I would like to be self-employed.
+
+An deiner Stelle {verb}`würde` ich einen Arzt aufsuchen.
+: In your place, I would see a doctor.
+
+Das {verb}`könnte` eine interessante Lösung sein.
+: That could be an interesting solution.
+
+Ich wünschte, ich {verb}`hätte` mehr Urlaub.
+: I wish I had more holiday.
+:::
 
 :::{tip}
 **Ich wünschte, ich ...** is a great phrase for expressing regrets or longings: *Ich wünschte, ich könnte besser singen.* (I wish I could sing better.) The verb after *ich wünschte* is always Konjunktiv II, placed at the end.
@@ -144,28 +170,7 @@ Common patterns:
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- For most verbs, use **würde + Infinitiv**: *Ich würde gern reisen.* (I would like to travel.)
-- A few common verbs have their **own Konjunktiv II forms**, use these directly:
-  - **sein** → **wäre**, **haben** → **hätte**
-  - **können** → **könnte**, **sollen** → **sollte**, **müssen** → **müsste**, **dürfen** → **dürfte**
-- Never combine these special verbs with *würde*: say **wäre**, not ~~würde sein~~.
-- Word order is the same as in normal statements and questions.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Ich würde sein müde.* → Ich **wäre** müde. (Use **wäre** directly for *sein* in Konjunktiv II, never *würde + sein*)
-- *Du würdest haben mehr Energie.* → Du **hättest** mehr Energie. (**hätte** is the Konjunktiv II of *haben*, never *würde + haben*)
-- *Konnte* er mir helfen? → **Könnte** er mir helfen? (Remember the umlaut – *konnte* is *Präteritum*, *könnte* is *Konjunktiv II*)
-- *Er würde müssen früher kommen.* → Er **müsste** früher kommen. (Use **müsste** directly, not *würde + müssen*)
-- *Ich wurde gern einen Kaffee.* → Ich **würde** gern einen Kaffee (trinken). (*wurde* is *Präteritum* of *werden*; *würde* is *Konjunktiv II*)
-:::
+## Hear it in practice
 
 :::{audio-examples}
 :track: b1/grammar/konjunktiv-ii-review
@@ -240,6 +245,31 @@ Könntest du mir kurz sagen, wann du losgehst?
 
 Eine kurze Rückmeldung würde helfen.
 : A short response would help.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- For most verbs, use **würde + Infinitiv**: *Ich würde gern reisen.* (I would like to travel.)
+- A few common verbs have their **own Konjunktiv II forms**, use these directly:
+  - **sein** → **wäre**, **haben** → **hätte**
+  - **können** → **könnte**, **sollen** → **sollte**, **müssen** → **müsste**, **dürfen** → **dürfte**
+- Never combine these special verbs with *würde*: say **wäre**, not ~~würde sein~~.
+- Word order is the same as in normal statements and questions.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich würde sein müde.* → Ich **wäre** müde. (Use **wäre** directly for *sein* in Konjunktiv II, never *würde + sein*)
+- *Du würdest haben mehr Energie.* → Du **hättest** mehr Energie. (**hätte** is the Konjunktiv II of *haben*, never *würde + haben*)
+- *Konnte* er mir helfen? → **Könnte** er mir helfen? (Remember the umlaut – *konnte* is *Präteritum*, *könnte* is *Konjunktiv II*)
+- *Er würde müssen früher kommen.* → Er **müsste** früher kommen. (Use **müsste** directly, not *würde + müssen*)
+- *Ich wurde gern einen Kaffee.* → Ich **würde** gern einen Kaffee (trinken). (*wurde* is *Präteritum* of *werden*; *würde* is *Konjunktiv II*)
 :::
 
 ---

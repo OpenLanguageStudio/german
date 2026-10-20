@@ -10,8 +10,6 @@ myst:
 ---
 # Partizip als Adjektiv
 
-> Participles used as adjectives
-
 German has two participle forms, the past participle (Partizip II) and the present participle (Partizip I), and both can work like regular adjectives to describe a noun. Instead of using a relative clause such as "the book that was ordered", you can say "the ordered book" (*das bestellte Buch*). This makes your German more concise and natural-sounding.
 
 When a participle is placed directly before a noun, it takes the same adjective endings as any other adjective. When it follows a linking verb like *sein* or *bleiben*, it stays unchanged with no ending.
@@ -36,23 +34,25 @@ Once you have the Partizip II, just add adjective endings to place it before a n
 
 ### Partizip II before a noun
 
-- Das {adj}`gekaufte` Buch liegt auf dem Tisch.  
-  *The purchased book is on the table.*
+:::{div} ol-examples
+Das {adj}`gekaufte` Buch liegt auf dem Tisch.
+: The purchased book is on the table.
 
-- Ich esse {adj}`gebratene` Kartoffeln zum Abendessen.  
-  *I'm eating fried potatoes for dinner.*
+Ich esse {adj}`gebratene` Kartoffeln zum Abendessen.
+: I'm eating fried potatoes for dinner.
 
-- Das {adj}`reparierte` Auto fährt jetzt wieder.  
-  *The repaired car is running again now.*
+Das {adj}`reparierte` Auto fährt jetzt wieder.
+: The repaired car is running again now.
 
-- Das {adj}`bestellte` Essen ist noch nicht angekommen.  
-  *The ordered food hasn't arrived yet.*
+Das {adj}`bestellte` Essen ist noch nicht angekommen.
+: The ordered food hasn't arrived yet.
 
-- Die {adj}`gestohlene` Tasche wurde glücklicherweise gefunden.  
-  *The stolen bag was luckily found.*
+Die {adj}`gestohlene` Tasche wurde glücklicherweise gefunden.
+: The stolen bag was luckily found.
 
-- Ein {adj}`geöffnetes` Fenster lässt frische Luft herein.  
-  *An opened window lets fresh air in.*
+Ein {adj}`geöffnetes` Fenster lässt frische Luft herein.
+: An opened window lets fresh air in.
+:::
 
 :::{tip}
 Verbs with inseparable prefixes (ver-, be-, er-, emp-, ent-, ge-, miss-) and verbs ending in -ieren do **not** get a *ge-* prefix in the Partizip II.
@@ -65,14 +65,16 @@ Verbs with inseparable prefixes (ver-, be-, er-, emp-, ent-, ge-, miss-) and ver
 
 When the participle follows *sein* or *bleiben*, it describes the current state of the subject. No adjective ending is used in this position.
 
-- Die Tür ist {adj}`abgeschlossen`.  
-  *The door is locked.*
+:::{div} ol-examples
+Die Tür ist {adj}`abgeschlossen`.
+: The door is locked.
 
-- Das Geschäft ist {adj}`geschlossen`.  
-  *The shop is closed.*
+Das Geschäft ist {adj}`geschlossen`.
+: The shop is closed.
 
-- Mein Handy ist {adj}`geladen`.  
-  *My phone is charged.*
+Mein Handy ist {adj}`geladen`.
+: My phone is charged.
+:::
 
 ---
 
@@ -97,23 +99,25 @@ The formula works for all verbs without exception, just add **-d** to the infini
 
 ### Partizip I before a noun
 
-- Das {adj}`weinende` Kind braucht Hilfe.  
-  *The crying child needs help.*
+:::{div} ol-examples
+Das {adj}`weinende` Kind braucht Hilfe.
+: The crying child needs help.
 
-- Der {adj}`schlafende` Hund liegt auf dem Sofa.  
-  *The sleeping dog is lying on the sofa.*
+Der {adj}`schlafende` Hund liegt auf dem Sofa.
+: The sleeping dog is lying on the sofa.
 
-- Die {adj}`wartenden` Gäste werden langsam ungeduldig.  
-  *The waiting guests are slowly getting impatient.*
+Die {adj}`wartenden` Gäste werden langsam ungeduldig.
+: The waiting guests are slowly getting impatient.
 
-- Ein {adj}`bellender` Hund sitzt vor der Haustür.  
-  *A barking dog is sitting in front of the front door.*
+Ein {adj}`bellender` Hund sitzt vor der Haustür.
+: A barking dog is sitting in front of the front door.
 
-- Eine {adj}`wachsende` Stadt braucht neue Schulen.  
-  *A growing city needs new schools.*
+Eine {adj}`wachsende` Stadt braucht neue Schulen.
+: A growing city needs new schools.
 
-- Die {adj}`spielenden` Kinder sind laut und fröhlich.  
-  *The playing children are loud and happy.*
+Die {adj}`spielenden` Kinder sind laut und fröhlich.
+: The playing children are loud and happy.
+:::
 
 :::{note}
 The Partizip I can also appear after *sein* in a predicative position, but this is mostly found in written or literary language.

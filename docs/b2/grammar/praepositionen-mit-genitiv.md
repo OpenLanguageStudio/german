@@ -10,18 +10,6 @@ myst:
 ---
 # Präpositionen mit Genitiv
 
-> Using genitive prepositions for time, place, reason, and contrast at B2
-
-:::{seealso}
-
-- [B2 > Grammar > Konnektor während](/b2/grammar/konnektor-waehrend.md)
-- [B2 > Grammar > Nominalisierung](/b2/grammar/nominalisierung.md)
-- [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)
-- [B1 > Grammar > wegen und trotz](/b1/grammar/wegen-trotz.md)
-- [B1 > Grammar > Zeitangaben: Präpositionen](/b1/grammar/zeitangaben-praepositionen.md)
-
-:::
-
 At B2, genitive prepositions help you sound more precise and more formal, especially in reports, academic writing, and professional communication. You can use them to locate events in time, describe boundaries in space, explain causes, and express contrast. In everyday speech, several of these prepositions are often used with dative, but written standard German usually prefers genitive.
 
 *Examples:*
@@ -45,14 +33,19 @@ Most prepositions in this lesson are followed by a genitive noun phrase in stand
 
 **Examples:**
 
-- {prep}`Wegen` **des** Streik**s** kam es zu Verspätungen.  
-  *Because of the strike, there were delays.*
-- {prep}`Trotz` **der** Unsicherheit investiert die Firma weiter.  
-  *Despite the uncertainty, the company continues to invest.*
-- {prep}`Innerhalb` **der** nächsten Woche klären wir die offenen Punkte.  
-  *Within the next week, we will clarify the open points.*
-- {prep}`Während` **des** Gespräch**s** wurden neue Prioritäten festgelegt.  
-  *During the discussion, new priorities were set.*
+:::{div} ol-examples
+{prep}`Wegen` **des** Streik**s** kam es zu Verspätungen.
+: Because of the strike, there were delays.
+
+{prep}`Trotz` **der** Unsicherheit investiert die Firma weiter.
+: Despite the uncertainty, the company continues to invest.
+
+{prep}`Innerhalb` **der** nächsten Woche klären wir die offenen Punkte.
+: Within the next week, we will clarify the open points.
+
+{prep}`Während` **des** Gespräch**s** wurden neue Prioritäten festgelegt.
+: During the discussion, new priorities were set.
+:::
 
 :::{note}
 In spoken German, {prep}`wegen`, {prep}`trotz`, {prep}`während`, and {prep}`dank` are often used with dative, for example: *wegen dem schlechten Wetter*. At B2, keep genitive as your default in formal writing.
@@ -76,16 +69,22 @@ These prepositions let you define temporal windows and spatial limits very clear
 
 **Examples:**
 
-- {prep}`Während` **des** Umzug**s** arbeitete das Team im Homeoffice.  
-  *During the move, the team worked from home.*
-- {prep}`Innerhalb` **der** Probezeit erhielt sie bereits mehr Verantwortung.  
-  *Within the probation period, she already received more responsibility.*
-- {prep}`Außerhalb` **der** Geschäftszeiten antwortet nur der Notdienst.  
-  *Outside business hours, only the emergency service responds.*
-- {prep}`Innerhalb` **des** Stadtzentrum**s** gilt Tempo 30.  
-  *Within the city center, a 30 km/h speed limit applies.*
-- {prep}`Außerhalb` **der** EU gelten andere Zollregeln.  
-  *Outside the EU, different customs rules apply.*
+:::{div} ol-examples
+{prep}`Während` **des** Umzug**s** arbeitete das Team im Homeoffice.
+: During the move, the team worked from home.
+
+{prep}`Innerhalb` **der** Probezeit erhielt sie bereits mehr Verantwortung.
+: Within the probation period, she already received more responsibility.
+
+{prep}`Außerhalb` **der** Geschäftszeiten antwortet nur der Notdienst.
+: Outside business hours, only the emergency service responds.
+
+{prep}`Innerhalb` **des** Stadtzentrum**s** gilt Tempo 30.
+: Within the city center, a 30 km/h speed limit applies.
+
+{prep}`Außerhalb` **der** EU gelten andere Zollregeln.
+: Outside the EU, different customs rules apply.
+:::
 
 :::{warning}
 Do not confuse prepositional {prep}`während` + noun phrase with conjunction {conj}`während` + clause.
@@ -113,16 +112,22 @@ These prepositions are useful when you want compact, noun-based cause statements
 
 **Examples:**
 
-- {prep}`Wegen` **des** Serverproblem**s** wurde die Anmeldung unterbrochen.  
-  *Because of the server problem, registration was interrupted.*
-- {prep}`Dank` **der** klaren Struktur war der Bericht leicht nachvollziehbar.  
-  *Thanks to the clear structure, the report was easy to follow.*
-- {prep}`Infolge` **des** Starkregen**s** mussten mehrere Straßen gesperrt werden.  
-  *As a result of heavy rain, several roads had to be closed.*
-- {prep}`Aufgrund` **der** neuen Daten hat die Behörde ihre Empfehlung angepasst.  
-  *Due to the new data, the authority adjusted its recommendation.*
-- {prep}`Wegen` **der** vielen Rückfragen verschob sich die Entscheidung um eine Woche.  
-  *Because of many follow-up questions, the decision was delayed by a week.*
+:::{div} ol-examples
+{prep}`Wegen` **des** Serverproblem**s** wurde die Anmeldung unterbrochen.
+: Because of the server problem, registration was interrupted.
+
+{prep}`Dank` **der** klaren Struktur war der Bericht leicht nachvollziehbar.
+: Thanks to the clear structure, the report was easy to follow.
+
+{prep}`Infolge` **des** Starkregen**s** mussten mehrere Straßen gesperrt werden.
+: As a result of heavy rain, several roads had to be closed.
+
+{prep}`Aufgrund` **der** neuen Daten hat die Behörde ihre Empfehlung angepasst.
+: Due to the new data, the authority adjusted its recommendation.
+
+{prep}`Wegen` **der** vielen Rückfragen verschob sich die Entscheidung um eine Woche.
+: Because of many follow-up questions, the decision was delayed by a week.
+:::
 
 :::{tip}
 If you need a more conversational tone, replace a prepositional phrase with a clause: *wegen des Staus* -> *weil es einen Stau gab*. For formal summaries, the noun phrase is often preferable.
@@ -142,14 +147,19 @@ Use the following link to practice this section.
 
 **Examples:**
 
-- {prep}`Trotz` **des** Widerstand**s** setzte die Stadt den Plan um.  
-  *Despite the resistance, the city implemented the plan.*
-- {prep}`Trotz` **der** hohen Kosten blieb das Angebot attraktiv.  
-  *Despite the high costs, the offer remained attractive.*
-- {prep}`Trotz` **des** Zeitdruck**s** arbeitete das Team sehr sorgfältig.  
-  *Despite the time pressure, the team worked very carefully.*
-- {prep}`Trotz` **der** kritischen Rückmeldungen veröffentlichte sie den Artikel.  
-  *Despite critical feedback, she published the article.*
+:::{div} ol-examples
+{prep}`Trotz` **des** Widerstand**s** setzte die Stadt den Plan um.
+: Despite the resistance, the city implemented the plan.
+
+{prep}`Trotz` **der** hohen Kosten blieb das Angebot attraktiv.
+: Despite the high costs, the offer remained attractive.
+
+{prep}`Trotz` **des** Zeitdruck**s** arbeitete das Team sehr sorgfältig.
+: Despite the time pressure, the team worked very carefully.
+
+{prep}`Trotz` **der** kritischen Rückmeldungen veröffentlichte sie den Artikel.
+: Despite critical feedback, she published the article.
+:::
 
 :::{note}
 In everyday speech, many people say *trotz dem Problem*. For formal writing and exams, use the genitive form: *trotz des Problems*.

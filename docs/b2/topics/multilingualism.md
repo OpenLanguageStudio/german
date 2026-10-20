@@ -6,14 +6,7 @@ myst:
 ---
 # Multilingualism
 
-> Vielsprachigkeit
-
-:::{seealso}
-
-- [A2 > Grammar > Nebensätze](/a2/grammar/sub-clauses/index.md)
-- [A2 > Grammar > Relativsätze](/a2/grammar/sub-clauses/relativsaetze.md)
-
-:::
+Growing up or living with several languages shapes accent, identity and the way people switch between them. This topic covers the vocabulary for talking about first and second languages, pronunciation, interpreting and *Code-Switching*.
 
 ## Vocabulary list
 
@@ -77,3 +70,10 @@ Heute würde ich sagen: Mehrsprachigkeit ist kein Wettbewerb, sondern eine Lands
 - Noor: Akzent ist für dich Thema?
 - Felix: Ja, aber nicht negativ. Er erzählt eine Geschichte.
 - Noor: Schöne Sicht. Ich fühle mich auch in mehreren Sprachen zu Hause.
+
+---
+
+## Related articles
+
+- [A2 > Grammar > Nebensätze](/a2/grammar/sub-clauses/index.md)
+- [A2 > Grammar > Relativsätze](/a2/grammar/sub-clauses/relativsaetze.md)

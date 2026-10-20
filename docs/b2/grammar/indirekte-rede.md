@@ -10,17 +10,6 @@ myst:
 ---
 # Indirekte Rede
 
-> Report statements clearly and neutrally in formal and spoken German
-
-:::{seealso}
-
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Irreale Vergleichssätze](/b2/grammar/irreale-vergleichssaetze.md)
-- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
-- [B1 > Grammar > Passiv](/b1/grammar/passiv.md)
-
-:::
-
 With *indirekte Rede*, you can report what other people say without presenting it as your own claim. At B2, this is especially important in formal contexts like scientific writing, newspaper articles, and news broadcasts. The usual signal is *Konjunktiv I*, but in everyday conversation you will also hear many *Indikativ* forms.
 
 *Examples:*
@@ -43,14 +32,19 @@ In formal German, *Konjunktiv I* marks distance from the content: you show that 
 
 **Examples:**
 
-- Die Ministerin erklärt, die Lage {verb}`sei` stabil.  
-  *The minister explains that the situation is stable.*
-- Die Zeitung berichtet, der Konzern {verb}`plane` weitere Investitionen.  
-  *The newspaper reports that the corporation plans further investments.*
-- Im Interview sagt der Forscher, die Daten {verb}`zeigten` einen klaren Trend.  
-  *In the interview, the researcher says the data show a clear trend.*
-- Der Nachrichtensprecher meldet, mehrere Flüge {verb}`fielen` aus.  
-  *The news anchor reports that several flights were canceled.*
+:::{div} ol-examples
+Die Ministerin erklärt, die Lage {verb}`sei` stabil.
+: The minister explains that the situation is stable.
+
+Die Zeitung berichtet, der Konzern {verb}`plane` weitere Investitionen.
+: The newspaper reports that the corporation plans further investments.
+
+Im Interview sagt der Forscher, die Daten {verb}`zeigten` einen klaren Trend.
+: In the interview, the researcher says the data show a clear trend.
+
+Der Nachrichtensprecher meldet, mehrere Flüge {verb}`fielen` aus.
+: The news anchor reports that several flights were canceled.
+:::
 
 :::{tip}
 If you want a neutral, professional tone, choose *Konjunktiv I* first. It signals: "I am reporting, not confirming."
@@ -74,14 +68,19 @@ You can report statements with *dass* clauses or without *dass*. Without *dass*,
 
 **Examples:**
 
-- Der Sprecher sagt, dass die Verhandlungen morgen {verb}`beginnen`.  
-  *The spokesperson says that the negotiations begin tomorrow.*
-- Der Sprecher sagt, die Verhandlungen {verb}`beginnen` morgen.  
-  *The spokesperson says the negotiations begin tomorrow.*
-- Sie fragte, ob die Lieferung schon angekommen {verb}`sei`.  
-  *She asked whether the delivery had already arrived.*
-- Er wollte wissen, warum der Termin verschoben {verb}`worden sei`.  
-  *He wanted to know why the appointment had been postponed.*
+:::{div} ol-examples
+Der Sprecher sagt, dass die Verhandlungen morgen {verb}`beginnen`.
+: The spokesperson says that the negotiations begin tomorrow.
+
+Der Sprecher sagt, die Verhandlungen {verb}`beginnen` morgen.
+: The spokesperson says the negotiations begin tomorrow.
+
+Sie fragte, ob die Lieferung schon angekommen {verb}`sei`.
+: She asked whether the delivery had already arrived.
+
+Er wollte wissen, warum der Termin verschoben {verb}`worden sei`.
+: He wanted to know why the appointment had been postponed.
+:::
 
 :::{note}
 At B2, both patterns (with and without *dass*) are useful. The version without *dass* is common in dense written reporting, especially when several reported clauses follow each other.
@@ -104,14 +103,19 @@ Some *Konjunktiv I* forms are identical to *Indikativ* (especially with *ich*, *
 
 **Examples:**
 
-- Die Zeugin sagte, sie {verb}`hätten` den Fahrer nicht erkannt.  
-  *The witness said they had not recognized the driver.*
-- Der Analyst schrieb, die Märkte {verb}`würden` kurzfristig nervös bleiben.  
-  *The analyst wrote that the markets would remain volatile in the short term.*
-- Er sagt, wir {verb}`wären` bereit für den nächsten Schritt.  
-  *He says we would be ready for the next step.*
-- Die Redaktion meldet, die Verhandlungen {verb}`würden` heute fortgesetzt.  
-  *The editorial team reports that the negotiations would continue today.*
+:::{div} ol-examples
+Die Zeugin sagte, sie {verb}`hätten` den Fahrer nicht erkannt.
+: The witness said they had not recognized the driver.
+
+Der Analyst schrieb, die Märkte {verb}`würden` kurzfristig nervös bleiben.
+: The analyst wrote that the markets would remain volatile in the short term.
+
+Er sagt, wir {verb}`wären` bereit für den nächsten Schritt.
+: He says we would be ready for the next step.
+
+Die Redaktion meldet, die Verhandlungen {verb}`würden` heute fortgesetzt.
+: The editorial team reports that the negotiations would continue today.
+:::
 
 :::{warning}
 Do not force Konjunktiv I if it sounds identical to Indikativ and creates ambiguity. At B2, clarity is more important than mechanical form choice.
@@ -134,14 +138,19 @@ In everyday spoken German, many speakers report statements in *Indikativ*, espec
 
 **Examples:**
 
-- Formal: Der Autor schreibt, das Ergebnis {verb}`sei` reproduzierbar.  
-  *Formal: The author writes that the result is reproducible.*
-- Informal: Er hat gesagt, dass das Ergebnis reproduzierbar {verb}`ist`.  
-  *Informal: He said that the result is reproducible.*
-- Formal: Die Sprecherin erklärt, die Situation {verb}`habe` sich verbessert.  
-  *Formal: The spokesperson explains that the situation has improved.*
-- Informal: Sie meint, die Situation {verb}`hat` sich verbessert.  
-  *Informal: She thinks the situation has improved.*
+:::{div} ol-examples
+Formal: Der Autor schreibt, das Ergebnis {verb}`sei` reproduzierbar.
+: Formal: The author writes that the result is reproducible.
+
+Informal: Er hat gesagt, dass das Ergebnis reproduzierbar {verb}`ist`.
+: Informal: He said that the result is reproducible.
+
+Formal: Die Sprecherin erklärt, die Situation {verb}`habe` sich verbessert.
+: Formal: The spokesperson explains that the situation has improved.
+
+Informal: Sie meint, die Situation {verb}`hat` sich verbessert.
+: Informal: She thinks the situation has improved.
+:::
 
 :::{tip}
 In exams and formal writing, prefer Konjunktiv-based indirect speech. In real conversation, an Indikativ report with *dass* is often the most natural choice.
@@ -184,3 +193,4 @@ Use the following link to practice this section:
 - [B2 > Grammar > Negation](/b2/grammar/negation.md)
 - [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
 - [B1 > Grammar > Passiv](/b1/grammar/passiv.md)
+- [B2 > Grammar > Irreale Vergleichssätze](/b2/grammar/irreale-vergleichssaetze.md)

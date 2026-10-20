@@ -5,14 +5,8 @@ myst:
     keywords: "german, german learning, german language, b2, small talk, smalltalk, konversation, networking, vokabular"
 ---
 # Small talk
-> Smalltalk
 
-:::{seealso}
-- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
-- [A2 > Concepts > Indirect questions](/a2/concepts/indirect-questions.md)
-- [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
-- [B2 > Grammar > Modalpartikeln](/b2/grammar/modalpartikeln.md)
-:::
+Small talk keeps a conversation going with someone not yet known well, at a networking event, a party or a conference. This topic covers safe openers, ways to keep a *Gesprächsthema* going and polite ways to move on.
 
 ## Vocabulary list
 
@@ -76,7 +70,6 @@ myst:
 | naheliegend | obvious, self-evident |
 | unpassend | inappropriate |
 
-
 ## Useful phrases
 
 | German | English | Note |
@@ -89,7 +82,7 @@ myst:
 
 ## Short story
 
-At einer Netzwerkveranstaltung an einem kühlen Abend nach einem unerwarteten Wetterumschwung stehen Lara und Jonas etwas abseits. Eine kurze Stille wirkt plötzlich länger, als sie ist. Lara spürt leichte Verlegenheit und sucht schnell nach einem neutralen Gesprächsanlass – nichts zu persönlich, aber auch nicht zu technisch. Sie entscheidet sich für einen sanften Einstieg: das Umfeld und dann ein Übergang zum Arbeitsalltag.
+Auf einer Netzwerkveranstaltung an einem kühlen Abend nach einem unerwarteten Wetterumschwung stehen Lara und Jonas etwas abseits. Eine kurze Stille wirkt plötzlich länger, als sie ist. Lara spürt leichte Verlegenheit und sucht schnell nach einem neutralen Gesprächsanlass – nichts zu persönlich, aber auch nicht zu technisch. Sie entscheidet sich für einen sanften Einstieg: das Umfeld und dann ein Übergang zum Arbeitsalltag.
 
 „Ganz schön frischer Abend nach dem Wetterumschwung, oder?“ fragt sie. Jonas nickt, dankbar für die Auflösung der Stille. Das Thema bleibt bewusst eine scheinbare Belanglosigkeit, doch es erfüllt seinen Zweck: Es schafft eine kleine Vertrautheit. Lara stellt eine Zwischenfrage, knüpft an und lenkt das Gesprächsthema hin zu etwas Nachhaltigerem: „Warst du schon öfter auf dieser Netzwerkveranstaltung?“ Jonas erzählt kurz, dass er die Kennenlernphase in neuen Teams oft schwierig findet und Smalltalk ihm hilft, Spannungen abzubauen. Er beschreibt, wie ein gut gewählter Anlass – ein Vortrag, das Buffet, ein technisches Detail – ein natürlicher Gesprächsanlass sein kann.
 
@@ -123,3 +116,12 @@ Lara: Wollen wir nachher jemanden gemeinsam ansprechen?
 Jonas: Gute Idee – ich schlage vor, wir beginnen beim Data-Stand.
 Lara: Einverstanden. Dann bis gleich nach dem nächsten Slot.
 Jonas: Bis gleich – und danke für den angenehmen Einstieg.
+
+---
+
+## Related articles
+
+- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
+- [A2 > Concepts > Indirect questions](/a2/concepts/indirect-questions.md)
+- [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
+- [B2 > Grammar > Modalpartikeln](/b2/grammar/modalpartikeln.md)

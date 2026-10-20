@@ -10,17 +10,6 @@ myst:
 ---
 # Nomen, Verben und Adjektive mit Präpositionen
 
-> Build more accurate B2 German by learning preposition patterns across word families
-
-:::{seealso}
-
-- [B2 > Grammar > Nomen-Verb-Verbindungen](/b2/grammar/nomen-verb-verbindungen.md)
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B1 > Grammar > Verben mit Präpositionen und Nebensatz](/b1/grammar/verben-mit-praepositionen.md)
-- [A2 > Grammar > Verben mit festen Präpositionen](/a2/grammar/prepositions/verben-mit-praeposition.md)
-
-:::
-
 By B2, many fixed combinations like *warten auf* or *interessiert an* are already familiar. What follows is connecting families of words: noun, verb, and adjective patterns that often share a preposition, though not always. Learned as systems rather than one by one, they produce fewer mistakes and a much more natural sound in speech and writing.
 
 *Examples:*
@@ -43,14 +32,19 @@ German often keeps the same preposition across related forms, but there are impo
 
 **Examples:**
 
-- Wir brauchen mehr {noun}`Hilfe` {prep}`bei` {dativ}`der` Planung.  
-  *We need more help with the planning.*
-- Das Team hilft uns {prep}`bei` {dativ}`der` Planung.  
-  *The team is helping us with the planning.*
-- Diese Checkliste ist sehr hilfreich {prep}`bei` {dativ}`der` Planung.  
-  *This checklist is very helpful for planning.*
-- Sie hat großes Interesse {prep}`an` {dativ}`dem` Thema, aber sie interessiert sich {prep}`für` {akk}`die` praktische Umsetzung.  
-  *She has great interest in the topic, but she is interested in the practical implementation.*
+:::{div} ol-examples
+Wir brauchen mehr {noun}`Hilfe` {prep}`bei` {dativ}`der` Planung.
+: We need more help with the planning.
+
+Das Team hilft uns {prep}`bei` {dativ}`der` Planung.
+: The team is helping us with the planning.
+
+Diese Checkliste ist sehr hilfreich {prep}`bei` {dativ}`der` Planung.
+: This checklist is very helpful for planning.
+
+Sie hat großes Interesse {prep}`an` {dativ}`dem` Thema, aber sie interessiert sich {prep}`für` {akk}`die` praktische Umsetzung.
+: She has great interest in the topic, but she is interested in the practical implementation.
+:::
 
 :::{tip}
 At B2, learn each entry with three pieces: base word, fixed preposition, and case. Then connect related entries only after checking real usage.
@@ -74,18 +68,25 @@ In many high-frequency patterns, all three forms keep the same preposition. Thes
 
 **Examples:**
 
-- Vielen Dank für deine {noun}`Hilfe` {prep}`bei` {dativ}`dem` Bericht.  
-  *Thanks a lot for your help with the report.*
-- Kannst du mir {prep}`bei` {dativ}`dem` Bericht helfen?  
-  *Can you help me with the report?*
-- Das neue Tool ist hilfreich {prep}`bei` {dativ}`der` Analyse großer Datenmengen.  
-  *The new tool is helpful when analyzing large data sets.*
-- Die Kundin zeigte große {noun}`Freude` {prep}`über` {akk}`die` schnelle Lösung.  
-  *The client showed great joy about the quick solution.*
-- Wir haben uns sehr {prep}`über` {akk}`die` Zusage gefreut.  
-  *We were very pleased about the confirmation.*
-- Das Team war sichtbar erfreut {prep}`über` {akk}`das` Ergebnis.  
-  *The team was visibly pleased about the result.*
+:::{div} ol-examples
+Vielen Dank für deine {noun}`Hilfe` {prep}`bei` {dativ}`dem` Bericht.
+: Thanks a lot for your help with the report.
+
+Kannst du mir {prep}`bei` {dativ}`dem` Bericht helfen?
+: Can you help me with the report?
+
+Das neue Tool ist hilfreich {prep}`bei` {dativ}`der` Analyse großer Datenmengen.
+: The new tool is helpful when analyzing large data sets.
+
+Die Kundin zeigte große {noun}`Freude` {prep}`über` {akk}`die` schnelle Lösung.
+: The client showed great joy about the quick solution.
+
+Wir haben uns sehr {prep}`über` {akk}`die` Zusage gefreut.
+: We were very pleased about the confirmation.
+
+Das Team war sichtbar erfreut {prep}`über` {akk}`das` Ergebnis.
+: The team was visibly pleased about the result.
+:::
 
 :::{note}
 Not every matching set has the same lexical root, like *Teilnahme an* and *beteiligt an*. What matters is the stable preposition-case pattern.
@@ -109,18 +110,25 @@ Many pairs match between noun and verb, while an adjective with the same preposi
 
 **Examples:**
 
-- Unsere {noun}`Bitte` {prep}`um` {akk}`eine` Fristverlängerung wurde angenommen.  
-  *Our request for an extension was accepted.*
-- Wir bitten {prep}`um` {akk}`eine` kurze Rückmeldung bis Freitag.  
-  *We ask for a short reply by Friday.*
-- Die Polizei setzte die {noun}`Suche` {prep}`nach` {dativ}`dem` Vermissten fort.  
-  *The police continued the search for the missing person.*
-- Die Polizei sucht weiter {prep}`nach` {dativ}`dem` Vermissten.  
-  *The police are still searching for the missing person.*
-- Die {noun}`Warnung` {prep}`vor` {dativ}`dem` Unwetter kam rechtzeitig.  
-  *The warning about the storm came in time.*
-- Die Expertin warnte {prep}`vor` {dativ}`zu` hohen Erwartungen.  
-  *The expert warned against expectations that are too high.*
+:::{div} ol-examples
+Unsere {noun}`Bitte` {prep}`um` {akk}`eine` Fristverlängerung wurde angenommen.
+: Our request for an extension was accepted.
+
+Wir bitten {prep}`um` {akk}`eine` kurze Rückmeldung bis Freitag.
+: We ask for a short reply by Friday.
+
+Die Polizei setzte die {noun}`Suche` {prep}`nach` {dativ}`dem` Vermissten fort.
+: The police continued the search for the missing person.
+
+Die Polizei sucht weiter {prep}`nach` {dativ}`dem` Vermissten.
+: The police are still searching for the missing person.
+
+Die {noun}`Warnung` {prep}`vor` {dativ}`dem` Unwetter kam rechtzeitig.
+: The warning about the storm came in time.
+
+Die Expertin warnte {prep}`vor` {dativ}`zu` hohen Erwartungen.
+: The expert warned against expectations that are too high.
+:::
 
 :::{warning}
 Do not force a parallel adjective just because noun and verb match. If no natural adjective pattern exists, use a different structure.
@@ -144,18 +152,25 @@ Another common B2 pattern is noun and adjective with one preposition, while the 
 
 **Examples:**
 
-- Es gibt großes {noun}`Interesse` {prep}`an` {dativ}`einer` schnellen Einigung.  
-  *There is great interest in a quick agreement.*
-- Viele Studierende sind {prep}`an` {dativ}`dem` Thema interessiert.  
-  *Many students are interested in the topic.*
-- Viele Studierende interessieren sich {prep}`für` {akk}`praktische` Anwendungen.  
-  *Many students are interested in practical applications.*
-- Die {noun}`Neugier` {prep}`auf` {akk}`das` neue Format war sofort spürbar.  
-  *The curiosity about the new format was immediately noticeable.*
-- Das Publikum war sehr neugierig {prep}`auf` {akk}`die` Ergebnisse.  
-  *The audience was very curious about the results.*
-- Er war lange wütend {prep}`auf` {akk}`seinen` Kollegen, hat sich später aber {prep}`über` {akk}`sich selbst` geärgert.  
-  *He was angry with his colleague for a long time, but later got upset with himself.*
+:::{div} ol-examples
+Es gibt großes {noun}`Interesse` {prep}`an` {dativ}`einer` schnellen Einigung.
+: There is great interest in a quick agreement.
+
+Viele Studierende sind {prep}`an` {dativ}`dem` Thema interessiert.
+: Many students are interested in the topic.
+
+Viele Studierende interessieren sich {prep}`für` {akk}`praktische` Anwendungen.
+: Many students are interested in practical applications.
+
+Die {noun}`Neugier` {prep}`auf` {akk}`das` neue Format war sofort spürbar.
+: The curiosity about the new format was immediately noticeable.
+
+Das Publikum war sehr neugierig {prep}`auf` {akk}`die` Ergebnisse.
+: The audience was very curious about the results.
+
+Er war lange wütend {prep}`auf` {akk}`seinen` Kollegen, hat sich später aber {prep}`über` {akk}`sich selbst` geärgert.
+: He was angry with his colleague for a long time, but later got upset with himself.
+:::
 
 :::{tip}
 Create contrast cards for split patterns: *Interesse an* vs *sich interessieren für* is one of the most useful B2 distinctions.

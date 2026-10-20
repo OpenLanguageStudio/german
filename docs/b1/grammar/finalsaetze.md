@@ -10,8 +10,6 @@ myst:
 ---
 # Finalsätze
 
-> Purpose clauses: expressing goals and intentions with "um...zu" and "damit"
-
 *Finalsätze* let you express the **goal or intention** behind an action, not why something happened (that is what *weil* is for), but **what you want to achieve**. In English, this sounds like "in order to", "so that", or simply "to". German has two main constructions for this: **um...zu** and **damit**. Choosing between them comes down to one question: do both parts of the sentence share the same subject?
 
 ---
@@ -24,18 +22,25 @@ Use **um...zu** when the subject performing the action and the subject pursuing 
 
 **Examples:**
 
-- Ich spare Geld, {conj}`um` eine neue Jacke **zu kaufen**.  
-  _I'm saving money in order to buy a new jacket._
-- Lisa macht Yoga, {conj}`um` nach der Arbeit **zu entspannen**.  
-  _Lisa does yoga in order to relax after work._
-- Wir nehmen den Zug, {conj}`um` schneller ans Ziel **zu kommen**.  
-  _We're taking the train in order to get to our destination faster._
-- Er trinkt jeden Morgen Kaffee, {conj}`um` wach **zu werden**.  
-  _He drinks coffee every morning to wake up._
-- Ich rufe das Hotel an, {conj}`um` ein Zimmer **zu reservieren**.  
-  _I'm calling the hotel to reserve a room._
-- {conj}`Um` pünktlich **anzukommen**, nehme ich den Frühzug.  
-  _In order to arrive on time, I take the early train._
+:::{div} ol-examples
+Ich spare Geld, {conj}`um` eine neue Jacke **zu kaufen**.
+: I'm saving money in order to buy a new jacket.
+
+Lisa macht Yoga, {conj}`um` nach der Arbeit **zu entspannen**.
+: Lisa does yoga in order to relax after work.
+
+Wir nehmen den Zug, {conj}`um` schneller ans Ziel **zu kommen**.
+: We're taking the train in order to get to our destination faster.
+
+Er trinkt jeden Morgen Kaffee, {conj}`um` wach **zu werden**.
+: He drinks coffee every morning to wake up.
+
+Ich rufe das Hotel an, {conj}`um` ein Zimmer **zu reservieren**.
+: I'm calling the hotel to reserve a room.
+
+{conj}`Um` pünktlich **anzukommen**, nehme ich den Frühzug.
+: In order to arrive on time, I take the early train.
+:::
 
 :::{tip}
 **Separable verbs and "um...zu":** the prefix and "zu" merge into a single word, written together without a space:
@@ -56,16 +61,22 @@ Use **damit** when the subject performing the action and the person who benefits
 
 **Examples:**
 
-- Ich erkläre es nochmal, {conj}`damit` du es **verstehst**.  
-  _I'll explain it again so that you understand._
-- Er spricht langsam, {conj}`damit` alle ihn gut **hören können**.  
-  _He speaks slowly so that everyone can hear him._
-- Meine Eltern kaufen ein zweites Bett, {conj}`damit` Oma bei uns **schlafen kann**.  
-  _My parents are buying a second bed so that grandma can sleep at our place._
-- Ich packe den Regenschirm ein, {conj}`damit` wir nicht nass **werden**.  
-  _I'm packing the umbrella so that we don't get wet._
-- Die Lehrerin schreibt die Wörter an die Tafel, {conj}`damit` die Schüler sie **abschreiben können**.  
-  _The teacher writes the words on the board so that the students can copy them._
+:::{div} ol-examples
+Ich erkläre es nochmal, {conj}`damit` du es **verstehst**.
+: I'll explain it again so that you understand.
+
+Er spricht langsam, {conj}`damit` alle ihn gut **hören können**.
+: He speaks slowly so that everyone can hear him.
+
+Meine Eltern kaufen ein zweites Bett, {conj}`damit` Oma bei uns **schlafen kann**.
+: My parents are buying a second bed so that grandma can sleep at our place.
+
+Ich packe den Regenschirm ein, {conj}`damit` wir nicht nass **werden**.
+: I'm packing the umbrella so that we don't get wet.
+
+Die Lehrerin schreibt die Wörter an die Tafel, {conj}`damit` die Schüler sie **abschreiben können**.
+: The teacher writes the words on the board so that the students can copy them.
+:::
 
 :::{note}
 **"damit" with the same subject:** It is grammatically possible to use "damit" even when the subjects are the same, for example: *Ich lerne viel, damit ich die Prüfung bestehe.* However, in this case "um...zu" is the more natural and concise choice. Aim to use "um...zu" whenever subjects are the same, it is a clear sign of fluency.
@@ -85,10 +96,13 @@ The key question is always: **who is the subject in each part of the sentence?**
 
 **Parallel examples, one context, two different subject situations:**
 
-- Ich mache das Licht aus, {conj}`um` Strom **zu sparen**.  
-  _I turn off the light to save electricity._ (same subject: ich → ich)
-- Ich mache das Licht aus, {conj}`damit` du **schlafen kannst**.  
-  _I turn off the light so that you can sleep._ (different subjects: ich → du)
+:::{div} ol-examples
+Ich mache das Licht aus, {conj}`um` Strom **zu sparen**.
+: I turn off the light to save electricity. (same subject: ich → ich)
+
+Ich mache das Licht aus, {conj}`damit` du **schlafen kannst**.
+: I turn off the light so that you can sleep. (different subjects: ich → du)
+:::
 
 :::{tip}
 A quick mental test: translate the sentence mentally into English. After "so that", is the subject the **same person** as before, or a **different person**?

@@ -7,37 +7,29 @@ myst:
 # Grammar
 
 ```{toctree}
----
-maxdepth: 1
-caption: Sentence Structure
----
+:maxdepth: 1
+:caption: Sentence Structure
 wortstellung-im-satz
 negation
 ```
 
 ```{toctree}
----
-maxdepth: 1
-caption: Passive Voice
----
+:maxdepth: 1
+:caption: Passive Voice
 passiv-und-passiversatzformen
 zustandspassiv
 ```
 
 ```{toctree}
----
-maxdepth: 1
-caption: Subjunctive and Reported Speech
----
+:maxdepth: 1
+:caption: Subjunctive and Reported Speech
 indirekte-rede
 irreale-vergleichssaetze
 ```
 
 ```{toctree}
----
-maxdepth: 1
-caption: Complex Sentences and Connectors
----
+:maxdepth: 1
+:caption: Complex Sentences and Connectors
 vergleichssaetze
 zweiteilige-konnektoren
 infinitivkonnektoren
@@ -47,44 +39,34 @@ relativsaetze-mit-wer
 ```
 
 ```{toctree}
----
-maxdepth: 1
-caption: Nouns and Nominalization
----
+:maxdepth: 1
+:caption: Nouns and Nominalization
 nomen-verb-verbindungen
 nominalisierung
 ```
 
 ```{toctree}
----
-maxdepth: 1
-caption: Adjectives and Participles
----
+:maxdepth: 1
+:caption: Adjectives and Participles
 partizipien-als-adjektive
 ```
 
 ```{toctree}
----
-maxdepth: 1
-caption: Pronouns and Reference Words
----
+:maxdepth: 1
+:caption: Pronouns and Reference Words
 das-wort-es
 indefinitpronomen
 ```
 
 ```{toctree}
----
-maxdepth: 1
-caption: Prepositions and Government
----
+:maxdepth: 1
+:caption: Prepositions and Government
 praepositionen-mit-genitiv
 nomen-verben-adjektive-praepositionen
 ```
 
 ```{toctree}
----
-maxdepth: 1
-caption: Discourse and Register
----
+:maxdepth: 1
+:caption: Discourse and Register
 modalpartikeln
 ```

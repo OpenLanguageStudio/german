@@ -10,18 +10,6 @@ myst:
 ---
 # Infinitivkonnektoren
 
-> Use um/ohne/anstatt/statt + zu to express purpose, limitation, and alternatives at B2
-
-:::{seealso}
-
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Das Wort es](/b2/grammar/das-wort-es.md)
-- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
-- [B1 > Grammar > Infinitiv mit „zu"](/b1/grammar/infinitiv-mit-zu.md)
-- [B1 > Concepts > Goals, intention, and purpose](/b1/concepts/goals-intention-purpose.md)
-
-:::
-
 At B2, you often need to connect actions efficiently without adding a full subordinate clause every time. *Infinitivkonnektoren* help you do that: you can state a goal, describe something that did not happen alongside another action, or present an alternative path. Once you control these patterns, your German sounds tighter and more idiomatic in both speech and writing.
 
 *Examples:*
@@ -45,14 +33,19 @@ All four connectors in this article use the same base structure: connector + inf
 
 **Examples:**
 
-- Sie öffnete die Datei, **um** die Zahlen sofort **zu prüfen**.  
-  *She opened the file to check the numbers immediately.*
-- Er ging aus dem Meeting, **ohne** etwas **zu sagen**.  
-  *He left the meeting without saying anything.*
-- **Anstatt** über das Problem **zu reden**, schrieb sie direkt einen Lösungsvorschlag.  
-  *Instead of talking about the problem, she wrote a concrete solution proposal.*
-- **Statt** länger **zu diskutieren**, haben wir einen Testlauf gestartet.  
-  *Instead of discussing longer, we started a trial run.*
+:::{div} ol-examples
+Sie öffnete die Datei, **um** die Zahlen sofort **zu prüfen**.
+: She opened the file to check the numbers immediately.
+
+Er ging aus dem Meeting, **ohne** etwas **zu sagen**.
+: He left the meeting without saying anything.
+
+**Anstatt** über das Problem **zu reden**, schrieb sie direkt einen Lösungsvorschlag.
+: Instead of talking about the problem, she wrote a concrete solution proposal.
+
+**Statt** länger **zu diskutieren**, haben wir einen Testlauf gestartet.
+: Instead of discussing longer, we started a trial run.
+:::
 
 :::{tip}
 With separable verbs, keep this visual pattern in mind: **an** + **zu** + fangen -> anzufangen, **vor** + **zu** + bereiten -> vorzubereiten.
@@ -72,14 +65,19 @@ Use **um ... zu** when you want to show intention or purpose. The action in the 
 
 **Examples:**
 
-- Wir haben die Sitzung vorgezogen, **um** schneller eine Entscheidung **zu treffen**.  
-  *We moved the meeting earlier to make a decision faster.*
-- Ich habe ihm eine Sprachnachricht geschickt, **um** Missverständnisse **zu vermeiden**.  
-  *I sent him a voice message to avoid misunderstandings.*
-- Das Team hat ein Pilotprojekt gestartet, **um** die Risiken besser **einschätzen zu können**.  
-  *The team launched a pilot project to assess the risks better.*
-- **Um** pünktlich am Flughafen **anzukommen**, sind wir deutlich früher losgefahren.  
-  *To arrive at the airport on time, we left much earlier.*
+:::{div} ol-examples
+Wir haben die Sitzung vorgezogen, **um** schneller eine Entscheidung **zu treffen**.
+: We moved the meeting earlier to make a decision faster.
+
+Ich habe ihm eine Sprachnachricht geschickt, **um** Missverständnisse **zu vermeiden**.
+: I sent him a voice message to avoid misunderstandings.
+
+Das Team hat ein Pilotprojekt gestartet, **um** die Risiken besser **einschätzen zu können**.
+: The team launched a pilot project to assess the risks better.
+
+**Um** pünktlich am Flughafen **anzukommen**, sind wir deutlich früher losgefahren.
+: To arrive at the airport on time, we left much earlier.
+:::
 
 :::{warning}
 Do not use **um ... zu** if the subject changes. If the doer is different, you usually need a finite clause (often with *damit*).
@@ -102,14 +100,19 @@ Use **ohne ... zu** to show that a second action did not happen while the first 
 
 **Examples:**
 
-- Er hat den Bericht veröffentlicht, **ohne** ihn vorher gründlich **zu prüfen**.  
-  *He published the report without checking it thoroughly first.*
-- Sie verließ die Firma, **ohne** sich von ihrem Team **zu verabschieden**.  
-  *She left the company without saying goodbye to her team.*
-- Wir können das nicht umsetzen, **ohne** zusätzliche Mittel **zu beantragen**.  
-  *We cannot implement this without applying for additional funds.*
-- Die Gruppe diskutierte weiter, **ohne** zu einem Ergebnis **zu kommen**.  
-  *The group kept discussing without reaching a result.*
+:::{div} ol-examples
+Er hat den Bericht veröffentlicht, **ohne** ihn vorher gründlich **zu prüfen**.
+: He published the report without checking it thoroughly first.
+
+Sie verließ die Firma, **ohne** sich von ihrem Team **zu verabschieden**.
+: She left the company without saying goodbye to her team.
+
+Wir können das nicht umsetzen, **ohne** zusätzliche Mittel **zu beantragen**.
+: We cannot implement this without applying for additional funds.
+
+Die Gruppe diskutierte weiter, **ohne** zu einem Ergebnis **zu kommen**.
+: The group kept discussing without reaching a result.
+:::
 
 :::{note}
 At B2, **ohne ... zu** is useful in evaluations and reports because it sounds compact and precise.
@@ -132,16 +135,22 @@ Both **anstatt ... zu** and **statt ... zu** introduce an alternative: one path 
 
 **Examples:**
 
-- **Anstatt** neue Schuldige **zu suchen**, sollten wir den Prozess verbessern.  
-  *Instead of looking for new people to blame, we should improve the process.*
-- **Anstatt** nur auf Probleme **hinzuweisen**, hat sie konkrete Vorschläge gemacht.  
-  *Instead of only pointing out problems, she made concrete proposals.*
-- **Statt** den Termin abzusagen, haben wir ihn auf nächste Woche verschoben.  
-  *Instead of canceling the appointment, we moved it to next week.*
-- **Statt** sich zu beschweren, könnten Sie direkt Feedback im System hinterlassen.  
-  *Instead of complaining, you could leave feedback directly in the system.*
-- Wir haben **statt** lange **zu verhandeln** eine Testphase vereinbart.  
-  *Instead of negotiating for a long time, we agreed on a trial phase.*
+:::{div} ol-examples
+**Anstatt** neue Schuldige **zu suchen**, sollten wir den Prozess verbessern.
+: Instead of looking for new people to blame, we should improve the process.
+
+**Anstatt** nur auf Probleme **hinzuweisen**, hat sie konkrete Vorschläge gemacht.
+: Instead of only pointing out problems, she made concrete proposals.
+
+**Statt** den Termin abzusagen, haben wir ihn auf nächste Woche verschoben.
+: Instead of canceling the appointment, we moved it to next week.
+
+**Statt** sich zu beschweren, könnten Sie direkt Feedback im System hinterlassen.
+: Instead of complaining, you could leave feedback directly in the system.
+
+Wir haben **statt** lange **zu verhandeln** eine Testphase vereinbart.
+: Instead of negotiating for a long time, we agreed on a trial phase.
+:::
 
 :::{tip}
 If your text is formal (reports, academic writing), **anstatt ... zu** can sound slightly more explicit. In everyday conversation, **statt ... zu** is often the default.
@@ -192,3 +201,4 @@ Click the link below to practice everything from this page with an interactive t
 - [B2 > Grammar > Negation](/b2/grammar/negation.md)
 - [B1 > Grammar > Infinitiv mit „zu"](/b1/grammar/infinitiv-mit-zu.md)
 - [B1 > Concepts > Goals, intention, and purpose](/b1/concepts/goals-intention-purpose.md)
+- [B2 > Grammar > Das Wort es](/b2/grammar/das-wort-es.md)

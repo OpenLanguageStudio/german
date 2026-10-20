@@ -10,17 +10,6 @@ myst:
 ---
 # Adjektivdeklination
 
-> Adjective endings, nominative, accusative, and dative
-
-:::{seealso}
-
-- [A2 > Grammar > Komparativ und Superlativ](/a2/grammar/adjectives/komparativ-superlativ.md)
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Grammar > Pronomen: alles, etwas, nichts](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md)
-
-:::
-
 In German, adjectives that appear **directly before a noun** change their ending to match the noun's **gender**, the **case**, and the **type of article** before them. This page covers the three cases you use most: the **Nominativ** (subject), the **Akkusativ** (direct object), and the **Dativ** (indirect object and after common prepositions).
 
 :::{note}
@@ -68,23 +57,129 @@ After a definite article, the singular ending is always **-e**, never -er or -es
 
 ### Examples
 
-- Der **neu**e Zug kommt pünktlich an.  
-  *The new train arrives on time.* (masc, definite)
+:::{div} ol-examples
+Der **neu**e Zug kommt pünktlich an.
+: The new train arrives on time. (masc, definite)
 
-- Eine **klein**e Katze schläft auf dem Sofa.  
-  *A small cat is sleeping on the sofa.* (fem, indefinite)
+Eine **klein**e Katze schläft auf dem Sofa.
+: A small cat is sleeping on the sofa. (fem, indefinite)
 
-- Das **groß**e Fenster gibt viel Licht.  
-  *The large window lets in a lot of light.* (neut, definite)
+Das **groß**e Fenster gibt viel Licht.
+: The large window lets in a lot of light. (neut, definite)
 
-- Ein **kalt**er Wind kommt vom Berg.  
-  *A cold wind comes from the mountain.* (masc, indefinite, note **-er**)
+Ein **kalt**er Wind kommt vom Berg.
+: A cold wind comes from the mountain. (masc, indefinite, note **-er**)
 
-- **Frisch**es Brot riecht wunderbar.  
-  *Fresh bread smells wonderful.* (neut, no article, note **-es**)
+**Frisch**es Brot riecht wunderbar.
+: Fresh bread smells wonderful. (neut, no article, note **-es**)
 
-- Die **klein**en Kinder spielen draußen.  
-  *The small children are playing outside.* (plural, definite)
+Die **klein**en Kinder spielen draußen.
+: The small children are playing outside. (plural, definite)
+:::
+
+---
+
+## Akkusativ, the direct object
+
+The Akkusativ is used for the direct object, the noun that directly receives the action of the verb.
+
+The good news: only the **masculine singular** forms are different from Nominativ. All other genders and plural stay exactly the same.
+
+**Endings:**
+
+| | Männlich | Feminin | Neutral | Plural |
+|---|---|---|---|---|
+| Definit (*den / die / das / die*) | -**en** | -e | -e | -en |
+| Indefinit / *kein* / Possessiv | -**en** | -e | -es | -en |
+| Kein Artikel | -**en** | -e | -es | -e |
+
+**Full examples with *neu* (new):**
+
+| | Männlich | Feminin | Neutral | Plural |
+|---|---|---|---|---|
+| Definit | den neu**en** Zug | die neu**e** Frau | das neu**e** Haus | die neu**en** Züge |
+| Indefinit / *kein* | einen neu**en** Zug | eine neu**e** Frau | ein neu**es** Haus | keine neu**en** Züge |
+| Kein Artikel | neu**en** Zug | neu**e** Frau | neu**es** Haus | neu**e** Züge |
+
+:::{tip}
+Only **masculine** changes between Nominativ and Akkusativ, it always takes **-en** in the accusative, regardless of the article type. Feminine, neuter, and plural are identical to their Nominativ forms.
+:::
+
+### Examples
+
+:::{div} ol-examples
+Ich kaufe den **alt**en Pulli.
+: I'm buying the old sweater. (masc, definite)
+
+Er bestellt einen **groß**en Kaffee.
+: He orders a large coffee. (masc, indefinite, note **-en**, not -er)
+
+Wir besuchen die **alt**e Kirche.
+: We visit the old church. (fem, definite, same ending as Nominativ)
+
+Hast du ein **gut**es Buch für mich?
+: Do you have a good book for me? (neut, indefinite, same ending as Nominativ)
+
+Ich mag **frisch**en Orangensaft.
+: I like fresh orange juice. (masc, no article, note **-en**)
+
+Siehst du den **klein**en Hund dort drüben?
+: Do you see the small dog over there? (masc, definite)
+:::
+
+---
+
+## Dativ, indirect object and after prepositions
+
+Use the Dativ for the indirect object (the person who receives something) and after many common prepositions: *mit, in, auf, an, bei, nach, seit, von, zu, aus*, and others.
+
+The Dativ has the most predictable rule of all three cases: **after any article, the ending is almost always -en**. Only without an article are there differences across genders.
+
+**Endings:**
+
+| | Männlich | Feminin | Neutral | Plural |
+|---|---|---|---|---|
+| Definit (*dem / der / dem / den*) | -**en** | -**en** | -**en** | -**en** |
+| Indefinit / *kein* / Possessiv | -**en** | -**en** | -**en** | -**en** |
+| Kein Artikel | -**em** | -**er** | -**em** | -**en** |
+
+**Full examples with *gut* (good):**
+
+| | Männlich | Feminin | Neutral | Plural |
+|---|---|---|---|---|
+| Definit | dem gut**en** Freund | der gut**en** Freundin | dem gut**en** Kind | den gut**en** Freunden |
+| Indefinit / *kein* | einem gut**en** Freund | einer gut**en** Freundin | einem gut**en** Kind | keinen gut**en** Freunden |
+| Kein Artikel | gut**em** Freund | gut**er** Freundin | gut**em** Kind | gut**en** Freunden |
+
+:::{tip}
+A simple rule for Dativ: if there is any article before the adjective, use **-en**. Only without an article are the endings different: **-em** for masculine and neuter, **-er** for feminine, **-en** for plural.
+:::
+
+### Examples
+
+:::{div} ol-examples
+Ich wohne in einem **klein**en Haus.
+: I live in a small house. (neut, indefinite – **-en**)
+
+Sie fährt mit dem **alt**en Bus.
+: She travels by the old bus. (masc, definite – **-en**)
+
+Er hilft dem **neu**en Lehrer.
+: He helps the new teacher. (masc, definite, indirect object – **-en**)
+
+Wir treffen uns bei einer **nett**en Freundin.
+: We're meeting at a nice friend's place. (fem, indefinite – **-en**)
+
+Mit **frisch**em Brot schmeckt das Frühstück besser.
+: With fresh bread, breakfast tastes better. (neut, no article – **-em**, not -en)
+
+Sie trinkt den Kaffee mit **warm**er Milch.
+: She drinks her coffee with warm milk. (fem, no article – **-er**)
+:::
+
+---
+
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/adjektivendungen-nominativ
@@ -182,54 +277,6 @@ Heiße Schokolade schmeckt lecker.
 : Hot chocolate tastes delicious.
 :::
 
----
-
-## Akkusativ, the direct object
-
-The Akkusativ is used for the direct object, the noun that directly receives the action of the verb.
-
-The good news: only the **masculine singular** forms are different from Nominativ. All other genders and plural stay exactly the same.
-
-**Endings:**
-
-| | Männlich | Feminin | Neutral | Plural |
-|---|---|---|---|---|
-| Definit (*den / die / das / die*) | -**en** | -e | -e | -en |
-| Indefinit / *kein* / Possessiv | -**en** | -e | -es | -en |
-| Kein Artikel | -**en** | -e | -es | -e |
-
-**Full examples with *neu* (new):**
-
-| | Männlich | Feminin | Neutral | Plural |
-|---|---|---|---|---|
-| Definit | den neu**en** Zug | die neu**e** Frau | das neu**e** Haus | die neu**en** Züge |
-| Indefinit / *kein* | einen neu**en** Zug | eine neu**e** Frau | ein neu**es** Haus | keine neu**en** Züge |
-| Kein Artikel | neu**en** Zug | neu**e** Frau | neu**es** Haus | neu**e** Züge |
-
-:::{tip}
-Only **masculine** changes between Nominativ and Akkusativ, it always takes **-en** in the accusative, regardless of the article type. Feminine, neuter, and plural are identical to their Nominativ forms.
-:::
-
-### Examples
-
-- Ich kaufe den **alt**en Pulli.  
-  *I'm buying the old sweater.* (masc, definite)
-
-- Er bestellt einen **groß**en Kaffee.  
-  *He orders a large coffee.* (masc, indefinite, note **-en**, not -er)
-
-- Wir besuchen die **alt**e Kirche.  
-  *We visit the old church.* (fem, definite, same ending as Nominativ)
-
-- Hast du ein **gut**es Buch für mich?  
-  *Do you have a good book for me?* (neut, indefinite, same ending as Nominativ)
-
-- Ich mag **frisch**en Orangensaft.  
-  *I like fresh orange juice.* (masc, no article, note **-en**)
-
-- Siehst du den **klein**en Hund dort drüben?  
-  *Do you see the small dog over there?* (masc, definite)
-
 :::{audio-examples}
 :track: a2/grammar/adjektivendungen-akkusativ
 :title: Adjektivendungen – Akkusativ
@@ -325,54 +372,6 @@ Wir buchen einen billigen Flug.
 Ich trinke heiße Schokolade.
 : I'm drinking hot chocolate.
 :::
-
----
-
-## Dativ, indirect object and after prepositions
-
-Use the Dativ for the indirect object (the person who receives something) and after many common prepositions: *mit, in, auf, an, bei, nach, seit, von, zu, aus*, and others.
-
-The Dativ has the most predictable rule of all three cases: **after any article, the ending is almost always -en**. Only without an article are there differences across genders.
-
-**Endings:**
-
-| | Männlich | Feminin | Neutral | Plural |
-|---|---|---|---|---|
-| Definit (*dem / der / dem / den*) | -**en** | -**en** | -**en** | -**en** |
-| Indefinit / *kein* / Possessiv | -**en** | -**en** | -**en** | -**en** |
-| Kein Artikel | -**em** | -**er** | -**em** | -**en** |
-
-**Full examples with *gut* (good):**
-
-| | Männlich | Feminin | Neutral | Plural |
-|---|---|---|---|---|
-| Definit | dem gut**en** Freund | der gut**en** Freundin | dem gut**en** Kind | den gut**en** Freunden |
-| Indefinit / *kein* | einem gut**en** Freund | einer gut**en** Freundin | einem gut**en** Kind | keinen gut**en** Freunden |
-| Kein Artikel | gut**em** Freund | gut**er** Freundin | gut**em** Kind | gut**en** Freunden |
-
-:::{tip}
-A simple rule for Dativ: if there is any article before the adjective, use **-en**. Only without an article are the endings different: **-em** for masculine and neuter, **-er** for feminine, **-en** for plural.
-:::
-
-### Examples
-
-- Ich wohne in einem **klein**en Haus.  
-  *I live in a small house.* (neut, indefinite – **-en**)
-
-- Sie fährt mit dem **alt**en Bus.  
-  *She travels by the old bus.* (masc, definite – **-en**)
-
-- Er hilft dem **neu**en Lehrer.  
-  *He helps the new teacher.* (masc, definite, indirect object – **-en**)
-
-- Wir treffen uns bei einer **nett**en Freundin.  
-  *We're meeting at a nice friend's place.* (fem, indefinite – **-en**)
-
-- Mit **frisch**em Brot schmeckt das Frühstück besser.  
-  *With fresh bread, breakfast tastes better.* (neut, no article – **-em**, not -en)
-
-- Sie trinkt den Kaffee mit **warm**er Milch.  
-  *She drinks her coffee with warm milk.* (fem, no article – **-er**)
 
 :::{audio-examples}
 :track: a2/grammar/adjektivendungen-dativ
@@ -500,3 +499,5 @@ Sie trinkt aus heißer Schokolade Tasse.
 - [A2 > Grammar > Komparativ und Superlativ](/a2/grammar/adjectives/komparativ-superlativ.md)
 - [A2 > Grammar > Das Verb werden](/a2/grammar/verbs/verb-werden.md)
 - [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
+- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
+- [A2 > Grammar > Pronomen: alles, etwas, nichts](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md)

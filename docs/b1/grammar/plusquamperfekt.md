@@ -39,26 +39,28 @@ The **Partizip II** comes at the end of the sentence (or clause).
 
 **Examples**
 
-- Ich {verb}`hatte` den Film schon {verb}`gesehen`, bevor er im Kino anlief.  
-  _I had already seen the film before it was released in cinemas._
+:::{div} ol-examples
+Ich {verb}`hatte` den Film schon {verb}`gesehen`, bevor er im Kino anlief.
+: I had already seen the film before it was released in cinemas.
 
-- Er {verb}`hatte` die Wohnung aufgeräumt und wartete auf die Gäste.  
-  _He had tidied the flat and was waiting for the guests._
+Er {verb}`hatte` die Wohnung aufgeräumt und wartete auf die Gäste.
+: He had tidied the flat and was waiting for the guests.
 
-- Sie {verb}`hatte` das Formular {verb}`ausgefüllt` und abgegeben.  
-  _She had filled in the form and handed it in._
+Sie {verb}`hatte` das Formular {verb}`ausgefüllt` und abgegeben.
+: She had filled in the form and handed it in.
 
-- Das Konzert {verb}`hatte` schon {verb}`angefangen`, als wir ankamen.  
-  _The concert had already started when we arrived._
+Das Konzert {verb}`hatte` schon {verb}`angefangen`, als wir ankamen.
+: The concert had already started when we arrived.
 
-- Wir {verb}`hatten` alles {verb}`vorbereitet`, aber das Wetter spielte nicht mit.  
-  _We had prepared everything, but the weather didn't cooperate._
+Wir {verb}`hatten` alles {verb}`vorbereitet`, aber das Wetter spielte nicht mit.
+: We had prepared everything, but the weather didn't cooperate.
 
-- Der Zug {verb}`war` schon {verb}`abgefahren`, als er den Bahnhof erreichte.  
-  _The train had already departed when he reached the station._
+Der Zug {verb}`war` schon {verb}`abgefahren`, als er den Bahnhof erreichte.
+: The train had already departed when he reached the station.
 
-- Sie {verb}`waren` früh {verb}`aufgestanden` und hatten Zeit für ein ruhiges Frühstück.  
-  _They had got up early and had time for a quiet breakfast._
+Sie {verb}`waren` früh {verb}`aufgestanden` und hatten Zeit für ein ruhiges Frühstück.
+: They had got up early and had time for a quiet breakfast.
+:::
 
 :::{tip}
 Choose **war + Partizip II** for verbs that express movement from one place to
@@ -86,23 +88,25 @@ The *Partizip II* comes just before it: *...gegessen hatte*, *...angekommen war*
 
 **Examples**
 
-- {conj}`Nachdem` er {verb}`gefrühstückt hatte`, fuhr er zur Arbeit.  
-  _After he had had breakfast, he drove to work._
+:::{div} ol-examples
+{conj}`Nachdem` er {verb}`gefrühstückt hatte`, fuhr er zur Arbeit.
+: After he had had breakfast, he drove to work.
 
-- {conj}`Nachdem` wir die Rechnung {verb}`bezahlt hatten`, verließen wir das Restaurant.  
-  _After we had paid the bill, we left the restaurant._
+{conj}`Nachdem` wir die Rechnung {verb}`bezahlt hatten`, verließen wir das Restaurant.
+: After we had paid the bill, we left the restaurant.
 
-- {conj}`Nachdem` das Kind {verb}`eingeschlafen war`, räumten die Eltern auf.  
-  _After the child had fallen asleep, the parents tidied up._
+{conj}`Nachdem` das Kind {verb}`eingeschlafen war`, räumten die Eltern auf.
+: After the child had fallen asleep, the parents tidied up.
 
-- Er rief an, {conj}`nachdem` er die E-Mail {verb}`gelesen hatte`.  
-  _He called after he had read the email._
+Er rief an, {conj}`nachdem` er die E-Mail {verb}`gelesen hatte`.
+: He called after he had read the email.
 
-- {conj}`Nachdem` sie {verb}`umgezogen war`, lernte sie viele neue Leute kennen.  
-  _After she had moved (house), she got to know many new people._
+{conj}`Nachdem` sie {verb}`umgezogen war`, lernte sie viele neue Leute kennen.
+: After she had moved (house), she got to know many new people.
 
-- {conj}`Nachdem` wir alles {verb}`gepackt hatten`, konnten wir endlich losfahren.  
-  _After we had packed everything, we could finally set off._
+{conj}`Nachdem` wir alles {verb}`gepackt hatten`, konnten wir endlich losfahren.
+: After we had packed everything, we could finally set off.
+:::
 
 :::{tip}
 The *nachdem* clause can come at the start or the end of the sentence. When it
@@ -114,24 +118,7 @@ When it comes second, the word order is normal:
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-- Form: **hatte** or **war** (*Präteritum* of *haben*/*sein*) + **Partizip II**
-- Use **hatte + Partizip II** for most verbs; use **war + Partizip II** for movement and change-of-state verbs (same rule as in the *Perfekt*)
-- The *Partizip II* is identical to the one you already know from the *Perfekt*, nothing new to learn
-- After *nachdem*, always use the *Plusquamperfekt*; the auxiliary (*hatte*/*war*) goes to the very end of the clause
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-- *Nachdem er \*gegessen hat, ging er schlafen.* → **gegessen hatte** (*Plusquamperfekt*, not *Perfekt*, is required after *nachdem*)
-- *Er \*hatte gegangen.* → Er **war gegangen**. (movement verbs take *war*, not *hatte*)
-- *Nachdem er hatte gegessen, ...* → Nachdem er gegessen **hatte**, ... (the auxiliary goes to the very end of the clause)
-- *Sie hatte das Buch \*lesen.* → Sie hatte das Buch **gelesen**. (*Partizip II*, not infinitive)
-- *Das Kind war \*geschlafen.* → Das Kind **hatte geschlafen**. (*schlafen* is a state, not a movement or change, it takes *hatte*)
-:::
+## Hear it in practice
 
 :::{audio-examples}
 :track: b1/grammar/plusquamperfekt
@@ -200,6 +187,27 @@ Er hatte seine Hausaufgaben gemacht, bevor er spielen ging.
 
 Nachdem sie eingekauft hatte, hat sie das Abendessen gekocht.
 : After she had shopped, she cooked dinner.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+- Form: **hatte** or **war** (*Präteritum* of *haben*/*sein*) + **Partizip II**
+- Use **hatte + Partizip II** for most verbs; use **war + Partizip II** for movement and change-of-state verbs (same rule as in the *Perfekt*)
+- The *Partizip II* is identical to the one you already know from the *Perfekt*, nothing new to learn
+- After *nachdem*, always use the *Plusquamperfekt*; the auxiliary (*hatte*/*war*) goes to the very end of the clause
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+- *Nachdem er \*gegessen hat, ging er schlafen.* → **gegessen hatte** (*Plusquamperfekt*, not *Perfekt*, is required after *nachdem*)
+- *Er \*hatte gegangen.* → Er **war gegangen**. (movement verbs take *war*, not *hatte*)
+- *Nachdem er hatte gegessen, ...* → Nachdem er gegessen **hatte**, ... (the auxiliary goes to the very end of the clause)
+- *Sie hatte das Buch \*lesen.* → Sie hatte das Buch **gelesen**. (*Partizip II*, not infinitive)
+- *Das Kind war \*geschlafen.* → Das Kind **hatte geschlafen**. (*schlafen* is a state, not a movement or change, it takes *hatte*)
 :::
 
 ---

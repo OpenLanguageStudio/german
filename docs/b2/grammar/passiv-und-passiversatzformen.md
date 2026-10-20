@@ -10,16 +10,6 @@ myst:
 ---
 # Passiv und Passiversatzformen
 
-> Use advanced passive structures and natural alternatives to sound precise and idiomatic at B2
-
-:::{seealso}
-- [B1 > Grammar > Passiv](/b1/grammar/passiv.md)
-- [B1 > Grammar > lassen + Infinitiv](/b1/grammar/lassen-infinitiv.md)
-- [B2 > Grammar > Partizipien als Adjektive](/b2/grammar/partizipien-als-adjektive.md)
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Nominalisierung von Verben](/b2/grammar/nominalisierung.md)
-:::
-
 At B2, forming the passive correctly is only half the job. The other half is choosing the most natural structure for the context and register. This page shows how to build the main passive tenses and when to switch to common *Passiversatzformen* like *sein + zu + Infinitiv*, *sich lassen + Infinitiv*, and adjectives ending in *-bar* or *-lich*.
 
 *Examples:*
@@ -41,14 +31,19 @@ The passive puts the process or result in focus, not the person doing it. At B2,
 
 **Examples:**
 
-- Der Vertrag **wird** aktuell **geprüft**.  
-  _The contract is currently being reviewed._
-- Die Ergebnisse **wurden** gestern **veröffentlicht**.  
-  _The results were published yesterday._
-- Die Entscheidung **wurde von** der Kommission **getroffen**.  
-  _The decision was made by the commission._
-- In der Abteilung **wird** zurzeit viel **diskutiert**.  
-  _There is a lot of discussion in the department at the moment._
+:::{div} ol-examples
+Der Vertrag **wird** aktuell **geprüft**.
+: The contract is currently being reviewed.
+
+Die Ergebnisse **wurden** gestern **veröffentlicht**.
+: The results were published yesterday.
+
+Die Entscheidung **wurde von** der Kommission **getroffen**.
+: The decision was made by the commission.
+
+In der Abteilung **wird** zurzeit viel **diskutiert**.
+: There is a lot of discussion in the department at the moment.
+:::
 
 :::{note}
 At B2, you should actively choose between active and passive for text flow. Passive is helpful when the topic is the process or affected object, but overusing it can make a text heavy.
@@ -67,14 +62,19 @@ These two forms are the foundation of the *Vorgangspassiv*. Use *Präsens* for c
 
 **Examples:**
 
-- Die Unterlagen **werden** heute noch **gescannt**.  
-  _The documents are still being scanned today._
-- Neue Mitarbeitende **werden** im ersten Monat intensiv **eingearbeitet**.  
-  _New employees are trained intensively in the first month._
-- Das Produkt **wurde** im letzten Jahr komplett **überarbeitet**.  
-  _The product was completely revised last year._
-- Die Bewerbungen **wurden** nach klaren Kriterien **bewertet**.  
-  _The applications were evaluated according to clear criteria._
+:::{div} ol-examples
+Die Unterlagen **werden** heute noch **gescannt**.
+: The documents are still being scanned today.
+
+Neue Mitarbeitende **werden** im ersten Monat intensiv **eingearbeitet**.
+: New employees are trained intensively in the first month.
+
+Das Produkt **wurde** im letzten Jahr komplett **überarbeitet**.
+: The product was completely revised last year.
+
+Die Bewerbungen **wurden** nach klaren Kriterien **bewertet**.
+: The applications were evaluated according to clear criteria.
+:::
 
 :::{tip}
 In everyday spoken German, many people prefer *Perfekt* for past events. In formal reports and written summaries, *Präteritum* passive remains very common.
@@ -93,14 +93,19 @@ For compound passive tenses, German uses *sein* as the auxiliary. The typical B2
 
 **Examples:**
 
-- Die Rechnung **ist** bereits **bezahlt worden**.  
-  _The invoice has already been paid._
-- Mehrere Fehler **sind** rechtzeitig **entdeckt worden**.  
-  _Several errors were discovered in time._
-- Der Vertrag **war** vor dem Termin **unterschrieben worden**.  
-  _The contract had been signed before the appointment._
-- Das Problem **war** intern schon mehrfach **angesprochen worden**.  
-  _The problem had already been raised internally several times._
+:::{div} ol-examples
+Die Rechnung **ist** bereits **bezahlt worden**.
+: The invoice has already been paid.
+
+Mehrere Fehler **sind** rechtzeitig **entdeckt worden**.
+: Several errors were discovered in time.
+
+Der Vertrag **war** vor dem Termin **unterschrieben worden**.
+: The contract had been signed before the appointment.
+
+Das Problem **war** intern schon mehrfach **angesprochen worden**.
+: The problem had already been raised internally several times.
+:::
 
 :::{warning}
 In passive perfect forms, use **worden**, not *geworden*.
@@ -124,14 +129,19 @@ With modal verbs, passive meaning and modality combine in one clause. At B2, the
 
 **Examples:**
 
-- Die Ergebnisse **müssen** bis Freitag **ausgewertet werden**.  
-  _The results must be evaluated by Friday._
-- Der Antrag **kann** online **eingereicht werden**.  
-  _The application can be submitted online._
-- In sensiblen Fällen **sollte** zuerst intern **geklärt werden**.  
-  _In sensitive cases, things should first be clarified internally._
-- Der Termin **musste** kurzfristig **verschoben werden**.  
-  _The appointment had to be postponed at short notice._
+:::{div} ol-examples
+Die Ergebnisse **müssen** bis Freitag **ausgewertet werden**.
+: The results must be evaluated by Friday.
+
+Der Antrag **kann** online **eingereicht werden**.
+: The application can be submitted online.
+
+In sensiblen Fällen **sollte** zuerst intern **geklärt werden**.
+: In sensitive cases, things should first be clarified internally.
+
+Der Termin **musste** kurzfristig **verschoben werden**.
+: The appointment had to be postponed at short notice.
+:::
 
 :::{tip}
 Long modal-passive clauses are common in formal German. Keep the final block intact: Partizip II + werden.
@@ -152,14 +162,19 @@ German often avoids full passive forms when a shorter active-looking structure s
 
 **Examples:**
 
-- Der Bericht **wird morgen erstellt**.  
-  _The report is being prepared tomorrow._
-- Der Bericht **ist morgen zu erstellen**.  
-  _The report has to be prepared tomorrow._
-- Der Bericht **lässt sich morgen erstellen**.  
-  _The report can be prepared tomorrow._
-- Der Bericht ist in einem Tag **machbar**.  
-  _The report is feasible in one day._
+:::{div} ol-examples
+Der Bericht **wird morgen erstellt**.
+: The report is being prepared tomorrow.
+
+Der Bericht **ist morgen zu erstellen**.
+: The report has to be prepared tomorrow.
+
+Der Bericht **lässt sich morgen erstellen**.
+: The report can be prepared tomorrow.
+
+Der Bericht ist in einem Tag **machbar**.
+: The report is feasible in one day.
+:::
 
 :::{note}
 These forms are close in meaning but not fully interchangeable in every context. Choose based on tone: formal instruction, practical possibility, or concise quality judgment.
@@ -175,14 +190,19 @@ This structure often appears in instructions, regulations, and formal writing. I
 
 **Examples:**
 
-- Der Antrag **ist bis Ende Mai einzureichen**.  
-  _The application must be submitted by the end of May._
-- Die Daten **sind vertraulich zu behandeln**.  
-  _The data must be treated confidentially._
-- Diese Frage **ist leicht zu beantworten**.  
-  _This question can be answered easily._
-- Alle Unterlagen **waren erneut zu prüfen**.  
-  _All documents had to be checked again._
+:::{div} ol-examples
+Der Antrag **ist bis Ende Mai einzureichen**.
+: The application must be submitted by the end of May.
+
+Die Daten **sind vertraulich zu behandeln**.
+: The data must be treated confidentially.
+
+Diese Frage **ist leicht zu beantworten**.
+: This question can be answered easily.
+
+Alle Unterlagen **waren erneut zu prüfen**.
+: All documents had to be checked again.
+:::
 
 :::{warning}
 Do not confuse this with a regular adjective + infinitive pattern. In *sein + zu + Infinitiv*, the whole structure carries modal-passive meaning.
@@ -198,14 +218,19 @@ This form highlights whether something is practically possible and often feels n
 
 **Examples:**
 
-- Das Problem **lässt sich** schnell **lösen**.  
-  _The problem can be solved quickly._
-- Der Fehler **ließ sich** im Test sofort **reproduzieren**.  
-  _The error could be reproduced immediately in the test._
-- Solche Prozesse **lassen sich** gut **automatisieren**.  
-  _Such processes can be automated well._
-- Die neue Software **lässt sich** ohne großen Aufwand **installieren**.  
-  _The new software can be installed without much effort._
+:::{div} ol-examples
+Das Problem **lässt sich** schnell **lösen**.
+: The problem can be solved quickly.
+
+Der Fehler **ließ sich** im Test sofort **reproduzieren**.
+: The error could be reproduced immediately in the test.
+
+Solche Prozesse **lassen sich** gut **automatisieren**.
+: Such processes can be automated well.
+
+Die neue Software **lässt sich** ohne großen Aufwand **installieren**.
+: The new software can be installed without much effort.
+:::
 
 :::{tip}
 A practical rewrite pattern is often: *kann ... werden* -> *lässt sich ...*.
@@ -226,14 +251,19 @@ Adjectives like *machbar*, *lesbar*, *verständlich* or *nutzbar* package passiv
 
 **Examples:**
 
-- Der Zeitplan ist unter diesen Bedingungen **machbar**.  
-  _The timeline is feasible under these conditions._
-- Die Handschrift ist kaum **lesbar**.  
-  _The handwriting is hardly readable._
-- Die Argumentation war für alle **verständlich**.  
-  _The argumentation was understandable for everyone._
-- Das Konzept ist im aktuellen Budget **umsetzbar**.  
-  _The concept is implementable within the current budget._
+:::{div} ol-examples
+Der Zeitplan ist unter diesen Bedingungen **machbar**.
+: The timeline is feasible under these conditions.
+
+Die Handschrift ist kaum **lesbar**.
+: The handwriting is hardly readable.
+
+Die Argumentation war für alle **verständlich**.
+: The argumentation was understandable for everyone.
+
+Das Konzept ist im aktuellen Budget **umsetzbar**.
+: The concept is implementable within the current budget.
+:::
 
 :::{note}
 Not every verb forms a natural *-bar* adjective. Choose lexicalized, established forms and check whether the adjective sounds idiomatic in context.
@@ -269,3 +299,5 @@ Not every verb forms a natural *-bar* adjective. Choose lexicalized, established
 - [B1 > Grammar > lassen + Infinitiv](/b1/grammar/lassen-infinitiv.md)
 - [B1 > Grammar > Partizip als Adjektiv](/b1/grammar/partizip-als-adjektiv.md)
 - [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
+- [B2 > Grammar > Partizipien als Adjektive](/b2/grammar/partizipien-als-adjektive.md)
+- [B2 > Grammar > Nominalisierung von Verben](/b2/grammar/nominalisierung.md)

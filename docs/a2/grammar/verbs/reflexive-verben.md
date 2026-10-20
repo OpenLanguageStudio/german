@@ -10,16 +10,6 @@ myst:
 ---
 # Reflexive Verben
 
-> Reflexive verbs and reflexive pronouns
-
-:::{seealso}
-
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Grammar > Positionsverben](/a2/grammar/prepositions/positionsverben.md)
-- [A2 > Concepts > Polite requests, wishes and advice](/a2/concepts/polite-requests-wishes-advice.md)
-:::
-
 A reflexive verb describes an action that comes back to the subject. In simple terms: the person doing the action and the person receiving it are the same. German marks this with a reflexive pronoun.
 
 You usually see reflexive verbs in dictionaries with *sich* in front: *sich freuen*, *sich beeilen*, *sich anziehen*. German uses them more often than English, so translations often do not include the word "self".
@@ -52,18 +42,25 @@ At A2 level, reflexive pronouns are most often in the accusative. This means you
 | ihr | {pronoun}`euch` |
 | sie / Sie | {pronoun}`sich` |
 
-- Ich freue {pronoun}`mich` auf das Wochenende.  
-  *I'm looking forward to the weekend.*
-- Fühlst du {pronoun}`dich` heute besser?  
-  *Are you feeling better today?*
-- Er beeilt {pronoun}`sich`, weil der Zug gleich kommt.  
-  *He's hurrying because the train is about to leave.*
-- Wir erholen {pronoun}`uns` am Wochenende.  
-  *We relax at the weekend.*
-- Ihr erinnert {pronoun}`euch` an den Film.  
-  *You remember the film.*
-- Sie treffen {pronoun}`sich` jeden Dienstag.  
-  *They meet every Tuesday.*
+:::{div} ol-examples
+Ich freue {pronoun}`mich` auf das Wochenende.
+: I'm looking forward to the weekend.
+
+Fühlst du {pronoun}`dich` heute besser?
+: Are you feeling better today?
+
+Er beeilt {pronoun}`sich`, weil der Zug gleich kommt.
+: He's hurrying because the train is about to leave.
+
+Wir erholen {pronoun}`uns` am Wochenende.
+: We relax at the weekend.
+
+Ihr erinnert {pronoun}`euch` an den Film.
+: You remember the film.
+
+Sie treffen {pronoun}`sich` jeden Dienstag.
+: They meet every Tuesday.
+:::
 
 :::{note}
 Short dative note: when there is a second object (often a body part), German can use a dative reflexive pronoun. Compare: *Ich wasche **mich*** (no second object) and *Ich wasche **mir** die Hände* ("die Hände" is the direct object). For now, focus on the accusative forms and just recognise this pattern.
@@ -93,18 +90,25 @@ Here are the most important reflexive verbs at A2 level. Many of them require a 
 | sich unterhalten | mit + Dat. / über + Akk. | to chat, to have a conversation |
 | sich waschen | – | to wash (oneself) |
 
-- Sie interessiert {pronoun}`sich` für Musik.  
-  *She's interested in music.*
-- Ich erinnere {pronoun}`mich` an unseren ersten Urlaub.  
-  *I remember our first holiday.*
-- Er setzt {pronoun}`sich` ans Fenster.  
-  *He sits down by the window.*
-- Wir unterhalten {pronoun}`uns` gern über Filme.  
-  *We enjoy chatting about films.*
-- Kümmert ihr {pronoun}`euch` um den Hund?  
-  *Are you taking care of the dog?*
-- Sie zieht {pronoun}`sich` schnell an.  
-  *She gets dressed quickly.*
+:::{div} ol-examples
+Sie interessiert {pronoun}`sich` für Musik.
+: She's interested in music.
+
+Ich erinnere {pronoun}`mich` an unseren ersten Urlaub.
+: I remember our first holiday.
+
+Er setzt {pronoun}`sich` ans Fenster.
+: He sits down by the window.
+
+Wir unterhalten {pronoun}`uns` gern über Filme.
+: We enjoy chatting about films.
+
+Kümmert ihr {pronoun}`euch` um den Hund?
+: Are you taking care of the dog?
+
+Sie zieht {pronoun}`sich` schnell an.
+: She gets dressed quickly.
+:::
 
 :::{tip}
 *Sich freuen* changes meaning with the preposition. Use *sich freuen **auf*** to express looking forward to something upcoming: *Ich freue mich auf das Konzert.* Use *sich freuen **über*** to express happiness about something that has happened or is happening: *Ich freue mich über das Geschenk.* Both are very common, it is worth learning both forms from the start.
@@ -122,16 +126,22 @@ When the sentence starts with something other than the subject, the subject and 
 
 > Time / other element – **{verb}`Verb`** – Subject – **{pronoun}`Reflexivpronomen`**, rest
 
-- Ich freue {pronoun}`mich` auf das Treffen.  
-  *I'm looking forward to the meeting.* (normal subject-first order)
-- Heute freue ich {pronoun}`mich` besonders auf das Treffen.  
-  *Today I'm especially looking forward to the meeting.* (time expression first)
-- Beeilt {pronoun}`euch`! Der Bus kommt gleich.  
-  *Hurry up! The bus is coming soon.* (command, no subject, pronoun follows verb directly)
-- Du musst dich nicht beeilen.  
-  *You don't need to hurry.* (with a modal verb, pronoun follows the modal)
-- Wir treffen {pronoun}`uns` morgen im Park.  
-  *We're meeting in the park tomorrow.*
+:::{div} ol-examples
+Ich freue {pronoun}`mich` auf das Treffen.
+: I'm looking forward to the meeting. (normal subject-first order)
+
+Heute freue ich {pronoun}`mich` besonders auf das Treffen.
+: Today I'm especially looking forward to the meeting. (time expression first)
+
+Beeilt {pronoun}`euch`! Der Bus kommt gleich.
+: Hurry up! The bus is coming soon. (command, no subject, pronoun follows verb directly)
+
+Du musst dich nicht beeilen.
+: You don't need to hurry. (with a modal verb, pronoun follows the modal)
+
+Wir treffen {pronoun}`uns` morgen im Park.
+: We're meeting in the park tomorrow.
+:::
 
 :::{warning}
 When a sentence has a modal verb (like *müssen*, *können*, *wollen*), the conjugated verb is the modal. The reflexive pronoun still follows the modal, not the infinitive at the end: *Du musst **dich** beeilen.* not *Du musst beeilen dich.*
@@ -139,29 +149,7 @@ When a sentence has a modal verb (like *müssen*, *können*, *wollen*), the conj
 
 ---
 
-## Summary
-
-:::{admonition} Key points
-:class: note
-
-- Reflexive verbs always include a **reflexive pronoun** that refers back to the subject.
-- Accusative forms: **ich → mich**, **du → dich**, **er/sie/es → sich**, **wir → uns**, **ihr → euch**, **sie/Sie → sich**.
-- The reflexive pronoun sits directly **after the conjugated verb** in a main clause.
-- Many reflexive verbs pair with a fixed preposition, learn the combination: *sich freuen auf*, *sich ärgern über*, *sich erinnern an*, *sich interessieren für*.
-- Some German reflexive verbs have no reflexive counterpart in English: *sich beeilen* = to hurry, *sich fühlen* = to feel, *sich treffen* = to meet.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *Er beeilt.* → Er beeilt **sich**. (the reflexive pronoun cannot be omitted)
-- *Ich freue sich.* → Ich freue **mich**. (the pronoun must match the subject, not stay as *sich*)
-- *Ich interessiere mich Musik.* → Ich interessiere mich **für** Musik. (fixed preposition required)
-- *Ich mich freue auf das Fest.* → Ich freue **mich** auf das Fest. (pronoun follows the verb, not the subject)
-- *Du musst beeilen dich.* → Du musst **dich** beeilen. (with a modal verb, the pronoun follows the modal)
-:::
-
----
+## Hear it in practice
 
 :::{audio-examples}
 :track: a2/grammar/reflexive-verben
@@ -258,9 +246,34 @@ Ich unterhalte mich gern mit meinen Freunden.
 
 ---
 
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Reflexive verbs always include a **reflexive pronoun** that refers back to the subject.
+- Accusative forms: **ich → mich**, **du → dich**, **er/sie/es → sich**, **wir → uns**, **ihr → euch**, **sie/Sie → sich**.
+- The reflexive pronoun sits directly **after the conjugated verb** in a main clause.
+- Many reflexive verbs pair with a fixed preposition, learn the combination: *sich freuen auf*, *sich ärgern über*, *sich erinnern an*, *sich interessieren für*.
+- Some German reflexive verbs have no reflexive counterpart in English: *sich beeilen* = to hurry, *sich fühlen* = to feel, *sich treffen* = to meet.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Er beeilt.* → Er beeilt **sich**. (the reflexive pronoun cannot be omitted)
+- *Ich freue sich.* → Ich freue **mich**. (the pronoun must match the subject, not stay as *sich*)
+- *Ich interessiere mich Musik.* → Ich interessiere mich **für** Musik. (fixed preposition required)
+- *Ich mich freue auf das Fest.* → Ich freue **mich** auf das Fest. (pronoun follows the verb, not the subject)
+- *Du musst beeilen dich.* → Du musst **dich** beeilen. (with a modal verb, the pronoun follows the modal)
+:::
+
+---
+
 ## Related articles
 
 - [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
 - [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
 - [A2 > Grammar > Verben mit festen Präpositionen](/a2/grammar/prepositions/verben-mit-praeposition.md)
 - [A2 > Concepts > Polite requests, wishes and advice](/a2/concepts/polite-requests-wishes-advice.md)
+- [A2 > Grammar > Positionsverben](/a2/grammar/prepositions/positionsverben.md)

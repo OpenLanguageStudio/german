@@ -10,16 +10,6 @@ myst:
 ---
 # Modalsätze
 
-> Expressing how something happens with dadurch ... dass and indem
-
-:::{seealso}
-
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)
-
-:::
-
 Modalsätze explain the way an action happens. At B2 they make a process description more precise: not only what happened, but how it was done. Two key patterns are **dadurch ... dass** and **indem**.
 
 *Examples:*
@@ -41,14 +31,19 @@ A Modalsatz adds information about method, procedure, or manner. In many context
 
 **Examples:**
 
-- Das Team hat den Konflikt gelöst, {conj}`indem` es frühzeitig moderierte.  
-  *The team solved the conflict by moderating early.*
-- Viele Start-ups sparen Kosten, {conj}`dadurch`, {conj}`dass` sie Prozesse automatisieren.  
-  *Many start-ups reduce costs by automating processes.*
-- Die Stadt verbessert die Luftqualität, {conj}`indem` sie den Busverkehr ausbaut.  
-  *The city improves air quality by expanding bus transport.*
-- Er hat die Präsentation verständlicher gemacht, {conj}`dadurch`, {conj}`dass` er mehr Beispiele eingebaut hat.  
-  *He made the presentation clearer by adding more examples.*
+:::{div} ol-examples
+Das Team hat den Konflikt gelöst, {conj}`indem` es frühzeitig moderierte.
+: The team solved the conflict by moderating early.
+
+Viele Start-ups sparen Kosten, {conj}`dadurch`, {conj}`dass` sie Prozesse automatisieren.
+: Many start-ups reduce costs by automating processes.
+
+Die Stadt verbessert die Luftqualität, {conj}`indem` sie den Busverkehr ausbaut.
+: The city improves air quality by expanding bus transport.
+
+Er hat die Präsentation verständlicher gemacht, {conj}`dadurch`, {conj}`dass` er mehr Beispiele eingebaut hat.
+: He made the presentation clearer by adding more examples.
+:::
 
 :::{tip}
 At B2, Modalsätze are very useful in reports, workplace communication, and argumentation because they let you describe a concrete strategy instead of a vague claim.
@@ -72,16 +67,22 @@ You can also place the clause first:
 
 **Examples:**
 
-- Viele Kinder verlieren die Familiensprache {conj}`dadurch`, {conj}`dass` zu Hause fast nur Deutsch gesprochen wird.  
-  *Many children lose the family language because mostly German is spoken at home.*
-- Sprachwissen geht über Generationen {conj}`dadurch`, {conj}`dass` bestimmte Wörter nicht mehr aktiv verwendet werden, schrittweise verloren.  
-  *Language knowledge is gradually lost across generations because certain words are no longer actively used.*
-- Einige Familien stabilisieren ihre Herkunftssprache {conj}`dadurch`, {conj}`dass` sie feste Zeiten für Gespräche in dieser Sprache einführen.  
-  *Some families stabilize their heritage language by introducing fixed times for conversations in that language.*
-- Die Universität hat den Austausch verbessert, {conj}`dadurch`, {conj}`dass` sie Tandemprogramme mit Alumni aufgebaut hat.  
-  *The university improved exchange by setting up tandem programs with alumni.*
-- {conj}`Dadurch`, {conj}`dass` das Team Feedbackrunden verkürzt hat, wurden Entscheidungen schneller getroffen.  
-  *By shortening feedback rounds, the team made decisions faster.*
+:::{div} ol-examples
+Viele Kinder verlieren die Familiensprache {conj}`dadurch`, {conj}`dass` zu Hause fast nur Deutsch gesprochen wird.
+: Many children lose the family language because mostly German is spoken at home.
+
+Sprachwissen geht über Generationen {conj}`dadurch`, {conj}`dass` bestimmte Wörter nicht mehr aktiv verwendet werden, schrittweise verloren.
+: Language knowledge is gradually lost across generations because certain words are no longer actively used.
+
+Einige Familien stabilisieren ihre Herkunftssprache {conj}`dadurch`, {conj}`dass` sie feste Zeiten für Gespräche in dieser Sprache einführen.
+: Some families stabilize their heritage language by introducing fixed times for conversations in that language.
+
+Die Universität hat den Austausch verbessert, {conj}`dadurch`, {conj}`dass` sie Tandemprogramme mit Alumni aufgebaut hat.
+: The university improved exchange by setting up tandem programs with alumni.
+
+{conj}`Dadurch`, {conj}`dass` das Team Feedbackrunden verkürzt hat, wurden Entscheidungen schneller getroffen.
+: By shortening feedback rounds, the team made decisions faster.
+:::
 
 :::{note}
 In everyday German, you may also hear looser alternatives with *weil* or *durch + Nomen* (for example: *durch mehr Training*). At B2, **dadurch ... dass** is useful when you want a clear clause-based explanation of process.
@@ -105,16 +106,22 @@ or
 
 **Examples:**
 
-- Sie hat ihr Hörverstehen verbessert, {conj}`indem` sie täglich Nachrichtenausschnitte analysiert hat.  
-  *She improved her listening comprehension by analyzing news clips every day.*
-- Das Unternehmen reduziert Fehler, {conj}`indem` es Abläufe regelmäßig dokumentiert.  
-  *The company reduces errors by documenting procedures regularly.*
-- {conj}`Indem` wir Rollen im Projekt klar verteilen, vermeiden wir doppelte Arbeit.  
-  *By distributing roles clearly in the project, we avoid duplicated work.*
-- Er hat das Gespräch beruhigt, {conj}`indem` er zuerst die wichtigsten Sorgen zusammengefasst hat.  
-  *He calmed the conversation by first summarizing the main concerns.*
-- Die Schule stärkt Mehrsprachigkeit, {conj}`indem` sie Elternabende auch in Herkunftssprachen unterstützt.  
-  *The school strengthens multilingualism by supporting parent meetings in heritage languages as well.*
+:::{div} ol-examples
+Sie hat ihr Hörverstehen verbessert, {conj}`indem` sie täglich Nachrichtenausschnitte analysiert hat.
+: She improved her listening comprehension by analyzing news clips every day.
+
+Das Unternehmen reduziert Fehler, {conj}`indem` es Abläufe regelmäßig dokumentiert.
+: The company reduces errors by documenting procedures regularly.
+
+{conj}`Indem` wir Rollen im Projekt klar verteilen, vermeiden wir doppelte Arbeit.
+: By distributing roles clearly in the project, we avoid duplicated work.
+
+Er hat das Gespräch beruhigt, {conj}`indem` er zuerst die wichtigsten Sorgen zusammengefasst hat.
+: He calmed the conversation by first summarizing the main concerns.
+
+Die Schule stärkt Mehrsprachigkeit, {conj}`indem` sie Elternabende auch in Herkunftssprachen unterstützt.
+: The school strengthens multilingualism by supporting parent meetings in heritage languages as well.
+:::
 
 :::{warning}
 Do not confuse **indem** (one-word conjunction) with **in dem** (preposition + article in relative constructions).

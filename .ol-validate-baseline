@@ -1,8 +1,6 @@
 # Articles that failed `ol validate` when this baseline was written.
 # Remove a line once its article passes. Never add lines by hand.
-docs/a2/concepts/index.md
 docs/a2/concepts/indirect-questions.md
-docs/a2/concepts/making-comparisons.md
 docs/a2/concepts/polite-requests-wishes-advice.md
 docs/a2/grammar/adjectives/adjektivendungen.md
 docs/a2/grammar/adjectives/komparativ-superlativ.md
@@ -29,7 +27,6 @@ docs/a2/grammar/sub-clauses/nebensatz-als-wenn.md
 docs/a2/grammar/sub-clauses/nebensatz-dass.md
 docs/a2/grammar/sub-clauses/nebensatz-weil.md
 docs/a2/grammar/sub-clauses/nebensatz-wenn.md
-docs/a2/grammar/sub-clauses/relativsaetze.md
 docs/a2/grammar/verbs/konjunktiv-ii.md
 docs/a2/grammar/verbs/modalverben-praeteritum.md
 docs/a2/grammar/verbs/perfekt.md
@@ -95,10 +92,3 @@ docs/b2/grammar/vergleichssaetze.md
 docs/b2/grammar/wortstellung-im-satz.md
 docs/b2/grammar/zustandspassiv.md
 docs/b2/grammar/zweiteilige-konnektoren.md
-docs/b2/topics/cultural-misunderstandings.md
-docs/b2/topics/experiences-with-emigration.md
-docs/b2/topics/feeling-at-home-in-germany.md
-docs/b2/topics/multilingualism.md
-docs/b2/topics/office-smalltalk.md
-docs/b2/topics/smalltalk.md
-docs/b2/topics/speaking-about-home.md

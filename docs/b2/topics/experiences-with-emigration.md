@@ -6,14 +6,7 @@ myst:
 ---
 # Experiences with emigration
 
-> Erfahrungen beim Auswandern
-
-:::{seealso}
- 
-- [B2 > Grammar > Two-part connectors](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Grammar > "zu" with infinitive](/b1/grammar/infinitiv-mit-zu.md)
- 
-:::
+Emigrating starts with paperwork long before it becomes a new life: *Anmeldung*, residence permits and the recognition of qualifications. This topic covers the vocabulary of that first year, from the offices to the moment the new country starts to feel familiar.
 
 ## Vocabulary list
 
@@ -96,3 +89,10 @@ Heute würde ich sagen: Auswandern ist weniger ein Sprung und mehr eine Reihe kl
 - Luis: Früher um Hilfe bitten. Und die Anerkennung der Zeugnisse direkt beantragen.
 - Maya: Guter Tipp. Ich drücke dir die Daumen für die Einbürgerung, wenn es so weit ist.
 - Luis: Danke. Schritt für Schritt – so hat es bisher am besten funktioniert.
+
+---
+
+## Related articles
+
+- [B2 > Grammar > Two-part connectors](/b2/grammar/zweiteilige-konnektoren.md)
+- [B2 > Grammar > "zu" with infinitive](/b1/grammar/infinitiv-mit-zu.md)

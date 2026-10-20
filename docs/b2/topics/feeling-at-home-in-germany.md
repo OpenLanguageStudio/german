@@ -6,14 +6,7 @@ myst:
 ---
 # Feeling at home in Germany
 
-> Zuhause in Deutschland
-
-:::{seealso}
-
-- [B2 > Topics > Experiences with emigration](/b2/topics/experiences-with-emigration.md)
-- [B2 > Topics > Multilingualism](/b2/topics/multilingualism.md)
-
-:::
+Feeling at home in a new country grows out of everyday routines: a regular bakery, a club, a neighbour who says hello. This topic covers the words for settling in, from the *Behördengang* in the first weeks to *Ehrenamt* and *Feierabend* later on.
 
 ## Vocabulary list
 
@@ -78,3 +71,10 @@ Nach einem Jahr fragte mich jemand, ob Deutschland sich wie Zuhause anfühlt. Ic
 - Daniel: Hilft enorm. Vor allem für Humor und kleine Gespräche.
 - Sofia: Was würdest du Neuankömmlingen raten?
 - Daniel: Routinen aufbauen, aber offen bleiben. Und ruhig mal beim Stammtisch vorbeischauen.
+
+---
+
+## Related articles
+
+- [B2 > Topics > Experiences with emigration](/b2/topics/experiences-with-emigration.md)
+- [B2 > Topics > Multilingualism](/b2/topics/multilingualism.md)
