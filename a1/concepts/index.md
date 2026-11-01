@@ -6,11 +6,10 @@ myst:
 ---
 # Concepts
 
-A guided A1 curriculum. Each concept teaches one functional ability, something you can *do* after the page. Unlike the grammar reference, concepts are ordered: work through them from top to bottom, because each one builds on the last.
+Each concept covers one everyday task, such as greeting someone or asking the way. The suggested order starts with the basics, and every page can also be read on its own.
 
 ```{toctree}
 :maxdepth: 1
-:numbered:
 
 formal-and-informal
 greetings-and-farewells

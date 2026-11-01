@@ -6,9 +6,10 @@ myst:
 ---
 # Concepts
 
+Each concept covers one way of connecting ideas, such as giving a reason, stating an opinion or describing a result. Any page can be read first.
+
 ```{toctree}
 :maxdepth: 2
-:numbered:
 
 expressing-consequences
 expressing-opinions

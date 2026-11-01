@@ -4,6 +4,25 @@ html_theme.sidebar_secondary.remove:
 
 # A1
 
+A1 is the first CEFR level, for learners starting German from nothing. It covers the language of the first days in a German-speaking place: names, numbers, food, directions and the basic sentence.
+
+## What learners know
+
+- The three genders and the articles *der*, *die*, *das* in the nominative and accusative.
+- The present tense of common verbs, including *sein*, *haben* and the modal verbs.
+- How statements and questions are built, with the verb in second position.
+- The perfect tense for simple past events, and the dative after common verbs and prepositions.
+- Words for numbers, time, family, home, food and shopping.
+
+## What learners can do
+
+- Introduce themselves and others, and give basic personal details.
+- Ask and answer simple questions about everyday needs.
+- Order food and drink, and shop and pay.
+- Ask for and give directions, and make an appointment.
+- Understand slow, clear speech and short public information.
+- Write a short message, postcard or simple email.
+
 ```{toctree}
 :maxdepth: 2
 

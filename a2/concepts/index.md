@@ -6,9 +6,10 @@ myst:
 ---
 # Concepts
 
+Each concept covers one task that needs more than the basic sentence, such as comparing two things or asking politely. Any page can be read first.
+
 ```{toctree}
 :maxdepth: 2
-:numbered:
 
 indirect-questions
 making-comparisons

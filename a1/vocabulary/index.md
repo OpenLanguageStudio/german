@@ -1,6 +1,6 @@
-# Vocabulary Packs
+# Vocabulary
 
-Interest-driven word packs: 10 to 15 new words on one theme, a reference table, and one track that uses every word in natural sentences. Pick the packs that match your life; each one stands alone.
+Word packs of 10 to 15 words on one theme, each with a table of the words and sentences that use every one. Each pack stands alone, so any pack can be read first.
 
 ```{toctree}
 :maxdepth: 1
