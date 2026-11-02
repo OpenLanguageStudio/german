@@ -8,27 +8,29 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# On the farm 1
+# On the farm
 
-The farm is childhood-picture-book vocabulary, and that is exactly why it sticks: cows, pigs, chickens, and a tractor are images before they are words. This pack adds the farm's rhythm too, because *auf dem Bauernhof* the day starts early.
+Farm vocabulary in German starts with pictures from childhood: cows, pigs, chickens and a tractor. These words stick because they are images first.
+
+The pack names the animals, the workplace and what the farm produces. Most animals appear in the {term}`plural`, so the plurals in the table matter as much as the {term}`singular` forms. *Auf dem Bauernhof* the day starts early, which brings in *früh aufstehen* and *arbeiten*. *Aufstehen* is a {term}`separable verb`, so it splits in a sentence: *Ich stehe früh auf*.
 
 ## The words
 
-| German | English |
+| Word | Notes |
 |---|---|
-| der Bauernhof, die Bauernhöfe | farm |
-| der Bauer, die Bauern | farmer |
-| die Kuh, die Kühe | cow |
-| das Schwein, die Schweine | pig |
-| das Huhn, die Hühner | chicken |
-| das Schaf, die Schafe | sheep |
-| das Pferd, die Pferde | horse |
-| das Feld, die Felder | field |
-| der Traktor, die Traktoren | tractor |
-| das Ei, die Eier | egg |
-| die Milch | milk |
-| früh aufstehen | to get up early |
-| arbeiten | to work |
+| {stack}`der Bauernhof \| farm` | plural *die Bauernhöfe* |
+| {stack}`der Bauer \| farmer` | plural *die Bauern* |
+| {stack}`die Kuh \| cow` | plural *die Kühe* |
+| {stack}`das Schwein \| pig` | plural *die Schweine* |
+| {stack}`das Huhn \| chicken` | plural *die Hühner* |
+| {stack}`das Schaf \| sheep` | plural *die Schafe* |
+| {stack}`das Pferd \| horse` | plural *die Pferde* |
+| {stack}`das Feld \| field` | plural *die Felder* |
+| {stack}`der Traktor \| tractor` | plural *die Traktoren* |
+| {stack}`das Ei \| egg` | plural *die Eier* |
+| {stack}`die Milch \| milk` | |
+| {stack}`früh aufstehen \| to get up early` | |
+| {stack}`arbeiten \| to work` | |
 
 ## Hear it in practice
 
@@ -107,6 +109,6 @@ Die Familie arbeitet jeden Tag.
 
 ## Related articles
 
-- [Pets and animals 1](/a1/vocabulary/pets-and-animals-1.md)
+- [Pets and animals](/a1/vocabulary/pets-and-animals-1.md)
 - [Describing daily routine](/a1/concepts/describing-daily-routine.md)
-- [In the supermarket 1](/a1/vocabulary/in-the-supermarket-1.md)
+- [In the supermarket](/a1/vocabulary/in-the-supermarket-1.md)

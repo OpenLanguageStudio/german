@@ -8,30 +8,32 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Everyday verbs 2
+# Vowel-changing everyday verbs
 
-The second verb pack collects the troublemakers: ten everyday verbs that change their vowel in the *du* and *er/sie/es* forms. Grouping them keeps your ear on the one thing that matters here, the vowel shift: *du siehst, er nimmt, sie fährt*. Each verb comes in two persons, with the changed form always among them.
+Everyday verbs such as *sehen*, *fahren* and *nehmen* change their vowel in the *du* and *er/sie/es* forms. This pack collects ten of them.
+
+These are {term}`irregular verbs <irregular verb>`: the {term}`stem <verb stem>` vowel shifts, as in *du siehst*, *er nimmt* and *sie fährt*. Grouping them keeps the attention on that shift. There are three patterns: a to ä, e to i, and e to ie. Every other form stays regular, so *ich fahre* and *wir fahren* show no change.
 
 ## The words
 
-| German | English |
+| Word | Notes |
 |---|---|
-| sehen | to see |
-| essen | to eat |
-| fahren | to drive, to go (by vehicle) |
-| schlafen | to sleep |
-| sprechen | to speak |
-| helfen | to help |
-| nehmen | to take |
-| geben | to give |
-| lesen | to read |
-| laufen | to run, to walk |
+| {stack}`sehen \| to see` | |
+| {stack}`essen \| to eat` | |
+| {stack}`fahren \| to drive, to go (by vehicle)` | |
+| {stack}`schlafen \| to sleep` | |
+| {stack}`sprechen \| to speak` | |
+| {stack}`helfen \| to help` | |
+| {stack}`nehmen \| to take` | |
+| {stack}`geben \| to give` | |
+| {stack}`lesen \| to read` | |
+| {stack}`laufen \| to run, to walk` | |
 
 Three change families, all represented: a → ä (*fahren, schlafen, laufen*), e → i (*essen, sprechen, helfen, nehmen, geben*), and e → ie (*sehen, lesen*). *Nehmen* changes consonants too: *du nimmst, er nimmt*.
 
 ## Hear it in practice
 
-Every pair serves the changed form in *du* or *er/sie/es* alongside an unchanged person, so the shift itself is what you internalise. The review coda replays four of the verbs in their Perfekt and imperative forms from the grammar albums.
+Every pair puts the changed form in *du* or *er/sie/es* next to an unchanged person. A short review at the end repeats four of the verbs in the {term}`Perfekt` and the {term}`imperative`.
 
 :::{audio-examples}
 :track: a1/vocabulary/everyday-verbs-2
@@ -120,10 +122,9 @@ Er ist nach Berlin gefahren.
 - e → i: *essen, sprechen, helfen, nehmen, geben*.
 - e → ie: *sehen, lesen*.
 - The change lives only in *du* and *er/sie/es*; everything else stays regular.
-- The regular ten live in [Everyday verbs 1](/a1/vocabulary/everyday-verbs-1.md).
+- The regular ten live in [Regular everyday verbs](/a1/vocabulary/everyday-verbs-1.md).
 :::
 
 ## Related articles
 
 - [A1 > Grammar > Irregular Verbs in the Present](/a1/grammar/verbs/unregelmaessige-verben.md)
-- [Everyday verbs 1](/a1/vocabulary/everyday-verbs-1.md)

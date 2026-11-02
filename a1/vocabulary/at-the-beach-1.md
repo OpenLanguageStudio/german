@@ -8,29 +8,31 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# At the beach 1
+# At the beach
 
-Germans plan their beach holidays with the seriousness other nations reserve for taxes, and the vocabulary follows them from the packing list to the postcard. This pack is a day at the sea: sun, sand, water, ice cream, and the two great beach verbs, *schwimmen* and *liegen*.
+Beach vocabulary in German covers a day at the sea: sun, sand, water, ice cream, and the {term}`verbs <verb>` *schwimmen* and *liegen*.
+
+Germans plan their beach holidays with care, and these words follow them from the packing list to the postcard. *Der Urlaub* is the word that most summer sentences turn on. The {term}`nouns <noun>` cover the scene and the kit, and the two verbs cover what people do there. Each noun comes with its article, because {term}`gender` is part of the word.
 
 ## The words
 
-| German | English |
+| Word | Notes |
 |---|---|
-| der Strand, die Strände | beach |
-| das Meer, die Meere | sea |
-| die Sonne | sun |
-| der Sand | sand |
-| das Wasser | water |
-| der Urlaub, die Urlaube | holiday |
-| das Eis | ice cream, ice |
-| die Sonnenbrille, die Sonnenbrillen | sunglasses |
-| der Hut, die Hüte | hat |
-| das Handtuch, die Handtücher | towel |
-| schwimmen | to swim |
-| liegen | to lie (somewhere) |
-| warm | warm |
+| {stack}`der Strand \| beach` | plural *die Strände* |
+| {stack}`das Meer \| sea` | plural *die Meere* |
+| {stack}`die Sonne \| sun` | |
+| {stack}`der Sand \| sand` | |
+| {stack}`das Wasser \| water` | |
+| {stack}`der Urlaub \| holiday` | plural *die Urlaube* |
+| {stack}`das Eis \| ice cream, ice` | |
+| {stack}`die Sonnenbrille \| sunglasses` | plural *die Sonnenbrillen* |
+| {stack}`der Hut \| hat` | plural *die Hüte* |
+| {stack}`das Handtuch \| towel` | plural *die Handtücher* |
+| {stack}`schwimmen \| to swim` | |
+| {stack}`liegen \| to lie (somewhere)` | |
+| {stack}`warm \| warm` | |
 
-Note the German quirk: *die Sonnenbrille* is singular, one item, unlike English "sunglasses".
+Note the German quirk: *die Sonnenbrille* is {term}`singular`, one item, unlike English "sunglasses".
 
 ## Hear it in practice
 
@@ -108,4 +110,4 @@ Das Wasser ist heute warm.
 
 - [A Postcard from Holiday](/a1/writing/postcard-1.md)
 - [Talking about the weather](/a1/concepts/talking-about-the-weather.md)
-- [Sports and games 1](/a1/vocabulary/sports-and-games-1.md)
+- [Sports and games](/a1/vocabulary/sports-and-games-1.md)

@@ -40,7 +40,7 @@ Die Suppe schmeckt {dativ}`mir`.
 
 ## With nouns instead of pronouns
 
-The same verbs work with dative {term}`nouns <noun>`, using the article forms you know from the dative {term}`prepositions <preposition>`: *Das Auto gehört meinem Vater.*
+The same verbs work with dative {term}`nouns <noun>`, with the same article forms as after dative {term}`prepositions <preposition>`: *Das Auto gehört meinem Vater.*
 
 **Examples:**
 

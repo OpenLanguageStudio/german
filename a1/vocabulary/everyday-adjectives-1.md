@@ -8,26 +8,38 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Everyday adjectives 1
+# Everyday adjectives
 
-Adjectives are how you have opinions, and German hands you its core set in tidy opposite pairs: big and small, new and old, right and wrong. Pairs are the fastest way to learn them, because each word carries its opposite along for free. This pack delivers ten pairs, always back to back in the audio.
+Everyday adjectives in German come in tidy opposite pairs: big and small, new and old, right and wrong. Each word carries its opposite along with it.
+
+An adjective is a word that describes a {term}`noun`, and pairs are the quickest way to learn them. This pack has twenty core adjectives, and sixteen of them appear with their opposite. All twenty work the same way after *sein*, with no ending at all: *Das Haus ist groß*.
 
 ## The words
 
-| German | English | German | English |
-|---|---|---|---|
-| groß | big | klein | small |
-| gut | good | schlecht | bad |
-| neu | new | alt | old |
-| teuer | expensive | billig | cheap |
-| schnell | fast | langsam | slow |
-| warm | warm | kalt | cold |
-| leicht | easy, light | schwer | difficult, heavy |
-| richtig | right | falsch | wrong |
-| schön | beautiful | müde | tired |
-| glücklich | happy | wichtig | important |
+| Word | Notes |
+|---|---|
+| {stack}`groß \| big` | opposite *klein* |
+| {stack}`klein \| small` | opposite *groß* |
+| {stack}`gut \| good` | opposite *schlecht* |
+| {stack}`schlecht \| bad` | opposite *gut* |
+| {stack}`neu \| new` | opposite *alt* |
+| {stack}`alt \| old` | opposite *neu* |
+| {stack}`teuer \| expensive` | opposite *billig* |
+| {stack}`billig \| cheap` | opposite *teuer* |
+| {stack}`schnell \| fast` | opposite *langsam* |
+| {stack}`langsam \| slow` | opposite *schnell* |
+| {stack}`warm \| warm` | opposite *kalt* |
+| {stack}`kalt \| cold` | opposite *warm* |
+| {stack}`leicht \| easy, light` | opposite *schwer* |
+| {stack}`schwer \| difficult, heavy` | opposite *leicht* |
+| {stack}`richtig \| right` | opposite *falsch* |
+| {stack}`falsch \| wrong` | opposite *richtig* |
+| {stack}`schön \| beautiful` | |
+| {stack}`müde \| tired` | |
+| {stack}`glücklich \| happy` | |
+| {stack}`wichtig \| important` | |
 
-The last two rows pair by theme rather than by opposite: *schön* and *müde* describe states, *glücklich* and *wichtig* round out the set. All twenty work the same way after *sein*: no endings, ever.
+*Schön*, *müde*, *glücklich* and *wichtig* stand alone in this pack.
 
 ## Hear it in practice
 
@@ -115,4 +127,4 @@ Die Familie ist wichtig.
 
 - [A1 > Grammar > Predicate Adjectives](/a1/grammar/adjectives/praedikative-adjektive.md)
 - [A1 > Grammar > gern, lieber, am liebsten](/a1/grammar/adjectives/gern-lieber.md)
-- [Everyday verbs 1](/a1/vocabulary/everyday-verbs-1.md)
+- [Everyday verbs](/a1/vocabulary/everyday-verbs-1.md)

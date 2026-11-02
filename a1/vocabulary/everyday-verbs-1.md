@@ -8,30 +8,32 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Everyday verbs 1
+# Regular everyday verbs
 
-Ten verbs carry an astonishing share of everyday German: doing, going, coming, drinking, living, working. All ten in this pack behave regularly in the present tense, so your ear can settle into one clean pattern while the words themselves become automatic. Each verb comes in two different persons, because a verb you only know as *ich mache* is only half a verb.
+Everyday verbs such as *machen*, *gehen*, *kommen* and *wohnen* carry a large share of spoken German. All ten in this pack are regular in the {term}`present tense`.
+
+A {term}`regular verb` keeps its {term}`stem <verb stem>`, the part before *-en*, and follows one pattern. That lets the pack focus on the words themselves. Each verb appears in two different persons, because *ich mache* alone shows only half of it. The track moves between *ich* and *du* or *ihr*, and a short review at the end repeats four of the verbs.
 
 ## The words
 
-| German | English |
+| Word | Notes |
 |---|---|
-| machen | to do, to make |
-| gehen | to go, to walk |
-| kommen | to come |
-| trinken | to drink |
-| wohnen | to live (somewhere) |
-| arbeiten | to work |
-| kaufen | to buy |
-| lernen | to learn |
-| suchen | to look for |
-| finden | to find |
+| {stack}`machen \| to do, to make` | |
+| {stack}`gehen \| to go, to walk` | |
+| {stack}`kommen \| to come` | |
+| {stack}`trinken \| to drink` | |
+| {stack}`wohnen \| to live (somewhere)` | |
+| {stack}`arbeiten \| to work` | |
+| {stack}`kaufen \| to buy` | |
+| {stack}`lernen \| to learn` | |
+| {stack}`suchen \| to look for` | |
+| {stack}`finden \| to find` | |
 
 One small wrinkle worth hearing: *arbeiten* inserts an extra e in the *du* form (*du arbeitest*), the regular pattern for stems ending in -t.
 
 ## Hear it in practice
 
-Each verb comes as a pair of sentences in two different persons: *ich* one moment, *du* or *ihr* the next. Across the ten pairs you hear every conjugation slot German has, and a short review coda at the end replays four of the verbs in forms you know from the grammar albums.
+Each verb comes as a pair of sentences in two different persons. The ten pairs cover every person in German, and a short review at the end repeats four of the verbs.
 
 :::{audio-examples}
 :track: a1/vocabulary/everyday-verbs-1
@@ -120,10 +122,9 @@ Wir haben Deutsch gelernt.
 - Daily life: *trinken, wohnen*.
 - Doing and getting: *machen, arbeiten, lernen, kaufen*.
 - The seeker pair: *suchen* (looking) and *finden* (finding).
-- The vowel-changing verbs have their own pack: [Everyday verbs 2](/a1/vocabulary/everyday-verbs-2.md).
+- The vowel-changing verbs have their own pack: [Vowel-changing everyday verbs](/a1/vocabulary/everyday-verbs-2.md).
 :::
 
 ## Related articles
 
 - [A1 > Grammar > Regular Verbs in the Present](/a1/grammar/verbs/regelmassige-verben.md)
-- [Everyday verbs 2](/a1/vocabulary/everyday-verbs-2.md)

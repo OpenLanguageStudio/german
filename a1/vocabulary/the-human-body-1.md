@@ -8,27 +8,29 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# The human body 1
+# The human body
 
-Body words earn their keep the day something hurts and a pharmacist asks where. This pack maps the body from head to foot and pairs it with *wehtun*, the verb that turns any body part into a sentence a doctor understands.
+Body vocabulary in German earns its keep the day something hurts and a pharmacist asks where. This pack maps the body from head to foot.
+
+The pack pairs the body parts with *wehtun*, the {term}`verb` that turns any of them into a sentence a doctor understands: *Mein Kopf tut weh*. With a {term}`plural` the verb changes to *tun*: *Meine Füße tun weh*. The paired parts, such as *Augen* and *Hände*, appear mostly in the plural. *Die Haare* is plural too, though English says *hair*.
 
 ## The words
 
-| German | English |
+| Word | Notes |
 |---|---|
-| der Kopf, die Köpfe | head |
-| das Auge, die Augen | eye |
-| das Ohr, die Ohren | ear |
-| die Nase, die Nasen | nose |
-| der Mund, die Münder | mouth |
-| die Hand, die Hände | hand |
-| der Arm, die Arme | arm |
-| das Bein, die Beine | leg |
-| der Fuß, die Füße | foot |
-| der Bauch, die Bäuche | belly, stomach |
-| der Rücken, die Rücken | back |
-| die Haare | hair (usually plural) |
-| wehtun | to hurt |
+| {stack}`der Kopf \| head` | plural *die Köpfe* |
+| {stack}`das Auge \| eye` | plural *die Augen* |
+| {stack}`das Ohr \| ear` | plural *die Ohren* |
+| {stack}`die Nase \| nose` | plural *die Nasen* |
+| {stack}`der Mund \| mouth` | plural *die Münder* |
+| {stack}`die Hand \| hand` | plural *die Hände* |
+| {stack}`der Arm \| arm` | plural *die Arme* |
+| {stack}`das Bein \| leg` | plural *die Beine* |
+| {stack}`der Fuß \| foot` | plural *die Füße* |
+| {stack}`der Bauch \| belly, stomach` | plural *die Bäuche* |
+| {stack}`der Rücken \| back` | plural *die Rücken* |
+| {stack}`die Haare \| hair` | usually plural |
+| {stack}`wehtun \| to hurt` | |
 
 The paired parts (*Augen, Ohren, Hände, Arme, Beine, Füße*) live mostly in the plural, so the track serves several of them that way.
 
