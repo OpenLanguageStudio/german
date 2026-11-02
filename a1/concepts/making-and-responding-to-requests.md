@@ -10,7 +10,9 @@ myst:
 ---
 # Making and responding to requests
 
-A learner who can ask for help is never truly stuck. German has settled ways to get attention politely, ask for something without sounding rude, and answer a request in turn: yes gladly, or no with an excuse.
+Requests in German follow settled patterns: getting attention politely, asking for something without sounding rude, and answering yes gladly or no with an excuse.
+
+The usual polite request is a question with *können*, a {term}`modal verb` that sends the action {term}`verb` to the very end: *Können Sie mir helfen?* Adding *bitte* softens almost anything, and strangers get *Entschuldigung* first. A bare command can sound like an order, and a bare *Nein* can sound cold. A refusal therefore pairs *Tut mir leid* with a short reason.
 
 ## When to use it
 
@@ -20,17 +22,24 @@ A learner who can ask for help is never truly stuck. German has settled ways to 
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Kannst du mir helfen? | Can you help me? | informal |
-| Können Sie mir helfen? | Can you help me? | formal |
-| Entschuldigung, ... | Excuse me, ... | opens any request to a stranger |
-| ..., bitte. | ..., please. | softens everything |
-| Ja, gern. / Natürlich. | Gladly. / Of course. | saying yes |
-| Tut mir leid, ... | I'm sorry, ... | saying no politely |
-| Danke für deine Hilfe. | Thanks for your help. | |
+### Asking
 
-## Asking with *Kannst du ...? / Können Sie ...?*
+| Phrase | Notes |
+|---|---|
+| {stack}`Kannst du mir helfen? \| Can you help me?` | informal |
+| {stack}`Können Sie mir helfen? \| Can you help me?` | formal |
+| {stack}`Entschuldigung, ... \| Excuse me, ...` | opens any request to a stranger |
+| {stack}`..., bitte. \| ..., please.` | softens everything |
+
+### Answering
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Ja, gern. / Natürlich. \| Gladly. / Of course.` | saying yes |
+| {stack}`Tut mir leid, ... \| I'm sorry, ...` | saying no politely |
+| {stack}`Danke für deine Hilfe. \| Thanks for your help.` | |
+
+## Asking with *können* or *bitte*
 
 The polite workhorse is a question with *können*: name the person, then what you want, with the action verb at the very end. Add *bitte* anywhere in the middle and the request cannot sound harsh.
 
@@ -47,9 +56,7 @@ Kann ich eine Frage stellen?
 : Can I ask a question?
 :::
 
-## Direct requests with *bitte*
-
-Short commands are fine in German when *bitte* rides along, especially for small everyday things. The full imperative gets its own grammar article later. At this stage these work best as fixed patterns.
+Short commands are fine in German when *bitte* rides along, especially for small everyday things. The full {term}`imperative` has its own grammar article, and at A1 these work best as fixed patterns.
 
 **Examples:**
 

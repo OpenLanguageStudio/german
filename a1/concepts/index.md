@@ -3,6 +3,7 @@ myst:
   html_meta:
     description: "A1 German concepts: a step-by-step curriculum of functional abilities, from greetings and introducing yourself to talking about past events."
     keywords: "german, a1, concepts, curriculum, introducing yourself, greetings, ordering food, asking directions, beginner german"
+html_theme.sidebar_secondary.remove:
 ---
 # Concepts
 

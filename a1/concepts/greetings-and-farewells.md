@@ -10,7 +10,9 @@ myst:
 ---
 # Greetings and farewells
 
-Every encounter in German has an opening move and a closing one, and both are more fixed than in English. The right greeting depends on the time of day and on whether the relationship is formal or informal. A natural goodbye is what keeps an exit from sounding abrupt.
+Greetings and farewells in German are more fixed than in English. Each encounter has an opening line and a closing one, and leaving one out stands out.
+
+The right greeting depends on the time of day and on whether the relationship is formal or informal. *Hallo* and *Tschüss* suit friends and family. *Guten Morgen*, *Guten Tag* and *Guten Abend* suit everyone else, with *Auf Wiedersehen* on the way out. A quick hello and goodbye is also expected in small shops and at the doctor's, where English speakers might say nothing.
 
 ## When to use it
 
@@ -20,16 +22,23 @@ Every encounter in German has an opening move and a closing one, and both are mo
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Hallo! | Hello! | informal, any time |
-| Guten Morgen! | Good morning! | until about 10-11 |
-| Guten Tag! | Good day! | the neutral daytime greeting |
-| Guten Abend! | Good evening! | from about 18:00 |
-| Gute Nacht! | Good night! | only when someone goes to bed |
-| Tschüss! | Bye! | informal, very common |
-| Auf Wiedersehen! | Goodbye! | formal |
-| Bis bald! / Bis morgen! | See you soon! / See you tomorrow! | friendly sign-offs |
+### Saying hello
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Hallo! \| Hello!` | informal, any time |
+| {stack}`Guten Morgen! \| Good morning!` | until about 10-11 |
+| {stack}`Guten Tag! \| Good day!` | the neutral daytime greeting |
+| {stack}`Guten Abend! \| Good evening!` | from about 18:00 |
+
+### Saying goodbye
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Gute Nacht! \| Good night!` | only when someone goes to bed |
+| {stack}`Tschüss! \| Bye!` | informal, very common |
+| {stack}`Auf Wiedersehen! \| Goodbye!` | formal |
+| {stack}`Bis bald! / Bis morgen! \| See you soon! / See you tomorrow!` | friendly sign-offs |
 
 ## Saying hello
 
@@ -48,7 +57,7 @@ Hallo Anna, wie geht es dir?
 : Hello Anna, how are you?
 :::
 
-A short *Wie geht's?* (how are you?) often follows the greeting. The standard reply is *Danke, gut* and, if you like, the question back: *Und dir? Und Ihnen?*
+A short *Wie geht's?* (how are you?) often follows the greeting. The standard reply is *Danke, gut*, often with the question back: *Und dir? Und Ihnen?*
 
 ## Saying goodbye
 
@@ -159,7 +168,7 @@ Moin!
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Gute Nacht!* when leaving a restaurant → **Guten Abend!** or **Auf Wiedersehen!** (Gute Nacht is for going to bed)
+- *\*Gute Nacht!* when leaving a restaurant → **Schönen Abend noch!** or **Auf Wiedersehen!** (Gute Nacht is for going to bed)
 - *\*Guten Morgen* at 15:00 → **Guten Tag.** (Morgen ends mid-morning)
 - Leaving without a farewell: a quick **Tschüss!** is expected even after small transactions.
 :::

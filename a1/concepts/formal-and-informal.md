@@ -10,7 +10,9 @@ myst:
 ---
 # Formal and informal
 
-German draws a clear line between formal and informal, and it runs through the whole language. The most visible sign is that there are two words for *you*: *du* for the informal and *Sie* for the formal. This is not only grammar. It is a real social signal, and Germans notice it. The line is worth knowing about before the first greeting, because native speakers take it seriously.
+German has two words for *you*: *du* for the informal and *Sie* for the formal. The choice between formal and informal runs through the whole language.
+
+That choice is a social signal, and native speakers notice it. *Du* goes to friends, family and children. *Sie* goes to adults a speaker does not know, to officials, and to people at work. The {term}`verb` and the {term}`pronouns <pronoun>` change with it. So does the way people are named: first names go with *du*, and *Herr* or *Frau* with a surname go with *Sie*.
 
 ## When to use it
 
@@ -28,13 +30,20 @@ German draws a clear line between formal and informal, and it runs through the w
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| *du* | you (informal) | friends, family, children |
-| *Sie* | you (formal) | strangers, formal settings; always capitalised |
-| *Herr* / *Frau* | Mr / Mrs | formal address with the surname |
-| Wie heißt du? / Wie heißen Sie? | What is your name? | informal / formal |
-| Wie geht es dir? / Wie geht es Ihnen? | How are you? | informal / formal |
+### The two words for *you*
+
+| Phrase | Notes |
+|---|---|
+| {stack}`du \| you (informal)` | friends, family, children |
+| {stack}`Sie \| you (formal)` | strangers, formal settings; always capitalised |
+| {stack}`Herr / Frau \| Mr / Mrs` | formal address with the surname |
+
+### The same question both ways
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Wie heißt du? / Wie heißen Sie? \| What is your name?` | informal / formal |
+| {stack}`Wie geht es dir? / Wie geht es Ihnen? \| How are you?` | informal / formal |
 
 ## Two ways to say "you"
 
@@ -61,7 +70,7 @@ Guten Tag, Frau Weber, wie geht es Ihnen?
 Using *du* with the wrong person can feel too familiar, almost like a stranger patting you on the shoulder. Using *Sie* with a close friend sounds cold and distant. Germans read these choices as a sign of respect and social awareness, which is why the safe default with anyone new is *Sie*. You wait for the other person to offer *du*, or you offer it yourself once you know them.
 
 :::{tip}
-Do not let this scare you. At this stage any competent German speaker can tell at once that you are learning, and that earns you a lot of forgiveness. Mix up *du* and *Sie* and people will simply understand. Keep it in mind as you go, though, because the more fluent and confident you sound, the more a native speaker will expect you to get it right.
+Do not let this scare you. At this stage any competent German speaker can tell at once that you are learning, and that earns you a lot of forgiveness. Mix up *du* and *Sie* and people will simply understand. Keep it in mind, though. The more fluent you sound, the more a native speaker expects you to get it right.
 :::
 
 ## Hear it in practice

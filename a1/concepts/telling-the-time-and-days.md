@@ -10,7 +10,9 @@ myst:
 ---
 # Telling the time and days
 
-Everything here builds on the numbers from the previous concept. On top of them sit the clock, the days of the week, the months, and the three little words that pin an event to a point in time: *um*, *am*, and *im*.
+Telling the time in German takes the numbers plus a few words for the clock, the days of the week, and the months.
+
+Three small words pin an event to a point in time: *um* for a clock time, *am* for a day, and *im* for a month. These are {term}`prepositions <preposition>`, small words that show place or time. The one real trap is *halb*: *halb vier* means half past three, because German looks ahead to the coming hour. Transport, television and opening hours use the 24-hour clock, so *zwanzig Uhr* is 8 pm.
 
 ## When to use it
 
@@ -20,15 +22,22 @@ Everything here builds on the numbers from the previous concept. On top of them 
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Wie spät ist es? | What time is it? | |
-| Es ist drei Uhr. | It is three o'clock. | |
-| Es ist halb vier. | It is half past THREE. | see below |
-| um sieben (Uhr) | at seven (o'clock) | clock times |
-| am Montag | on Monday | days |
-| im Juli | in July | months |
-| heute, morgen | today, tomorrow | |
+### Clock times
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Wie spät ist es? \| What time is it?` | |
+| {stack}`Es ist drei Uhr. \| It is three o'clock.` | |
+| {stack}`Es ist halb vier. \| It is half past THREE.` | see below |
+| {stack}`um sieben (Uhr) \| at seven (o'clock)` | clock times |
+
+### Days and months
+
+| Phrase | Notes |
+|---|---|
+| {stack}`am Montag \| on Monday` | days |
+| {stack}`im Juli \| in July` | months |
+| {stack}`heute, morgen \| today, tomorrow` | |
 
 ## Asking and telling the time
 

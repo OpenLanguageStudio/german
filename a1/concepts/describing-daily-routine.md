@@ -10,7 +10,9 @@ myst:
 ---
 # Describing daily routine
 
-A typical day told from getting up to going to bed is one of the most requested tasks at A1, and exams often ask for exactly this kind of narration. It needs a time hung on each step and the connectors *zuerst*, *dann*, and *danach* to hold the sequence together.
+A daily routine, told from getting up to going to bed, is one of the most common things to describe in German at A1.
+
+The telling needs a time on each step and the words *zuerst*, *dann* and *danach* to hold the order together. Each sentence stays short. Two points of grammar matter here. {term}`Separable verbs <separable verb>` come apart, as in *Ich stehe um sieben auf*. When a sentence opens with the time, the {term}`verb` stays in second place and the {term}`subject` moves behind it: *Um acht fahre ich zur Arbeit*.
 
 ## When to use it
 
@@ -20,14 +22,21 @@ A typical day told from getting up to going to bed is one of the most requested 
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Ich stehe um sieben Uhr auf. | I get up at seven. | the verb splits |
-| Ich fahre zur Arbeit. | I go to work. | |
-| Ich arbeite von neun bis fünf. | I work from nine to five. | |
-| Ich gehe ins Bett. | I go to bed. | |
-| zuerst, dann, danach | first, then, after that | sequence words |
-| morgens, mittags, abends | in the morning / at noon / in the evening | |
+### The working day
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Ich stehe um sieben Uhr auf. \| I get up at seven.` | the verb splits |
+| {stack}`Ich fahre zur Arbeit. \| I go to work.` | |
+| {stack}`Ich arbeite von neun bis fünf. \| I work from nine to five.` | |
+| {stack}`Ich gehe ins Bett. \| I go to bed.` | |
+
+### Putting it in order
+
+| Phrase | Notes |
+|---|---|
+| {stack}`zuerst, dann, danach \| first, then, after that` | sequence words |
+| {stack}`morgens, mittags, abends \| in the morning / at noon / in the evening` | |
 
 ## A day in order
 
@@ -46,9 +55,9 @@ Abends sehe ich fern.
 : In the evening I watch TV.
 :::
 
-## Verbs that split
+## Word order in a routine
 
-Several routine verbs come apart in the sentence: *aufstehen* becomes *Ich stehe ... auf*, *einkaufen* becomes *Ich kaufe ... ein*, *fernsehen* becomes *Ich sehe ... fern*. The little prefix jumps to the very end. For now, learn these three as fixed patterns; the full rule has its own grammar article later.
+Several routine verbs come apart in the sentence: *aufstehen* becomes *Ich stehe ... auf*, *einkaufen* becomes *Ich kaufe ... ein*, *fernsehen* becomes *Ich sehe ... fern*. The little {term}`prefix` jumps to the very end. These three work as fixed patterns, and the full rule has its own grammar article.
 
 **Examples:**
 
@@ -60,9 +69,7 @@ Ich **sehe** abends **fern**.
 : I watch TV in the evening.
 :::
 
-## Starting with the time
-
-You can open a sentence with the time, and German then flips subject and verb so the verb stays in second position: *Um acht fahre ich zur Arbeit.* Use it to vary your rhythm; a whole day of *ich, ich, ich* sounds mechanical.
+A sentence can also open with the time. German then swaps subject and verb, so the verb stays in second position: *Um acht fahre ich zur Arbeit.* A whole day of *ich, ich, ich* sounds mechanical, so this is worth using.
 
 **Examples:**
 

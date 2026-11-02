@@ -10,7 +10,9 @@ myst:
 ---
 # Spelling and the alphabet
 
-Spelling aloud is a survival skill in Germany, needed at every reception desk and on every phone call about a form. The German letter names differ enough from the English ones to cause real trouble, and umlauts add a step of their own.
+Spelling aloud is a survival skill in Germany, needed at every reception desk and on every phone call about a form.
+
+The German letter names differ enough from the English ones to cause real trouble: *E* sounds like English *A*, and *I* sounds like English *E*. {term}`Umlauts <umlaut>` add a step of their own, because *Müller* and *Muller* are different names on a form. On the phone, Germans also tie letters to first names, as in *A wie Anton*, so that similar sounds do not get mixed up.
 
 ## When to use it
 
@@ -20,15 +22,27 @@ Spelling aloud is a survival skill in Germany, needed at every reception desk an
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Wie schreibt man das? | How do you spell that? | literally "how does one write that" |
-| Können Sie das buchstabieren? | Can you spell that? | formal |
-| Ich buchstabiere: ... | I'll spell it: ... | then the letters |
-| mit Doppel-S | with double S | for ss |
-| mit Umlaut | with an umlaut | for ä, ö, ü |
-| Noch einmal, bitte. | Once again, please. | during dictation |
-| Langsamer, bitte. | Slower, please. | during dictation |
+### Asking how to spell it
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Wie schreibt man das? \| How do you spell that?` | literally "how does one write that" |
+| {stack}`Können Sie das buchstabieren? \| Can you spell that?` | formal |
+
+### Spelling it out
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Ich buchstabiere: ... \| I'll spell it: ...` | then the letters |
+| {stack}`mit Doppel-S \| with double S` | for ss |
+| {stack}`mit Umlaut \| with an umlaut` | for ä, ö, ü |
+
+### During dictation
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Noch einmal, bitte. \| Once again, please.` | during dictation |
+| {stack}`Langsamer, bitte. \| Slower, please.` | during dictation |
 
 ## The misleading letters
 
