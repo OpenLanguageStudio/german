@@ -10,7 +10,9 @@ myst:
 ---
 # Talking about family
 
-Family is one of the first topics Germans ask newcomers about, and one of the easiest to prepare in advance. A short description covers who belongs to the family, their names and ages, and a fact or two about each person.
+Family is one of the first topics Germans ask newcomers about. A short description covers who belongs to the family, their names and ages, and a fact or two about each person.
+
+Talking about family takes three tools. *Haben* says who is there, as in *Ich habe einen Bruder*. Here *einen* is the {term}`accusative <accusative case>` form of *ein*, used for the person someone has. {term}`Possessive articles <possessive article>` such as *mein* and *meine* then pick out each person, so something can be said about them. After that, the usual patterns for name, age and home work unchanged: *Meine Tochter ist fünf Jahre alt*.
 
 ## When to use it
 
@@ -20,18 +22,25 @@ Family is one of the first topics Germans ask newcomers about, and one of the ea
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Ich habe einen Bruder. | I have a brother. | haben + accusative |
-| Hast du Geschwister? | Do you have siblings? | |
-| Ich bin Einzelkind. | I am an only child. | no article |
-| Mein Vater / meine Mutter | my father / my mother | possessive articles |
-| Ich bin verheiratet. | I am married. | |
-| die Eltern, die Großeltern | parents, grandparents | plural only |
+### Naming family members
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Mein Vater / meine Mutter \| my father / my mother` | possessive articles |
+| {stack}`die Eltern, die Großeltern \| parents, grandparents` | plural only |
+
+### Asking and answering
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Ich habe einen Bruder. \| I have a brother.` | haben + accusative |
+| {stack}`Hast du Geschwister? \| Do you have siblings?` | |
+| {stack}`Ich bin Einzelkind. \| I am an only child.` | no article |
+| {stack}`Ich bin verheiratet. \| I am married.` | |
 
 ## Who is in the family
 
-The core vocabulary: *der Vater, die Mutter, die Eltern; der Bruder, die Schwester, die Geschwister; der Sohn, die Tochter, die Kinder; der Opa, die Oma, die Großeltern; der Mann, die Frau* (also "husband" and "wife").
+The core words start with *der Vater, die Mutter, die Eltern*. Next come *der Bruder, die Schwester, die Geschwister*, then *der Sohn, die Tochter, die Kinder*, and *der Opa, die Oma, die Großeltern*. *Der Mann* and *die Frau* also mean husband and wife.
 
 Saying who you have uses *haben*, and the accusative shows up naturally: *Ich habe **einen** Bruder.*
 
@@ -48,9 +57,9 @@ Ich habe {akk}`keine Geschwister`.
 : I have no siblings.
 :::
 
-## Describing your people
+## Describing family members
 
-The possessive articles pick out each person so something can be said about them: name, age, city, job, or what they like doing. Every sentence pattern from the earlier concepts works here.
+The possessive articles pick out each person so something can be said about them: name, age, city, job, or what they like doing. The usual patterns for name, age and home all work here.
 
 **Examples:**
 
@@ -158,7 +167,7 @@ Wie groß ist deine Familie?
 :class: caution
 
 - *\*Ich habe ein Bruder.* → Ich habe **einen** Bruder. (haben takes the accusative)
-- *\*Meine Vater* → **Mein** Vater. (Vater is masculine)
+- *\*Meine Vater* → **Mein** Vater. (Vater is {term}`masculine`)
 - *\*Ich bin ein Einzelkind.* → Ich bin **Einzelkind**. (no article, like professions)
 :::
 

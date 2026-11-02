@@ -10,7 +10,9 @@ myst:
 ---
 # Introducing yourself
 
-A German self-introduction rests on four sentences: name, origin, where home is, and age. The same four questions come back the other way, in both the formal *Sie* and the informal *du*.
+Introducing yourself in German rests on four sentences: name, origin, where home is, and age. The same four questions come back the other way, in both the formal *Sie* and the informal *du*.
+
+Each of the four sentences starts with *ich* and a {term}`verb`: *Ich heiße*, *Ich komme aus*, *Ich wohne in* and *Ich bin*. The questions use the same verbs with a different ending, so one set of words covers both sides of the conversation. Age is the one surprise, because German says it with *sein* (to be) and never with *haben* (to have). Turning a question around takes only *Und du?* or *Und Sie?*
 
 ## When to use it
 
@@ -20,18 +22,25 @@ A German self-introduction rests on four sentences: name, origin, where home is,
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Ich heiße … | My name is … | most common opener |
-| Mein Name ist … | My name is … | slightly more formal |
-| Ich komme aus … | I come from … | country or city |
-| Ich wohne in … | I live in … | city or district |
-| Ich bin … Jahre alt. | I am … years old. | with a number |
-| Wie heißen Sie? / Wie heißt du? | What is your name? | formal / informal |
-| Woher kommen Sie? / Woher kommst du? | Where are you from? | formal / informal |
-| Freut mich! | Nice to meet you! | fixed reply |
+### Name, origin, home and age
 
-## Saying who you are
+| Phrase | Notes |
+|---|---|
+| {stack}`Ich heiße … \| My name is …` | most common opener |
+| {stack}`Mein Name ist … \| My name is …` | slightly more formal |
+| {stack}`Ich komme aus … \| I come from …` | country or city |
+| {stack}`Ich wohne in … \| I live in …` | city or district |
+| {stack}`Ich bin … Jahre alt. \| I am … years old.` | with a number |
+
+### Asking and replying
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Wie heißen Sie? / Wie heißt du? \| What is your name?` | formal / informal |
+| {stack}`Woher kommen Sie? / Woher kommst du? \| Where are you from?` | formal / informal |
+| {stack}`Freut mich! \| Nice to meet you!` | fixed reply |
+
+## The four sentences
 
 Three verbs do almost all the work: *heißen* (to be called), *kommen* (to come), and *wohnen* (to live). With *ich* they all end in **-e**.
 
@@ -53,7 +62,7 @@ Ich bin 25 Jahre alt.
 
 ## Asking the questions back
 
-A conversation goes both ways. The question words are *wie* (how/what), *woher* (from where), and *wo* (where). Choose *Sie* or *du* and keep it consistent.
+A conversation goes both ways. The {term}`question words <question word>` are *wie* (how/what), *woher* (from where), and *wo* (where). Choose *Sie* or *du* and keep it consistent.
 
 | Formal (Sie) | Informal (du) | English |
 |---|---|---|
@@ -81,8 +90,6 @@ Und du?
 :::{note}
 Use **Sie** with adults you don't know, at offices, and in shops. Use **du** with friends, family, children, and usually between students in a course. When unsure, start with *Sie*.
 :::
-
-## Register and tone
 
 Germans usually give surnames in formal settings (*Ich heiße Weber*) and first names in informal ones. *Freut mich!* is the safe, friendly response to any introduction. A handshake is common in formal contexts.
 

@@ -10,7 +10,9 @@ myst:
 ---
 # Introducing someone else
 
-Introducing a third person uses the same toolkit as a self-introduction, shifted to *er* and *sie*. The pattern opens with *Das ist ...* and then adds a name, an origin, an occupation, and the languages that person speaks.
+Introducing someone else uses the same building blocks as a self-introduction, shifted to *er* and *sie*. The pattern opens with *Das ist ...* and then adds a name, an origin, a job, and the languages that person speaks.
+
+The main change is the ending of the {term}`verb`. *Ich komme* becomes *er kommt*, and *ich wohne* becomes *sie wohnt*, because these verbs end in *-t* after *er* and *sie*. The opener stays the same for everyone: *das* never changes, whether the person is a man, a woman or a child. For several people, *Das ist* becomes *Das sind*. Two verbs to watch are *sein* and *sprechen*, which give *er ist* and *sie spricht*.
 
 ## When to use it
 
@@ -20,15 +22,22 @@ Introducing a third person uses the same toolkit as a self-introduction, shifted
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Das ist ... | This is ... | works for anyone |
-| Er heißt ... / Sie heißt ... | His / her name is ... | |
-| Er kommt aus ... | He comes from ... | country or city |
-| Sie wohnt in ... | She lives in ... | |
-| Er ist Lehrer. | He is a teacher. | no article before the job |
-| Sie spricht Englisch. | She speaks English. | |
-| Wer ist das? | Who is that? | the question to expect |
+### Presenting someone
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Das ist ... \| This is ...` | works for anyone |
+| {stack}`Wer ist das? \| Who is that?` | the question to expect |
+
+### Saying more about them
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Er heißt ... / Sie heißt ... \| His / her name is ...` | |
+| {stack}`Er kommt aus ... \| He comes from ...` | country or city |
+| {stack}`Sie wohnt in ... \| She lives in ...` | |
+| {stack}`Er ist Lehrer. \| He is a teacher.` | no article before the job |
+| {stack}`Sie spricht Englisch. \| She speaks English.` | |
 
 ## Pointing someone out
 
@@ -49,7 +58,7 @@ Das sind meine Eltern.
 
 ## Saying more about them
 
-After the opener, switch to *er* or *sie* and reuse the verbs you know from introducing yourself: *heißen, kommen, wohnen, sein, sprechen*. In the third person they end in **-t**: *er kommt, sie wohnt, er spricht*.
+After the opener, switch to *er* or *sie* and reuse the verbs of a self-introduction: *heißen, kommen, wohnen, sein, sprechen*. In the third person they end in **-t**: *er kommt, sie wohnt, er spricht*.
 
 **Examples:**
 
@@ -157,8 +166,8 @@ Freut mich!
 :class: caution
 
 - *\*Er ist ein Lehrer.* → Er ist **Lehrer**. (no article before professions)
-- *\*Sie kommt aus in Polen.* → Sie kommt **aus** Polen. (one preposition, not two)
-- *\*Das ist meine Eltern.* → Das **sind** meine Eltern. (plural needs sind)
+- *\*Sie kommt aus in Polen.* → Sie kommt **aus** Polen. (one {term}`preposition`, not two)
+- *\*Das ist meine Eltern.* → Das **sind** meine Eltern. ({term}`plural` needs sind)
 :::
 
 ## Related articles

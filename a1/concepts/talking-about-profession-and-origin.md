@@ -10,7 +10,9 @@ myst:
 ---
 # Talking about profession and origin
 
-This is the second half of a typical first conversation, and it builds directly on introducing yourself: what someone does for a living, where they work, where they come from, and the questions that send the topic back the other way.
+Talking about profession and origin fills the second half of a typical first conversation. It covers what someone does for a living, where they work, and where they come from.
+
+Both topics run on a few short patterns. Work uses *Ich bin*, *Ich arbeite als* or *Ich arbeite bei*. A job takes no article, so German has no word for *a* in *Ich bin Lehrerin*. Origin uses *aus* plus a country or a city. The question then comes back the other way with *Und du?* or *Und Sie?*, so one answer usually leads to the next.
 
 ## When to use it
 
@@ -20,15 +22,22 @@ This is the second half of a typical first conversation, and it builds directly 
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Was machst du beruflich? | What do you do for a living? | informal |
-| Was sind Sie von Beruf? | What is your profession? | formal |
-| Ich bin ... | I am a ... | job, no article |
-| Ich arbeite als ... | I work as a ... | job, no article |
-| Ich arbeite bei ... | I work at ... | company name |
-| Woher kommen Sie? | Where are you from? | formal |
-| Ich komme aus ... | I come from ... | country or city |
+### Work
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Was machst du beruflich? \| What do you do for a living?` | informal |
+| {stack}`Was sind Sie von Beruf? \| What is your profession?` | formal |
+| {stack}`Ich bin ... \| I am a ...` | job, no article |
+| {stack}`Ich arbeite als ... \| I work as a ...` | job, no article |
+| {stack}`Ich arbeite bei ... \| I work at ...` | company name |
+
+### Origin
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Woher kommen Sie? \| Where are you from?` | formal |
+| {stack}`Ich komme aus ... \| I come from ...` | country or city |
 
 ## Talking about work
 
@@ -49,7 +58,7 @@ Ich arbeite als Kellner.
 
 Not working right now also has simple answers: *Ich studiere* (I study), *Ich suche Arbeit* (I am looking for work), *Ich arbeite nicht*.
 
-## Where you come from
+## Origin with *aus*
 
 *Woher kommst du?* asks for origin; the answer uses *aus* plus a country or city. A few country names carry an article and keep it after *aus*: *aus der Schweiz, aus der Türkei*.
 

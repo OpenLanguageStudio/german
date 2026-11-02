@@ -10,7 +10,9 @@ myst:
 ---
 # Expressing likes and dislikes
 
-Preferences open up hobby talk, food choices, and most small talk beyond introductions. German splits the job between two structures: *gern* for activities and *mögen* for things, each with a negative of its own.
+Talking about likes and dislikes opens up hobby talk, food choices, and most small talk beyond the first introductions in German.
+
+German splits the job between two structures, each with a negative of its own. *Gern* goes with activities and follows the {term}`verb`, as in *Ich koche gern*, literally "I cook gladly". *Mögen* goes with things: *Ich mag Kaffee*. English uses *like* for both, so choosing between them is the new step. The negatives are *nicht gern* for activities and a form of *kein* for things.
 
 ## When to use it
 
@@ -20,15 +22,27 @@ Preferences open up hobby talk, food choices, and most small talk beyond introdu
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Ich koche gern. | I like cooking. | gern after the verb |
-| Ich arbeite nicht gern. | I don't like working. | nicht gern |
-| Ich mag Kaffee. | I like coffee. | mögen + thing |
-| Ich mag keinen Fisch. | I don't like fish. | mögen + kein |
-| Magst du ...? | Do you like ...? | informal |
-| Mögen Sie ...? | Do you like ...? | formal |
-| Das gefällt mir. | I like that. | fixed chunk |
+### Liking activities
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Ich koche gern. \| I like cooking.` | gern after the verb |
+| {stack}`Ich arbeite nicht gern. \| I don't like working.` | nicht gern |
+
+### Liking things
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Ich mag Kaffee. \| I like coffee.` | mögen + thing |
+| {stack}`Ich mag keinen Fisch. \| I don't like fish.` | mögen + kein |
+| {stack}`Das gefällt mir. \| I like that.` | fixed chunk |
+
+### Asking
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Magst du ...? \| Do you like ...?` | informal |
+| {stack}`Mögen Sie ...? \| Do you like ...?` | formal |
 
 ## Liking activities: *gern*
 
@@ -49,7 +63,7 @@ Ich arbeite **nicht gern** am Wochenende.
 
 ## Liking things: *mögen*
 
-For nouns, use *mögen*: *Ich mag Kaffee*. The forms you need now: *ich mag, du magst, er/sie mag, Sie mögen*. The negative uses *kein*: *Ich mag keinen Fisch*.
+For {term}`nouns <noun>`, use *mögen*: *Ich mag Kaffee*. The everyday forms: *ich mag, du magst, er/sie mag, Sie mögen*. The negative uses *kein*: *Ich mag keinen Fisch*.
 
 **Examples:**
 
@@ -158,7 +172,7 @@ Ich mag den Winter nicht.
 
 - *\*Ich gern koche.* → Ich koche **gern**. (gern comes after the verb)
 - *\*Ich mag schwimmen gern.* → Ich schwimme **gern**. (activity: gern, not mögen)
-- *\*Ich mag nicht Fisch.* → Ich mag **keinen** Fisch. (nouns are negated with kein)
+- *\*Ich mag nicht Fisch.* → Ich mag **keinen** Fisch. (nouns are {term}`negated <negation>` with kein)
 :::
 
 ## Related articles

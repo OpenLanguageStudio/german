@@ -10,7 +10,9 @@ myst:
 ---
 # Numbers and personal data
 
-Numbers show up in nearly every A1 situation, so this page pays for itself quickly. Counting is the easy half. The harder half is catching numbers at speed and handing over personal details: a phone number, an age, a street address, a postcode.
+Numbers show up in nearly every A1 situation, from a phone number and an age to a street address and a postcode.
+
+German numbers follow a small set of patterns, and up to twelve each number is its own word. From thirteen to nineteen the unit comes first and *zehn* follows, and from twenty-one the unit comes before the ten, joined by *und*. Counting is the easy half. The harder half is catching numbers at speed and giving personal details, because phone numbers and postcodes are read digit by digit.
 
 ## When to use it
 
@@ -20,35 +22,41 @@ Numbers show up in nearly every A1 situation, so this page pays for itself quick
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Wie ist Ihre Telefonnummer? | What is your phone number? | formal |
-| Meine Nummer ist ... | My number is ... | digits read one by one |
-| Wie alt sind Sie? / bist du? | How old are you? | formal / informal |
-| Ich bin ... Jahre alt. | I am ... years old. | with a number |
-| Meine Adresse ist ... | My address is ... | street + house number |
-| die Postleitzahl | postcode | often read digit by digit |
+### Phone and address
 
-## The numbers 0 to 20
+| Phrase | Notes |
+|---|---|
+| {stack}`Wie ist Ihre Telefonnummer? \| What is your phone number?` | formal |
+| {stack}`Meine Nummer ist ... \| My number is ...` | digits read one by one |
+| {stack}`Meine Adresse ist ... \| My address is ...` | street + house number |
+| {stack}`die Postleitzahl \| postcode` | often read digit by digit |
+
+### Age
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Wie alt sind Sie? / bist du? \| How old are you?` | formal / informal |
+| {stack}`Ich bin ... Jahre alt. \| I am ... years old.` | with a number |
+
+## Counting to a hundred
 
 The numbers up to twelve are their own words; from thirteen, the pattern is unit + *zehn*.
 
-| | | | |
-|---|---|---|---|
-| 0 null | 6 sechs | 11 elf | 16 sechzehn |
-| 1 eins | 7 sieben | 12 zwölf | 17 siebzehn |
-| 2 zwei | 8 acht | 13 dreizehn | 18 achtzehn |
-| 3 drei | 9 neun | 14 vierzehn | 19 neunzehn |
-| 4 vier | 10 zehn | 15 fünfzehn | 20 zwanzig |
-| 5 fünf | | | |
+| 0 to 6 | 7 to 13 | 14 to 20 |
+|---|---|---|
+| 0 null | 7 sieben | 14 vierzehn |
+| 1 eins | 8 acht | 15 fünfzehn |
+| 2 zwei | 9 neun | 16 sechzehn |
+| 3 drei | 10 zehn | 17 siebzehn |
+| 4 vier | 11 elf | 18 achtzehn |
+| 5 fünf | 12 zwölf | 19 neunzehn |
+| 6 sechs | 13 dreizehn | 20 zwanzig |
 
 Note the two irregular teens: *sechzehn* (not sechszehn) and *siebzehn* (not siebenzehn).
 
-## Units before tens: *einundzwanzig*
+From 21 upwards, German says the unit first, then the ten, joined by *und*: 21 is *einundzwanzig*, literally "one and twenty". English speakers hear this as backwards at first.
 
-From 21 upwards, German says the unit first, then the ten, joined by *und*: 21 is *einundzwanzig*, literally "one and twenty". This feels backwards at first; the track below drills it until it does not.
-
-| | |
+| 20 to 50 | 60 to 90 |
 |---|---|
 | 20 zwanzig | 60 sechzig |
 | 30 dreißig | 70 siebzig |
@@ -68,7 +76,7 @@ neunundneunzig
 : ninety-nine
 :::
 
-## Giving your details
+## Phone numbers and addresses
 
 Phone numbers are read digit by digit. Addresses put the house number after the street name, and the postcode before the city.
 
