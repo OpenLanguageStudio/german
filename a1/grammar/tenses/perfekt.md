@@ -165,6 +165,4 @@ Wohin bist du gefahren?
 
 ## Related articles
 
-- [A1 > Grammar > The Past Participle](/a1/grammar/tenses/partizip-ii.md)
-- [A1 > Grammar > war and hatte](/a1/grammar/tenses/praeteritum-sein-haben.md)
 - [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)

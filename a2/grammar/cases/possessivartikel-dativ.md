@@ -281,7 +281,4 @@ Er spielt oft mit seinen Kindern.
 
 ## Related articles
 
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > Grammar > Genitiv bei Namen](/a2/grammar/cases/genitiv-name-s.md)
 - [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)

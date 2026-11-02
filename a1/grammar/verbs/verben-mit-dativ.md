@@ -148,5 +148,4 @@ Er hilft mir gern.
 ## Related articles
 
 - [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
-- [A1 > Grammar > Verbs with the Accusative](/a1/grammar/verbs/verben-mit-akkusativ.md)
 - [A1 > Grammar > Personal Pronouns: Dative](/a1/grammar/pronouns/personalpronomen-dativ.md)

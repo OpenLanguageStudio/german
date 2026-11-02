@@ -362,12 +362,9 @@ Ich finde meinen Schlüssel nicht.
 
 ## Related articles
 
-- [A2 > Grammar > Possessivartikel im Dativ](/a2/grammar/cases/possessivartikel-dativ.md)
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
 - [A2 > Grammar > Verben mit festen Präpositionen](/a2/grammar/prepositions/verben-mit-praeposition.md)
 - [A2 > Grammar > Wechselpräpositionen](/a2/grammar/prepositions/wechselpraepositionen.md)
 - [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
 - [A2 > Grammar > Temporale Präpositionen](/a2/grammar/prepositions/temporale-praepositionen.md)
 - [A2 > Grammar > Pronomen: alles, etwas, nichts](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md)
 - [A2 > Grammar > Positionsverben](/a2/grammar/prepositions/positionsverben.md)
-- [A2 > Grammar > Verben mit Dativ und Akkusativ](/a2/grammar/cases/verben-mit-dativ-akkusativ.md)

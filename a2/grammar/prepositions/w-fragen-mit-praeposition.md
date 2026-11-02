@@ -277,6 +277,5 @@ Von wem träumst du? – Von einem Star.
 
 ## Related articles
 
-- [A2 > Grammar > Verben mit festen Präpositionen](/a2/grammar/prepositions/verben-mit-praeposition.md)
 - [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
 - [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)

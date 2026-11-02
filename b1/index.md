@@ -28,3 +28,11 @@ B1 is the first independent level. It starts from a secure A2 and builds the gra
 concepts/index
 grammar/index
 ```
+
+## Additional reading
+
+External resources that complement this level.
+
+- [Lingolia: German Grammar](https://deutsch.lingolia.com/en/grammar), reference explanations with exercises
+- [Council of Europe: CEFR level descriptions](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions), what B1 means in the European framework
+- [Council of Europe: CEFR self-assessment grid](https://www.coe.int/en/web/common-european-framework-reference-languages/table-2-cefr-3.3-common-reference-levels-self-assessment-grid), check your own level by skill

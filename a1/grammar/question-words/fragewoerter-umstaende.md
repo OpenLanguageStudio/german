@@ -159,4 +159,3 @@ Warum kommt er nicht?
 ## Related articles
 
 - [A1 > Grammar > Yes/No Questions and W-Questions](/a1/grammar/sentence-structure/fragen.md)
-- [A1 > Grammar > Question Pronouns wer, wen, wem, was](/a1/grammar/question-words/fragepronomen.md)

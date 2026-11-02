@@ -156,5 +156,3 @@ Wen kennst du hier?
 ## Related articles
 
 - [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
-- [A1 > Grammar > Verbs with the Dative](/a1/grammar/verbs/verben-mit-dativ.md)
-- [A1 > Grammar > es gibt](/a1/grammar/verbs/es-gibt.md)

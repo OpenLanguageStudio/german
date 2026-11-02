@@ -153,7 +153,4 @@ Der Bus kommt gleich.
 
 ## Related articles
 
-- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
-- [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
 - [A1 > Grammar > Definite Articles](/a1/grammar/articles/bestimmter-artikel.md)
-- [A1 > Grammar > The Three Cases Compared](/a1/grammar/cases/kasus-ueberblick.md)

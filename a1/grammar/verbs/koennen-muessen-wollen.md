@@ -157,6 +157,4 @@ Ich kann heute leider nicht.
 
 ## Related articles
 
-- [A1 > Grammar > möchten](/a1/grammar/verbs/moechten.md)
-- [A1 > Grammar > Modal Verbs dürfen and sollen](/a1/grammar/verbs/duerfen-sollen.md)
 - [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)

@@ -155,8 +155,3 @@ Kennst du diese Stadt?
 - *\*Ich nehme dieser Kuchen.* → Ich nehme **diesen** Kuchen. (direct object, masculine)
 - *\*Diese Brot ist frisch.* → **Dieses** Brot ist frisch. (Brot is neuter)
 :::
-
-## Related articles
-
-- [A1 > Grammar > Definite Articles](/a1/grammar/articles/bestimmter-artikel.md)
-- [A1 > Grammar > Interrogative Articles](/a1/grammar/articles/interrogativartikel.md)

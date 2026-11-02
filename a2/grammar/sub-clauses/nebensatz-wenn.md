@@ -253,6 +253,4 @@ Ich nehme einen Schirm mit, wenn es regnet.
 
 ## Related articles
 
-- [A2 > Grammar > als und wenn - Unterschied](/a2/grammar/sub-clauses/nebensatz-als-wenn.md)
-- [A2 > Grammar > Nebensatz mit weil](/a2/grammar/sub-clauses/nebensatz-weil.md)
 - [A2 > Grammar > Konjunktiv II](/a2/grammar/verbs/konjunktiv-ii.md)

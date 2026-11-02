@@ -139,9 +139,3 @@ Heute Abend sehen wir fern.
 - *\*Dann ich koche.* → Dann **koche ich**. (same rule after sequence words)
 - Counting words instead of slots: *Nach der Arbeit* is three words but one slot.
 :::
-
-## Related articles
-
-- [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)
-- [A1 > Grammar > Yes/No Questions and W-Questions](/a1/grammar/sentence-structure/fragen.md)
-- [A1 > Grammar > Conjunctions und, oder, aber, denn](/a1/grammar/sentence-structure/konjunktionen.md)

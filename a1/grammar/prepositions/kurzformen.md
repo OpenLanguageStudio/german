@@ -151,9 +151,3 @@ Beim Essen sehen wir fern.
 - *\*zur Bahnhof* → **zum** Bahnhof. (Bahnhof is masculine)
 - *\*Ich bin ins Büro.* → Ich bin **im** Büro. (being there takes im)
 :::
-
-## Related articles
-
-- [A1 > Grammar > Local Prepositions with Dative](/a1/grammar/prepositions/lokale-praepositionen-dativ.md)
-- [A1 > Grammar > Two-Way Prepositions](/a1/grammar/prepositions/wechselpraepositionen.md)
-- [A1 > Grammar > Temporal Prepositions](/a1/grammar/prepositions/temporale-praepositionen.md)

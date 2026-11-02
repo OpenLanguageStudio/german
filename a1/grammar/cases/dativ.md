@@ -171,7 +171,4 @@ Sie spricht mit der Lehrerin.
 
 ## Related articles
 
-- [A1 > Grammar > The Nominative Case](/a1/grammar/cases/nominativ.md)
-- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
-- [A1 > Grammar > The Three Cases Compared](/a1/grammar/cases/kasus-ueberblick.md)
 - [A1 > Grammar > Local Prepositions with Dative](/a1/grammar/prepositions/lokale-praepositionen-dativ.md)

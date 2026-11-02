@@ -307,6 +307,5 @@ Hast du kein Auto? - Doch, es steht draußen.
 
 ## Related articles
 
-- [A2 > Grammar > Interrogativartikel: was für ein und welch-](/a2/grammar/pronouns/interrogativartikel-was-fuer-welche.md)
 - [A2 > Concepts > Indirekte Fragen](/a2/concepts/indirect-questions.md)
 - [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)

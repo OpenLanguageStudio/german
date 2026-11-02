@@ -518,9 +518,3 @@ Sie sind nach Berlin geflogen.
 - *Ich habe **gebekommen** eine E-Mail.* → Ich habe eine E-Mail **bekommen**. (no *ge-* after inseparable prefix)
 - *Wir **haben** gegangen.* (when subject is *wir*), correct! But remember *ihr*: **Ihr seid** gegangen. (*sein* must agree with the subject)
 :::
-
----
-
-## Related articles
-
-- [A2 > Grammar > Modalverben im Präteritum](/a2/grammar/verbs/modalverben-praeteritum.md)

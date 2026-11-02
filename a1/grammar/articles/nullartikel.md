@@ -183,9 +183,3 @@ Meine Schwester wohnt in Frankreich.
 - *\*Ich spreche das Deutsch.* → Ich spreche **Deutsch**. (languages take no article)
 - *\*Ich kaufe eine Äpfel.* → Ich kaufe **Äpfel**. (*ein* has no plural)
 :::
-
-## Related articles
-
-- [A1 > Grammar > Indefinite Articles](/a1/grammar/articles/unbestimmter-artikel.md)
-- [A1 > Grammar > Definite Articles](/a1/grammar/articles/bestimmter-artikel.md)
-- [A1 > Grammar > Negative Articles](/a1/grammar/articles/negativartikel.md)

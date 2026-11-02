@@ -143,9 +143,3 @@ Der Zug fährt nach Berlin.
 - *\*Mit den Bus.* → Mit **dem** Bus. (*mit* takes the dative)
 - Reciting tables instead of asking the three questions: the questions are faster and they scale.
 :::
-
-## Related articles
-
-- [A1 > Grammar > The Nominative Case](/a1/grammar/cases/nominativ.md)
-- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
-- [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)

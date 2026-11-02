@@ -277,10 +277,3 @@ Sie zeigt ihren Freunden die Stadt.
 - *Was gibst du \*der Kind?* → Was gibst du **dem** Kind? (*Kind* is neuter; dative singular article is *dem*.)
 - *Ich empfehle \*du den Film.* → Ich empfehle **dir** den Film. (*empfehlen* needs a dative person.)
 :::
-
----
-
-## Related articles
-
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)

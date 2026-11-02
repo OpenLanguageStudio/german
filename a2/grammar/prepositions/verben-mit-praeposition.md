@@ -298,4 +298,3 @@ Er interessiert sich für Geschichte.
 - [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
 - [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
 - [A2 > Grammar > Reflexive Verben](/a2/grammar/verbs/reflexive-verben.md)
-- [A2 > Grammar > W-Fragen mit Präposition](/a2/grammar/prepositions/w-fragen-mit-praeposition.md)

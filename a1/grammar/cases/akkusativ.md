@@ -172,7 +172,4 @@ Was kaufst du?
 
 ## Related articles
 
-- [A1 > Grammar > The Nominative Case](/a1/grammar/cases/nominativ.md)
-- [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
-- [A1 > Grammar > The Three Cases Compared](/a1/grammar/cases/kasus-ueberblick.md)
 - [A1 > Grammar > es gibt](/a1/grammar/verbs/es-gibt.md)

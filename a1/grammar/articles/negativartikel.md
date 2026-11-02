@@ -187,5 +187,4 @@ Wir haben keinen Zucker mehr.
 
 ## Related articles
 
-- [A1 > Grammar > Indefinite Articles](/a1/grammar/articles/unbestimmter-artikel.md)
 - [A1 > Grammar > Negation: nicht und kein](/a1/grammar/sentence-structure/negation.md)

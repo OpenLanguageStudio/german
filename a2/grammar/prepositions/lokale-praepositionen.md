@@ -407,4 +407,3 @@ Sie läuft den Strand entlang und macht Fotos.
 
 - [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
 - [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > Grammar > Wechselpräpositionen](/a2/grammar/prepositions/wechselpraepositionen.md)

@@ -159,5 +159,4 @@ Alles ist in Ordnung.
 ## Related articles
 
 - [A1 > Grammar > sein und haben](/a1/grammar/verbs/sein-und-haben.md)
-- [A1 > Grammar > gern, lieber, am liebsten](/a1/grammar/adjectives/gern-lieber.md)
 - [A1 > Grammar > Negation with nicht and kein](/a1/grammar/sentence-structure/negation.md)

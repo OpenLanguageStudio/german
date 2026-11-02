@@ -150,4 +150,3 @@ Zum Mittagessen gibt es Nudeln.
 
 - [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
 - [A1 > Grammar > Negative Articles](/a1/grammar/articles/negativartikel.md)
-- [A1 > Grammar > Verbs with the Accusative](/a1/grammar/verbs/verben-mit-akkusativ.md)

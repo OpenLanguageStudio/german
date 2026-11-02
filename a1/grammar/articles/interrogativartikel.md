@@ -155,5 +155,4 @@ Welches Obst isst du gern?
 
 ## Related articles
 
-- [A1 > Grammar > Demonstrative Articles](/a1/grammar/articles/demonstrativartikel.md)
 - [A1 > Grammar > Question Pronouns](/a1/grammar/question-words/fragepronomen.md)

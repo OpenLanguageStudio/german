@@ -283,5 +283,4 @@ Das ist Ellas Geheimnis.
 
 ## Related articles
 
-- [A2 > Grammar > Possessivartikel im Dativ](/a2/grammar/cases/possessivartikel-dativ.md)
 - [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)

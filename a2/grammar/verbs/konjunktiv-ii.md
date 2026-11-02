@@ -400,4 +400,3 @@ Könnte ich bitte bezahlen?
 ## Related articles
 
 - [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
-- [A2 > Grammar > Modalverben im Präteritum](/a2/grammar/verbs/modalverben-praeteritum.md)

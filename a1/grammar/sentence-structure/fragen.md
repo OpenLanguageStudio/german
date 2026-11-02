@@ -139,6 +139,5 @@ Ja, das verstehe ich.
 
 ## Related articles
 
-- [A1 > Grammar > The Verb in Second Position](/a1/grammar/sentence-structure/verb-position-2.md)
 - [A1 > Grammar > Question Pronouns wer, wen, wem, was](/a1/grammar/question-words/fragepronomen.md)
 - [A1 > Grammar > Question Words for Circumstances](/a1/grammar/question-words/fragewoerter-umstaende.md)

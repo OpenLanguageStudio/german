@@ -176,5 +176,4 @@ Unsere Lehrerin kommt aus Wien.
 ## Related articles
 
 - [A1 > Grammar > Personal Pronouns – Nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md)
-- [A1 > Grammar > Negative Articles](/a1/grammar/articles/negativartikel.md)
 - [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)

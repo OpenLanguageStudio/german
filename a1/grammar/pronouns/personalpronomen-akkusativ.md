@@ -153,6 +153,4 @@ Wir sehen euch morgen.
 
 ## Related articles
 
-- [A1 > Grammar > Personal Pronouns: Nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md)
-- [A1 > Grammar > Personal Pronouns: Dative](/a1/grammar/pronouns/personalpronomen-dativ.md)
 - [A1 > Grammar > Verbs with the Accusative](/a1/grammar/verbs/verben-mit-akkusativ.md)

@@ -151,9 +151,3 @@ Er hilft mir gern.
 - *\*du nehmst* → du **nimmst**. (nehmen changes consonants too)
 - *\*wir fähren* → wir **fahren**. (the change never reaches wir)
 :::
-
-## Related articles
-
-- [A1 > Grammar > Regular Verbs in the Present](/a1/grammar/verbs/regelmassige-verben.md)
-- [A1 > Grammar > sein und haben](/a1/grammar/verbs/sein-und-haben.md)
-- [A1 > Grammar > Separable Verbs](/a1/grammar/verbs/trennbare-verben.md)

@@ -349,7 +349,4 @@ Solltest du nicht arbeiten heute?
 ## Related articles
 
 - [A2 > Grammar > als und wenn - Unterschied](/a2/grammar/sub-clauses/nebensatz-als-wenn.md)
-- [A2 > Grammar > Das Verb werden](/a2/grammar/verbs/verb-werden.md)
-- [A2 > Grammar > Konjunktiv II – sollte und könnte](/a2/grammar/verbs/konjunktiv-ii.md)
-- [A2 > Grammar > Perfekt](/a2/grammar/verbs/perfekt.md)
 - [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)

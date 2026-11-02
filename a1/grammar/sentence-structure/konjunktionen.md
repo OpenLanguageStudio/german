@@ -149,8 +149,3 @@ Wir wohnen und arbeiten in Hamburg.
 - *\*Er ist nett aber, sehr müde.* → Er ist nett, **aber** sehr müde. (comma before aber)
 - Reaching for *weil* and rearranging: at A1, *denn* does the job with normal word order.
 :::
-
-## Related articles
-
-- [A1 > Grammar > The Verb in Second Position](/a1/grammar/sentence-structure/verb-position-2.md)
-- [A1 > Grammar > Negation with nicht and kein](/a1/grammar/sentence-structure/negation.md)
