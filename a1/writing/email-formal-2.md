@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Emailing the Doctor's Clinic
+# Emailing the doctor's clinic
 
-Writing to a doctor's practice is formal email at its most practical: you do not know who reads it, you need something specific, and a few clear sentences get you further than perfect grammar. This scenario adds one important tool to your formal frame: the greeting for unknown recipients, *Sehr geehrte Damen und Herren*.
+A formal email to a doctor's clinic in German asks for a *Termin*, an appointment, in a few clear sentences. The writer does not know who will read it.
+
+The reader is unknown, so the greeting is *Sehr geehrte Damen und Herren*, the correct form whenever no name is available. The rest follows the usual formal frame. The email states the request in the first line, then gives the symptoms and how long they have lasted. It closes with concrete times and a phone number.
 
 ## Example: Requesting an appointment
 
@@ -29,7 +31,7 @@ Anna has a sore throat and writes to the practice for an appointment.
 > Vielen Dank und freundliche Grüße
 > Anna Kowalska
 
-What makes it work: the request in the first line, the symptoms with *seit* (how long), a concrete offer of times instead of "whenever", and a phone number so the practice can settle it in one call. *Sehr geehrte Damen und Herren* is the correct greeting whenever you cannot name the reader.
+The request stands in the first line, and *seit* says how long the symptoms have lasted. Concrete times replace a vague "whenever", and the phone number lets the clinic settle it in one call. *Sehr geehrte Damen und Herren* is correct whenever the reader has no name.
 
 ### Hear it in practice
 
@@ -66,7 +68,7 @@ Anna Kowalska
 | Contact | Meine Telefonnummer ist ... / Sie können mich gern anrufen. |
 | Sign-off | Vielen Dank und freundliche Grüße / Mit freundlichen Grüßen |
 
-*Seit* plus a time span tells the practice how long the trouble has lasted: *seit drei Tagen, seit einer Woche*. It is the first thing they ask, so answer it before they do.
+*Seit* plus a time span tells the practice how long the trouble has lasted: *seit drei Tagen, seit einer Woche*. It is the first thing a clinic asks.
 
 ## Summary
 
@@ -89,6 +91,5 @@ Anna Kowalska
 
 ## Related articles
 
-- [Emailing Your Boss](/a1/writing/email-formal-1.md)
 - [Expressing how you feel](/a1/concepts/expressing-how-you-feel.md)
 - [Making appointments](/a1/concepts/making-appointments.md)

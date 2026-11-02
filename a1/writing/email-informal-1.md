@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# An Email to a Friend
+# An email to a friend
 
-Casual emails to friends run on the *du* register: a warm greeting, real questions, a line or two of news, and a quick sign-off. It is the most common register between German friends, and A1 exams often ask for exactly this kind of personal email. One complete model is enough to internalise, because the frame then carries any topic at all.
+An informal email to a friend runs on *du*: a warm greeting, real questions, a line or two of news, and a quick sign-off.
+
+The register is the level of formality, and *du* marks the informal one. It is the most common register between German friends, and A1 exams often ask for this kind of personal email. The frame stays the same and carries any topic. The greeting changes with the person, and the first line after the greeting comma continues in lowercase.
 
 ## Example: Asking about a move
 
@@ -29,7 +31,7 @@ Lena has just moved to Leipzig, and Anna wants to hear everything.
 > Viele Grüße
 > Anna
 
-What makes it work: the greeting *Liebe Lena* (a male friend would get *Lieber Jonas*), questions that invite an answer, one short paragraph about yourself, and a warm close. Note the small German convention: after the greeting comma, the first line continues in lowercase (*wie geht es dir?*).
+The greeting *Liebe Lena* fits a woman, and a male friend gets *Lieber Jonas*. The questions invite an answer, one short paragraph gives news, and the close is warm. After the greeting comma, the first line continues in lowercase (*wie geht es dir?*).
 
 ### Hear it in practice
 
@@ -68,7 +70,7 @@ The informal frame, ready to reuse with any content:
 | Closing line | Schreib mir bald! / Bis bald! / Ich freue mich auf deine Antwort. |
 | Sign-off | Viele Grüße / Liebe Grüße |
 
-Two habits worth keeping from day one: always fill the *Betreff* (subject) line with two or three words, and continue in lowercase after the greeting comma.
+Two habits are worth keeping: fill the *Betreff* line with two or three words, and continue in lowercase after the greeting comma.
 
 ## Summary
 
@@ -78,7 +80,7 @@ Two habits worth keeping from day one: always fill the *Betreff* (subject) line 
 - Informal frame: *Liebe/Lieber ...* to open, *Viele Grüße* or *Liebe Grüße* to close.
 - Warmth first: a greeting question before any content.
 - Lowercase after the greeting comma; short *Betreff* always.
-- Hold *du* through every verb and pronoun: *dir, dich, dein*.
+- Hold *du* through every {term}`verb` and {term}`pronoun`: *dir, dich, dein*.
 :::
 
 :::{admonition} Common mistakes
@@ -87,10 +89,9 @@ Two habits worth keeping from day one: always fill the *Betreff* (subject) line 
 - *\*Sehr geehrte Lena* to a friend: formal greeting, wrong register; use **Liebe Lena**.
 - Capitalising after the greeting: *Liebe Lena, Wie geht ...* → *Liebe Lena, **wie** geht ...*
 - Slipping into *Sie* mid-email: one register, start to finish.
-- An empty subject line: two words (*Deine neue Stadt*) are enough.
+- An empty *Betreff* line: two words (*Deine neue Stadt*) are enough.
 :::
 
 ## Related articles
 
-- [Emailing Your Boss](/a1/writing/email-formal-1.md)
 - [A1 > Grammar > du, ihr, or Sie](/a1/grammar/pronouns/anredeformen.md)

@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Inviting a Friend Over
+# Inviting a friend over
 
-An invitation is the friendliest email in the genre, and one of the most structured: what is happening, when it starts, and a warm push to say yes. All of it runs on the *du* register and vocabulary already covered.
+An invitation is the friendliest informal email and among the most structured: what is happening, when it starts, and a warm push to say yes.
+
+The *Einladung* uses *du* throughout and needs no new grammar. The *Betreff* already asks the question, and the occasion and the plan follow straight away. The start time stands on its own line, where nobody can miss it. *Bring gern ... mit* makes the invitation generous, and *Ich freue mich* (I am looking forward to it) closes it warmly.
 
 ## Example: A birthday invitation
 
@@ -29,7 +31,7 @@ Anna turns a year older on Saturday and wants Jonas there.
 > Liebe Grüße
 > Anna
 
-What makes it work: the *Betreff* already asks the question; the occasion and the plan come as one happy breath; the practical line (when it starts) stands alone where nobody can miss it; and *Bring gern ... mit* makes the invitation generous without ceremony.
+The *Betreff* already asks the question, and the occasion and plan come together. The start time stands alone, where nobody can miss it. *Bring gern ... mit* makes the invitation generous without ceremony.
 
 ### Hear it in practice
 
@@ -67,7 +69,7 @@ Anna
 | The extra | Bring gern ... mit. |
 | Sign-off | Liebe Grüße / Bis Samstag! |
 
-*Ich freue mich* (I am looking forward to it) is the emotional engine of German invitations; it turns logistics into warmth in three words.
+*Ich freue mich* (I am looking forward to it) closes most German invitations, and it adds warmth in three words.
 
 ## Summary
 
@@ -85,7 +87,7 @@ Anna
 
 - Forgetting the start time: *Kannst du kommen?* without *um sechs Uhr* guarantees a follow-up question.
 - *\*Ich habe Geburtstag am Samstag und mache ...* piles up; keep sentences short and let the excitement carry.
-- *\*Bringst du gern deine Freundin mit.* as a statement → **Bring** gern deine Freundin **mit**. (invitation, so imperative)
+- *\*Bringst du gern deine Freundin mit.* as a statement → **Bring** gern deine Freundin **mit**. (invitation, so {term}`imperative`)
 :::
 
 ## Related articles

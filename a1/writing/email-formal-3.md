@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Emailing Your Landlord
+# Emailing your landlord
 
-Sooner or later every tenant in Germany writes to the *Vermieter*: something is broken, and it needs fixing. The email is formal, short, and follows a fixed logic: say who and where you are, name the problem, ask for action. Master this one and you are never stuck with a cold flat and no words.
+A formal email to a landlord, the *Vermieter*, reports that something in the flat is broken and needs fixing. It is short and follows a fixed logic.
+
+The writer says who they are and where they live, names the problem, and asks for action. The address comes first, because a landlord with many flats needs to know which one. A few words cover most repairs: *kaputt* (broken), *funktioniert nicht* (does not work) and *jemanden schicken* (to send someone). The register is *Sie* throughout.
 
 ## Example: The heating is broken
 
@@ -29,7 +31,7 @@ The heating in Anna's flat stopped working yesterday, and winter is not waiting.
 > Mit freundlichen Grüßen
 > Anna Kowalska
 
-What makes it work: the address comes first, because a landlord with many flats needs to know which one; *seit gestern* dates the problem; *Können Sie bitte jemanden schicken?* asks for concrete action; and the availability line saves a round of scheduling emails.
+The address comes first, because a landlord with many flats needs to know which one. *Seit gestern* dates the problem. *Können Sie bitte jemanden schicken?* asks for concrete action, and the availability line saves a round of scheduling emails.
 
 ### Hear it in practice
 
@@ -66,7 +68,7 @@ Anna Kowalska
 | Availability | Ich bin am ... zu Hause. |
 | Sign-off | Mit freundlichen Grüßen |
 
-The problem vocabulary is small and reusable: *kaputt* (broken), *funktioniert nicht* (does not work), *jemanden schicken* (to send someone), and the household cast: *die Heizung, die Waschmaschine, das Fenster, die Tür, das Licht*.
+The problem vocabulary is small and reusable: *kaputt* (broken), *funktioniert nicht* (does not work) and *jemanden schicken* (to send someone). The household words are *die Heizung, die Waschmaschine, das Fenster, die Tür, das Licht*.
 
 ## Summary
 

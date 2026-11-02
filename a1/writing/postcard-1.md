@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# A Postcard from Holiday
+# A postcard from holiday
 
-Germans still send holiday postcards, and the genre has rules a haiku would envy: greetings from the place, weather, two activities, one superlative moment, a promise, done. The space is tiny, so every sentence earns its spot. That constraint makes postcards perfect A1 writing practice.
+A holiday postcard in German has a fixed order: greetings from the place, the weather, two activities, one highlight and a promise.
+
+The space is small, so every sentence has a job. *Viele Grüße aus ...* always comes first. The {term}`present tense` carries the holiday, and one past form such as *waren* covers a day trip. Germans still send postcards, and the short, fixed shape makes them good writing practice at A1. A small promise, such as *Ich bringe dir etwas mit!*, closes the card.
 
 ## Example: Greetings from Italy
 
@@ -25,7 +27,7 @@ Anna is at the seaside in Italy and writes to her grandmother.
 > Bis bald und liebe Grüße
 > Anna
 
-What makes it work: *Viele Grüße aus ...* is the postcard's licence plate, always first; the present tense carries the holiday, with one *waren* flashback for the excursion; and *Ich bringe dir etwas mit!* is the little promise that makes grandmothers keep postcards forever.
+*Viele Grüße aus ...* always comes first. The present tense carries the holiday, with one *waren* for the day trip. *Ich bringe dir etwas mit!* is the small promise before the close.
 
 ### Hear it in practice
 
@@ -58,7 +60,7 @@ Anna
 | The promise | Ich bringe dir etwas mit! / Ich erzähle dir alles! |
 | The close | Bis bald und liebe Grüße |
 
-Postcards allow one luxury email does not: exclamation marks in quantity. The genre is enthusiasm on cardboard; let the punctuation show it.
+Postcards allow something emails do not: plenty of exclamation marks.
 
 ## Summary
 
@@ -66,7 +68,7 @@ Postcards allow one luxury email does not: exclamation marks in quantity. The ge
 :class: note
 
 - Open with the formula: *Viele Grüße aus ...!*
-- Weather, activities, one highlight: the holy trinity of postcard content.
+- Weather, activities, one highlight: the core of a postcard.
 - Present tense throughout, *waren* for the day trip.
 - Close with a promise and *Bis bald*.
 :::
