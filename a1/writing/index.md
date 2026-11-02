@@ -1,3 +1,7 @@
+---
+html_theme.sidebar_secondary.remove:
+---
+
 # Writing
 
 Real German correspondence, one everyday situation at a time: emails, short messages and postcards, in casual and formal registers. Each article gives a model text that can be heard read aloud.

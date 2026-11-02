@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Cancelling Plans
+# Cancelling plans
 
-Text messages are the most casual writing there is: no *Betreff*, no formal greeting, straight to the point. But cancelling still has manners, even in a chat. The German recipe: apologise, give the reason, offer a new plan. This page models the whole exchange, because the reply is half the skill.
+A text message that cancels plans in German is short, but it still has manners: apologise, give the reason, offer a new plan.
+
+A chat has no *Betreff* and no formal greeting, and it goes straight to the point. *Es tut mir leid, aber ...* opens the cancellation. The reason takes one short sentence, and a counter-offer shows that the friendship matters more than the evening. The reply is half the exchange, so the model includes it: sympathy, acceptance and a warm {term}`imperative`.
 
 ## Example: Calling off a cinema evening
 
@@ -22,7 +24,7 @@ Anna is ill and has to cancel tonight's cinema plan with Lena.
 >
 > **Anna:** Nein danke, ich habe alles. Ich schreibe dir morgen. Viel Spaß heute!
 
-What makes it work: *es tut mir leid, aber ...* opens the cancellation before the excuse; the reason is one short sentence, not a saga; and the counter-offer (*Gehen wir nächste Woche ...?*) shows the friendship matters more than the evening. Lena's reply models the other side: sympathy, acceptance, a warm imperative.
+*Es tut mir leid, aber ...* opens the cancellation before the excuse. The reason is one short sentence, and the counter-offer shows that the friendship matters more than the evening. Lena's reply shows the other side: sympathy, acceptance and a warm imperative.
 
 ### Hear it in practice
 
@@ -51,7 +53,7 @@ Anna: Nein danke, ich habe alles. Ich schreibe dir morgen. Viel Spaß heute!
 | Accepting a cancellation | Kein Problem! / Schade, aber alles klar. |
 | The warm close | Gute Besserung! / Bis bald! |
 
-In chat German, sentences shrink but stay whole: *Ich bin krank*, not lone words. That keeps you understandable and keeps the grammar habits you have built intact.
+In chat German, sentences shrink but stay whole: *Ich bin krank*, not lone words.
 
 ## Summary
 
@@ -68,7 +70,7 @@ In chat German, sentences shrink but stay whole: *Ich bin krank*, not lone words
 :class: caution
 
 - Cancelling without an alternative: *ich kann nicht kommen* alone reads cold; add **Gehen wir nächste Woche?**
-- *\*Es tut mir leid, ich kann nicht heute Abend kommen.* → ich kann **heute Abend nicht** kommen. (nicht before the final verb)
+- *\*Es tut mir leid, ich kann nicht heute Abend kommen.* → ich kann **heute Abend nicht** kommen. (nicht before the final {term}`verb`)
 - Over-apologising in three messages: one *es tut mir leid* plus a plan beats a paragraph of sorries.
 :::
 
@@ -76,4 +78,3 @@ In chat German, sentences shrink but stay whole: *Ich bin krank*, not lone words
 
 - [Making appointments](/a1/concepts/making-appointments.md)
 - [Expressing how you feel](/a1/concepts/expressing-how-you-feel.md)
-- [Asking a Favour](/a1/writing/sms-informal-2.md)

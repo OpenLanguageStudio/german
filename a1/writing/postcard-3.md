@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# A Thank-You Note
+# A thank-you note
 
-A short written thank-you carries more weight than a text ever will, and in German it needs exactly three ingredients: name what you are thanking for, say why it was lovely, and open the door for the next visit. The engine of the whole genre is *danke für* plus the accusative.
+A thank-you note in German needs three things: what the thanks are for, why it was lovely, and an opening for the next visit.
+
+A short written note carries more weight than a text message. Most of it rests on *danke für* plus the {term}`accusative <accusative case>`, the form that turns {term}`masculine` *der* into *den*: *danke für den schönen Tag*. Each thank-you gets one concrete detail, which shows that the gift or the visit was noticed. An invitation back, such as *Komm uns bald besuchen!*, closes it.
 
 ## Example: Thanks for the weekend
 
@@ -27,7 +29,7 @@ Anna spent a weekend at her aunt's and sends a card after getting home.
 > Liebe Grüße
 > Anna
 
-What makes it work: the thanks come first and name their object (*für das schöne Wochenende*); each thank-you gets one concrete detail as proof it was noticed (*der Ausflug an den See*, *ich lese es jeden Abend*); and the invitation back (*Komm uns bald besuchen!*) turns gratitude into the next plan.
+The thanks come first and say what they are for (*für das schöne Wochenende*). Each thank-you gets one concrete detail, as in *ich lese es jeden Abend*. The invitation back (*Komm uns bald besuchen!*) turns gratitude into the next plan.
 
 ### Hear it in practice
 
@@ -62,7 +64,7 @@ Anna
 | The invitation back | Komm uns bald besuchen! / Bis zum nächsten Mal! |
 | The close | Liebe Grüße / Wir freuen uns. |
 
-*Danke für* always takes the accusative: *für das Wochenende, für den schönen Tag, für die Blumen*. One preposition, one case, endless gratitude.
+*Danke für* always takes the accusative: *für das Wochenende, für den schönen Tag, für die Blumen*.
 
 ## Summary
 
@@ -85,6 +87,5 @@ Anna
 
 ## Related articles
 
-- [A Birthday Greeting](/a1/writing/postcard-2.md)
 - [A1 > Grammar > The Preposition für](/a1/grammar/prepositions/fuer-akkusativ.md)
 - [Talking about past events](/a1/concepts/talking-about-past-events.md)

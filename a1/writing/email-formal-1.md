@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Emailing Your Boss
+# Emailing your boss
 
-Workplace email runs on the *Sie* register: a formal greeting, one clear request stated early and politely, a reason, and a fixed sign-off. German workplace culture expects directness wrapped in courtesy, and the frame below delivers exactly that. Once it sits, only the request in the middle ever changes.
+A formal email to a boss in German runs on *Sie*: a formal greeting, one clear request stated early, a reason, and a fixed sign-off.
+
+*Sie* is the formal word for *you*, and it holds through every {term}`verb` and {term}`pronoun` in the email. German workplace culture expects directness with courtesy, so there is no small talk. The request comes first, softened with *ich möchte gern*. The frame stays the same, and only the request in the middle changes from one email to the next.
 
 ## Example: Requesting time off
 
@@ -29,7 +31,7 @@ Anna needs two weeks off in August and writes to Frau Weber.
 > Mit freundlichen Grüßen
 > Anna Kowalska
 
-What makes it work: the request comes first, politely framed with *ich möchte gern*; the middle paragraph removes the boss's biggest worry (who covers the work); and the closing question hands the decision over respectfully. No small talk: formal German emails get to the point.
+The request comes first, softened with *ich möchte gern*. The middle paragraph answers the boss's biggest worry: who covers the work. The closing question leaves the decision to the reader. There is no small talk.
 
 ### Hear it in practice
 
@@ -68,7 +70,7 @@ The formal frame, ready to reuse with any request:
 | Thanks | Vielen Dank für Ihre Antwort. / Ich danke Ihnen im Voraus. |
 | Sign-off | Mit freundlichen Grüßen |
 
-*Mit freundlichen Grüßen* is the one and only standard formal sign-off; learn it as a single unchangeable chunk. The greeting comma rule holds here too: continue in lowercase (*ich möchte ...*).
+*Mit freundlichen Grüßen* is the standard formal sign-off, and it never changes. The greeting comma rule holds here too: the text continues in lowercase (*ich möchte ...*).
 
 ## Summary
 
@@ -92,6 +94,5 @@ The formal frame, ready to reuse with any request:
 
 ## Related articles
 
-- [An Email to a Friend](/a1/writing/email-informal-1.md)
 - [Making and responding to requests](/a1/concepts/making-and-responding-to-requests.md)
 - [A1 > Grammar > du, ihr, or Sie](/a1/grammar/pronouns/anredeformen.md)

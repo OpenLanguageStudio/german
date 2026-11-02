@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# A Birthday Greeting
+# A birthday greeting
 
-Birthday wishes in German are built from fixed formulas plus one personal line, and it is the personal line that makes the card. The formulas are learned once and reused for life. This page covers both halves.
+A birthday greeting in German is built from fixed formulas plus one personal line, and the personal line makes the card.
+
+Two formulas open the card: *Alles Gute zum Geburtstag* and *Ich wünsche dir ...*. They are learned once and reused for life. The personal middle then asks about the day or promises a visit. The sign-off *Deine Anna* is a warm form for family and close friends, and a man writes *Dein*.
 
 ## Example: A card for Grandpa
 
@@ -26,7 +28,7 @@ Anna's grandfather has a birthday, and a card is on its way.
 >
 > Deine Anna
 
-What makes it work: the double formula opens (*alles Gute zum Geburtstag* + *ich wünsche dir ...*); the personal middle asks about the day and promises a visit; and the sign-off *Deine Anna* (a man writes *Dein*) is the warm register reserved for family and close friends.
+Two formulas open the card: *Alles Gute zum Geburtstag* and *Ich wünsche dir ...*. The personal middle asks about the day and promises a visit. The sign-off *Deine Anna* (a man writes *Dein*) suits family and close friends.
 
 ### Hear it in practice
 
@@ -59,7 +61,7 @@ Deine Anna
 | The close | Bleib gesund! / Hab einen schönen Tag! |
 | Sign-off (close family) | Deine Anna / Dein Jonas |
 
-*Ich wünsche dir ...* takes plain nouns, no article: *Gesundheit, Glück, Freude*. Stack two or three and the formula is complete.
+*Ich wünsche dir ...* takes plain {term}`nouns <noun>`, no article: *Gesundheit, Glück, Freude*. Stack two or three and the formula is complete.
 
 ## Summary
 
@@ -75,13 +77,12 @@ Deine Anna
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Alles Gute zum Geburtstag am nachhinein* for late wishes → **nachträglich alles Gute zum Geburtstag**. (learn the adverb whole)
+- *\*Alles Gute zum Geburtstag am nachhinein* for late wishes → **nachträglich alles Gute zum Geburtstag**. (learn the {term}`adverb` whole)
 - *\*Ich wünsche dir eine Gesundheit.* → Ich wünsche dir **Gesundheit**. (wishes drop the article)
 - Formula-only cards: add one personal sentence, or the card reads like a form letter.
 :::
 
 ## Related articles
 
-- [A Postcard from Holiday](/a1/writing/postcard-1.md)
 - [Telling the time and days](/a1/concepts/telling-the-time-and-days.md)
 - [A1 > Grammar > Ordinal Numbers and Dates](/a1/grammar/other/ordinalzahlen-datum.md)

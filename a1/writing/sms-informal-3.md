@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Making Plans
+# Making plans
 
-Most German chats exist to answer one question: what are we doing, and when? The exchange has a rhythm: propose, ask back, settle the details, confirm. Once you can ride that rhythm, your phone becomes the easiest place to practise German every single day.
+A text message that makes plans with a friend answers one question in German: what are we doing, and when?
+
+The exchange has a rhythm: propose, ask back, settle the details, confirm. The opener checks that the friend is free, as in *Was machst du am Samstag?* The plan then comes with an invitation: *Kommst du mit?* Details arrive as short facts such as *Um elf am Eingang*, and a clear confirmation closes the chat. Short sentences do all the work.
 
 ## Example: A Saturday at the pool
 
@@ -26,7 +28,7 @@ Anna is organising a swimming trip and pulls Lena in.
 >
 > **Anna:** Nein, du brauchst nur Badesachen. Jonas und seine Freundin kommen auch. Bis Samstag!
 
-What makes it work: the opener checks availability before proposing (*Was machst du am Samstag?*); the plan arrives with an invitation attached (*Kommst du mit?*); the details land as short facts (*Um elf am Eingang*); and the confirmation is unmistakable (*Perfekt, ich komme mit!*).
+The opener checks availability before proposing anything. The plan comes with an invitation (*Kommst du mit?*). The details land as short facts (*Um elf am Eingang*), and the confirmation is clear (*{term}`Perfekt`, ich komme mit!*).
 
 ### Hear it in practice
 
@@ -59,7 +61,7 @@ Anna: Nein, du brauchst nur Badesachen. Jonas und seine Freundin kommen auch. Bi
 | Confirming | Perfekt, ich komme mit! / Bin dabei! |
 | The close | Bis Samstag! / Bis dann! |
 
-*Danach* (afterwards) chains plans together in one word: pool, then ice cream, no conjunction gymnastics required.
+*Danach* (afterwards) chains plans together in one word: pool, then ice cream.
 
 ## Summary
 
@@ -83,5 +85,4 @@ Anna: Nein, du brauchst nur Badesachen. Jonas und seine Freundin kommen auch. Bi
 ## Related articles
 
 - [Cancelling Plans](/a1/writing/sms-informal-1.md)
-- [Asking a Favour](/a1/writing/sms-informal-2.md)
 - [Making appointments](/a1/concepts/making-appointments.md)

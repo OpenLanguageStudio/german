@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Asking About an Apartment
+# Asking about an apartment
 
-Flat-hunting in Germany happens by email: you see an ad, you write, and the quality of your message decides whether you get a viewing. The email is formal, names the ad it answers, asks two or three sharp questions, and requests a viewing. Landlords receive dozens of these; short and clear wins.
+Flat-hunting in Germany happens by email, and a formal message to the landlord decides who gets a viewing. It names the ad, asks two or three clear questions, and requests a viewing.
+
+Landlords receive dozens of these emails, so short and clear wins. The *Betreff* names the ad, which tells the reader which flat it is about before opening the message. The questions are numbered and easy to answer, and the viewing request comes with concrete days. The register is *Sie*, and the key words are *die Anzeige* (ad), *die Miete* (rent) and *frei* (available).
 
 ## Example: Answering a rental ad
 
@@ -31,7 +33,7 @@ Anna has found an ad for a flat in the Parkstraße and wants a viewing.
 > Mit freundlichen Grüßen
 > Anna Kowalska
 
-What makes it work: the *Betreff* names the ad, so the reader knows which flat before opening the email; the questions come numbered and answerable; and the viewing request arrives with concrete days. Nothing here is decoration; every line moves the process forward.
+The *Betreff* names the ad, so the reader knows which flat it concerns. The questions are numbered and easy to answer, and the viewing request comes with concrete days.
 
 ### Hear it in practice
 
@@ -93,6 +95,5 @@ The flat-hunting vocabulary: *die Anzeige* (ad), *die Miete* (rent), *frei* (ava
 
 ## Related articles
 
-- [Emailing Your Landlord](/a1/writing/email-formal-3.md)
 - [Describing your home](/a1/concepts/describing-your-home.md)
 - [Shopping and paying](/a1/concepts/shopping-and-paying.md)

@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Asking a Favour
+# Asking a favour
 
-Asking a friend for help by text is a small art: the request must be clear enough to act on, the reason short enough to read at a bus stop, and the thanks warm enough to make helping feel good. German does all three with the *Kannst du ...?* frame already familiar from speaking.
+A text message asking for a favour has to be clear enough to act on and short enough to read at a bus stop.
+
+German does this with the *Kannst du ...?* frame, a question with the {term}`modal verb` *können*. *Kannst du mir helfen?* flags the favour before the details, and the situation takes one sentence. *Vielleicht* (maybe) keeps the request soft. Concrete facts about what, where and when let the friend say yes without a follow-up question, and warm thanks close the exchange.
 
 ## Example: A pickup from football practice
 
@@ -22,7 +24,7 @@ Anna is stuck at work and needs Jonas to collect her son.
 >
 > **Anna:** Ja, super! Vielen Dank, du bist der Beste. Ich bin um sechs zu Hause.
 
-What makes it work: *Kannst du mir helfen?* flags a favour before the details; the situation takes one sentence; *vielleicht* keeps the request soft; and the concrete facts (what, where, when) let Jonas say yes without a single follow-up question. His *Soll ich ...?* reply models the helper's side.
+*Kannst du mir helfen?* flags a favour before the details, and the situation takes one sentence. *Vielleicht* keeps the request soft. The concrete facts let Jonas say yes without a follow-up question, and his *Soll ich ...?* reply shows the helper's side.
 
 ### Hear it in practice
 
@@ -70,11 +72,10 @@ Anna: Ja, super! Vielen Dank, du bist der Beste. Ich bin um sechs zu Hause.
 
 - Details before the ask: start with **Kannst du mir helfen?**, then explain.
 - Missing facts: a favour without time and place triggers a chain of questions.
-- *\*Hol meinen Sohn ab.* as a first message: the bare imperative reads as an order; wrap it in **Kannst du ...?**
+- *\*Hol meinen Sohn ab.* as a first message: the bare {term}`imperative` reads as an order; wrap it in **Kannst du ...?**
 :::
 
 ## Related articles
 
-- [Cancelling Plans](/a1/writing/sms-informal-1.md)
 - [Making and responding to requests](/a1/concepts/making-and-responding-to-requests.md)
 - [A1 > Grammar > Modal Verbs dürfen and sollen](/a1/grammar/verbs/duerfen-sollen.md)
