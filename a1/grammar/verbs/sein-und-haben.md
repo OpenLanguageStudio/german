@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# sein und haben
+# *sein* and *haben*
 
-*Sein* (to be) and *haben* (to have) are the two verbs German cannot function without. Both are thoroughly irregular, and both appear in so many sentences that their forms need to come automatically, not from a table. This page gives you the forms and the core patterns.
+*Sein* (to be) and *haben* (to have) are the two most common {term}`verbs <verb>` in German, and both are irregular. Their forms need to come automatically.
+
+*Sein* connects a person or thing to a description: a {term}`noun`, an {term}`adjective`, an age or a place. *Haben* takes a {term}`direct object` in the {term}`accusative <accusative case>`, as in *Ich habe einen Bruder*. German also uses *haben* in some phrases where English uses *to be*: *Ich habe Hunger* means *I am hungry*. Both verbs help build the {term}`past tense` as well.
 
 ## The forms of *sein*
 
@@ -66,6 +68,14 @@ Wir {verb}`haben` heute frei.
 
 :::{tip}
 German is hungry with *haben*, not with *sein*: *Ich habe Hunger*, never *Ich bin Hunger*. The same goes for thirst (*Durst*) and being right (*Recht*).
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich bin Hunger.* → Ich **habe** Hunger. (hunger is had, not been)
+- *\*Du bist du fertig?* → **Bist du** fertig? (question: verb first, once)
+- *\*Ihr sind* → ihr **seid**. (the one form everyone forgets)
 :::
 
 ## Hear it in practice
@@ -150,15 +160,7 @@ Wir haben keine Fragen.
 - *sein*: bin, bist, ist, sind, seid, sind. Connects to descriptions.
 - *haben*: habe, hast, hat, haben, habt, haben. Takes the accusative.
 - Feeling-chunks use haben: *Hunger, Durst, Zeit, Recht haben*.
-- Both verbs power later grammar (Perfekt), so overlearn them now.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich bin Hunger.* → Ich **habe** Hunger. (hunger is had, not been)
-- *\*Du bist du fertig?* → **Bist du** fertig? (question: verb first, once)
-- *\*Ihr sind* → ihr **seid**. (the one form everyone forgets)
+- Both verbs power later grammar ({term}`Perfekt`), so overlearn them now.
 :::
 
 ## Related articles

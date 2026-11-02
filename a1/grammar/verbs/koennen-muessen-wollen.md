@@ -7,9 +7,11 @@ myst:
     "property=og:description": "A1 grammar: the modal verbs können, müssen, and wollen. Ability, necessity, and intention, with the second verb at the end of the sentence."
     "property=og:type": "article"
 ---
-# Modal Verbs können, müssen, wollen
+# Modal verbs *können*, *müssen*, *wollen*
 
-Modal verbs colour an action with an attitude: *können* says you are able to do it, *müssen* that you have to, *wollen* that you want to. The action itself stands at the end of the sentence as an infinitive, exactly the bracket pattern you know from *möchten*.
+Modal verbs add an attitude to an action. *Können* says that someone is able to do it, *müssen* that they have to, and *wollen* that they want to.
+
+The action itself stands at the very end of the sentence as an {term}`infinitive`, the basic form of the {term}`verb`: *Ich kann gut schwimmen*. The modal verb takes second position, and the two form a {term}`sentence bracket`. All three change their vowel in the {term}`singular` and drop the ending for *ich* and for *er*, *sie* and *es*.
 
 ## The forms
 
@@ -60,6 +62,14 @@ Er {verb}`kann` heute nicht **arbeiten**.
 
 :::{tip}
 *Wollen* is direct; for wishes aimed at other people, *möchten* sounds softer. *Ich will einen Kaffee* is blunt at a café; *Ich möchte einen Kaffee* is the polite order.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*er kannt / er wills* → er **kann**, er **will**. (no ending on the er form)
+- *\*Ich muss gehen jetzt.* → Ich muss jetzt **gehen**. (infinitive holds the last spot)
+- *\*Ich will bitte einen Kaffee.* → Ich **möchte** einen Kaffee, bitte. (wollen is too blunt for polite orders)
 :::
 
 ## Hear it in practice
@@ -145,14 +155,6 @@ Ich kann heute leider nicht.
 - Singular forms change the vowel: *kann, muss, will*; ich and er forms match.
 - The main verb goes to the end as an infinitive: modal bracket.
 - *Nicht* stands before the final infinitive.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*er kannt / er wills* → er **kann**, er **will**. (no ending on the er form)
-- *\*Ich muss gehen jetzt.* → Ich muss jetzt **gehen**. (infinitive holds the last spot)
-- *\*Ich will bitte einen Kaffee.* → Ich **möchte** einen Kaffee, bitte. (wollen is too blunt for polite orders)
 :::
 
 ## Related articles

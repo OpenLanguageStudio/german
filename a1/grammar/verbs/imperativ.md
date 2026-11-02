@@ -8,13 +8,15 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# The Imperative
+# The imperative
 
-The imperative tells someone to do something: *Komm!* (come), *Warten Sie!* (wait). German has three forms, one for each way of saying "you". With *bitte* alongside, the imperative is not rude; it is how instructions, recipes, and everyday requests actually sound.
+The imperative tells someone to do something: *Komm!* (come), *Warten Sie!* (wait). German has three forms, one for each way of saying *you*.
+
+The *du* form is the {term}`verb` without *-st* and without the {term}`pronoun`: *du kommst* becomes *Komm!* The *ihr* form is the normal verb without the pronoun: *Kommt!* The *Sie* form keeps *Sie* and puts it behind the verb: *Kommen Sie!* With *bitte* alongside, the imperative is not rude. It is how instructions, recipes and everyday requests sound.
 
 ## The *du* form: the bare stem
 
-Take the *du* form of the present and drop *-st* and the pronoun: *du kommst* → *Komm!* Verbs with e → i keep the change: *Nimm! Iss! Lies! Sprich!* Verbs with a → ä drop the umlaut: *du fährst*, but *Fahr!*
+The form comes from the *du* form of the present, without *-st* and the pronoun: *du kommst* → *Komm!* Verbs with e → i keep the change, as in *Nimm*, *Iss*, *Lies* and *Sprich*. Verbs with a → ä drop the {term}`umlaut`: *du fährst*, but *Fahr!*
 
 **Examples:**
 
@@ -31,7 +33,7 @@ Take the *du* form of the present and drop *-st* and the pronoun: *du kommst* �
 
 ## The *ihr* form: no pronoun
 
-For several people, use the normal *ihr* form and drop the pronoun: *Kommt! Wartet! Spielt!*
+For several people, the form is the normal *ihr* form without the pronoun: *Kommt! Wartet! Spielt!*
 
 **Examples:**
 
@@ -60,7 +62,15 @@ The formal imperative keeps *Sie* and flips it behind the verb: *Kommen Sie! War
 *Sein* is irregular in all three: *Sei leise! Seid pünktlich! Seien Sie pünktlich!*
 
 :::{tip}
-Separable verbs split in the imperative too: *Mach die Tür zu! Ruf mich an! Steh auf!*
+{term}`Separable verbs <separable verb>` split in the imperative too: *Mach die Tür zu! Ruf mich an! Steh auf!*
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Kommst her!* → **Komm** her! (drop the -st)
+- *\*Nehm den Bus!* → **Nimm** den Bus! (e to i verbs keep the change)
+- *\*Fähr langsam!* → **Fahr** langsam! (no umlaut in the imperative)
 :::
 
 ## Hear it in practice
@@ -142,16 +152,9 @@ Schreib mir eine Nachricht!
 :::{admonition} Key points
 :class: note
 
-- du: bare stem (*Komm!*); e → i change stays (*Nimm!*), umlaut does not (*Fahr!*).
+- du: bare {term}`stem <verb stem>` (*Komm!*); e → i change stays (*Nimm!*), umlaut does not (*Fahr!*).
 - ihr: normal form without pronoun (*Kommt!*).
 - Sie: verb first, Sie follows (*Kommen Sie!*).
 - *Bitte* turns any command into a request.
 :::
 
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Kommst her!* → **Komm** her! (drop the -st)
-- *\*Nehm den Bus!* → **Nimm** den Bus! (e to i verbs keep the change)
-- *\*Fähr langsam!* → **Fahr** langsam! (no umlaut in the imperative)
-:::

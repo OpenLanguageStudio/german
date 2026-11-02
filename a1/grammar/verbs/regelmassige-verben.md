@@ -8,13 +8,15 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Regular Verbs in the Present
+# Regular verbs in the present
 
-Most German verbs follow one clean pattern in the present tense: take the stem, add the ending for the person. Learn the six endings once and you can conjugate hundreds of verbs, from *wohnen* to *spielen* to *lernen*.
+Regular verbs follow one clean pattern in the German {term}`present tense`: take the {term}`stem <verb stem>`, then add the ending for the person.
+
+The stem is what remains when *-en* comes off the {term}`infinitive`, the basic form of the {term}`verb`: *lernen* gives *lern-*. There are six endings, one for each person, and this change is called {term}`conjugation`. *Wir* and *sie* reuse the infinitive, so only four forms are new. Two small adjustments depend on how the stem ends: *du arbeitest* and *du heißt*.
 
 ## The endings
 
-Chop *-en* off the infinitive to get the stem (*lernen* → *lern-*), then add:
+Removing *-en* from the infinitive gives the stem (*lernen* → *lern-*). The endings are:
 
 | Person | Ending | Example |
 |---|---|---|
@@ -42,7 +44,7 @@ Die Kinder {verb}`spielen` im Park.
 
 ## Stems ending in *-t* or *-d*
 
-If the stem ends in *-t* or *-d* (*arbeiten*, *warten*, *finden*), German inserts an **-e-** before *-st* and *-t* so the ending stays audible: *du arbeitest, er arbeitet, ihr wartet*.
+If the stem ends in *-t* or *-d* (*arbeiten*, *warten*, *finden*), German inserts an **-e-** before *-st* and *-t*. The ending then stays audible: *du arbeitest, er arbeitet, ihr wartet*.
 
 **Examples:**
 
@@ -66,6 +68,14 @@ Du {verb}`heißt` Paul, oder?
 
 Du {verb}`tanzt` gut.
 : You dance well.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*er lernst* → er lern**t**. (-st belongs to du, -t to er/sie/es)
+- *\*du arbeitst* → du arbeit**est**. (t-stems need the extra e)
+- *\*du heißst* → du heiß**t**. (s-stems drop the s of -st)
 :::
 
 ## Hear it in practice
@@ -153,10 +163,3 @@ Du tanzt gut.
 - Stems in -s/-ß/-z: du form adds only -t: *du heißt*.
 :::
 
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*er lernst* → er lern**t**. (-st belongs to du, -t to er/sie/es)
-- *\*du arbeitst* → du arbeit**est**. (t-stems need the extra e)
-- *\*du heißst* → du heiß**t**. (s-stems drop the s of -st)
-:::

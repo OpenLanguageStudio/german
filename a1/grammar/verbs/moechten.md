@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# möchten
+# *möchten*
 
-*Möchten* means "would like" and is the politest everyday way to say what you want: a coffee, a ticket, to pay, to go home. It is the single most useful verb for ordering and shopping, which is why it gets its own page.
+*Möchten* means *would like* and is the politest everyday way to say what someone wants: a coffee, a ticket, to pay, to go home.
+
+It is the most useful {term}`verb` for ordering and shopping. The forms for *ich* and *er* are identical, and neither has the usual *-t*. *Möchten* can also carry a second verb. It goes to the very end of the sentence in the {term}`infinitive`, its basic form: *Er möchte nach Berlin fahren*. That frame is the {term}`sentence bracket`, a pattern German uses with all two-part verbs.
 
 ## The forms
 
@@ -40,7 +42,7 @@ Das Kind {verb}`möchte` ein Eis.
 
 ## With a second verb: the bracket
 
-*Möchten* can carry a whole planned action. Then the second verb goes to the very end of the sentence, in the infinitive, and everything else sits between the two verbs. This two-part frame is your first meeting with the German sentence bracket.
+*Möchten* can carry a whole planned action. Then the second verb goes to the very end of the sentence, in the infinitive, and everything else sits between the two verbs. This two-part frame is the German sentence bracket.
 
 **Examples:**
 
@@ -57,6 +59,14 @@ Er {verb}`möchte` nach Berlin **fahren**.
 
 :::{note}
 *Möchten* is the polite cousin of *mögen* (to like). *Ich mag Kaffee* means you like coffee in general; *Ich möchte einen Kaffee* means you want one now. At A1, keep it simple: liking is *mögen*, wanting politely is *möchten*.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*er möchtet* → er **möchte**. (no -t on the er form)
+- *\*Ich möchte fahren nach Berlin.* → Ich möchte nach Berlin **fahren**. (infinitive last)
+- *\*Ich möchte ein Kaffee.* → Ich möchte **einen** Kaffee. ({term}`accusative <accusative case>`, {term}`masculine`)
 :::
 
 ## Hear it in practice
@@ -142,14 +152,6 @@ Er möchte eine Pause machen.
 - *ich möchte* and *er möchte* are identical.
 - With a thing: accusative. With an action: infinitive at the sentence end.
 - *Ich möchte zahlen, bitte* gets you the bill anywhere.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*er möchtet* → er **möchte**. (no -t on the er form)
-- *\*Ich möchte fahren nach Berlin.* → Ich möchte nach Berlin **fahren**. (infinitive last)
-- *\*Ich möchte ein Kaffee.* → Ich möchte **einen** Kaffee. (accusative, masculine)
 :::
 
 ## Related articles

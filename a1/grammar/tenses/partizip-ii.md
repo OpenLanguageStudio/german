@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# The Past Participle
+# The past participle
 
-The Partizip II is the *ge-* form of a verb: *gemacht*, *gesehen*, *gegessen*. It is the building block of the German past tense, so this page deals with the form alone; the Perfekt page puts it to work in sentences.
+The past participle, or *Partizip II*, is the *ge-* form of a German {term}`verb`: *gemacht*, *gesehen*, *gegessen*. It is the building block of the spoken {term}`past tense`.
+
+This page deals with the form alone, and the {term}`Perfekt` page puts it to work in sentences. {term}`Regular verbs <regular verb>` wrap the {term}`stem <verb stem>`, the part left after removing *-en*, in *ge-* and *-t*: *machen* gives *gemacht*. {term}`Irregular verbs <irregular verb>` take *ge-* and *-en*, and they often change a vowel as well. These forms are learned one by one, starting with the most common.
 
 ## Regular verbs: ge...t
 
@@ -41,7 +43,7 @@ Irregular verbs take *ge-* and *-en*, often changing the stem vowel on the way. 
 
 ## Two exceptions worth knowing now
 
-Verbs ending in **-ieren** skip the *ge-* entirely: *telefonieren* → *telefoniert*. Separable verbs tuck the *ge-* between prefix and stem: *einkaufen* → *ein**ge**kauft*, *anrufen* → *an**ge**rufen*.
+Verbs ending in **-ieren** skip the *ge-* entirely: *telefonieren* → *telefoniert*. {term}`Separable verbs <separable verb>` tuck the *ge-* between {term}`prefix` and stem: *einkaufen* → *ein**ge**kauft*, *anrufen* → *an**ge**rufen*.
 
 **Examples:**
 
@@ -54,6 +56,14 @@ Sie hat **eingekauft**.
 
 Ich habe meine Oma **angerufen**.
 : I called my grandma.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*gemachen* → **gemacht**. (regular verbs end in -t)
+- *\*geesst* → **gegessen**. (essen is irregular)
+- *\*getelefoniert* → **telefoniert**. (-ieren verbs refuse the ge-)
 :::
 
 ## Hear it in practice
@@ -139,14 +149,6 @@ Das habe ich nicht gesehen.
 - -ieren verbs take no ge-: *telefoniert*.
 - Separable verbs: prefix + ge + stem: *eingekauft, angerufen*.
 - Learn participles with their verbs; the Perfekt page needs them ready.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*gemachen* → **gemacht**. (regular verbs end in -t)
-- *\*geesst* → **gegessen**. (essen is irregular)
-- *\*getelefoniert* → **telefoniert**. (-ieren verbs refuse the ge-)
 :::
 
 ## Related articles
