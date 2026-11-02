@@ -1,3 +1,6 @@
+---
+menu_hidden: true
+---
 # Other
 
 Noun gender and plurals, ordinal numbers, and other building blocks that don't fit a single grammar category.

@@ -1,4 +1,5 @@
 ---
+menu_hidden: true
 myst:
   html_meta:
     description: "A2 German grammar: adjectives, endings, comparative, superlative, and comparisons."

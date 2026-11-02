@@ -1,4 +1,5 @@
 ---
+menu_hidden: true
 myst:
   html_meta:
     description: "A complete A1 German grammar reference covering articles, cases, pronouns, word order, verbs, and more."

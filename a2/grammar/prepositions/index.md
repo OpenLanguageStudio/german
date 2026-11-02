@@ -1,4 +1,5 @@
 ---
+menu_hidden: true
 myst:
   html_meta:
     description: "A2 German grammar: prepositions, local, temporal, two-way, fixed verb prepositions, and position verbs."

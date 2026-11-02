@@ -1,4 +1,5 @@
 ---
+menu_hidden: true
 myst:
   html_meta:
     description: "A2 German grammar: subordinate clauses, weil, dass, wenn, als, Finalsätze, Relativsätze, and connectors."
