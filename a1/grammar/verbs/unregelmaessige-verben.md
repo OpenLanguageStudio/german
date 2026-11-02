@@ -8,15 +8,17 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Irregular Verbs in the Present
+# Irregular verbs in the present
+
+Irregular verbs in the German {term}`present tense` change their {term}`stem <verb stem>` vowel in two forms: *du* and *er*, *sie* or *es*. So *fahren* gives *du fährst* and *er fährt*.
+
+The stem is the part of a {term}`verb` that carries its meaning. The vowel inside it changes in one of three ways: a to ä, e to i, or e to ie. The endings stay regular, and so do the forms for *ich*, *wir*, *ihr* and *sie*. These are some of the most frequent verbs in German, so the changed forms are worth practising.
 
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
 - [A1 > Grammar > Regular Verbs in the Present](/a1/grammar/verbs/regelmassige-verben.md)
 :::
-
-A group of common verbs changes its stem vowel in two forms: *du* and *er/sie/es*. Everything else, endings included, works exactly like the regular pattern. Because these are some of the most frequent verbs in the language, the changed forms are worth drilling until they sound obvious.
 
 ## The three vowel changes
 
@@ -47,7 +49,7 @@ Sie {verb}`liest` die Zeitung.
 
 ## Only two forms change
 
-The vowel change never touches *ich*, *wir*, *ihr*, or *sie/Sie*: *ich fahre, wir fahren, ihr fahrt*. If you are not talking about *du* or *er/sie/es*, conjugate as if the verb were regular.
+The vowel change never touches *ich*, *wir*, *ihr*, or *sie/Sie*: *ich fahre, wir fahren, ihr fahrt*. Every other form follows the regular pattern.
 
 **Examples:**
 
@@ -57,6 +59,14 @@ Ich {verb}`spreche` Englisch, und er {verb}`spricht` Spanisch.
 
 Wir {verb}`fahren` nach Wien, und Anna {verb}`fährt` nach Rom.
 : We are driving to Vienna, and Anna is driving to Rome.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*er fahrt* → er f**ä**hrt. (a to ä in the er form)
+- *\*du nehmst* → du **nimmst**. (nehmen changes consonants too)
+- *\*wir fähren* → wir **fahren**. (the change never reaches wir)
 :::
 
 ## Hear it in practice
@@ -144,10 +154,3 @@ Er hilft mir gern.
 - *Nehmen* is the wild one: *du nimmst, er nimmt*.
 :::
 
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*er fahrt* → er f**ä**hrt. (a to ä in the er form)
-- *\*du nehmst* → du **nimmst**. (nehmen changes consonants too)
-- *\*wir fähren* → wir **fahren**. (the change never reaches wir)
-:::

@@ -8,13 +8,15 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Separable Verbs
+# Separable verbs
 
-Many everyday German verbs are built from a verb plus a small prefix: *auf + stehen*, *an + rufen*, *ein + kaufen*. In the present tense the prefix breaks off and moves to the very end of the sentence. The dictionary form looks like one word; the sentence shows two.
+Separable verbs are built from a {term}`verb` plus a small {term}`prefix`: *auf + stehen*, *an + rufen*, *ein + kaufen*. In the {term}`present tense` the prefix breaks off and moves to the very end.
+
+The dictionary form looks like one word, and the sentence shows two: *aufstehen* becomes *Ich stehe um sieben Uhr auf*. A prefix is a short piece at the front of a word. The stress falls on it, so a stressed prefix is the sign that a verb separates. After a {term}`modal verb` the verb stays whole at the end: *Ich muss noch einkaufen*.
 
 ## How the split works
 
-Conjugate the verb part as usual; park the prefix at the end. Whatever else the sentence contains sits in between.
+The verb part is {term}`conjugated <conjugation>` as usual, and the prefix goes to the end. Whatever else the sentence contains sits in between.
 
 **Examples:**
 
@@ -31,26 +33,26 @@ Der Kurs {verb}`fängt` um neun Uhr {verb}`an`.
 
 In questions the same rule holds: verb up front, prefix at the end: *Kommst du mit?*
 
-## The A1 core set
+## The core set
 
-| Verb | Meaning | In a sentence |
-|---|---|---|
-| aufstehen | to get up | Ich stehe auf. |
-| anrufen | to call | Ich rufe dich an. |
-| einkaufen | to shop | Wir kaufen ein. |
-| fernsehen | to watch TV | Sie sehen fern. |
-| mitkommen | to come along | Kommst du mit? |
-| anfangen | to start | Der Film fängt an. |
-| aufmachen / zumachen | to open / close | Ich mache die Tür zu. |
-| abholen | to pick up | Ich hole dich ab. |
-| ankommen | to arrive | Der Zug kommt an. |
-| mitbringen | to bring along | Wir bringen Kuchen mit. |
+| Verb | Notes |
+|---|---|
+| {stack}`aufstehen \| to get up` | *Ich stehe auf.* |
+| {stack}`anrufen \| to call` | *Ich rufe dich an.* |
+| {stack}`einkaufen \| to shop` | *Wir kaufen ein.* |
+| {stack}`fernsehen \| to watch TV` | *Sie sehen fern.* |
+| {stack}`mitkommen \| to come along` | *Kommst du mit?* |
+| {stack}`anfangen \| to start` | *Der Film fängt an.* |
+| {stack}`aufmachen / zumachen \| to open / close` | *Ich mache die Tür zu.* |
+| {stack}`abholen \| to pick up` | *Ich hole dich ab.* |
+| {stack}`ankommen \| to arrive` | *Der Zug kommt an.* |
+| {stack}`mitbringen \| to bring along` | *Wir bringen Kuchen mit.* |
 
 The stress falls on the prefix: **AUF**stehen, **AN**rufen. If you hear the stress on the prefix, the verb separates.
 
 ## When the verb stays whole
 
-After a modal verb the separable verb goes to the end as one unbroken infinitive: *Ich muss noch **einkaufen***, *Ich möchte **mitkommen***.
+After a modal verb the separable verb goes to the end as one unbroken {term}`infinitive`: *Ich muss noch **einkaufen***, *Ich möchte **mitkommen***.
 
 **Examples:**
 
@@ -60,6 +62,14 @@ Ich {verb}`muss` noch **einkaufen**.
 
 Ich {verb}`möchte` morgen **mitkommen**.
 : I would like to come along tomorrow.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich aufstehe um sieben.* → Ich **stehe** um sieben **auf**. (the prefix must split off)
+- *\*Ich rufe an dich.* → Ich rufe dich **an**. (the prefix goes last, after everything)
+- *\*Ich muss kaufe ein.* → Ich muss **einkaufen**. (whole infinitive after a modal)
 :::
 
 ## Hear it in practice
@@ -145,14 +155,6 @@ Rufst du mich an?
 - The pattern survives questions: *Kommst du mit?*
 - After a modal, the verb stays whole at the end: *Ich muss einkaufen.*
 - Prefix stress marks a separable verb: *AUFstehen, ANrufen*.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich aufstehe um sieben.* → Ich **stehe** um sieben **auf**. (the prefix must split off)
-- *\*Ich rufe an dich.* → Ich rufe dich **an**. (the prefix goes last, after everything)
-- *\*Ich muss kaufe ein.* → Ich muss **einkaufen**. (whole infinitive after a modal)
 :::
 
 ## Related articles

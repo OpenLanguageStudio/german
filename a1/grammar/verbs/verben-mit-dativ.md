@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Verbs with the Dative
+# Verbs with the dative
 
-A small group of verbs skips the accusative and takes the dative instead. At A1 you need exactly four of them, and you need them mostly in fixed phrases with *mir* (to me) and *dir* (to you). Learn the chunks now; the system behind them comes at A2.
+Dative verbs skip the {term}`accusative <accusative case>` and take the dative instead. A1 needs four of them, mostly in fixed phrases with *mir* (to me) and *dir* (to you).
+
+The four are *helfen*, *gefallen*, *gehören* and *schmecken*. In all of them the person is a receiver and not a target, and German marks a receiver with the dative. English hides this, because it says *I like the soup* where German says that the soup tastes good to me: *Die Suppe schmeckt mir*. The system behind them comes at A2.
 
 ## The four verbs
 
@@ -38,7 +40,7 @@ Die Suppe schmeckt {dativ}`mir`.
 
 ## With nouns instead of pronouns
 
-The same verbs work with dative nouns, using the article forms you know from the dative prepositions: *Das Auto gehört meinem Vater.*
+The same verbs work with dative {term}`nouns <noun>`, using the article forms you know from the dative {term}`prepositions <preposition>`: *Das Auto gehört meinem Vater.*
 
 **Examples:**
 
@@ -56,7 +58,15 @@ Das Auto gehört {dativ}`meinem Vater`.
 
 ## A look ahead
 
-German has more dative verbs, and using them freely with all pronouns is A2 material. If you can handle *mir* and *dir* with these four verbs, you are exactly where A1 needs you to be.
+German has more dative verbs, and using them freely with all {term}`pronouns <pronoun>` is A2 material. *Mir* and *dir* with these four verbs cover what A1 needs.
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Kannst du mich helfen?* → Kannst du **mir** helfen? (helfen takes the dative)
+- *\*Das gefällt ich.* → Das gefällt **mir**. (the liker is the receiver)
+- *\*Der Kuchen schmeckt gut mir.* → Der Kuchen schmeckt **mir** gut. (mir before gut)
+:::
 
 ## Hear it in practice
 
@@ -135,14 +145,6 @@ Er hilft mir gern.
 - The person is a receiver, marked dative: *mir, dir, Ihnen*.
 - Core chunks: *Kannst du mir helfen? Das gefällt mir. Das gehört mir. Das schmeckt mir.*
 - The full dative-verb system waits at A2.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Kannst du mich helfen?* → Kannst du **mir** helfen? (helfen takes the dative)
-- *\*Das gefällt ich.* → Das gefällt **mir**. (the liker is the receiver)
-- *\*Der Kuchen schmeckt gut mir.* → Der Kuchen schmeckt **mir** gut. (mir before gut)
 :::
 
 ## Related articles

@@ -7,13 +7,15 @@ myst:
     "property=og:description": "A1 grammar: es gibt. Saying what exists with es gibt plus the accusative, in statements, negatives, and questions."
     "property=og:type": "article"
 ---
-# es gibt
+# *es gibt*
 
-*Es gibt* means "there is" and "there are", both at once: it never changes for number. It is how you describe what a town, a flat, or a menu has to offer, and one of the most frequent chunks in everyday German.
+*Es gibt* means *there is* and *there are*, both at once, because it never changes for number. It describes what a town, a flat or a menu has to offer.
+
+The word *es* is fixed and *gibt* stays the same, whether one thing exists or many. Whatever exists stands in the {term}`accusative <accusative case>`, the form that turns {term}`masculine` *ein* into *einen*: *Es gibt einen Park*. The negative uses *kein*: *Es gibt keinen Aufzug*. As a question it becomes *Gibt es ...?*, and *noch* asks whether any is left.
 
 ## One form, always with the accusative
 
-The *es* is fixed and *gibt* never varies. Whatever exists stands in the accusative: *Es gibt **einen** Park.* Negation uses *kein*: *Es gibt **keinen** Aufzug.*
+The *es* is fixed and *gibt* never varies. Whatever exists stands in the accusative: *Es gibt **einen** Park.* {term}`Negation` uses *kein*: *Es gibt **keinen** Aufzug.*
 
 **Examples:**
 
@@ -28,9 +30,9 @@ In der Stadt gibt es {akk}`ein Kino`.
 : In the town there is a cinema.
 :::
 
-## Questions with *Gibt es ...?*
+## Questions with *Gibt es*
 
-Flip to *Gibt es ...?* and you can ask whether anything exists or is available; add *noch* to ask if any is left.
+*Gibt es ...?* asks whether anything exists or is available, and *noch* asks if any is left.
 
 **Examples:**
 
@@ -57,6 +59,14 @@ Zum Mittagessen gibt es Nudeln.
 
 Was gibt es zum Frühstück?
 : What is there for breakfast?
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Es gibt ein Park.* → Es gibt **einen** Park. (accusative, masculine)
+- *\*Es geben viele Restaurants.* → Es **gibt** viele Restaurants. (gibt never changes)
+- *\*Hier ist eine Apotheke?* to ask existence → **Gibt es** hier eine Apotheke? (es gibt asks what exists)
 :::
 
 ## Hear it in practice
@@ -136,14 +146,6 @@ Zum Mittagessen gibt es Nudeln.
 - What exists is accusative: *einen Park, keinen Aufzug*.
 - Questions: *Gibt es ...?*; "any left" questions add *noch*.
 - Food announcements run on *es gibt*: *Es gibt heute Suppe.*
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Es gibt ein Park.* → Es gibt **einen** Park. (accusative, masculine)
-- *\*Es geben viele Restaurants.* → Es **gibt** viele Restaurants. (gibt never changes)
-- *\*Hier ist eine Apotheke?* to ask existence → **Gibt es** hier eine Apotheke? (es gibt asks what exists)
 :::
 
 ## Related articles

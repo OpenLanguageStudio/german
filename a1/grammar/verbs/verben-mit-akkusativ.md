@@ -8,7 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Verbs with the Accusative
+# Verbs with the accusative
+
+Accusative verbs are incomplete without a thing they act on: nobody just needs, they need something. *Haben*, *brauchen* and *kaufen* all work this way.
+
+The thing they act on is the {term}`direct object`, and German puts it in the accusative every time: *Ich brauche einen Regenschirm*. Only {term}`masculine` words change, so *ein* becomes *einen*. A verb is best learned together with its case, which turns the choice into a habit. *Sein* is not on this list, because both sides of *sein* stay {term}`nominative <nominative case>`.
 
 :::{admonition} Prerequisites
 :class: note
@@ -16,22 +20,20 @@ Before reading this article, make sure you are comfortable with:
 - [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
 :::
 
-Some verbs are incomplete without a thing they act on: you cannot just "need", you need *something*. In German these verbs take their object in the accusative, every time. Learning the verb together with its case turns case choice from a puzzle into a habit.
+## The core accusative verbs
 
-## The A1 accusative verbs
-
-| Verb | Meaning | In a sentence |
-|---|---|---|
-| haben | to have | Ich habe einen Hund. |
-| brauchen | to need | Ich brauche einen Regenschirm. |
-| kaufen | to buy | Er kauft einen Tisch. |
-| suchen | to look for | Sie sucht eine Wohnung. |
-| finden | to find | Ich finde den Bahnhof nicht. |
-| sehen | to see | Siehst du den Turm? |
-| essen / trinken | to eat / drink | Wir essen einen Salat. |
-| nehmen | to take | Ich nehme das Menü. |
-| kennen | to know (people, places) | Kennst du meinen Bruder? |
-| besuchen | to visit | Wir besuchen unsere Großeltern. |
+| Verb | Notes |
+|---|---|
+| {stack}`haben \| to have` | *Ich habe einen Hund.* |
+| {stack}`brauchen \| to need` | *Ich brauche einen Regenschirm.* |
+| {stack}`kaufen \| to buy` | *Er kauft einen Tisch.* |
+| {stack}`suchen \| to look for` | *Sie sucht eine Wohnung.* |
+| {stack}`finden \| to find` | *Ich finde den Bahnhof nicht.* |
+| {stack}`sehen \| to see` | *Siehst du den Turm?* |
+| {stack}`essen / trinken \| to eat / drink` | *Wir essen einen Salat.* |
+| {stack}`nehmen \| to take` | *Ich nehme das Menü.* |
+| {stack}`kennen \| to know (people, places)` | *Kennst du meinen Bruder?* |
+| {stack}`besuchen \| to visit` | *Wir besuchen unsere Großeltern.* |
 
 **Examples:**
 
@@ -46,9 +48,9 @@ Kennst du {akk}`meinen Bruder`?
 : Do you know my brother?
 :::
 
-## The test: ask *wen oder was?*
+## The test: *wen oder was*
 
-After each of these verbs you can ask *wen?* or *was?*, and whatever answers is accusative. Remember the contrast: *sein* is not on this list. After *sein* both sides stay nominative: *Das ist der Bahnhof*, never *den Bahnhof*.
+After each of these verbs the question *wen?* or *was?* works, and whatever answers it is accusative. *Sein* is not on this list. After *sein* both sides stay nominative: *Das ist der Bahnhof*, never *den Bahnhof*.
 
 **Examples:**
 
@@ -58,6 +60,14 @@ Ich sehe {akk}`den Turm`.
 
 Das ist {subj}`der Turm`.
 : That is the tower. (sein: nominative on both sides)
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich brauche ein Regenschirm.* → Ich brauche **einen** Regenschirm. (masculine {term}`object`)
+- *\*Kennst du mein Bruder?* → Kennst du **meinen** Bruder? (possessives take -en too)
+- *\*Das ist den Bahnhof.* → Das ist **der** Bahnhof. (sein takes no accusative)
 :::
 
 ## Hear it in practice
@@ -143,14 +153,6 @@ Wen kennst du hier?
 - Learn verb + case as one package.
 - The test is *wen oder was?* after the verb.
 - *Sein* stays nominative; it describes, it does not act on anything.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich brauche ein Regenschirm.* → Ich brauche **einen** Regenschirm. (masculine object)
-- *\*Kennst du mein Bruder?* → Kennst du **meinen** Bruder? (possessives take -en too)
-- *\*Das ist den Bahnhof.* → Das ist **der** Bahnhof. (sein takes no accusative)
 :::
 
 ## Related articles

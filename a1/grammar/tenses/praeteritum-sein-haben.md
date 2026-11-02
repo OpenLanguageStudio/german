@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# war and hatte
+# *war* and *hatte*
 
-Spoken German uses the Perfekt for past actions, with two loud exceptions: *sein* and *haben*. For these, everyone says the one-word forms *war* and *hatte* instead. Since half of past-tense small talk is "was" and "had", these two paradigms punch far above their weight.
+*War* and *hatte* are the past forms of *sein* and *haben*, and spoken German prefers them to the {term}`Perfekt`. So *Ich war müde* is more common than *Ich bin müde gewesen*.
+
+Spoken German uses the Perfekt for most past actions, with these two {term}`verbs <verb>` as the main exceptions. The one-word forms belong to the {term}`Präteritum`, the simple past. *War* covers places, descriptions and states, as in *Das Wetter war schön*. *Hatte* covers possession and all the *haben* chunks, as in *Ich hatte keine Zeit*. The *ich* and *er* forms are identical.
 
 ## The forms
 
@@ -23,7 +25,7 @@ Spoken German uses the Perfekt for past actions, with two loud exceptions: *sein
 | ihr | wart | hattet |
 | sie / Sie | waren | hatten |
 
-Like the modals, the *ich* and *er* forms match.
+Like the {term}`modals <modal verb>`, the *ich* and *er* forms match.
 
 ## *war*: where and how things were
 
@@ -42,7 +44,7 @@ Das Wetter {verb}`war` schön.
 : Were you ill?
 :::
 
-## *hatte*: what you had
+## *hatte*: possession and chunks
 
 *Hatte* covers past possession and all the haben-chunks: *Zeit, Hunger, Fieber, Spaß*.
 
@@ -60,7 +62,15 @@ Die Kinder {verb}`hatten` Hunger.
 :::
 
 :::{tip}
-Division of labour in the spoken past: actions → Perfekt (*Ich habe gespielt*), states and havings → *war/hatte*. Nobody says *Ich bin gewesen* in everyday talk when *Ich war* will do.
+Division of labour in the spoken past: actions → Perfekt (*Ich habe gespielt*), states and havings → *war/hatte*. Everyday talk prefers *Ich war* to *Ich bin gewesen*.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich bin gestern müde gewesen* is correct but rare in speech → Ich **war** gestern müde. (war is the natural form)
+- *\*Ich hatte gestern im Kino.* → Ich **war** gestern im Kino. (place = war)
+- *\*du warst* for ihr → ihr **wart**. (no s in the ihr form)
 :::
 
 ## Hear it in practice
@@ -140,14 +150,6 @@ Früher hatte ich einen Hund.
 - Forms mirror the modal pattern: ich/er identical, endings regular.
 - *war* for places, states, descriptions; *hatte* for possession and chunks.
 - Everything else stays Perfekt.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich bin gestern müde gewesen.* → Ich **war** gestern müde. (war is the natural form)
-- *\*Ich hatte gestern im Kino.* → Ich **war** gestern im Kino. (place = war)
-- *\*du warst* for ihr → ihr **wart**. (no s in the ihr form)
 :::
 
 ## Related articles

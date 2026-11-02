@@ -8,15 +8,17 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Modal Verbs dürfen and sollen
+# Modal verbs *dürfen* and *sollen*
+
+The modal verbs *dürfen* and *sollen* complete the A1 set. *Dürfen* handles permission, and *sollen* carries someone else's wish, the sense of being supposed to do something.
+
+A modal verb adds a meaning to a second {term}`verb`, which stands at the very end: *Darf ich hier parken?* *Darf ich ...?* is the standard way to ask for permission, and *darf nicht* means that something is forbidden. *Sollen* reports an instruction from someone else, such as a doctor. As a question, *Soll ich ...?* offers help.
 
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
 - [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)
 :::
-
-Two more modals complete the A1 set. *Dürfen* handles permission: what is allowed and what is forbidden. *Sollen* carries someone else's wish, the sense of being supposed to do something. Both use the familiar bracket, with the main verb at the end.
 
 ## The forms
 
@@ -66,7 +68,15 @@ Wir {verb}`sollen` um acht Uhr da **sein**.
 :::
 
 :::{tip}
-*Muss nicht* and *darf nicht* are worlds apart: *Du musst nicht kommen* means you don't have to come; *Du darfst nicht kommen* means you are not allowed to. Mixing them up changes an option into a ban.
+*Muss nicht* and *darf nicht* are worlds apart. *Du musst nicht kommen* means you don't have to come. *Du darfst nicht kommen* means you are not allowed to. Mixing them up changes an option into a ban.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*er darfst* → er **darf**. (darfst belongs to du)
+- *\*Ich darf nicht kommen* meant as "I don't have to" → Ich **muss nicht** kommen. (darf nicht = forbidden)
+- *\*Soll ich helfe dir?* → Soll ich dir **helfen**? ({term}`infinitive` at the end)
 :::
 
 ## Hear it in practice
@@ -152,14 +162,6 @@ Du darfst das Eis essen.
 - *Sollen* passes on someone else's wish; *Soll ich ...?* offers help.
 - Forms: *ich darf / ich soll*; ich and er forms match, as with all modals.
 - *muss nicht* = don't have to; *darf nicht* = must not.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*er darfst* → er **darf**. (darfst belongs to du)
-- *\*Ich darf nicht kommen* meant as "I don't have to" → Ich **muss nicht** kommen. (darf nicht = forbidden)
-- *\*Soll ich helfe dir?* → Soll ich dir **helfen**? (infinitive at the end)
 :::
 
 ## Related articles
