@@ -102,11 +102,11 @@ Use the following link to practice this section.
 
 In this group, you cannot reliably derive the meaning from the noun alone. Learn these combinations as fixed chunks with their own meaning.
 
-| Fixed combination | Literal reading (misleading) | Actual meaning |
-| --- | --- | --- |
-| unter Druck stehen | to stand under pressure | to be under pressure |
-| in Frage kommen | to come into question | to be possible/to be considered |
-| zur Verfügung stehen | to stand to disposal | to be available |
+| Fixed combination | Literal reading (misleading) |
+|---|---|
+| {stack}`unter Druck stehen \| to be under pressure` | to stand under pressure |
+| {stack}`in Frage kommen \| to be possible/to be considered` | to come into question |
+| {stack}`zur Verfügung stehen \| to be available` | to stand to disposal |
 
 **Examples:**
 

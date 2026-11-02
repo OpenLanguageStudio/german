@@ -71,17 +71,17 @@ The rule for choosing between the two forms is simple:
 
 Use this mini-list as vocabulary support. The right form depends on the verb's fixed preposition.
 
-| Pronominaladverb | Typical verb pattern | Meaning in context | Question form |
-|---|---|---|---|
-| **daran** | denken an | think about it | woran? |
-| **darauf** | warten auf / sich freuen auf | wait for it / look forward to it | worauf? |
-| **darüber** | sprechen über / sich ärgern über | talk about it / be annoyed about it | worüber? |
-| **damit** | anfangen mit / zufrieden sein mit | start with it / be satisfied with it | womit? |
-| **davon** | träumen von / erzählen von | dream about it / tell about it | wovon? |
-| **dafür** | sich interessieren für / sein für | be interested in it / be in favor of it | wofür? |
-| **dagegen** | sein gegen | be against it | wogegen? |
-| **darum** | sich kümmern um / bitten um | take care of it / ask for it | worum? |
-| **dazu** | gehören zu / einladen zu | belong to it / invite to it | wozu? |
+| Pronominaladverb | Typical verb pattern | Question form |
+|---|---|---|
+| **daran** | {stack}`denken an \| think about it` | woran? |
+| **darauf** | {stack}`warten auf / sich freuen auf \| wait for it / look forward to it` | worauf? |
+| **darüber** | {stack}`sprechen über / sich ärgern über \| talk about it / be annoyed about it` | worüber? |
+| **damit** | {stack}`anfangen mit / zufrieden sein mit \| start with it / be satisfied with it` | womit? |
+| **davon** | {stack}`träumen von / erzählen von \| dream about it / tell about it` | wovon? |
+| **dafür** | {stack}`sich interessieren für / sein für \| be interested in it / be in favor of it` | wofür? |
+| **dagegen** | {stack}`sein gegen \| be against it` | wogegen? |
+| **darum** | {stack}`sich kümmern um / bitten um \| take care of it / ask for it` | worum? |
+| **dazu** | {stack}`gehören zu / einladen zu \| belong to it / invite to it` | wozu? |
 
 ### Examples
 

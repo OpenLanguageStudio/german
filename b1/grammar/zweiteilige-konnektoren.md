@@ -14,14 +14,14 @@ myst:
 
 ## Quick reference
 
-| Pair | Meaning | Function |
-|---|---|---|
-| sowohl...als auch | both...and | adds two equal elements |
-| nicht nur...sondern auch | not only...but also | adds something beyond what's expected |
-| entweder...oder | either...or | presents two alternatives |
-| weder...noch | neither...nor | negates both elements |
-| zwar...aber | admittedly...but | concedes a point, then contrasts |
-| einerseits...andererseits | on the one hand...on the other | presents two different perspectives |
+| Pair | Function |
+|---|---|
+| {stack}`sowohl...als auch \| both...and` | adds two equal elements |
+| {stack}`nicht nur...sondern auch \| not only...but also` | adds something beyond what's expected |
+| {stack}`entweder...oder \| either...or` | presents two alternatives |
+| {stack}`weder...noch \| neither...nor` | negates both elements |
+| {stack}`zwar...aber \| admittedly...but` | concedes a point, then contrasts |
+| {stack}`einerseits...andererseits \| on the one hand...on the other` | presents two different perspectives |
 
 | Pair | Verb position / word order |
 |---|---|

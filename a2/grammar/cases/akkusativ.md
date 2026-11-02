@@ -111,13 +111,13 @@ Only the **article** changes form, the noun itself stays the same. *Der Mann* (s
 
 Five German prepositions **always** require the accusative case, regardless of the noun that follows.
 
-| Präposition | Bedeutung | Beispiel |
-|---|---|---|
-| *durch* | through | Ich gehe durch **den** Park. |
-| *für* | for | Das ist für **meinen** Freund. |
-| *gegen* | against / into | Sie ist gegen **die** Wand gelaufen. |
-| *ohne* | without | Er kommt ohne **seinen** Bruder. |
-| *um* | around / at (time) | Wir laufen um **den** See. |
+| Präposition | Beispiel |
+|---|---|
+| {stack}`durch \| through` | Ich gehe durch **den** Park. |
+| {stack}`für \| for` | Das ist für **meinen** Freund. |
+| {stack}`gegen \| against / into` | Sie ist gegen **die** Wand gelaufen. |
+| {stack}`ohne \| without` | Er kommt ohne **seinen** Bruder. |
+| {stack}`um \| around / at (time)` | Wir laufen um **den** See. |
 
 After these prepositions, the same article rules apply: only masculine changes from *der/ein* to *den/einen*; feminine, neuter, and plural stay the same.
 
@@ -196,23 +196,23 @@ If you are unsure with two-way prepositions, first decide the question: **Wo?** 
 
 Most everyday German verbs take a direct object in the accusative. Here is a list of common A2 verbs that come up regularly.
 
-| Verb | Bedeutung | Beispiel |
-|---|---|---|
-| *anrufen* | to call (phone) | Ich rufe **meinen Vater** an. |
-| *brauchen* | to need | Wir brauchen **einen Tisch**. |
-| *essen* | to eat | Er isst **ein Brötchen**. |
-| *finden* | to find | Ich finde **das Buch** nicht. |
-| *haben* | to have | Sie hat **einen Bruder**. |
-| *hören* | to hear / listen to | Ich höre **Musik**. |
-| *kaufen* | to buy | Er kauft **einen Laptop**. |
-| *kennen* | to know (sb/sth) | Kennst du **die Stadt**? |
-| *lesen* | to read | Sie liest **die Zeitung**. |
-| *lieben* | to love | Ich liebe **meinen Beruf**. |
-| *nehmen* | to take | Er nimmt **den Bus**. |
-| *sehen* | to see | Siehst du **das Kind**? |
-| *suchen* | to look for | Ich suche **meinen Schlüssel**. |
-| *trinken* | to drink | Wir trinken **einen Kaffee**. |
-| *verstehen* | to understand | Ich verstehe **die Frage** nicht. |
+| Verb | Beispiel |
+|---|---|
+| {stack}`anrufen \| to call (phone)` | Ich rufe **meinen Vater** an. |
+| {stack}`brauchen \| to need` | Wir brauchen **einen Tisch**. |
+| {stack}`essen \| to eat` | Er isst **ein Brötchen**. |
+| {stack}`finden \| to find` | Ich finde **das Buch** nicht. |
+| {stack}`haben \| to have` | Sie hat **einen Bruder**. |
+| {stack}`hören \| to hear / listen to` | Ich höre **Musik**. |
+| {stack}`kaufen \| to buy` | Er kauft **einen Laptop**. |
+| {stack}`kennen \| to know (sb/sth)` | Kennst du **die Stadt**? |
+| {stack}`lesen \| to read` | Sie liest **die Zeitung**. |
+| {stack}`lieben \| to love` | Ich liebe **meinen Beruf**. |
+| {stack}`nehmen \| to take` | Er nimmt **den Bus**. |
+| {stack}`sehen \| to see` | Siehst du **das Kind**? |
+| {stack}`suchen \| to look for` | Ich suche **meinen Schlüssel**. |
+| {stack}`trinken \| to drink` | Wir trinken **einen Kaffee**. |
+| {stack}`verstehen \| to understand` | Ich verstehe **die Frage** nicht. |
 
 ### Examples
 

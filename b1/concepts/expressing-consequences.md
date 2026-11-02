@@ -15,11 +15,11 @@ Consequences link a cause to what follows from it, and German has several connec
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| deshalb/deswegen/darum | therefore/so | verb in position 2 |
-| sodass | so that (result) | subclause, verb at end |
-| so ... dass | so ... that | intensity + result clause |
+| Phrase | Notes |
+|---|---|
+| {stack}`deshalb/deswegen/darum \| therefore/so` | verb in position 2 |
+| {stack}`sodass \| so that (result)` | subclause, verb at end |
+| {stack}`so ... dass \| so ... that` | intensity + result clause |
 
 ---
 

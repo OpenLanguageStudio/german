@@ -86,14 +86,14 @@ The Partizip I is formed by adding **-d** to the infinitive of any verb. It desc
 
 > **Infinitive + -d** → Partizip I
 
-| Infinitive | Partizip I | Meaning |
-| --- | --- | --- |
-| weinen | wein**end** | crying |
-| schlafen | schlaf**end** | sleeping |
-| laufen | lauf**end** | running |
-| wachsen | wachs**end** | growing |
-| lächeln | lächel**nd** | smiling |
-| bellen | bell**end** | barking |
+| Infinitive | Partizip I |
+|---|---|
+| weinen | {stack}`weinend \| crying` |
+| schlafen | {stack}`schlafend \| sleeping` |
+| laufen | {stack}`laufend \| running` |
+| wachsen | {stack}`wachsend \| growing` |
+| lächeln | {stack}`lächelnd \| smiling` |
+| bellen | {stack}`bellend \| barking` |
 
 The formula works for all verbs without exception, just add **-d** to the infinitive and then the usual adjective endings.
 

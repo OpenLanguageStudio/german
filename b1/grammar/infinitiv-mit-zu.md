@@ -38,18 +38,18 @@ You will often see a comma before the infinitive group, especially in these comm
 
 After a range of common German verbs, you attach a *zu + Infinitiv* phrase to describe what the subject is trying, planning, starting, or forgetting to do. The subject of the main verb and the infinitive phrase is always the same person.
 
-| Verb | Meaning |
+| Verb | Notes |
 |---|---|
-| anfangen / beginnen | to start |
-| aufhören | to stop |
-| beschließen | to decide |
-| empfehlen | to recommend |
-| hoffen | to hope |
-| planen | to plan |
-| vergessen | to forget |
-| versprechen | to promise |
-| versuchen | to try |
-| vorhaben | to intend / plan |
+| {stack}`anfangen / beginnen \| to start` | |
+| {stack}`aufhören \| to stop` | |
+| {stack}`beschließen \| to decide` | |
+| {stack}`empfehlen \| to recommend` | |
+| {stack}`hoffen \| to hope` | |
+| {stack}`planen \| to plan` | |
+| {stack}`vergessen \| to forget` | |
+| {stack}`versprechen \| to promise` | |
+| {stack}`versuchen \| to try` | |
+| {stack}`vorhaben \| to intend / plan` | |
 
 :::{div} ol-examples
 Ich **versuche**, mehr Wasser zu **trinken**.
@@ -113,15 +113,15 @@ Some useful adjectives for this pattern: *wichtig*, *schwierig*, *leicht*, *sch�
 
 Certain noun expressions in German also introduce a *zu + Infinitiv* phrase. These expressions pair a noun with *haben* or with *machen* and describe feelings, intentions, or opportunities.
 
-| Expression | Meaning |
+| Expression | Notes |
 |---|---|
-| die Absicht haben | to intend to |
-| die Chance haben | to have the chance to |
-| die Möglichkeit haben | to have the opportunity to |
-| die Zeit haben | to have the time to |
-| Angst haben | to be afraid of doing something |
-| Lust haben | to feel like doing something |
-| Spaß machen | to be fun |
+| {stack}`die Absicht haben \| to intend to` | |
+| {stack}`die Chance haben \| to have the chance to` | |
+| {stack}`die Möglichkeit haben \| to have the opportunity to` | |
+| {stack}`die Zeit haben \| to have the time to` | |
+| {stack}`Angst haben \| to be afraid of doing something` | |
+| {stack}`Lust haben \| to feel like doing something` | |
+| {stack}`Spaß machen \| to be fun` | |
 
 :::{div} ol-examples
 Er **hat die Absicht**, nächsten Monat um**zu**ziehen.

@@ -155,14 +155,14 @@ The *am + …-sten* form is only used when the adjective does **not** appear dir
 
 A small set of very common adjectives form their comparative and superlative in an irregular way. These appear all the time in conversation, so they are worth learning by heart. After forming the irregular stem, you still add the same declension endings as usual.
 
-| Base form | Comparative stem | Superlative stem | Meaning |
-|---|---|---|---|
-| gut | besser- | best- | good |
-| viel | mehr | meist- | much / many |
-| gern | lieber- | liebst- | gladly / preferably |
-| hoch | höher- | höchst- | high |
-| nah | näher- | nächst- | near / next |
-| groß | größer- | größt- | big / great |
+| Base form | Comparative stem | Superlative stem |
+|---|---|---|
+| {stack}`gut \| good` | besser- | best- |
+| {stack}`viel \| much / many` | mehr | meist- |
+| {stack}`gern \| gladly / preferably` | lieber- | liebst- |
+| {stack}`hoch \| high` | höher- | höchst- |
+| {stack}`nah \| near / next` | näher- | nächst- |
+| {stack}`groß \| big / great` | größer- | größt- |
 
 :::{warning}
 **mehr** (comparative of *viel*) is **never declined** before a noun, it always stays as **mehr**, regardless of case, gender, or number:

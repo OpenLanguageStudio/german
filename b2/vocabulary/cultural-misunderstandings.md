@@ -10,39 +10,39 @@ Most cultural misunderstandings come from small things: how direct a criticism i
 
 ## Vocabulary list
 
-| German | English |
+| Word | Notes |
 |---|---|
-| Blickkontakt, der | eye contact |
-| Direktheit, die | directness |
-| Distanz, die | distance |
-| Fauxpas, der | faux pas |
-| Fettnäpfchen, das | awkward situation |
-| Höflichkeit, die | politeness |
-| interkulturelle Kompetenz, die | intercultural competence |
-| Ironie, die | irony |
-| Kontext, der | context |
-| Körpersprache, die | body language |
-| kulturelle Prägung, die | cultural imprint |
-| Missverständnis, das | misunderstanding |
-| Redewendung, die | idiom |
-| Smalltalk, der | small talk |
-| Stereotyp, das | stereotype |
-| Tabuthema, das | taboo topic |
-| Tonfall, der | tone of voice |
-| Vorurteil, das | prejudice |
-| Zurückhaltung, die | restraint |
+| {stack}`der Blickkontakt \| eye contact` | |
+| {stack}`die Direktheit \| directness` | |
+| {stack}`die Distanz \| distance` | |
+| {stack}`der Fauxpas \| faux pas` | |
+| {stack}`das Fettnäpfchen \| awkward situation` | |
+| {stack}`die Höflichkeit \| politeness` | |
+| {stack}`die interkulturelle Kompetenz \| intercultural competence` | |
+| {stack}`die Ironie \| irony` | |
+| {stack}`der Kontext \| context` | |
+| {stack}`die Körpersprache \| body language` | |
+| {stack}`die kulturelle Prägung \| cultural imprint` | |
+| {stack}`das Missverständnis \| misunderstanding` | |
+| {stack}`die Redewendung \| idiom` | |
+| {stack}`der Smalltalk \| small talk` | |
+| {stack}`das Stereotyp \| stereotype` | |
+| {stack}`das Tabuthema \| taboo topic` | |
+| {stack}`der Tonfall \| tone of voice` | |
+| {stack}`das Vorurteil \| prejudice` | |
+| {stack}`die Zurückhaltung \| restraint` | |
 
 ---
 
 ## Useful phrases
 
-| German | English | Note |
-|---|---|---|
-| Das war nicht böse gemeint. | I didn’t mean it badly. | repair |
-| Wie wird das bei euch verstanden? | How is that understood where you’re from? | invite perspective |
-| Ich glaube, hier sprechen wir aneinander vorbei. | I think we’re talking at cross purposes. | clarify |
-| Mir ist Direktheit wichtig, aber ich möchte niemanden vor den Kopf stoßen. | Directness matters to me, but I don’t want to offend anyone. | hedging |
-| Können wir das Missverständnis kurz klären? | Can we quickly clarify the misunderstanding? | polite |
+| Phrase | Note |
+|---|---|
+| {stack}`Das war nicht böse gemeint. \| I didn’t mean it badly.` | repair |
+| {stack}`Wie wird das bei euch verstanden? \| How is that understood where you’re from?` | invite perspective |
+| {stack}`Ich glaube, hier sprechen wir aneinander vorbei. \| I think we’re talking at cross purposes.` | clarify |
+| {stack}`Mir ist Direktheit wichtig, aber ich möchte niemanden vor den Kopf stoßen. \| Directness matters to me, but I don’t want to offend anyone.` | hedging |
+| {stack}`Können wir das Missverständnis kurz klären? \| Can we quickly clarify the misunderstanding?` | polite |
 
 ---
 

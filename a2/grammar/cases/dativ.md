@@ -102,16 +102,16 @@ A quick memory trick: masculine and neuter both end in **-em** (einem/keinem/mei
 
 Some prepositions **always** require the dative case. You never need to decide, whenever you see one of these words, the noun phrase that follows is always in the dative.
 
-| Präposition | Meaning | Example |
-|---|---|---|
-| **aus** | out of, from (origin) | Ich komme **aus der** Schweiz. |
-| **bei** | at, with, near | Er wohnt **bei seiner** Familie. |
-| **mit** | with, by (transport) | Wir fahren **mit dem** Bus. |
-| **nach** | after; to (cities/countries) | **Nach dem** Essen gehe ich schlafen. |
-| **seit** | since, for (ongoing time) | Sie lernt Deutsch **seit einem** Jahr. |
-| **von** | from, of, by | Das ist ein Geschenk **von meiner** Oma. |
-| **zu** | to (people, buildings) | Ich gehe **zu meinem** Arzt. |
-| **gegenüber** | opposite, across from | Das Hotel liegt **gegenüber dem** Bahnhof. |
+| Präposition | Example |
+|---|---|
+| {stack}`aus \| out of, from (origin)` | Ich komme **aus der** Schweiz. |
+| {stack}`bei \| at, with, near` | Er wohnt **bei seiner** Familie. |
+| {stack}`mit \| with, by (transport)` | Wir fahren **mit dem** Bus. |
+| {stack}`nach \| after; to (cities/countries)` | **Nach dem** Essen gehe ich schlafen. |
+| {stack}`seit \| since, for (ongoing time)` | Sie lernt Deutsch **seit einem** Jahr. |
+| {stack}`von \| from, of, by` | Das ist ein Geschenk **von meiner** Oma. |
+| {stack}`zu \| to (people, buildings)` | Ich gehe **zu meinem** Arzt. |
+| {stack}`gegenüber \| opposite, across from` | Das Hotel liegt **gegenüber dem** Bahnhof. |
 
 **Examples:**
 
@@ -145,14 +145,14 @@ Das Café ist {prep}`gegenüber` {dativ}`dem` Park.
 
 Certain German verbs take a **dative object** instead of an accusative one. In English, these verbs usually take a direct object (e.g., "I help him"), but in German the object must be in the dative. These verbs simply need to be learned.
 
-| Verb | Meaning | Pattern |
-|---|---|---|
-| **helfen** | to help | Ich helfe **dir**. |
-| **danken** | to thank | Er dankt **ihr**. |
-| **gefallen** | to please, to like | Das gefällt **mir**. |
-| **gehören** | to belong to | Das gehört **meiner** Mutter. |
-| **antworten** | to answer, to reply | Sie antwortet **ihm**. |
-| **gratulieren** | to congratulate | Wir gratulieren **unserem** Freund. |
+| Verb | Pattern |
+|---|---|
+| {stack}`helfen \| to help` | Ich helfe **dir**. |
+| {stack}`danken \| to thank` | Er dankt **ihr**. |
+| {stack}`gefallen \| to please, to like` | Das gefällt **mir**. |
+| {stack}`gehören \| to belong to` | Das gehört **meiner** Mutter. |
+| {stack}`antworten \| to answer, to reply` | Sie antwortet **ihm**. |
+| {stack}`gratulieren \| to congratulate` | Wir gratulieren **unserem** Freund. |
 
 :::{note}
 *Gefallen* works differently from English *to like*. The thing you like is the subject, and you are in the dative: *Das Lied **gefällt mir*** = "The song pleases me" → "I like the song." The subject (*das Lied*) is singular, so the verb is singular (*gefällt*).

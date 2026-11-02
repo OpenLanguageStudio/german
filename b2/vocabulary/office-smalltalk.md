@@ -10,70 +10,70 @@ Small talk at work fills the gaps between tasks: the queue at the coffee machine
 
 ## Vocabulary list
 
-| German | English |
+| Word | Notes |
 |---|---|
-| Abgabefrist, die | submission deadline |
-| Abstimmung, die | coordination / alignment |
-| Anlauf, der | first attempt / run-up |
-| Arbeitsklima, das | working atmosphere |
-| Auflockerung, die | loosening up / ice-breaker |
-| Auslastung, die | workload / capacity usage |
-| Besprechung, die | meeting |
-| Betriebsrat, der | works council |
-| Chef, der / Chefin, die | boss |
-| Dienstreise, die | business trip |
-| Feierabend, der | end of the workday |
-| Kaffeemaschine, die | coffee machine |
-| Kapazität, die | capacity |
-| Kollegium, das | staff / team |
-| Priorisierung, die | prioritization |
-| Projektstand, der | project status |
-| Rückfrage, die | follow-up question |
-| Stimmung, die | mood |
-| Teamgefühl, das | sense of team |
-| Übergabe, die | handover |
-| Verfügbarkeit, die | availability |
-| Verzögerung, die | delay |
-| Wochenauftakt, der | start of the week |
-| Zwischenstand, der | interim status |
-| abstimmen | to coordinate / align |
-| ansprechen | to address / bring up (a topic) |
-| aushelfen | to help out |
-| besprechen | to discuss |
-| blockieren | to block / hold up |
-| einchecken | to check in (with someone) |
-| erledigen | to take care of / handle |
-| nachfragen | to ask / follow up |
-| priorisieren | to prioritize |
-| sich austauschen | to exchange (ideas/information) |
-| unterstützen | to support |
-| vereinbaren | to agree on / arrange |
-| verschieben | to postpone |
-| zusammenfassen | to summarize |
-| angenehm | pleasant |
-| angespannt | tense |
-| freundlich | friendly |
-| kollegial | collegial |
-| locker | relaxed |
-| neutral | neutral |
-| produktiv | productive |
-| stressig | stressful |
-| unterstützend | supportive |
-| verbindlich | reliable / binding |
-| wertschätzend | appreciative |
+| {stack}`die Abgabefrist \| submission deadline` | |
+| {stack}`die Abstimmung \| coordination / alignment` | |
+| {stack}`der Anlauf \| first attempt / run-up` | |
+| {stack}`das Arbeitsklima \| working atmosphere` | |
+| {stack}`die Auflockerung \| loosening up / ice-breaker` | |
+| {stack}`die Auslastung \| workload / capacity usage` | |
+| {stack}`die Besprechung \| meeting` | |
+| {stack}`der Betriebsrat \| works council` | |
+| {stack}`die Chef, der / Chefin \| boss` | |
+| {stack}`die Dienstreise \| business trip` | |
+| {stack}`der Feierabend \| end of the workday` | |
+| {stack}`die Kaffeemaschine \| coffee machine` | |
+| {stack}`die Kapazität \| capacity` | |
+| {stack}`das Kollegium \| staff / team` | |
+| {stack}`die Priorisierung \| prioritization` | |
+| {stack}`der Projektstand \| project status` | |
+| {stack}`die Rückfrage \| follow-up question` | |
+| {stack}`die Stimmung \| mood` | |
+| {stack}`das Teamgefühl \| sense of team` | |
+| {stack}`die Übergabe \| handover` | |
+| {stack}`die Verfügbarkeit \| availability` | |
+| {stack}`die Verzögerung \| delay` | |
+| {stack}`der Wochenauftakt \| start of the week` | |
+| {stack}`der Zwischenstand \| interim status` | |
+| {stack}`abstimmen \| to coordinate / align` | |
+| {stack}`ansprechen \| to address / bring up (a topic)` | |
+| {stack}`aushelfen \| to help out` | |
+| {stack}`besprechen \| to discuss` | |
+| {stack}`blockieren \| to block / hold up` | |
+| {stack}`einchecken \| to check in (with someone)` | |
+| {stack}`erledigen \| to take care of / handle` | |
+| {stack}`nachfragen \| to ask / follow up` | |
+| {stack}`priorisieren \| to prioritize` | |
+| {stack}`sich austauschen \| to exchange (ideas/information)` | |
+| {stack}`unterstützen \| to support` | |
+| {stack}`vereinbaren \| to agree on / arrange` | |
+| {stack}`verschieben \| to postpone` | |
+| {stack}`zusammenfassen \| to summarize` | |
+| {stack}`angenehm \| pleasant` | |
+| {stack}`angespannt \| tense` | |
+| {stack}`freundlich \| friendly` | |
+| {stack}`kollegial \| collegial` | |
+| {stack}`locker \| relaxed` | |
+| {stack}`neutral \| neutral` | |
+| {stack}`produktiv \| productive` | |
+| {stack}`stressig \| stressful` | |
+| {stack}`unterstützend \| supportive` | |
+| {stack}`verbindlich \| reliable / binding` | |
+| {stack}`wertschätzend \| appreciative` | |
 
 ## Useful phrases
 
-| German | English | Note |
-|---|---|---|
-| Alles gut reingekommen heute? | Did you get in okay today? | neutral opener |
-| Schon Kaffee gehabt oder erst auf der Suche? | Had coffee yet or still looking? | informal, light |
-| Wie sieht deine Auslastung diese Woche aus? | What does your workload look like this week? | careful, semi-formal |
-| Gibt es irgendetwas, das dich gerade blockiert? | Anything blocking you right now? | supportive |
-| Wenn es passt, hätte ich danach eine kurze Rückfrage. | If it's a good time, I'd have a quick follow-up. | polite softener |
-| Wollen wir das nach der Besprechung kurz bündeln? | Shall we consolidate that briefly after the meeting? | collaborative suggestion |
-| Danke für den Zwischenstand. | Thanks for the interim update. | appreciative |
-| Ich will dich nicht vom Feierabend abhalten. | I don't want to keep you from heading home. | polite exit |
+| Phrase | Note |
+|---|---|
+| {stack}`Alles gut reingekommen heute? \| Did you get in okay today?` | neutral opener |
+| {stack}`Schon Kaffee gehabt oder erst auf der Suche? \| Had coffee yet or still looking?` | informal, light |
+| {stack}`Wie sieht deine Auslastung diese Woche aus? \| What does your workload look like this week?` | careful, semi-formal |
+| {stack}`Gibt es irgendetwas, das dich gerade blockiert? \| Anything blocking you right now?` | supportive |
+| {stack}`Wenn es passt, hätte ich danach eine kurze Rückfrage. \| If it's a good time, I'd have a quick follow-up.` | polite softener |
+| {stack}`Wollen wir das nach der Besprechung kurz bündeln? \| Shall we consolidate that briefly after the meeting?` | collaborative suggestion |
+| {stack}`Danke für den Zwischenstand. \| Thanks for the interim update.` | appreciative |
+| {stack}`Ich will dich nicht vom Feierabend abhalten. \| I don't want to keep you from heading home.` | polite exit |
 
 ## Short story
 

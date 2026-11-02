@@ -112,12 +112,12 @@ Use the following link to practice this section.
 
 German also creates negative meaning through suffixes and compounds. This is very useful for compact, precise expression.
 
-| Pattern | Core meaning | Examples |
-| --- | --- | --- |
-| **-los** | without, lacking | arbeitslos, sprachlos |
-| **-frei** | free from, without (often neutral/positive) | zuckerfrei, alkoholfrei |
-| **-leer** | empty of, lacking content/substance | sinnleer, inhaltsleer |
-| **Nicht- + Nomen** | explicit category negation | Nichtmitglied, Nichtzahlung |
+| Pattern | Examples |
+|---|---|
+| {stack}`-los \| without, lacking` | arbeitslos, sprachlos |
+| {stack}`-frei \| free from, without (often neutral/positive)` | zuckerfrei, alkoholfrei |
+| {stack}`-leer \| empty of, lacking content/substance` | sinnleer, inhaltsleer |
+| {stack}`Nicht- + Nomen \| explicit category negation` | Nichtmitglied, Nichtzahlung |
 
 **Examples:**
 

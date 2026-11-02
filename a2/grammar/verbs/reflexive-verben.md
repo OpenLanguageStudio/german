@@ -72,23 +72,23 @@ Short dative note: when there is a second object (often a body part), German can
 
 Here are the most important reflexive verbs at A2 level. Many of them require a specific preposition, note it carefully and learn each pairing as a fixed phrase.
 
-| Verb | Präposition | Bedeutung |
-|---|---|---|
-| sich anziehen | – | to get dressed |
-| sich ärgern | über + Akk. | to get annoyed (about) |
-| sich beeilen | – | to hurry |
-| sich erinnern | an + Akk. | to remember |
-| sich erholen | – | to relax, recover |
-| sich freuen | auf + Akk. | to look forward to |
-| sich freuen | über + Akk. | to be happy about |
-| sich fühlen | – | to feel |
-| sich interessieren | für + Akk. | to be interested in |
-| sich konzentrieren | auf + Akk. | to concentrate on |
-| sich kümmern | um + Akk. | to take care of |
-| sich setzen | – | to sit down |
-| sich treffen | – | to meet (up) |
-| sich unterhalten | mit + Dat. / über + Akk. | to chat, to have a conversation |
-| sich waschen | – | to wash (oneself) |
+| Verb | Präposition |
+|---|---|
+| {stack}`sich anziehen \| to get dressed` | – |
+| {stack}`sich ärgern \| to get annoyed (about)` | über + Akk. |
+| {stack}`sich beeilen \| to hurry` | – |
+| {stack}`sich erinnern \| to remember` | an + Akk. |
+| {stack}`sich erholen \| to relax, recover` | – |
+| {stack}`sich freuen \| to look forward to` | auf + Akk. |
+| {stack}`sich freuen \| to be happy about` | über + Akk. |
+| {stack}`sich fühlen \| to feel` | – |
+| {stack}`sich interessieren \| to be interested in` | für + Akk. |
+| {stack}`sich konzentrieren \| to concentrate on` | auf + Akk. |
+| {stack}`sich kümmern \| to take care of` | um + Akk. |
+| {stack}`sich setzen \| to sit down` | – |
+| {stack}`sich treffen \| to meet (up)` | – |
+| {stack}`sich unterhalten \| to chat, to have a conversation` | mit + Dat. / über + Akk. |
+| {stack}`sich waschen \| to wash (oneself)` | – |
 
 :::{div} ol-examples
 Sie interessiert {pronoun}`sich` für Musik.

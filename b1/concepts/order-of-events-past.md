@@ -15,12 +15,12 @@ Telling a past story clearly means marking what happened first and what came nex
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| vorher/danach | before/after (then) | adverbs |
-| bevor | before | subclause, verb at end |
-| nachdem | after | often with Plusquamperfekt |
-| vor/nach + Dativ | before/after | preposition + noun |
+| Phrase | Notes |
+|---|---|
+| {stack}`vorher/danach \| before/after (then)` | adverbs |
+| {stack}`bevor \| before` | subclause, verb at end |
+| {stack}`nachdem \| after` | often with Plusquamperfekt |
+| {stack}`vor/nach + Dativ \| before/after` | preposition + noun |
 
 ---
 

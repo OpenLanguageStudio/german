@@ -10,42 +10,42 @@ myst:
 
 ## Vocabulary list
 
-| German | English |
+| Word | Notes |
 |---|---|
-| auswandern | to emigrate |
-| einwandern | to immigrate |
-| Fernweh, das | wanderlust |
-| Gewohnheit, die | habit |
-| Heimat, die | home, homeland |
-| Heimweh, das | homesickness |
-| Identität, die | identity |
-| Integration, die | integration |
-| Kulturschock, der | culture shock |
-| Mehrsprachigkeit, die | multilingualism |
-| Migrationshintergrund, der | migration background |
-| Nachbarschaft, die | neighborhood |
-| prägen | to shape, to leave a mark |
-| sich einleben | to settle in, to feel at home |
-| sich zugehörig fühlen | to feel like you belong |
-| Tradition, die | tradition |
-| vertraut | familiar |
-| Vertrautheit, die | familiarity |
-| Verwurzelung, die | rootedness |
-| Wert, der | value |
-| Zugehörigkeit, die | sense of belonging |
-| Zugehörigkeitsgefühl, das | feeling of belonging |
+| {stack}`auswandern \| to emigrate` | |
+| {stack}`einwandern \| to immigrate` | |
+| {stack}`das Fernweh \| wanderlust` | |
+| {stack}`die Gewohnheit \| habit` | |
+| {stack}`die Heimat \| home, homeland` | |
+| {stack}`das Heimweh \| homesickness` | |
+| {stack}`die Identität \| identity` | |
+| {stack}`die Integration \| integration` | |
+| {stack}`der Kulturschock \| culture shock` | |
+| {stack}`die Mehrsprachigkeit \| multilingualism` | |
+| {stack}`der Migrationshintergrund \| migration background` | |
+| {stack}`die Nachbarschaft \| neighborhood` | |
+| {stack}`prägen \| to shape, to leave a mark` | |
+| {stack}`sich einleben \| to settle in, to feel at home` | |
+| {stack}`sich zugehörig fühlen \| to feel like you belong` | |
+| {stack}`die Tradition \| tradition` | |
+| {stack}`vertraut \| familiar` | |
+| {stack}`die Vertrautheit \| familiarity` | |
+| {stack}`die Verwurzelung \| rootedness` | |
+| {stack}`der Wert \| value` | |
+| {stack}`die Zugehörigkeit \| sense of belonging` | |
+| {stack}`das Zugehörigkeitsgefühl \| feeling of belonging` | |
 
 ---
 
 ## Useful phrases
 
-| German | English | Note |
-|---|---|---|
-| Heimat ist für mich da, wo ... | Home is, for me, where ... | frame your definition |
-| Zwischen zwei Welten zu stehen ist manchmal anstrengend. | Standing between two worlds is sometimes tiring. | idiomatic |
-| Anfangs hatte ich einen Kulturschock, inzwischen fühle ich mich angekommen. | At first I had culture shock; now I feel I’ve arrived. | progression |
-| Die Sprache öffnet Türen – ohne sie bleibt vieles fremd. | Language opens doors – without it, much remains foreign. | metaphor |
-| Ich suche die Balance zwischen Anpassung und Authentizität. | I’m looking for a balance between adaptation and authenticity. | abstract |
+| Phrase | Note |
+|---|---|
+| {stack}`Heimat ist für mich da, wo ... \| Home is, for me, where ...` | frame your definition |
+| {stack}`Zwischen zwei Welten zu stehen ist manchmal anstrengend. \| Standing between two worlds is sometimes tiring.` | idiomatic |
+| {stack}`Anfangs hatte ich einen Kulturschock, inzwischen fühle ich mich angekommen. \| At first I had culture shock; now I feel I’ve arrived.` | progression |
+| {stack}`Die Sprache öffnet Türen – ohne sie bleibt vieles fremd. \| Language opens doors – without it, much remains foreign.` | metaphor |
+| {stack}`Ich suche die Balance zwischen Anpassung und Authentizität. \| I’m looking for a balance between adaptation and authenticity.` | abstract |
 
 :::{note}
 Use registers consciously: “du” works in personal conversations; in formal contexts, prefer “Sie” and polite question forms.

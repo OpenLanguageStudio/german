@@ -12,13 +12,13 @@ myst:
 
 Temporal Nebensätze connect two events in time. Five key conjunctions cover the main relationships: *bevor* (before), *bis* (until), *nachdem* (after), *während* (while), and *seit/seitdem* (since). Together they carry stories, processes, and sequences in natural, connected German.
 
-| Conjunction | Meaning | Tense in the Nebensatz |
-|---|---|---|
-| bevor | before | same tense as the Hauptsatz |
-| bis | until | Präsens, even for future events |
-| nachdem | after | one step further into the past |
-| während | while | same tense as the Hauptsatz |
-| seit / seitdem | since | Präsens for ongoing situations |
+| Conjunction | Tense in the Nebensatz |
+|---|---|
+| {stack}`bevor \| before` | same tense as the Hauptsatz |
+| {stack}`bis \| until` | Präsens, even for future events |
+| {stack}`nachdem \| after` | one step further into the past |
+| {stack}`während \| while` | same tense as the Hauptsatz |
+| {stack}`seit / seitdem \| since` | Präsens for ongoing situations |
 
 ---
 

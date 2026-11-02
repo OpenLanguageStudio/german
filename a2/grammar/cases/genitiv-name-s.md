@@ -116,11 +116,11 @@ German and English both place a person name before the noun to show possession, 
 - In German, you normally write **-s without an apostrophe**: *Toms Buch*.
 - In German, an apostrophe appears only with names ending in s/ss/ß/z/x: *Klaus' Buch*, *Max' Handy*.
 
-| English | German |
-| --- | --- |
-| Tom's book | Toms Buch |
-| Anna's car | Annas Auto |
-| Max's phone | Max' Handy |
+| Phrase | Notes |
+|---|---|
+| {stack}`Toms Buch \| Tom's book` | |
+| {stack}`Annas Auto \| Anna's car` | |
+| {stack}`Max' Handy \| Max's phone` | |
 
 :::{div} ol-examples
 This is **Tom's** bike. -> Das ist **Toms** Fahrrad.

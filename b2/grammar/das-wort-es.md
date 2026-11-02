@@ -102,13 +102,13 @@ Use the following link to practice this section.
 
 Some high-frequency expressions require *es* as part of the idiomatic chunk. You should learn them as complete units, because replacing or removing *es* often sounds unnatural.
 
-| Expression | Typical meaning |
-| --- | --- |
-| {pronoun}`es` gibt | there is/there are |
-| {pronoun}`es` geht um | it is about |
-| {pronoun}`es` kommt auf ... an | it depends on ... |
-| {pronoun}`es` handelt sich um | it is about / it concerns |
-| {pronoun}`es` eilig haben | to be in a hurry |
+| Expression | Notes |
+|---|---|
+| {stack}`es gibt \| there is/there are` | |
+| {stack}`es geht um \| it is about` | |
+| {stack}`es kommt auf ... an \| it depends on ...` | |
+| {stack}`es handelt sich um \| it is about / it concerns` | |
+| {stack}`es eilig haben \| to be in a hurry` | |
 
 **Examples:**
 

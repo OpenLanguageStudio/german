@@ -10,40 +10,40 @@ Feeling at home in a new country grows out of everyday routines: a regular baker
 
 ## Vocabulary list
 
-| German | English |
+| Word | Notes |
 |---|---|
-| Alltag, der | everyday life |
-| Anmeldung, die | registration |
-| Behördengang, der | trip to a public office |
-| Ehrenamt, das | voluntary work |
-| Eingewöhnung, die | settling-in phase |
-| Feierabend, der | end of the workday |
-| Freundeskreis, der | circle of friends |
-| Gewohnheit, die | habit |
-| Hausordnung, die | house rules |
-| Meldebescheinigung, die | proof of registration |
-| Mülltrennung, die | waste separation |
-| Nachbarschaft, die | neighborhood |
-| Pünktlichkeit, die | punctuality |
-| Stammtisch, der | regulars’ table |
-| Vereinskultur, die | club culture |
-| Verbindlichkeit, die | commitment |
-| Verlässlichkeit, die | reliability |
-| Vertrautheit, die | familiarity |
-| Willkommenskultur, die | welcoming culture |
-| Zugehörigkeit, die | sense of belonging |
+| {stack}`der Alltag \| everyday life` | |
+| {stack}`die Anmeldung \| registration` | |
+| {stack}`der Behördengang \| trip to a public office` | |
+| {stack}`das Ehrenamt \| voluntary work` | |
+| {stack}`die Eingewöhnung \| settling-in phase` | |
+| {stack}`der Feierabend \| end of the workday` | |
+| {stack}`der Freundeskreis \| circle of friends` | |
+| {stack}`die Gewohnheit \| habit` | |
+| {stack}`die Hausordnung \| house rules` | |
+| {stack}`die Meldebescheinigung \| proof of registration` | |
+| {stack}`die Mülltrennung \| waste separation` | |
+| {stack}`die Nachbarschaft \| neighborhood` | |
+| {stack}`die Pünktlichkeit \| punctuality` | |
+| {stack}`der Stammtisch \| regulars’ table` | |
+| {stack}`die Vereinskultur \| club culture` | |
+| {stack}`die Verbindlichkeit \| commitment` | |
+| {stack}`die Verlässlichkeit \| reliability` | |
+| {stack}`die Vertrautheit \| familiarity` | |
+| {stack}`die Willkommenskultur \| welcoming culture` | |
+| {stack}`die Zugehörigkeit \| sense of belonging` | |
 
 ---
 
 ## Useful phrases
 
-| German | English | Note |
-|---|---|---|
-| Ich habe mir Routinen aufgebaut. | I’ve built routines. | everyday |
-| Über die Nachbarschaft habe ich Anschluss gefunden. | I found connections through the neighborhood. | social |
-| Ehrenamt hat mir geholfen, mich zu Hause zu fühlen. | Volunteering helped me feel at home. | civic |
-| Ich schätze die Verlässlichkeit – auch wenn sie manchmal streng wirkt. | I value reliability – even if it sometimes feels rigid. | nuance |
-| Man muss die Hausordnung nicht lieben, aber respektieren. | You don’t have to love the house rules, but you should respect them. | pragmatic |
+| Phrase | Note |
+|---|---|
+| {stack}`Ich habe mir Routinen aufgebaut. \| I’ve built routines.` | everyday |
+| {stack}`Über die Nachbarschaft habe ich Anschluss gefunden. \| I found connections through the neighborhood.` | social |
+| {stack}`Ehrenamt hat mir geholfen, mich zu Hause zu fühlen. \| Volunteering helped me feel at home.` | civic |
+| {stack}`Ich schätze die Verlässlichkeit – auch wenn sie manchmal streng wirkt. \| I value reliability – even if it sometimes feels rigid.` | nuance |
+| {stack}`Man muss die Hausordnung nicht lieben, aber respektieren. \| You don’t have to love the house rules, but you should respect them.` | pragmatic |
 
 ---
 

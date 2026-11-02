@@ -26,16 +26,16 @@ The word {conj}`dass` introduces a subordinate clause. This clause gives the con
 
 You often use it after these common verbs:
 
-| Verb | Meaning | Example start |
-| --- | --- | --- |
-| **sagen** | to say | Ich sage, dass ... |
-| **sehen** | to see | Ich sehe, dass ... |
-| **denken** | to think | Ich denke, dass ... |
-| **glauben** | to believe | Ich glaube, dass ... |
-| **finden** | to find/think | Ich finde, dass ... |
-| **hoffen** | to hope | Ich hoffe, dass ... |
-| **wissen** | to know | Ich weiß, dass ... |
-| **meinen** | to mean/think | Ich meine, dass ... |
+| Verb | Example start |
+|---|---|
+| {stack}`sagen \| to say` | Ich sage, dass ... |
+| {stack}`sehen \| to see` | Ich sehe, dass ... |
+| {stack}`denken \| to think` | Ich denke, dass ... |
+| {stack}`glauben \| to believe` | Ich glaube, dass ... |
+| {stack}`finden \| to find/think` | Ich finde, dass ... |
+| {stack}`hoffen \| to hope` | Ich hoffe, dass ... |
+| {stack}`wissen \| to know` | Ich weiß, dass ... |
+| {stack}`meinen \| to mean/think` | Ich meine, dass ... |
 
 **Examples:**
 
@@ -146,13 +146,13 @@ Use the following link to practice this section.
 
 You can also use *dass* after adjectives and expressions, not only after verbs.
 
-| Expression | Meaning |
-| --- | --- |
-| **Es ist wichtig, dass ...** | It is important that ... |
-| **Es ist gut, dass ...** | It is good that ... |
-| **Es ist schade, dass ...** | It is a pity that ... |
-| **Ich bin froh, dass ...** | I am glad that ... |
-| **Ich bin sicher, dass ...** | I am sure that ... |
+| Expression | Notes |
+|---|---|
+| {stack}`Es ist wichtig, dass ... \| It is important that ...` | |
+| {stack}`Es ist gut, dass ... \| It is good that ...` | |
+| {stack}`Es ist schade, dass ... \| It is a pity that ...` | |
+| {stack}`Ich bin froh, dass ... \| I am glad that ...` | |
+| {stack}`Ich bin sicher, dass ... \| I am sure that ...` | |
 
 **Examples:**
 

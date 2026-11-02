@@ -18,15 +18,15 @@ When you want to talk about *when* something happens, *how long* it lasts, or *h
 
 These seven prepositions always take dative when followed by a noun. They answer the question *Wann?* (when?) or *Seit wann?* (since when?).
 
-| Präposition | Bedeutung | Beispiel |
-|---|---|---|
-| **ab** | from (a point onwards) | ab dem nächsten Monat |
-| **an** | on (a day or time of day); an + dem → **am** | am Montag, am Abend |
-| **bis zu** | until, up to; bis zu + dem → **bis zum** | bis zum Freitag |
-| **in** | in (X time from now), within; in + dem → **im** | in einer Stunde, im Sommer |
-| **nach** | after | nach dem Essen |
-| **seit** | since / for (ongoing) | seit drei Jahren |
-| **vor** | before / X time ago | vor einer Woche |
+| Präposition | Beispiel |
+|---|---|
+| {stack}`ab \| from (a point onwards)` | ab dem nächsten Monat |
+| {stack}`an \| on (a day or time of day); an + dem → am` | am Montag, am Abend |
+| {stack}`bis zu \| until, up to; bis zu + dem → bis zum` | bis zum Freitag |
+| {stack}`in \| in (X time from now), within; in + dem → im` | in einer Stunde, im Sommer |
+| {stack}`nach \| after` | nach dem Essen |
+| {stack}`seit \| since / for (ongoing)` | seit drei Jahren |
+| {stack}`vor \| before / X time ago` | vor einer Woche |
 
 ---
 
@@ -67,11 +67,11 @@ These three prepositions describe whether something falls *inside*, *outside*, o
 
 Genitive articles: masculine/neuter → *des* (noun adds **-s** or **-es**), feminine/plural → *der*.
 
-| Präposition | Bedeutung | Beispiel |
-|---|---|---|
-| **außerhalb** | outside of (a time period) | außerhalb der Öffnungszeiten |
-| **innerhalb** | within (a time period) | innerhalb einer Woche |
-| **während** | during | während des Unterrichts |
+| Präposition | Beispiel |
+|---|---|
+| {stack}`außerhalb \| outside of (a time period)` | außerhalb der Öffnungszeiten |
+| {stack}`innerhalb \| within (a time period)` | innerhalb einer Woche |
+| {stack}`während \| during` | während des Unterrichts |
 
 ---
 

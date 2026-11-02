@@ -10,38 +10,38 @@ Growing up or living with several languages shapes accent, identity and the way 
 
 ## Vocabulary list
 
-| German | English |
+| Word | Notes |
 |---|---|
-| Akzent, der | accent |
-| Ausdrucksfähigkeit, die | expressive ability |
-| Aussprache, die | pronunciation |
-| Code-Switching, das | code-switching |
-| Dolmetschen, das | interpreting |
-| Erst-/Zweitsprache, die | first/second language |
-| Herkunftssprache, die | heritage language |
-| Identität, die | identity |
-| Mehrsprachigkeit, die | multilingualism |
-| Missverständnis, das | misunderstanding |
-| Sprachbiografie, die | language biography |
-| Sprachmischung, die | language mixing |
-| Sprachregister, das | register |
-| Sprachwandel, der | language change |
-| Übersetzung, die | translation |
-| Vielsprachigkeit, die | multilingualism (alt) |
-| Wortschatzlücke, die | lexical gap |
-| Zugehörigkeit, die | belonging |
+| {stack}`der Akzent \| accent` | |
+| {stack}`die Ausdrucksfähigkeit \| expressive ability` | |
+| {stack}`die Aussprache \| pronunciation` | |
+| {stack}`das Code-Switching \| code-switching` | |
+| {stack}`das Dolmetschen \| interpreting` | |
+| {stack}`die Erst-/Zweitsprache \| first/second language` | |
+| {stack}`die Herkunftssprache \| heritage language` | |
+| {stack}`die Identität \| identity` | |
+| {stack}`die Mehrsprachigkeit \| multilingualism` | |
+| {stack}`das Missverständnis \| misunderstanding` | |
+| {stack}`die Sprachbiografie \| language biography` | |
+| {stack}`die Sprachmischung \| language mixing` | |
+| {stack}`das Sprachregister \| register` | |
+| {stack}`der Sprachwandel \| language change` | |
+| {stack}`die Übersetzung \| translation` | |
+| {stack}`die Vielsprachigkeit \| multilingualism (alt)` | |
+| {stack}`die Wortschatzlücke \| lexical gap` | |
+| {stack}`die Zugehörigkeit \| belonging` | |
 
 ---
 
 ## Useful phrases
 
-| German | English | Note |
-|---|---|---|
-| Ich wechsle je nach Kontext die Sprache. | I switch languages depending on the context. | register |
-| In meiner Herkunftssprache fehlt mir manchmal der Fachwortschatz. | I sometimes lack the technical vocabulary in my heritage language. | nuance |
-| Code-Switching ist für mich ein natürlicher Teil der Kommunikation. | Code-switching is a natural part of communication for me. | statement |
-| Akzent ist keine Schwäche, sondern Teil meiner Biografie. | An accent isn’t a weakness but part of my biography. | stance |
-| Ich fühle mich in mehreren Sprachen zu Hause. | I feel at home in several languages. | identity |
+| Phrase | Note |
+|---|---|
+| {stack}`Ich wechsle je nach Kontext die Sprache. \| I switch languages depending on the context.` | register |
+| {stack}`In meiner Herkunftssprache fehlt mir manchmal der Fachwortschatz. \| I sometimes lack the technical vocabulary in my heritage language.` | nuance |
+| {stack}`Code-Switching ist für mich ein natürlicher Teil der Kommunikation. \| Code-switching is a natural part of communication for me.` | statement |
+| {stack}`Akzent ist keine Schwäche, sondern Teil meiner Biografie. \| An accent isn’t a weakness but part of my biography.` | stance |
+| {stack}`Ich fühle mich in mehreren Sprachen zu Hause. \| I feel at home in several languages.` | identity |
 
 ---
 

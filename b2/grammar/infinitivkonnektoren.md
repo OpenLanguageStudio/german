@@ -128,10 +128,10 @@ Use the following link to practice this section.
 
 Both **anstatt ... zu** and **statt ... zu** introduce an alternative: one path is selected, another is rejected. In many contexts, they are interchangeable.
 
-| Connector | Typical style impression | Core meaning |
-| --- | --- | --- |
-| **anstatt ... zu** | slightly more formal/explicit | instead of doing ... |
-| **statt ... zu** | shorter, very common in speech | instead of doing ... |
+| Connector | Typical style impression |
+|---|---|
+| {stack}`anstatt ... zu \| instead of doing ...` | slightly more formal/explicit |
+| {stack}`statt ... zu \| instead of doing ...` | shorter, very common in speech |
 
 **Examples:**
 

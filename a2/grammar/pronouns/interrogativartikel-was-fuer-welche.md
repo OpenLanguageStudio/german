@@ -104,12 +104,12 @@ The choice between the two question words depends on one thing: **do you have a 
 - **No specific set → was für ein** (open question about type)
 - **Known set in view → welch-** (choosing from specific options)
 
-| Situation | Question | Translation |
-|---|---|---|
-| You see someone with a car you don't recognise | Was für ein Auto ist das? | What kind of car is that? |
-| You're at a car rental, choosing between three models | Welches Auto nimmst du? | Which car are you taking? |
-| You're curious about someone's taste | Was für Musik hörst du? | What kind of music do you listen to? |
-| You're holding up two concert tickets | Welches Konzert möchtest du? | Which concert would you like? |
+| Situation | Question |
+|---|---|
+| You see someone with a car you don't recognise | {stack}`Was für ein Auto ist das? \| What kind of car is that?` |
+| You're at a car rental, choosing between three models | {stack}`Welches Auto nimmst du? \| Which car are you taking?` |
+| You're curious about someone's taste | {stack}`Was für Musik hörst du? \| What kind of music do you listen to?` |
+| You're holding up two concert tickets | {stack}`Welches Konzert möchtest du? \| Which concert would you like?` |
 
 :::{note}
 In practice, the two words can sometimes overlap. Germans may occasionally use *welch-* where *was für ein* would be more natural, and vice versa. At A2 level, focus on the core contrast: **type/kind = was für ein**, **specific choice = welch-**.

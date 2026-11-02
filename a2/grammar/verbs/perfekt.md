@@ -90,18 +90,18 @@ verbs also take *sein*: *bleiben*, *sein* itself, and *passieren*.
 
 | Common sein-verbs | Partizip II |
 |---|---|
-| gehen (to go) | gegangen |
-| fahren (to drive / travel) | gefahren |
-| kommen (to come) | gekommen |
-| fliegen (to fly) | geflogen |
-| laufen (to run / walk) | gelaufen |
-| reisen (to travel) | gereist |
-| aufstehen (to get up) | aufgestanden |
-| aufwachen (to wake up) | aufgewacht |
-| einschlafen (to fall asleep) | eingeschlafen |
-| werden (to become) | geworden |
-| bleiben (to stay) | geblieben |
-| passieren (to happen) | passiert |
+| {stack}`gehen \| to go` | gegangen |
+| {stack}`fahren \| to drive / travel` | gefahren |
+| {stack}`kommen \| to come` | gekommen |
+| {stack}`fliegen \| to fly` | geflogen |
+| {stack}`laufen \| to run / walk` | gelaufen |
+| {stack}`reisen \| to travel` | gereist |
+| {stack}`aufstehen \| to get up` | aufgestanden |
+| {stack}`aufwachen \| to wake up` | aufgewacht |
+| {stack}`einschlafen \| to fall asleep` | eingeschlafen |
+| {stack}`werden \| to become` | geworden |
+| {stack}`bleiben \| to stay` | geblieben |
+| {stack}`passieren \| to happen` | passiert |
 
 ### Examples
 
@@ -147,19 +147,19 @@ become familiar with practice.
 
 | Infinitiv | Partizip II | Hilfsverb |
 |---|---|---|
-| schreiben (to write) | geschrieben | haben |
-| lesen (to read) | gelesen | haben |
-| trinken (to drink) | getrunken | haben |
-| essen (to eat) | gegessen | haben |
-| singen (to sing) | gesungen | haben |
-| sehen (to see / watch) | gesehen | haben |
-| schlafen (to sleep) | geschlafen | haben |
-| sprechen (to speak) | gesprochen | haben |
-| laufen (to run / walk) | gelaufen | sein |
-| kommen (to come) | gekommen | sein |
-| fahren (to drive / travel) | gefahren | sein |
-| fliegen (to fly) | geflogen | sein |
-| gehen (to go) | gegangen | sein |
+| {stack}`schreiben \| to write` | geschrieben | haben |
+| {stack}`lesen \| to read` | gelesen | haben |
+| {stack}`trinken \| to drink` | getrunken | haben |
+| {stack}`essen \| to eat` | gegessen | haben |
+| {stack}`singen \| to sing` | gesungen | haben |
+| {stack}`sehen \| to see / watch` | gesehen | haben |
+| {stack}`schlafen \| to sleep` | geschlafen | haben |
+| {stack}`sprechen \| to speak` | gesprochen | haben |
+| {stack}`laufen \| to run / walk` | gelaufen | sein |
+| {stack}`kommen \| to come` | gekommen | sein |
+| {stack}`fahren \| to drive / travel` | gefahren | sein |
+| {stack}`fliegen \| to fly` | geflogen | sein |
+| {stack}`gehen \| to go` | gegangen | sein |
 
 ### Verbs with no ge- prefix
 
@@ -167,11 +167,11 @@ Verbs that start with an **inseparable prefix** (such as *be-*, *ver-*, *er-*, *
 
 | Infinitiv | Partizip II | Note |
 |---|---|---|
-| verstehen (to understand) | verstanden | inseparable *ver-* |
-| bekommen (to receive) | bekommen | inseparable *be-* |
-| vergessen (to forget) | vergessen | inseparable *ver-* |
-| erzählen (to tell / narrate) | erzählt | inseparable *er-* |
-| bezahlen (to pay) | bezahlt | inseparable *be-* |
+| {stack}`verstehen \| to understand` | verstanden | inseparable *ver-* |
+| {stack}`bekommen \| to receive` | bekommen | inseparable *be-* |
+| {stack}`vergessen \| to forget` | vergessen | inseparable *ver-* |
+| {stack}`erzählen \| to tell / narrate` | erzählt | inseparable *er-* |
+| {stack}`bezahlen \| to pay` | bezahlt | inseparable *be-* |
 
 ### Examples
 

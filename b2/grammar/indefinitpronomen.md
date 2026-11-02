@@ -24,14 +24,14 @@ At B2, the job goes well beyond simple words like *jemand* or *etwas*. The choic
 
 These forms all refer to people, but they do not mean the same thing. At B2, the key is choosing by function: general statement (*man*), unspecified existence (*jemand*, *einer*, *irgendwer*), or negation (*niemand*, *keiner*).
 
-| Form | Core meaning | Typical use |
-| --- | --- | --- |
-| {pronoun}`man` | people in general | rules, habits, generic statements |
-| {pronoun}`jemand` | someone | neutral, standard register |
-| {pronoun}`einer` | one person, someone | often spoken, contextual |
-| {pronoun}`irgendwer` | somebody or other | colloquial, vague |
-| {pronoun}`niemand` | no one | absolute person negation |
-| {pronoun}`keiner` | no one / none of them | often contrastive or set-based |
+| Form | Typical use |
+|---|---|
+| {stack}`man \| people in general` | rules, habits, generic statements |
+| {stack}`jemand \| someone` | neutral, standard register |
+| {stack}`einer \| one person, someone` | often spoken, contextual |
+| {stack}`irgendwer \| somebody or other` | colloquial, vague |
+| {stack}`niemand \| no one` | absolute person negation |
+| {stack}`keiner \| no one / none of them` | often contrastive or set-based |
 
 **Examples:**
 
@@ -69,13 +69,13 @@ Use the following link to practice this section.
 
 These forms are adverbial, but they function like indefinite location references. You use them when a place is unknown, irrelevant, or intentionally unspecific.
 
-| Form | Meaning | Focus |
-| --- | --- | --- |
-| {adv}`irgendwo` | somewhere | location |
-| {adv}`irgendwoher` | from somewhere | origin |
-| {adv}`irgendwohin` | to somewhere | direction |
-| {adv}`nirgendwo` | nowhere | negated location |
-| {adv}`nirgends` | nowhere | stylistic variant of *nirgendwo* |
+| Form | Focus |
+|---|---|
+| {stack}`irgendwo \| somewhere` | location |
+| {stack}`irgendwoher \| from somewhere` | origin |
+| {stack}`irgendwohin \| to somewhere` | direction |
+| {stack}`nirgendwo \| nowhere` | negated location |
+| {stack}`nirgends \| nowhere` | stylistic variant of *nirgendwo* |
 
 **Examples:**
 
@@ -110,11 +110,11 @@ Use the following link to practice this section.
 
 These time words help you control how specific or absolute your statement is. At B2, the important distinction is between open time (*irgendwann*) and strict negation (*nie*, *niemals*).
 
-| Form | Meaning | Nuance |
-| --- | --- | --- |
-| {adv}`irgendwann` | sometime | unspecified point in time |
-| {adv}`nie` | never | neutral strong negation |
-| {adv}`niemals` | never, absolutely never | often more emphatic |
+| Form | Nuance |
+|---|---|
+| {stack}`irgendwann \| sometime` | unspecified point in time |
+| {stack}`nie \| never` | neutral strong negation |
+| {stack}`niemals \| never, absolutely never` | often more emphatic |
 
 **Examples:**
 
@@ -149,12 +149,12 @@ Use the following link to practice this section.
 
 For non-person reference, these forms let you mark existence, vagueness, absence, and set-based negation.
 
-| Form | Meaning | Typical context |
-| --- | --- | --- |
-| {pronoun}`etwas` | something | neutral non-specific thing |
-| {pronoun}`irgendetwas` | something or other | extra vagueness/emphasis |
-| {pronoun}`nichts` | nothing | absolute negation for things/concepts |
-| {pronoun}`keins` | none (of a neuter noun/set) | contrast to expected item |
+| Form | Typical context |
+|---|---|
+| {stack}`etwas \| something` | neutral non-specific thing |
+| {stack}`irgendetwas \| something or other` | extra vagueness/emphasis |
+| {stack}`nichts \| nothing` | absolute negation for things/concepts |
+| {stack}`keins \| none (of a neuter noun/set)` | contrast to expected item |
 
 **Examples:**
 

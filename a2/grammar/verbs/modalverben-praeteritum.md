@@ -195,14 +195,14 @@ Anyone who has used a phrase like *Könntest du mir helfen?* (Could you help me?
 
 The key difference: Konjunktiv II **adds the umlaut back**; Präteritum **has no umlaut**.
 
-| Form | Type | Example | Meaning |
-|---|---|---|---|
-| **konnte** | Präteritum | *Ich konnte nicht kommen.* | I wasn't able to come. (past fact) |
-| **könnte** | Konjunktiv II | *Könntest du mir helfen?* | Could you help me? (polite request) |
-| **musste** | Präteritum | *Er musste arbeiten.* | He had to work. (past fact) |
-| **müsste** | Konjunktiv II | *Ich müsste eigentlich lernen.* | I really should study. (not a past fact) |
-| **durfte** | Präteritum | *Sie durfte nicht rauchen.* | She wasn't allowed to smoke. (past fact) |
-| **dürfte** | Konjunktiv II | *Dürfte ich kurz fragen?* | Might I ask quickly? (formal permission) |
+| Form | Type | Example |
+|---|---|---|
+| **konnte** | Präteritum | {stack}`Ich konnte nicht kommen. \| I wasn't able to come. (past fact)` |
+| **könnte** | Konjunktiv II | {stack}`Könntest du mir helfen? \| Could you help me? (polite request)` |
+| **musste** | Präteritum | {stack}`Er musste arbeiten. \| He had to work. (past fact)` |
+| **müsste** | Konjunktiv II | {stack}`Ich müsste eigentlich lernen. \| I really should study. (not a past fact)` |
+| **durfte** | Präteritum | {stack}`Sie durfte nicht rauchen. \| She wasn't allowed to smoke. (past fact)` |
+| **dürfte** | Konjunktiv II | {stack}`Dürfte ich kurz fragen? \| Might I ask quickly? (formal permission)` |
 
 :::{warning}
 **wollen** and **sollen** have the same form in both Präteritum and Konjunktiv II: *wollte* and *sollte*. Only the context of the sentence tells you which one is meant.

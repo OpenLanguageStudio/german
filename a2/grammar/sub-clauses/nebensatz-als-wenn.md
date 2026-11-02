@@ -86,14 +86,14 @@ In many A2 contexts, {conj}`wenn` can mean both "when" and "if." The sentence co
 
 Use this table as a quick decision guide.
 
-| Context | Use | Typical meaning in English | Example |
-|---|---|---|---|
-| One specific event in the past | **als** | when | {conj}`Als` ich 2019 in Berlin {verb}`war`, besuchte ich den Fernsehturm. |
-| One finished period in the past | **als** | when | {conj}`Als` ich jung {verb}`war`, wohnte ich auf dem Land. |
-| Repeated past situations | **wenn** | whenever / when | {conj}`Wenn` ich in Berlin {verb}`war`, besuchte ich immer den Fernsehturm. |
-| Present habits | **wenn** | when / whenever | {conj}`Wenn` ich müde bin, trinke ich Tee. |
-| Future time | **wenn** | when | {conj}`Wenn` ich morgen Zeit {verb}`habe`, rufe ich dich an. |
-| Conditions | **wenn** | if | {conj}`Wenn` du willst, gehen wir spazieren. |
+| Context | Use | Example |
+|---|---|---|
+| One specific event in the past | {stack}`als \| when` | {conj}`Als` ich 2019 in Berlin {verb}`war`, besuchte ich den Fernsehturm. |
+| One finished period in the past | {stack}`als \| when` | {conj}`Als` ich jung {verb}`war`, wohnte ich auf dem Land. |
+| Repeated past situations | {stack}`wenn \| whenever / when` | {conj}`Wenn` ich in Berlin {verb}`war`, besuchte ich immer den Fernsehturm. |
+| Present habits | {stack}`wenn \| when / whenever` | {conj}`Wenn` ich müde bin, trinke ich Tee. |
+| Future time | {stack}`wenn \| when` | {conj}`Wenn` ich morgen Zeit {verb}`habe`, rufe ich dich an. |
+| Conditions | {stack}`wenn \| if` | {conj}`Wenn` du willst, gehen wir spazieren. |
 
 Minimal pairs help you see the contrast in the same situation:
 
