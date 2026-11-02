@@ -10,29 +10,38 @@ myst:
 ---
 # Describing where things are
 
-*Wo ist ...?* is answerable about almost anything: keys, people, shops. The answers run on ready-made location chunks such as *auf dem Tisch* and *im Kühlschrank*, together with the direction words *links*, *rechts*, *oben*, and *unten*.
+*Wo ist ...?* can be asked about almost anything: keys, people, shops. The answers run on ready-made location chunks such as *auf dem Tisch* and *im Kühlschrank*, plus *links*, *rechts*, *oben* and *unten*.
+
+A chunk is a short group of words learned as one piece. Each chunk here pairs a {term}`preposition` with a form of the article in the {term}`dative <dative case>`, which is why *der Tisch* becomes *auf dem Tisch*. The full grammar has its own articles, and at A1 the chunk is enough to answer the question. The {term}`verb` is *sein* throughout, and *in dem* shortens to *im*.
 
 ## When to use it
 
-- Finding and pointing out objects at home
+- Finding and pointing out {term}`objects <object>` at home
 - Saying where a person is right now
 - Locating shops and places in the neighbourhood
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Wo ist ...? | Where is ...? | |
-| auf dem Tisch | on the table | chunk |
-| in der Küche / im Büro | in the kitchen / office | im = in dem |
-| links / rechts | on the left / right | |
-| neben dem Bahnhof | next to the station | chunk |
-| in der Nähe | nearby | |
-| nicht weit | not far | |
+### Things and rooms
 
-## Things and their places
+| Phrase | Notes |
+|---|---|
+| {stack}`Wo ist ...? \| Where is ...?` | |
+| {stack}`auf dem Tisch \| on the table` | chunk |
+| {stack}`in der Küche / im Büro \| in the kitchen / office` | im = in dem |
 
-Learn these as whole chunks; each pairs a preposition with the dative article. The full grammar behind them arrives later; for now the chunk does the work.
+### Around the neighbourhood
+
+| Phrase | Notes |
+|---|---|
+| {stack}`links / rechts \| on the left / right` | |
+| {stack}`neben dem Bahnhof \| next to the station` | chunk |
+| {stack}`in der Nähe \| nearby` | |
+| {stack}`nicht weit \| not far` | |
+
+## People, things and their places
+
+These work as whole chunks, each with a preposition and the dative article.
 
 **Examples:**
 
@@ -46,8 +55,6 @@ Die Milch ist im Kühlschrank.
 Die Katze ist unter dem Tisch.
 : The cat is under the table.
 :::
-
-## People and places
 
 The same pattern says where someone is: *im Büro, in der Küche, im Supermarkt*.
 

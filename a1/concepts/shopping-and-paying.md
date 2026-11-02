@@ -10,7 +10,9 @@ myst:
 ---
 # Shopping and paying
 
-A shop or market stall has a start-to-finish rhythm: what things cost, how much of something is wanted, one item chosen over another, and payment. Prices are just the numbers from the previous concept, dressed in euros.
+Shopping and paying in a German shop or market follows a fixed rhythm: what things cost, how much is wanted, which item, and payment.
+
+The price question has two forms: *Was kostet ...?* for one thing and *Was kosten ...?* for several. Quantities come straight before the {term}`noun` with no word for *of*, as in *ein Kilo Tomaten*. Choosing brings in the {term}`accusative <accusative case>`, the form for the thing someone takes: *Ich nehme diesen Käse*. Paying ends the visit, with *bar* for cash and *mit Karte* for a card.
 
 ## When to use it
 
@@ -20,19 +22,26 @@ A shop or market stall has a start-to-finish rhythm: what things cost, how much 
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Was kostet das? | How much is that? | |
-| Das macht ... Euro. | That comes to ... euros. | the total at the till |
-| Ich möchte ..., bitte. | I'd like ..., please. | ordering |
-| Ich nehme ... | I'll take ... | deciding |
-| Sonst noch etwas? | Anything else? | you will be asked this |
-| Das ist alles. | That's all. | the answer |
-| Kann ich mit Karte zahlen? | Can I pay by card? | |
+### Prices and choosing
 
-## Asking prices and choosing
+| Phrase | Notes |
+|---|---|
+| {stack}`Was kostet das? \| How much is that?` | |
+| {stack}`Ich möchte ..., bitte. \| I'd like ..., please.` | ordering |
+| {stack}`Ich nehme ... \| I'll take ...` | deciding |
 
-*Was kostet ...?* asks the price of one thing, *Was kosten ...?* of several. When choosing, the shop assistant asks with *welchen* and you answer with *diesen*: the accusative forms you know from the article system, live in the wild.
+### At the till
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Das macht ... Euro. \| That comes to ... euros.` | the total at the till |
+| {stack}`Sonst noch etwas? \| Anything else?` | you will be asked this |
+| {stack}`Das ist alles. \| That's all.` | the answer |
+| {stack}`Kann ich mit Karte zahlen? \| Can I pay by card?` | |
+
+## Prices, choices and quantities
+
+*Was kostet ...?* asks the price of one thing, *Was kosten ...?* of several. When choosing, the shop assistant asks with *welchen* and the answer uses *diesen*. Both are accusative forms.
 
 **Examples:**
 
@@ -46,8 +55,6 @@ Welchen Käse möchten Sie?
 Ich nehme {akk}`diesen Käse`.
 : I'll take this cheese.
 :::
-
-## Quantities
 
 Quantities come before the noun, with no word for "of": *ein Kilo Tomaten*, *eine Flasche Wasser*, *zweihundert Gramm Käse*.
 
@@ -170,9 +177,9 @@ Danke, auf Wiedersehen!
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Was kostet die Äpfel?* → Was **kosten** die Äpfel? (plural subject, plural verb)
+- *\*Was kostet die Äpfel?* → Was **kosten** die Äpfel? ({term}`plural` {term}`subject`, plural {term}`verb`)
 - *\*ein Kilo von Tomaten* → ein Kilo **Tomaten**. (no "of" in quantities)
-- *\*Ich zahle mit bar.* → Ich zahle **bar**. (bar takes no preposition)
+- *\*Ich zahle mit bar.* → Ich zahle **bar**. (bar takes no {term}`preposition`)
 :::
 
 ## Related articles

@@ -10,7 +10,9 @@ myst:
 ---
 # Making appointments
 
-Arranging a meeting is where the time words from *Telling the time and days* finally get their main job. A day and a time go on the table, the other person accepts or declines, and a short set phrase closes the deal.
+Making appointments in German follows a short pattern. A day and a time go on the table, the other person accepts or declines, and a set phrase closes it.
+
+*Hast du ... Zeit?* opens with a day, and *Wollen wir ...?* opens with a plan. An office gets *Ich möchte einen Termin machen*. *Passt dir ...?* then checks a slot, and the person asked stands in the {term}`dative <dative case>`, so the word is *dir* or *Ihnen*. A refusal adds *leider* and usually another time.
 
 ## When to use it
 
@@ -20,15 +22,22 @@ Arranging a meeting is where the time words from *Telling the time and days* fin
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Hast du am Freitag Zeit? | Do you have time on Friday? | informal |
-| Haben Sie morgen Zeit? | Do you have time tomorrow? | formal |
-| Passt dir / Ihnen ...? | Does ... suit you? | |
-| Das passt gut. | That works well. | accepting |
-| Das passt leider nicht. | Unfortunately that doesn't work. | declining |
-| Geht es um zehn Uhr? | Does ten o'clock work? | |
-| Ich möchte einen Termin machen. | I would like to make an appointment. | |
+### Proposing a time
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Hast du am Freitag Zeit? \| Do you have time on Friday?` | informal |
+| {stack}`Haben Sie morgen Zeit? \| Do you have time tomorrow?` | formal |
+| {stack}`Ich möchte einen Termin machen. \| I would like to make an appointment.` | |
+
+### Checking and answering
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Passt dir / Ihnen ...? \| Does ... suit you?` | |
+| {stack}`Das passt gut. \| That works well.` | accepting |
+| {stack}`Das passt leider nicht. \| Unfortunately that doesn't work.` | declining |
+| {stack}`Geht es um zehn Uhr? \| Does ten o'clock work?` | |
 
 ## Proposing a time
 
@@ -47,7 +56,7 @@ Können Sie am Montag kommen?
 : Can you come on Monday?
 :::
 
-## Checking and answering
+## Checking, answering and confirming
 
 *Passt dir ...?* and *Geht es um ...?* check a specific slot. Accept with *Das passt gut*, decline with *leider* and a reason, then offer an alternative.
 
@@ -63,8 +72,6 @@ Ja, das passt gut.
 Ich kann erst am Abend.
 : I can only make it in the evening.
 :::
-
-## Confirming
 
 Repeat the slot, agree on a place, and close with a *bis* phrase: the appointment is made.
 
@@ -166,7 +173,6 @@ Können Sie am Montag kommen?
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Hast du Zeit am Freitag?* is understandable, but the natural rhythm is *Hast du **am Freitag** Zeit?*
 - *\*Passt du Montag?* → Passt **dir** Montag? (the person is dative)
 - Declining with a bare *Nein*: add **leider** and offer another slot.
 :::

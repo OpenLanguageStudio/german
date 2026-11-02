@@ -10,7 +10,9 @@ myst:
 ---
 # Describing your home
 
-A guided tour of a home in words needs surprisingly little new grammar: how many rooms there are, what the place does and does not have, and what each room is like. Everything runs on three patterns already covered: *haben*, *es gibt*, and *sein* plus an adjective.
+Describing your home in German takes little new grammar. It covers how many rooms there are, what the place has and lacks, and what each room is like.
+
+Three patterns carry the whole description. *Haben* counts the rooms, as in *Meine Wohnung hat drei Zimmer*. *Es gibt* (there is) announces the extras, and a form of *kein* says what is missing. *Sein* plus an {term}`adjective` describes each room: *Das Wohnzimmer ist hell*. Furniture is placed with the same location chunks used for keys and cups.
 
 ## When to use it
 
@@ -20,14 +22,21 @@ A guided tour of a home in words needs surprisingly little new grammar: how many
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Meine Wohnung hat ... Zimmer. | My flat has ... rooms. | |
-| Es gibt auch einen Balkon. | There is also a balcony. | |
-| Wir haben keinen Garten. | We don't have a garden. | |
-| Das Wohnzimmer ist hell. | The living room is bright. | sein + adjective |
-| im dritten Stock | on the third floor | chunk |
-| die Miete | the rent | |
+### Rooms and extras
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Meine Wohnung hat ... Zimmer. \| My flat has ... rooms.` | |
+| {stack}`Es gibt auch einen Balkon. \| There is also a balcony.` | |
+| {stack}`Wir haben keinen Garten. \| We don't have a garden.` | |
+
+### Describing the flat
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Das Wohnzimmer ist hell. \| The living room is bright.` | sein + adjective |
+| {stack}`im dritten Stock \| on the third floor` | chunk |
+| {stack}`die Miete \| the rent` | |
 
 ## The rooms
 
@@ -46,9 +55,9 @@ Wir haben {akk}`keinen Garten`.
 : We don't have a garden.
 :::
 
-## What the rooms are like
+## Rooms, floors and rent
 
-Describe each room with *sein* and a plain adjective: *hell, klein, groß, neu, teuer*. Where the furniture stands, the location chunks from the last pages carry over.
+Describe each room with *sein* and a plain adjective: *hell, klein, groß, neu, teuer*. Where the furniture stands, the usual location chunks carry over.
 
 **Examples:**
 
@@ -63,9 +72,7 @@ Der Tisch steht am Fenster.
 : The table stands by the window.
 :::
 
-## Talking about the building
-
-Floors use the chunk *im ... Stock*; the rent is *die Miete*; and your overall verdict fits into the *gefallen* chunk you know.
+Floors use the chunk *im ... Stock*, the rent is *die Miete*, and the overall verdict uses *gefallen*.
 
 **Examples:**
 
@@ -165,7 +172,7 @@ Die Wohnung gefällt mir sehr.
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Es gibt ein Balkon.* → Es gibt **einen** Balkon. (es gibt takes the accusative)
+- *\*Es gibt ein Balkon.* → Es gibt **einen** Balkon. (es gibt takes the {term}`accusative <accusative case>`)
 - *\*Wir haben nicht einen Garten.* → Wir haben **keinen** Garten. (kein, not nicht ein)
 - *\*Die Wohnung ist auf dem dritten Stock.* → **im** dritten Stock. (fixed chunk)
 :::

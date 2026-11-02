@@ -10,7 +10,9 @@ myst:
 ---
 # Asking for help and clarification
 
-This final concept is the safety net under all the others: what to say when the German coming back is too fast, too quiet, or simply unknown. These chunks slow a speaker down, ask for a repeat, and check what a word means, which keeps a conversation alive instead of letting it stall.
+Asking for help and clarification is the safety net under every German conversation. It covers what to say when the reply is too fast, too quiet, or simply unknown.
+
+A few short chunks do the job: some slow a speaker down, and others check what a word means. Saying *Ich verstehe nicht* early keeps a conversation going, and Germans respond well to a clear signal plus a request. *Wie bitte?* is the quick polite form, and *Was bedeutet ...?* asks for a meaning. Near the end, *Habe ich das richtig verstanden?* checks that the message arrived.
 
 ## When to use it
 
@@ -20,19 +22,26 @@ This final concept is the safety net under all the others: what to say when the 
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Ich verstehe nicht. | I don't understand. | say it early, not late |
-| Können Sie das wiederholen? | Can you repeat that? | |
-| Sprechen Sie bitte langsamer. | Please speak more slowly. | |
-| Wie bitte? | Pardon? | quick and polite |
-| Was bedeutet ...? | What does ... mean? | |
-| Wie sagt man ... auf Deutsch? | How do you say ... in German? | |
-| Ich spreche nur ein bisschen Deutsch. | I only speak a little German. | |
+### Slowing things down
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Ich verstehe nicht. \| I don't understand.` | say it early, not late |
+| {stack}`Können Sie das wiederholen? \| Can you repeat that?` | |
+| {stack}`Sprechen Sie bitte langsamer. \| Please speak more slowly.` | |
+| {stack}`Wie bitte? \| Pardon?` | quick and polite |
+| {stack}`Ich spreche nur ein bisschen Deutsch. \| I only speak a little German.` | |
+
+### Asking about words
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Was bedeutet ...? \| What does ... mean?` | |
+| {stack}`Wie sagt man ... auf Deutsch? \| How do you say ... in German?` | |
 
 ## Slowing things down
 
-Saying you do not understand is not failure; it keeps the conversation going. Germans respond well to a clear signal plus a request.
+A clear signal plus a request keeps the conversation going.
 
 **Examples:**
 
@@ -47,7 +56,7 @@ Ich spreche nur ein bisschen Deutsch.
 : I only speak a little German.
 :::
 
-## Asking about words
+## Asking about words and confirming
 
 *Was bedeutet ...?* asks for a meaning; *Wie sagt man ...?* asks for the German word. Together they turn every conversation into a small lesson.
 
@@ -64,9 +73,7 @@ Können Sie das erklären?
 : Can you explain that?
 :::
 
-## Confirming you got it
-
-Close the loop: check your understanding, celebrate the click, and say thanks.
+The last step checks the understanding and says thanks.
 
 **Examples:**
 

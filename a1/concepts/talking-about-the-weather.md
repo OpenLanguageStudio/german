@@ -10,7 +10,9 @@ myst:
 ---
 # Talking about the weather
 
-Weather talk opens a hundred German conversations a day and costs almost nothing to learn. It takes a handful of descriptions, a simple forecast, and one small word doing most of the work: *es*.
+Talking about the weather opens a hundred German conversations a day and takes a handful of descriptions, a simple forecast, and one small word: *es*.
+
+German weather sentences have no real {term}`subject`, so *es* stands in: *Es regnet*, *Es ist kalt*. Degrees take the {term}`plural` *sind*: *Es sind dreißig Grad*. The forecast needs no new grammar, because the {term}`present tense` covers the future once *morgen* is in the sentence. The four seasons all take *im*: *im Sommer*, *im Winter*.
 
 ## When to use it
 
@@ -20,14 +22,21 @@ Weather talk opens a hundred German conversations a day and costs almost nothing
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Wie ist das Wetter? | What is the weather like? | |
-| Es regnet. / Es schneit. | It is raining. / snowing. | weather verbs |
-| Es ist heiß / kalt / windig. | It is hot / cold / windy. | es + sein |
-| Die Sonne scheint. | The sun is shining. | |
-| Es sind dreißig Grad. | It is thirty degrees. | |
-| im Sommer / im Winter | in summer / in winter | seasons take im |
+### Asking and describing
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Wie ist das Wetter? \| What is the weather like?` | |
+| {stack}`Es regnet. / Es schneit. \| It is raining. / snowing.` | weather verbs |
+| {stack}`Es ist heiß / kalt / windig. \| It is hot / cold / windy.` | es + sein |
+| {stack}`Die Sonne scheint. \| The sun is shining.` | |
+
+### Degrees and seasons
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Es sind dreißig Grad. \| It is thirty degrees.` | |
+| {stack}`im Sommer / im Winter \| in summer / in winter` | seasons take im |
 
 ## The weather runs on *es*
 
@@ -46,9 +55,9 @@ Es sind nur fünf Grad.
 : It is only five degrees.
 :::
 
-## Today and tomorrow
+## Forecasts and seasons
 
-The present tense covers the forecast too; *morgen* alone pushes it into the future. That makes weather talk grammatically free.
+The present tense covers the forecast too; *morgen* alone pushes it into the future. No new {term}`verb` forms are needed.
 
 **Examples:**
 
@@ -62,8 +71,6 @@ Morgen scheint die Sonne.
 Nimm eine Jacke mit!
 : Take a jacket with you!
 :::
-
-## The seasons
 
 *Der Frühling, der Sommer, der Herbst, der Winter*; each takes *im*: *im Sommer ist es warm*.
 
