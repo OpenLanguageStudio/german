@@ -163,6 +163,4 @@ Wir haben keine Fragen.
 
 ## Related articles
 
-- [A1 > Grammar > Regular Verbs in the Present](/a1/grammar/verbs/regelmassige-verben.md)
-- [A1 > Grammar > Irregular Verbs in the Present](/a1/grammar/verbs/unregelmaessige-verben.md)
 - [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)

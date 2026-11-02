@@ -1,6 +1,6 @@
-# Writing Examples
+# Writing
 
-Real German correspondence, one everyday situation at a time: emails, short messages, and postcards, in both casual and formal registers. Every article carries a model text you can hear read aloud until its shape sticks.
+Real German correspondence, one everyday situation at a time: emails, short messages and postcards, in casual and formal registers. Each article gives a model text that can be heard read aloud.
 
 ```{toctree}
 :maxdepth: 1

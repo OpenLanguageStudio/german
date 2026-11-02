@@ -154,6 +154,5 @@ Er möchte eine Pause machen.
 
 ## Related articles
 
-- [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)
 - [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)
 - [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)

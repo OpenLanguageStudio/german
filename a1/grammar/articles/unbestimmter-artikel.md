@@ -177,7 +177,5 @@ Ich mache einen Deutschkurs.
 
 ## Related articles
 
-- [A1 > Grammar > Definite Articles](/a1/grammar/articles/bestimmter-artikel.md)
-- [A1 > Grammar > Negative Articles](/a1/grammar/articles/negativartikel.md)
 - [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
 - [A1 > Grammar > es gibt](/a1/grammar/verbs/es-gibt.md)

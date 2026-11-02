@@ -164,6 +164,4 @@ Du darfst das Eis essen.
 
 ## Related articles
 
-- [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)
-- [A1 > Grammar > möchten](/a1/grammar/verbs/moechten.md)
 - [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)

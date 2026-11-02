@@ -157,6 +157,4 @@ Rufst du mich an?
 
 ## Related articles
 
-- [A1 > Grammar > Regular Verbs in the Present](/a1/grammar/verbs/regelmassige-verben.md)
-- [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)
 - [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)

@@ -159,6 +159,5 @@ Wir können später einkaufen gehen.
 
 ## Related articles
 
-- [A1 > Grammar > The Verb in Second Position](/a1/grammar/sentence-structure/verb-position-2.md)
 - [A1 > Grammar > Separable Verbs](/a1/grammar/verbs/trennbare-verben.md)
 - [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)

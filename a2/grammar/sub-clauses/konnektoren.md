@@ -474,9 +474,3 @@ Ich habe Angst vor Hunden, trotzdem habe ich einen Hund.
 - *\*Trotzdem ich gehe spazieren.* → **Trotzdem gehe ich** spazieren. (same inversion rule applies to **trotzdem**)
 - *\*Ich bleibe zu Hause, denn ich krank bin.* → denn ich **bin** krank. (**denn** keeps normal order, verb in position 2, not at the end)
 :::
-
----
-
-## Related articles
-
-- [A2 > Grammar > Nebensatz mit weil](/a2/grammar/sub-clauses/nebensatz-weil.md)

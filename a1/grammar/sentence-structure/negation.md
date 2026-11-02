@@ -160,5 +160,3 @@ Kein Problem!
 ## Related articles
 
 - [A1 > Grammar > Negative Articles](/a1/grammar/articles/negativartikel.md)
-- [A1 > Grammar > The Verb in Second Position](/a1/grammar/sentence-structure/verb-position-2.md)
-- [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)

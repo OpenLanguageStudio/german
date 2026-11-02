@@ -149,6 +149,5 @@ Das kann man verstehen.
 
 ## Related articles
 
-- [A1 > Grammar > Personal Pronouns: Nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md)
 - [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)
 - [A1 > Grammar > Modal Verbs dürfen and sollen](/a1/grammar/verbs/duerfen-sollen.md)

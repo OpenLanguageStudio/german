@@ -153,5 +153,4 @@ Wir fahren zusammen mit den Nachbarn.
 ## Related articles
 
 - [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
-- [A1 > Grammar > Local Prepositions with Dative](/a1/grammar/prepositions/lokale-praepositionen-dativ.md)
 - [A1 > Grammar > Question Pronouns wer, wen, wem, was](/a1/grammar/question-words/fragepronomen.md)

@@ -241,8 +241,5 @@ Wenn sie ein Auto kaufen, vergleichen sie die Preise.
 
 ## Related articles
 
-- [A2 > Grammar > Nebensatz mit wenn](/a2/grammar/sub-clauses/nebensatz-wenn.md)
 - [A2 > Concepts > Indirect questions](/a2/concepts/indirect-questions.md)
 - [A2 > Grammar > Modalverben im Präteritum](/a2/grammar/verbs/modalverben-praeteritum.md)
-- [A2 > Grammar > Nebensatz mit weil](/a2/grammar/sub-clauses/nebensatz-weil.md)
-- [A2 > Grammar > Konnektoren: denn, deshalb, trotzdem](/a2/grammar/sub-clauses/konnektoren.md)

@@ -151,6 +151,5 @@ Das habe ich nicht gesehen.
 
 ## Related articles
 
-- [A1 > Grammar > The Perfekt Tense](/a1/grammar/tenses/perfekt.md)
 - [A1 > Grammar > Separable Verbs](/a1/grammar/verbs/trennbare-verben.md)
 - [A1 > Grammar > Irregular Verbs in the Present](/a1/grammar/verbs/unregelmaessige-verben.md)

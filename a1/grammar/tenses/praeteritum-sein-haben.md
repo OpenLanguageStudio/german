@@ -152,5 +152,4 @@ Früher hatte ich einen Hund.
 
 ## Related articles
 
-- [A1 > Grammar > The Perfekt Tense](/a1/grammar/tenses/perfekt.md)
 - [A1 > Grammar > sein und haben](/a1/grammar/verbs/sein-und-haben.md)

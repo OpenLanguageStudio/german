@@ -262,10 +262,3 @@ Wir gehen ins Restaurant, weil wir feiern wollen.
 - *Weil ich müde bin, \*ich bleibe zu Hause.* → Weil ich müde bin, **bleibe ich** zu Hause. (inversion in main clause)
 - *\*Denn ich müde bin, bleibe ich zu Hause.* → Ich bleibe zu Hause, denn ich **bin** müde. (denn cannot open the sentence)
 :::
-
----
-
-## Related articles
-
-- [A2 > Grammar > Konnektoren: denn, deshalb, trotzdem](/a2/grammar/sub-clauses/konnektoren.md)
-- [A2 > Grammar > als und wenn - Unterschied](/a2/grammar/sub-clauses/nebensatz-als-wenn.md)

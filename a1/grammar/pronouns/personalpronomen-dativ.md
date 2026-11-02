@@ -156,4 +156,3 @@ Ich danke Ihnen.
 
 - [A1 > Grammar > Verbs with the Dative](/a1/grammar/verbs/verben-mit-dativ.md)
 - [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
-- [A1 > Grammar > Personal Pronouns: Accusative](/a1/grammar/pronouns/personalpronomen-akkusativ.md)

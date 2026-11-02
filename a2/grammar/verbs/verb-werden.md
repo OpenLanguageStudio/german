@@ -329,5 +329,3 @@ Wird deine Schwester auch Lehrerin?
 ## Related articles
 
 - [A2 > Grammar > Adjektivendungen](/a2/grammar/adjectives/adjektivendungen.md)
-- [A2 > Grammar > Modalverben im Präteritum](/a2/grammar/verbs/modalverben-praeteritum.md)
-- [A2 > Grammar > Perfekt](/a2/grammar/verbs/perfekt.md)

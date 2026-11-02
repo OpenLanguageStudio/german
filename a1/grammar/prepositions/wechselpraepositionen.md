@@ -148,5 +148,3 @@ Wir treffen uns im Café.
 ## Related articles
 
 - [Describing where things are](/a1/concepts/describing-where-things-are.md)
-- [A1 > Grammar > Local Prepositions with Dative](/a1/grammar/prepositions/lokale-praepositionen-dativ.md)
-- [A1 > Grammar > Contracted Prepositions](/a1/grammar/prepositions/kurzformen.md)

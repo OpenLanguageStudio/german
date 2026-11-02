@@ -155,9 +155,3 @@ Schreib mir eine Nachricht!
 - *\*Nehm den Bus!* → **Nimm** den Bus! (e to i verbs keep the change)
 - *\*Fähr langsam!* → **Fahr** langsam! (no umlaut in the imperative)
 :::
-
-## Related articles
-
-- [A1 > Grammar > Regular Verbs in the Present](/a1/grammar/verbs/regelmassige-verben.md)
-- [A1 > Grammar > Irregular Verbs in the Present](/a1/grammar/verbs/unregelmaessige-verben.md)
-- [A1 > Grammar > Separable Verbs](/a1/grammar/verbs/trennbare-verben.md)

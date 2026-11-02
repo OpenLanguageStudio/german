@@ -160,9 +160,3 @@ Du tanzt gut.
 - *\*du arbeitst* → du arbeit**est**. (t-stems need the extra e)
 - *\*du heißst* → du heiß**t**. (s-stems drop the s of -st)
 :::
-
-## Related articles
-
-- [A1 > Grammar > Irregular Verbs in the Present](/a1/grammar/verbs/unregelmaessige-verben.md)
-- [A1 > Grammar > sein und haben](/a1/grammar/verbs/sein-und-haben.md)
-- [A1 > Grammar > Separable Verbs](/a1/grammar/verbs/trennbare-verben.md)

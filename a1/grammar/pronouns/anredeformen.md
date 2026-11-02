@@ -158,6 +158,5 @@ Ihr könnt mitkommen.
 
 ## Related articles
 
-- [A1 > Grammar > Personal Pronouns: Nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md)
 - [A1 > Grammar > Regular Verbs in the Present](/a1/grammar/verbs/regelmassige-verben.md)
 - [A1 > Grammar > The Imperative](/a1/grammar/verbs/imperativ.md)

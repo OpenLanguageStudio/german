@@ -150,5 +150,4 @@ Was suchst du?
 ## Related articles
 
 - [A1 > Grammar > Yes/No Questions and W-Questions](/a1/grammar/sentence-structure/fragen.md)
-- [A1 > Grammar > Question Words for Circumstances](/a1/grammar/question-words/fragewoerter-umstaende.md)
 - [A1 > Grammar > The Three Cases Compared](/a1/grammar/cases/kasus-ueberblick.md)

@@ -149,5 +149,4 @@ Ich koche für die ganze Familie.
 ## Related articles
 
 - [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
-- [A1 > Grammar > The Preposition mit](/a1/grammar/prepositions/mit-dativ.md)
 - [A1 > Grammar > Personal Pronouns: Accusative](/a1/grammar/pronouns/personalpronomen-akkusativ.md)

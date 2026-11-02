@@ -144,6 +144,4 @@ Es ist kalt heute.
 
 ## Related articles
 
-- [A1 > Grammar > du, ihr, or Sie](/a1/grammar/pronouns/anredeformen.md)
-- [A1 > Grammar > Personal Pronouns: Accusative](/a1/grammar/pronouns/personalpronomen-akkusativ.md)
 - [A1 > Grammar > The Nominative Case](/a1/grammar/cases/nominativ.md)

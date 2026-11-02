@@ -243,5 +243,4 @@ Er singt so schön wie ein Profi.
 
 ## Related articles
 
-- [A2 > Grammar > Komparativ und Superlativ](/a2/grammar/adjectives/komparativ-superlativ.md)
 - [A2 > Concepts > Making comparisons](/a2/concepts/making-comparisons.md)

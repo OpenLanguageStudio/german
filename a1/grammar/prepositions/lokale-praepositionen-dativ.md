@@ -162,5 +162,4 @@ Kommst du mit zu uns?
 ## Related articles
 
 - [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
-- [A1 > Grammar > Contracted Prepositions](/a1/grammar/prepositions/kurzformen.md)
 - [Asking for and giving directions](/a1/concepts/asking-for-and-giving-directions.md)
