@@ -15,12 +15,12 @@ Stating a view and reacting to someone else's is the core move of any discussion
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Ich finde, dass ... | I think that ... | neutral/common |
-| Meiner Meinung nach ... | In my opinion ... | slightly formal |
-| Ich bin der Meinung, dass ... | I am of the opinion that ... | formal |
-| Ich glaube/denke, ... | I think ... | informal/common |
+| Phrase | Notes |
+|---|---|
+| {stack}`Ich finde, dass ... \| I think that ...` | neutral/common |
+| {stack}`Meiner Meinung nach ... \| In my opinion ...` | slightly formal |
+| {stack}`Ich bin der Meinung, dass ... \| I am of the opinion that ...` | formal |
+| {stack}`Ich glaube/denke, ... \| I think ...` | informal/common |
 
 ---
 

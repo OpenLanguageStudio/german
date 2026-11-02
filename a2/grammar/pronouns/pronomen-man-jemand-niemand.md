@@ -66,10 +66,10 @@ Nach der Arbeit ruht **man** sich aus.
 
 Use *jemand* for an unspecified person (someone). Use *niemand* as its negative opposite (no one). Both are singular in meaning and usually take a singular verb.
 
-| Pronoun | Core meaning | Typical verb form |
-|---|---|---|
-| **jemand** | someone, somebody | 3rd person singular |
-| **niemand** | no one, nobody | 3rd person singular |
+| Pronoun | Typical verb form |
+|---|---|
+| {stack}`jemand \| someone, somebody` | 3rd person singular |
+| {stack}`niemand \| no one, nobody` | 3rd person singular |
 
 Both can appear with optional case endings.
 

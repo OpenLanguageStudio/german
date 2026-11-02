@@ -459,11 +459,11 @@ Ich habe Angst vor Hunden, trotzdem habe ich einen Hund.
 - **trotzdem** (nevertheless / even so) expresses an unexpected result. It follows the same word order rule as **deshalb**: verb before subject (inversion).
 - **denn** and **weil** both mean "because", the only difference is that **denn** keeps normal word order while **weil** sends the verb to the end.
 
-| Connector | Logical meaning | Word order after connector |
-|---|---|---|
-| denn | cause (because) | subject + verb (position 2) |
-| deshalb / darum / deswegen | result (therefore) | verb + subject (inversion) |
-| trotzdem | unexpected contrast (nevertheless) | verb + subject (inversion) |
+| Connector | Word order after connector |
+|---|---|
+| {stack}`denn \| cause (because)` | subject + verb (position 2) |
+| {stack}`deshalb / darum / deswegen \| result (therefore)` | verb + subject (inversion) |
+| {stack}`trotzdem \| unexpected contrast (nevertheless)` | verb + subject (inversion) |
 :::
 
 :::{admonition} Common mistakes

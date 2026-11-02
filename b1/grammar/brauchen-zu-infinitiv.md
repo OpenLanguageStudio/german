@@ -20,11 +20,11 @@ Use **nicht brauchen + zu + Infinitiv** to say that something is not necessary, 
 
 > **{verb}`brauchen`** (conjugated) + … + **{verb}`nicht`** + **{verb}`zu`** + **{verb}`Infinitiv`**
 
-| With brauchen | With müssen | English |
-|---|---|---|
-| Du **brauchst** das nicht **zu tun**. | Du **musst** das nicht **tun**. | You don't have to do that. |
-| Er **braucht** heute nicht **zu kommen**. | Er **muss** heute nicht **kommen**. | He doesn't have to come today. |
-| Sie **braucht** keinen Arzt **zu rufen**. | Sie **muss** keinen Arzt **rufen**. | She doesn't have to call a doctor. |
+| Phrase | Notes |
+|---|---|
+| {stack}`Du brauchst das nicht zu tun. / Du musst das nicht tun. \| You don't have to do that.` | with brauchen / with müssen |
+| {stack}`Er braucht heute nicht zu kommen. / Er muss heute nicht kommen. \| He doesn't have to come today.` | with brauchen / with müssen |
+| {stack}`Sie braucht keinen Arzt zu rufen. / Sie muss keinen Arzt rufen. \| She doesn't have to call a doctor.` | with brauchen / with müssen |
 
 :::{div} ol-examples
 Du **brauchst** das Formular nicht **zu unterschreiben**.
@@ -63,10 +63,10 @@ Use **nur brauchen + zu + Infinitiv** to say that one small or simple action is 
 
 > **{verb}`brauchen`** (conjugated) + **{verb}`nur`** + … + **{verb}`zu`** + **{verb}`Infinitiv`**
 
-| With brauchen | With müssen | English |
-|---|---|---|
-| Du **brauchst** nur **anzurufen**. | Du **musst** nur **anrufen**. | You just have to call. |
-| Sie **braucht** nur **zu warten**. | Sie **muss** nur **warten**. | She just has to wait. |
+| Phrase | Notes |
+|---|---|
+| {stack}`Du brauchst nur anzurufen. / Du musst nur anrufen. \| You just have to call.` | with brauchen / with müssen |
+| {stack}`Sie braucht nur zu warten. / Sie muss nur warten. \| She just has to wait.` | with brauchen / with müssen |
 
 :::{div} ol-examples
 Du **brauchst** nur die erste Seite **zu lesen**.

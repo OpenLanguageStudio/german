@@ -15,10 +15,10 @@ Purpose answers the question *wozu*: what an action is for. German splits the jo
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| um ... zu + Infinitiv | in order to | same subject |
-| damit + Nebensatz | so that | often different subject |
+| Phrase | Notes |
+|---|---|
+| {stack}`um ... zu + Infinitiv \| in order to` | same subject |
+| {stack}`damit + Nebensatz \| so that` | often different subject |
 
 ---
 

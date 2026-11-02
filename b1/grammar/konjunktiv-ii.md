@@ -96,12 +96,12 @@ Notice that **sollte** looks the same as the *Präteritum* of *sollen*. Context 
 
 One of the most practical uses of *Konjunktiv II* is making requests sound softer and more considerate. Compare: *Kannst du mir helfen?* (Can you help me?) versus *Könntest du mir helfen?* (Could you help me?), the second is noticeably more polite. This shift matters especially in professional contexts.
 
-| Formula | Informal (du) | Formal (Sie) |
-|---|---|---|
-| Could you...? | **Könntest** du ...? | **Könnten** Sie ...? |
-| Would you...? | **Würdest** du ...? | **Würden** Sie ...? |
-| I would like... | **Ich hätte gern** ... | **Ich hätte gern** ... |
-| May I...? | **Dürfte** ich ...? | **Dürfte** ich ...? |
+| Phrase | Notes |
+|---|---|
+| {stack}`Könntest du ...? / Könnten Sie ...? \| Could you...?` | informal / formal |
+| {stack}`Würdest du ...? / Würden Sie ...? \| Would you...?` | informal / formal |
+| {stack}`Ich hätte gern ... \| I would like...` | the same in both |
+| {stack}`Dürfte ich ...? \| May I...?` | the same in both |
 
 :::{div} ol-examples
 {verb}`Könntest` du mir bitte das Salz reichen?
@@ -135,14 +135,14 @@ Beyond requests, *Konjunktiv II* is ideal for talking about wishes, things you w
 
 Common patterns:
 
-| Pattern | Meaning |
+| Pattern | Notes |
 |---|---|
-| **Ich hätte gern** ... | I would like to have ... |
-| **Ich wäre gern** ... | I would like to be ... |
-| **Es wäre schön**, ... | It would be nice ... |
-| **Das wäre / könnte** ... | That would / could be ... |
-| **An deiner Stelle würde ich** ... | In your place, I would ... |
-| **Ich wünschte**, ich ... | I wish I ... |
+| {stack}`Ich hätte gern ... \| I would like to have ...` | |
+| {stack}`Ich wäre gern ... \| I would like to be ...` | |
+| {stack}`Es wäre schön, ... \| It would be nice ...` | |
+| {stack}`Das wäre / könnte ... \| That would / could be ...` | |
+| {stack}`An deiner Stelle würde ich ... \| In your place, I would ...` | |
+| {stack}`Ich wünschte, ich ... \| I wish I ...` | |
 
 :::{div} ol-examples
 Ich {verb}`hätte` gern mehr Zeit für Sport.

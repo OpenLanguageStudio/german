@@ -104,23 +104,23 @@ Strong verbs form their Präteritum by changing the stem vowel. No **-te** is ad
 
 The stem vowel change differs for every strong verb, you need to learn each one individually. Here are the most useful strong verbs at B1:
 
-| Infinitive | Präteritum (ich) | English |
-|---|---|---|
-| bleiben | blieb | stayed |
-| fahren | fuhr | drove / travelled |
-| finden | fand | found |
-| gehen | ging | went |
-| geben | gab | gave |
-| kommen | kam | came |
-| laufen | lief | ran |
-| lesen | las | read |
-| nehmen | nahm | took |
-| sehen | sah | saw |
-| schreiben | schrieb | wrote |
-| sprechen | sprach | spoke |
-| stehen | stand | stood |
-| treffen | traf | met |
-| trinken | trank | drank |
+| Infinitive | Präteritum (ich) |
+|---|---|
+| bleiben | {stack}`blieb \| stayed` |
+| fahren | {stack}`fuhr \| drove / travelled` |
+| finden | {stack}`fand \| found` |
+| gehen | {stack}`ging \| went` |
+| geben | {stack}`gab \| gave` |
+| kommen | {stack}`kam \| came` |
+| laufen | {stack}`lief \| ran` |
+| lesen | {stack}`las \| read` |
+| nehmen | {stack}`nahm \| took` |
+| sehen | {stack}`sah \| saw` |
+| schreiben | {stack}`schrieb \| wrote` |
+| sprechen | {stack}`sprach \| spoke` |
+| stehen | {stack}`stand \| stood` |
+| treffen | {stack}`traf \| met` |
+| trinken | {stack}`trank \| drank` |
 
 :::{div} ol-examples
 Sie {verb}`schrieb` einen langen Brief an ihre Eltern.
@@ -152,15 +152,15 @@ The *ich* and *er/sie/es* forms of strong verbs are always identical in *Präter
 
 A small group of verbs, called *gemischte Verben* (mixed verbs), combine features of both weak and strong verbs. They change the stem vowel like strong verbs, but also add the -te endings like weak verbs.
 
-| Infinitive | Präteritum (ich) | English |
-|---|---|---|
-| bringen | brachte | brought |
-| denken | dachte | thought |
-| kennen | kannte | knew (a person/place) |
-| nennen | nannte | named / called |
-| rennen | rannte | ran |
-| senden | sandte | sent |
-| wissen | wusste | knew (a fact) |
+| Infinitive | Präteritum (ich) |
+|---|---|
+| bringen | {stack}`brachte \| brought` |
+| denken | {stack}`dachte \| thought` |
+| kennen | {stack}`kannte \| knew (a person/place)` |
+| nennen | {stack}`nannte \| named / called` |
+| rennen | {stack}`rannte \| ran` |
+| senden | {stack}`sandte \| sent` |
+| wissen | {stack}`wusste \| knew (a fact)` |
 
 The person endings are the same as for weak verbs: -te, -test, -te, -ten, -tet, -ten.
 
@@ -206,14 +206,14 @@ These verbs use *Präteritum* in both written and spoken German, and they come u
 
 Modal verbs drop the umlaut in *Präteritum* and follow the weak verb endings:
 
-| Infinitive | ich / er / sie / es | English |
-|---|---|---|
-| können | konnte | could |
-| müssen | musste | had to |
-| wollen | wollte | wanted to |
-| sollen | sollte | was supposed to |
-| dürfen | durfte | was allowed to |
-| mögen | mochte | liked |
+| Infinitive | ich / er / sie / es |
+|---|---|
+| können | {stack}`konnte \| could` |
+| müssen | {stack}`musste \| had to` |
+| wollen | {stack}`wollte \| wanted to` |
+| sollen | {stack}`sollte \| was supposed to` |
+| dürfen | {stack}`durfte \| was allowed to` |
+| mögen | {stack}`mochte \| liked` |
 
 :::{div} ol-examples
 Gestern {verb}`war` das Wetter wunderschön.

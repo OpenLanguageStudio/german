@@ -25,15 +25,15 @@ Any German adjective can become a noun by capitalizing it and using it with the 
 
 Here are some of the most common nominalized adjectives you will encounter at B1 level:
 
-| Adjective | Noun (m./f.) | Meaning |
-|---|---|---|
-| bekannt | der/die Bekannte | the acquaintance |
-| verwandt | der/die Verwandte | the relative |
-| angestellt | der/die Angestellte | the employee |
-| fremd | der/die Fremde | the stranger |
-| erwachsen | der/die Erwachsene | the adult |
-| arbeitslos | der/die Arbeitslose | the unemployed person |
-| jugendlich | der/die Jugendliche | the young person / teenager |
+| Adjective | Noun (m./f.) |
+|---|---|
+| bekannt | {stack}`der/die Bekannte \| the acquaintance` |
+| verwandt | {stack}`der/die Verwandte \| the relative` |
+| angestellt | {stack}`der/die Angestellte \| the employee` |
+| fremd | {stack}`der/die Fremde \| the stranger` |
+| erwachsen | {stack}`der/die Erwachsene \| the adult` |
+| arbeitslos | {stack}`der/die Arbeitslose \| the unemployed person` |
+| jugendlich | {stack}`der/die Jugendliche \| the young person / teenager` |
 
 :::{div} ol-examples
 Das ist **meine Bekannte**, sie wohnt im selben Haus wie ich.

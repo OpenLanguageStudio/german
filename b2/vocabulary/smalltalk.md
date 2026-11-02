@@ -10,75 +10,75 @@ Small talk keeps a conversation going with someone not yet known well, at a netw
 
 ## Vocabulary list
 
-| German | English |
+| Word | Notes |
 |---|---|
-| Anlass, der | occasion |
-| Arbeitsalltag, der | (typical) working day / daily work routine |
-| Belanglosigkeit, die | triviality |
-| Einstieg, der | opener / way in |
-| Gesprächsanlass, der | conversation starter |
-| Gesprächsthema, das | conversation topic |
-| Geschwätz, das | chatter, gossip, meaningless talk |
-| Höflichkeit, die | politeness |
-| Kennenlernphase, die | getting‑to‑know phase |
-| Netzwerkveranstaltung, die | networking event |
-| Oberflächlichkeit, die | superficiality |
-| Smalltalk, der | small talk |
-| Stille, die | silence |
-| Stimmungswechsel, der | change of mood |
-| Verlegenheit, die | embarrassment |
-| Vertrautheit, die | familiarity |
-| Wetterumschwung, der | sudden change in the weather |
-| Zwischenfrage, die | follow‑up / clarifying question |
-| Tratsch, der | gossip |
-| Klatsch, der | gossip (less formal) |
-| Gerücht, das | rumor |
-| Schweigen, das | silence |
-| schweigen | to be silent |
-| Tabu, das | taboo |
-| anbaggern | to hit on (someone) |
-| beschnuppern | to size (someone) up |
-| ins Gespräch kommen | to start a conversation |
-| laestern | to gossip |
-| plaudern | to chat |
-| sich unterhalten | to converse / have a conversation |
-| nachfragen | to ask further / follow up |
-| zuhören | to listen |
-| einleiten | to initiate (a conversation) |
-| wechseln (das Thema) | to change (the topic) |
-| ausweichen | to dodge / avoid (a topic) |
-| unterbrechen | to interrupt |
-| zustimmen | to agree |
-| widersprechen | to disagree |
-| belanglos | trivial |
-| oberflächlich | superficial |
-| höflich | polite |
-| locker | relaxed, casual |
-| unverbindlich | non-committal |
-| peinlich | awkward, embarrassing |
-| vertraut | familiar |
-| angenehm | pleasant |
-| kurzweilig | entertaining, diverting |
-| wortkarg | taciturn, uncommunicative |
-| gesprächig | talkative |
-| zurückhaltend | reserved |
-| freundlich | friendly |
-| distanziert | distant, reserved |
-| offen | open |
-| neugierig | curious |
-| passend | appropriate, suitable |
-| naheliegend | obvious, self-evident |
-| unpassend | inappropriate |
+| {stack}`der Anlass \| occasion` | |
+| {stack}`der Arbeitsalltag \| (typical) working day / daily work routine` | |
+| {stack}`die Belanglosigkeit \| triviality` | |
+| {stack}`der Einstieg \| opener / way in` | |
+| {stack}`der Gesprächsanlass \| conversation starter` | |
+| {stack}`das Gesprächsthema \| conversation topic` | |
+| {stack}`das Geschwätz \| chatter, gossip, meaningless talk` | |
+| {stack}`die Höflichkeit \| politeness` | |
+| {stack}`die Kennenlernphase \| getting‑to‑know phase` | |
+| {stack}`die Netzwerkveranstaltung \| networking event` | |
+| {stack}`die Oberflächlichkeit \| superficiality` | |
+| {stack}`der Smalltalk \| small talk` | |
+| {stack}`die Stille \| silence` | |
+| {stack}`der Stimmungswechsel \| change of mood` | |
+| {stack}`die Verlegenheit \| embarrassment` | |
+| {stack}`die Vertrautheit \| familiarity` | |
+| {stack}`der Wetterumschwung \| sudden change in the weather` | |
+| {stack}`die Zwischenfrage \| follow‑up / clarifying question` | |
+| {stack}`der Tratsch \| gossip` | |
+| {stack}`der Klatsch \| gossip (less formal)` | |
+| {stack}`das Gerücht \| rumor` | |
+| {stack}`das Schweigen \| silence` | |
+| {stack}`schweigen \| to be silent` | |
+| {stack}`das Tabu \| taboo` | |
+| {stack}`anbaggern \| to hit on (someone)` | |
+| {stack}`beschnuppern \| to size (someone) up` | |
+| {stack}`ins Gespräch kommen \| to start a conversation` | |
+| {stack}`laestern \| to gossip` | |
+| {stack}`plaudern \| to chat` | |
+| {stack}`sich unterhalten \| to converse / have a conversation` | |
+| {stack}`nachfragen \| to ask further / follow up` | |
+| {stack}`zuhören \| to listen` | |
+| {stack}`einleiten \| to initiate (a conversation)` | |
+| {stack}`wechseln (das Thema) \| to change (the topic)` | |
+| {stack}`ausweichen \| to dodge / avoid (a topic)` | |
+| {stack}`unterbrechen \| to interrupt` | |
+| {stack}`zustimmen \| to agree` | |
+| {stack}`widersprechen \| to disagree` | |
+| {stack}`belanglos \| trivial` | |
+| {stack}`oberflächlich \| superficial` | |
+| {stack}`höflich \| polite` | |
+| {stack}`locker \| relaxed, casual` | |
+| {stack}`unverbindlich \| non-committal` | |
+| {stack}`peinlich \| awkward, embarrassing` | |
+| {stack}`vertraut \| familiar` | |
+| {stack}`angenehm \| pleasant` | |
+| {stack}`kurzweilig \| entertaining, diverting` | |
+| {stack}`wortkarg \| taciturn, uncommunicative` | |
+| {stack}`gesprächig \| talkative` | |
+| {stack}`zurückhaltend \| reserved` | |
+| {stack}`freundlich \| friendly` | |
+| {stack}`distanziert \| distant, reserved` | |
+| {stack}`offen \| open` | |
+| {stack}`neugierig \| curious` | |
+| {stack}`passend \| appropriate, suitable` | |
+| {stack}`naheliegend \| obvious, self-evident` | |
+| {stack}`unpassend \| inappropriate` | |
 
 ## Useful phrases
 
-| German | English | Note |
-|---|---|---|
-| Wie läuft's bei dir? | How's it going (with you)? | informal opener |
-| Na, alles klar? | Everything alright? | very informal, casual |
-| Lang nichts mehr gehört! | Long time no hear! | reconnecting |
-| Schön, Sie kennenzulernen. | Nice to meet you. | formal / first meeting |
-| Darf ich fragen, womit Sie sich beschäftigen? | May I ask what you work on? | polite professional |
+| Phrase | Note |
+|---|---|
+| {stack}`Wie läuft's bei dir? \| How's it going (with you)?` | informal opener |
+| {stack}`Na, alles klar? \| Everything alright?` | very informal, casual |
+| {stack}`Lang nichts mehr gehört! \| Long time no hear!` | reconnecting |
+| {stack}`Schön, Sie kennenzulernen. \| Nice to meet you.` | formal / first meeting |
+| {stack}`Darf ich fragen, womit Sie sich beschäftigen? \| May I ask what you work on?` | polite professional |
 
 ## Short story
 

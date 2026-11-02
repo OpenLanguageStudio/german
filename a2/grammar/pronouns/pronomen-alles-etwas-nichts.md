@@ -207,11 +207,11 @@ In Deutschland sagt {pronoun}`man` oft „Alles klar?“.
 
 ### Useful everyday phrases
 
-| German phrase | English meaning | Note |
-|---|---|---|
-| Alles klar! | All good! / Got it! | very common spoken reaction |
-| Gibt es etwas Neues? | Is there anything new? | common in work/family updates |
-| Nichts zu tun. | Nothing to do. | everyday status phrase |
+| German phrase | Note |
+|---|---|
+| {stack}`Alles klar! \| All good! / Got it!` | very common spoken reaction |
+| {stack}`Gibt es etwas Neues? \| Is there anything new?` | common in work/family updates |
+| {stack}`Nichts zu tun. \| Nothing to do.` | everyday status phrase |
 
 ---
 

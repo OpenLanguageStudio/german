@@ -79,16 +79,16 @@ If you are unsure, first find the noun's gender/number, then choose the ending: 
 
 These eight prepositions always take dative. That means your possessive article must be in a dative form every time.
 
-| Preposition | Typical meaning | Example with possessive |
-|---|---|---|
-| **mit** | with | mit **meiner** Freundin |
-| **bei** | at/with | bei **unserem** Team |
-| **aus** | from/out of | aus **seinem** Büro |
-| **von** | from/of | von **ihren** Eltern |
-| **zu** | to | zu **deiner** Ärztin |
-| **nach** | after/to | nach **unserem** Meeting |
-| **seit** | since/for | seit **meinem** Kurs |
-| **gegenüber** | opposite/across from | gegenüber **eurem** Haus |
+| Preposition | Example with possessive |
+|---|---|
+| {stack}`mit \| with` | mit **meiner** Freundin |
+| {stack}`bei \| at/with` | bei **unserem** Team |
+| {stack}`aus \| from/out of` | aus **seinem** Büro |
+| {stack}`von \| from/of` | von **ihren** Eltern |
+| {stack}`zu \| to` | zu **deiner** Ärztin |
+| {stack}`nach \| after/to` | nach **unserem** Meeting |
+| {stack}`seit \| since/for` | seit **meinem** Kurs |
+| {stack}`gegenüber \| opposite/across from` | gegenüber **eurem** Haus |
 
 **Examples:**
 

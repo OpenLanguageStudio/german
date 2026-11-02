@@ -21,16 +21,16 @@ Comparing things in German comes down to two small words and one ending. *So ...
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| … ist so groß wie … | … is as big as … | equal: *so* + base form + *wie* |
-| … ist nicht so teuer wie … | … is not as expensive as … | the polite way to say "cheaper" |
-| … ist größer als … | … is bigger than … | more: adjective + *-er* + *als* |
-| … ist am größten. | … is the biggest. | top of a group: *am* + *-sten* |
-| Ich trinke lieber Tee als Kaffee. | I prefer tea to coffee. | *gern, lieber, am liebsten* |
-| … gefällt mir besser. | I like … better. | *gut, besser, am besten* |
-| Was ist billiger? | Which is cheaper? | asking for a comparison |
-| Das ist viel / etwas schneller. | That is much / a bit faster. | *viel* and *etwas* before the comparative |
+| Phrase | Notes |
+|---|---|
+| {stack}`… ist so groß wie … \| … is as big as …` | equal: *so* + base form + *wie* |
+| {stack}`… ist nicht so teuer wie … \| … is not as expensive as …` | the polite way to say "cheaper" |
+| {stack}`… ist größer als … \| … is bigger than …` | more: adjective + *-er* + *als* |
+| {stack}`… ist am größten. \| … is the biggest.` | top of a group: *am* + *-sten* |
+| {stack}`Ich trinke lieber Tee als Kaffee. \| I prefer tea to coffee.` | *gern, lieber, am liebsten* |
+| {stack}`… gefällt mir besser. \| I like … better.` | *gut, besser, am besten* |
+| {stack}`Was ist billiger? \| Which is cheaper?` | asking for a comparison |
+| {stack}`Das ist viel / etwas schneller. \| That is much / a bit faster.` | *viel* and *etwas* before the comparative |
 
 ---
 

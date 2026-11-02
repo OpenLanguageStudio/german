@@ -41,17 +41,17 @@ Many common verbs can take two objects at the same time. Ask *Wem?* for the dati
 
 > Subject + verb + dative object (person, *Wem?*) + accusative object (thing, *Was?*)
 
-| Verb | Meaning | Mini pattern |
-|---|---|---|
-| **geben** | to give | jemandem etwas geben |
-| **schenken** | to gift | jemandem etwas schenken |
-| **zeigen** | to show | jemandem etwas zeigen |
-| **bringen** | to bring | jemandem etwas bringen |
-| **schicken** | to send | jemandem etwas schicken |
-| **erklären** | to explain | jemandem etwas erklären |
-| **leihen** | to lend | jemandem etwas leihen |
-| **anbieten** | to offer | jemandem etwas anbieten |
-| **empfehlen** | to recommend | jemandem etwas empfehlen |
+| Verb | Mini pattern |
+|---|---|
+| {stack}`geben \| to give` | jemandem etwas geben |
+| {stack}`schenken \| to gift` | jemandem etwas schenken |
+| {stack}`zeigen \| to show` | jemandem etwas zeigen |
+| {stack}`bringen \| to bring` | jemandem etwas bringen |
+| {stack}`schicken \| to send` | jemandem etwas schicken |
+| {stack}`erklären \| to explain` | jemandem etwas erklären |
+| {stack}`leihen \| to lend` | jemandem etwas leihen |
+| {stack}`anbieten \| to offer` | jemandem etwas anbieten |
+| {stack}`empfehlen \| to recommend` | jemandem etwas empfehlen |
 
 **Examples:**
 

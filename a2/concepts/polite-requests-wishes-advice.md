@@ -16,15 +16,15 @@ Politeness in German softens a request rather than lengthening it. The same smal
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Könnten Sie …? | Could you …? | formal, very polite |
-| Würdest du …? | Would you …? | informal polite |
-| Ich möchte … | I’d like … | ordering/requests |
-| Ich wünschte, … | I wish … | wish about present |
-| Es wäre schön, wenn … | It would be nice if … | wish/hope |
-| Du solltest … | You should … | advice |
-| Es wäre besser, wenn … | It would be better if … | soft advice |
+| Phrase | Notes |
+|---|---|
+| {stack}`Könnten Sie …? \| Could you …?` | formal, very polite |
+| {stack}`Würdest du …? \| Would you …?` | informal polite |
+| {stack}`Ich möchte … \| I’d like …` | ordering/requests |
+| {stack}`Ich wünschte, … \| I wish …` | wish about present |
+| {stack}`Es wäre schön, wenn … \| It would be nice if …` | wish/hope |
+| {stack}`Du solltest … \| You should …` | advice |
+| {stack}`Es wäre besser, wenn … \| It would be better if …` | soft advice |
 
 ---
 

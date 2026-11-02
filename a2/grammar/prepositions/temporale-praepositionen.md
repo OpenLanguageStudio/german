@@ -15,16 +15,16 @@ Temporal prepositions tell you *when* something happens, *how long* it lasts, or
 :::{important}
 **Case overview at a glance:**
 
-| Präposition | Bedeutung | Kasus |
-|---|---|---|
-| **bis** | until, by | Akkusativ |
-| **um** | at (clock times) | Akkusativ |
-| **über** | for over / more than | Akkusativ |
-| **ab** | from (a starting point) | Dativ |
-| **an** | on (days/dates), in (morning/evening) | Dativ |
-| **seit** | since, for (still ongoing) | Dativ |
-| **vor** | ago, before | Dativ |
-| **nach** | after | Dativ |
+| Präposition | Kasus |
+|---|---|
+| {stack}`bis \| until, by` | Akkusativ |
+| {stack}`um \| at (clock times)` | Akkusativ |
+| {stack}`über \| for over / more than` | Akkusativ |
+| {stack}`ab \| from (a starting point)` | Dativ |
+| {stack}`an \| on (days/dates), in (morning/evening)` | Dativ |
+| {stack}`seit \| since, for (still ongoing)` | Dativ |
+| {stack}`vor \| ago, before` | Dativ |
+| {stack}`nach \| after` | Dativ |
 
 - Three accusative: **bis**, **um**, **über**
 - Five dative: **ab**, **an**, **seit**, **vor**, **nach**

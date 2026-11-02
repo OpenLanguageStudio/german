@@ -141,11 +141,11 @@ A quick way to recognise this pattern: if you see *der*, *die*, or *das* directl
 
 Three very common German words form comparatives and superlatives in a completely irregular way. You will encounter these constantly, so it is worth learning them immediately:
 
-| Base form | Comparative | Superlative | Meaning |
-|---|---|---|---|
-| gut | **besser** | **am besten** | good / better / (the) best |
-| viel | **mehr** | **am meisten** | much/many / more / (the) most |
-| gern | **lieber** | **am liebsten** | gladly / preferably / most of all |
+| Base form | Comparative | Superlative |
+|---|---|---|
+| {stack}`gut \| good` | {stack}`besser \| better` | {stack}`am besten \| (the) best` |
+| {stack}`viel \| much/many` | {stack}`mehr \| more` | {stack}`am meisten \| (the) most` |
+| {stack}`gern \| gladly` | {stack}`lieber \| preferably` | {stack}`am liebsten \| most of all` |
 
 :::{div} ol-examples
 Das Essen hier schmeckt **besser** als zu Hause.

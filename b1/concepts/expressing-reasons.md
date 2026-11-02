@@ -15,12 +15,12 @@ Explaining why something happens is one of the most frequent things a B1 speaker
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| weil | because | subclause, verb at end |
-| denn | because/for | main clause, verb position 2 |
-| wegen + Genitiv | because of | noun phrase reason |
-| aufgrund + Genitiv | due to | formal/written |
+| Phrase | Notes |
+|---|---|
+| {stack}`weil \| because` | subclause, verb at end |
+| {stack}`denn \| because/for` | main clause, verb position 2 |
+| {stack}`wegen + Genitiv \| because of` | noun phrase reason |
+| {stack}`aufgrund + Genitiv \| due to` | formal/written |
 
 ---
 

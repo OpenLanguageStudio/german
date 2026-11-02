@@ -61,11 +61,11 @@ Use the following link to practice this section.
 
 These prepositions let you define temporal windows and spatial limits very clearly. {prep}`Während` focuses on simultaneity in a time span, while {prep}`innerhalb` and {prep}`außerhalb` set boundaries in time or space.
 
-| Preposition | Core meaning | Typical use |
-| --- | --- | --- |
-| {prep}`während` | during | time period in progress |
-| {prep}`innerhalb` | within | inside a time limit or area |
-| {prep}`außerhalb` | outside of | outside a time frame or area |
+| Preposition | Typical use |
+|---|---|
+| {stack}`während \| during` | time period in progress |
+| {stack}`innerhalb \| within` | inside a time limit or area |
+| {stack}`außerhalb \| outside of` | outside a time frame or area |
 
 **Examples:**
 
@@ -103,12 +103,12 @@ Use the following link to practice this section.
 
 These prepositions are useful when you want compact, noun-based cause statements. At B2, this style appears frequently in written communication because it sounds concise and structured.
 
-| Preposition | Meaning | Register tendency |
-| --- | --- | --- |
-| {prep}`wegen` | because of | neutral, frequent in speech and writing |
-| {prep}`dank` | thanks to | often positive, but can be neutral/ironic in context |
-| {prep}`infolge` | as a result of | formal, written |
-| {prep}`aufgrund` | due to / on the basis of | formal, written |
+| Preposition | Register tendency |
+|---|---|
+| {stack}`wegen \| because of` | neutral, frequent in speech and writing |
+| {stack}`dank \| thanks to` | often positive, but can be neutral/ironic in context |
+| {stack}`infolge \| as a result of` | formal, written |
+| {stack}`aufgrund \| due to / on the basis of` | formal, written |
 
 **Examples:**
 

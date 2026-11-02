@@ -141,13 +141,13 @@ These two prepositions are natural opposites in meaning and very useful as a pai
 - Meaning opposite: **with** vs. **without**
 - Case opposite: **mit + dative** vs. **ohne + accusative**
 
-| mit + Dativ | ohne + Akkusativ | English meaning |
-| --- | --- | --- |
-| mit dem Bus | ohne den Bus | with/without the bus |
-| mit meiner Freundin | ohne meine Freundin | with/without my friend |
-| mit den Kindern | ohne die Kinder | with/without the children |
-| mit einem Regenschirm | ohne einen Regenschirm | with/without an umbrella |
-| mit mir | ohne mich | with/without me |
+| Phrase | Notes |
+|---|---|
+| {stack}`mit dem Bus / ohne den Bus \| with/without the bus` | mit + dative / ohne + accusative |
+| {stack}`mit meiner Freundin / ohne meine Freundin \| with/without my friend` | mit + dative / ohne + accusative |
+| {stack}`mit den Kindern / ohne die Kinder \| with/without the children` | mit + dative / ohne + accusative |
+| {stack}`mit einem Regenschirm / ohne einen Regenschirm \| with/without an umbrella` | mit + dative / ohne + accusative |
+| {stack}`mit mir / ohne mich \| with/without me` | mit + dative / ohne + accusative |
 
 **Examples:**
 

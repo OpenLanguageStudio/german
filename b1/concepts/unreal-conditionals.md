@@ -15,11 +15,11 @@ Hypothetical and contrary-to-fact situations run on Konjunktiv II, the form Germ
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Wenn ... , würde ... | If ..., would ... | present/future hypothetical |
-| Wenn ... gehabt/gewesen hätte/wäre, ... | If had, would ... | past hypothetical |
-| Könntest/Würdest du ...? | Could/Would you ...? | polite suggestion |
+| Phrase | Notes |
+|---|---|
+| {stack}`Wenn ... , würde ... \| If ..., would ...` | present/future hypothetical |
+| {stack}`Wenn ... gehabt/gewesen hätte/wäre, ... \| If had, would ...` | past hypothetical |
+| {stack}`Könntest/Würdest du ...? \| Could/Would you ...?` | polite suggestion |
 
 ---
 

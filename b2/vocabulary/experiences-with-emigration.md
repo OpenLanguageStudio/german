@@ -10,44 +10,44 @@ Emigrating starts with paperwork long before it becomes a new life: *Anmeldung*,
 
 ## Vocabulary list
 
-| German | English |
+| Word | Notes |
 |---|---|
-| Abmeldung, die | de-registration |
-| Anmeldung, die | registration (address) |
-| Anerkennung, die (von Abschlüssen) | recognition (of qualifications) |
-| Aufenthaltserlaubnis, die | residence permit |
-| Arbeitsvertrag, der | employment contract |
-| Auswanderung, die | emigration |
-| Behörde, die | authority, government office |
-| Einbürgerung, die | naturalization |
-| Einreise, die | entry (into a country) |
-| Einwanderung, die | immigration |
-| Heimweh, das | homesickness |
-| Integration, die | integration |
-| Krankenversicherung, die | health insurance |
-| Kulturschock, der | culture shock |
-| Mietvertrag, der | rental contract |
-| Sprachkurs, der | language course |
-| Steuer-ID, die | tax ID |
-| Terminvereinbarung, die | scheduling an appointment |
-| Übergangsphase, die | transition phase |
-| Unterlagen, die (Pl.) | documents |
-| Visum, das | visa |
-| Wohnungssuche, die | apartment hunting |
-| Zeugnis, das | certificate, diploma |
-| Zeugnisanerkennung, die | recognition of certificates |
-| Zugehörigkeit, die | sense of belonging |
+| {stack}`die Abmeldung \| de-registration` | |
+| {stack}`die Anmeldung \| registration (address)` | |
+| {stack}`Anerkennung, die (von Abschlüssen) \| recognition (of qualifications)` | |
+| {stack}`die Aufenthaltserlaubnis \| residence permit` | |
+| {stack}`der Arbeitsvertrag \| employment contract` | |
+| {stack}`die Auswanderung \| emigration` | |
+| {stack}`die Behörde \| authority, government office` | |
+| {stack}`die Einbürgerung \| naturalization` | |
+| {stack}`die Einreise \| entry (into a country)` | |
+| {stack}`die Einwanderung \| immigration` | |
+| {stack}`das Heimweh \| homesickness` | |
+| {stack}`die Integration \| integration` | |
+| {stack}`die Krankenversicherung \| health insurance` | |
+| {stack}`der Kulturschock \| culture shock` | |
+| {stack}`der Mietvertrag \| rental contract` | |
+| {stack}`der Sprachkurs \| language course` | |
+| {stack}`die Steuer-ID \| tax ID` | |
+| {stack}`die Terminvereinbarung \| scheduling an appointment` | |
+| {stack}`die Übergangsphase \| transition phase` | |
+| {stack}`Unterlagen, die (Pl.) \| documents` | |
+| {stack}`das Visum \| visa` | |
+| {stack}`die Wohnungssuche \| apartment hunting` | |
+| {stack}`das Zeugnis \| certificate, diploma` | |
+| {stack}`die Zeugnisanerkennung \| recognition of certificates` | |
+| {stack}`die Zugehörigkeit \| sense of belonging` | |
 
 ---
 
 ## Useful phrases
 
-| German | English | Note |
-|---|---|---|
-| Fuß fassen | to gain a foothold | career/context |
-| den Papierkram erledigen | to deal with the paperwork | informal |
-| eine Hürde nehmen | to overcome a hurdle | figurative |
-| eine Anerkennung beantragen | to apply for recognition (of degrees) | formal |
+| Phrase | Note |
+|---|---|
+| {stack}`Fuß fassen \| to gain a foothold` | career/context |
+| {stack}`den Papierkram erledigen \| to deal with the paperwork` | informal |
+| {stack}`eine Hürde nehmen \| to overcome a hurdle` | figurative |
+| {stack}`eine Anerkennung beantragen \| to apply for recognition (of degrees)` | formal |
 
 ---
 

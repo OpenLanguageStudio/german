@@ -26,11 +26,11 @@ You use local prepositions to explain where something is and how to get somewher
 
 These prepositions are common in routes and location descriptions and always take dative.
 
-| Präposition | Meaning | Typical pattern |
-|---|---|---|
-| an...vorbei | past | an + dative noun phrase + vorbei |
-| bis zu | as far as, up to | bis zu + dative noun phrase |
-| gegenüber | opposite, across from | gegenüber + dative (or noun + gegenüber) |
+| Präposition | Typical pattern |
+|---|---|
+| {stack}`an...vorbei \| past` | an + dative noun phrase + vorbei |
+| {stack}`bis zu \| as far as, up to` | bis zu + dative noun phrase |
+| {stack}`gegenüber \| opposite, across from` | gegenüber + dative (or noun + gegenüber) |
 
 ### an...vorbei
 
@@ -93,12 +93,12 @@ With pronouns, gegenüber is normally after the pronoun: mir gegenüber, uns geg
 
 These are also fixed dative prepositions and are very common in route language.
 
-| Präposition | Local use | Example |
-|---|---|---|
-| aus | out of / from inside | Ich komme aus dem Bahnhof. |
-| nach | to (city/country without article) | Wir fahren nach Berlin. |
-| von | from (starting point) | Ich komme vom Markt. |
-| zu | to (person/place as destination) | Wir gehen zum Arzt. |
+| Präposition | Example |
+|---|---|
+| {stack}`aus \| out of / from inside` | Ich komme aus dem Bahnhof. |
+| {stack}`nach \| to (city/country without article)` | Wir fahren nach Berlin. |
+| {stack}`von \| from (starting point)` | Ich komme vom Markt. |
+| {stack}`zu \| to (person/place as destination)` | Wir gehen zum Arzt. |
 
 ---
 
@@ -106,11 +106,11 @@ These are also fixed dative prepositions and are very common in route language.
 
 These prepositions describe movement routes and always take accusative.
 
-| Präposition | Meaning | Typical pattern |
-|---|---|---|
-| durch | through | durch + accusative noun phrase |
-| entlang | along | accusative noun phrase + entlang |
-| um...herum | around | um + accusative noun phrase + herum |
+| Präposition | Typical pattern |
+|---|---|
+| {stack}`durch \| through` | durch + accusative noun phrase |
+| {stack}`entlang \| along` | accusative noun phrase + entlang |
+| {stack}`um...herum \| around` | um + accusative noun phrase + herum |
 
 ### durch
 
@@ -171,14 +171,14 @@ In spoken German, herum is sometimes dropped: Wir gehen um den See.
 
 When you give directions, you often combine several local prepositions in one short route.
 
-| German pattern | English meaning |
+| Phrase | Notes |
 |---|---|
-| Gehen Sie an ... vorbei. | Go past ... |
-| Gehen/Fahren Sie bis zu ... | Go/drive as far as ... |
-| Gehen Sie durch ... | Go through ... |
-| Gehen Sie ... entlang. | Go along ... |
-| Gehen Sie um ... herum. | Go around ... |
-| ... ist gegenüber ... | ... is opposite ... |
+| {stack}`Gehen Sie an ... vorbei. \| Go past ...` | |
+| {stack}`Gehen/Fahren Sie bis zu ... \| Go/drive as far as ...` | |
+| {stack}`Gehen Sie durch ... \| Go through ...` | |
+| {stack}`Gehen Sie ... entlang. \| Go along ...` | |
+| {stack}`Gehen Sie um ... herum. \| Go around ...` | |
+| {stack}`... ist gegenüber ... \| ... is opposite ...` | |
 
 ### Mini route examples
 

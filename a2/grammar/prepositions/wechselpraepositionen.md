@@ -25,17 +25,17 @@ Nine German prepositions can each take **either** the accusative or the dative c
 
 These are the nine prepositions that work both ways:
 
-| Präposition | Meaning | Notes |
-|---|---|---|
-| **in** | in, into | rooms, buildings, enclosed spaces |
-| **an** | at, on | vertical surfaces, edges, water |
-| **auf** | on, onto | horizontal surfaces, tables, floors |
-| **neben** | next to, beside | |
-| **zwischen** | between | |
-| **über** | over, above | |
-| **unter** | under, below | |
-| **vor** | in front of, before | |
-| **hinter** | behind | |
+| Präposition | Notes |
+|---|---|
+| {stack}`in \| in, into` | rooms, buildings, enclosed spaces |
+| {stack}`an \| at, on` | vertical surfaces, edges, water |
+| {stack}`auf \| on, onto` | horizontal surfaces, tables, floors |
+| {stack}`neben \| next to, beside` | |
+| {stack}`zwischen \| between` | |
+| {stack}`über \| over, above` | |
+| {stack}`unter \| under, below` | |
+| {stack}`vor \| in front of, before` | |
+| {stack}`hinter \| behind` | |
 
 :::{tip}
 A good way to remember all nine: picture a room. You can place objects *in* it, *on* things, *next to* them, *between* them, *above* or *below* them, *in front of* or *behind* them, those are your nine Wechselpräpositionen.
