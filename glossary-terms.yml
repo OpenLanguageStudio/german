@@ -1,0 +1,107 @@
+# The grammar terms of the German coursebook. Each has one entry on the
+# Terminology page, and the first use of it in an article's prose is written
+# with the {term} role. See the format in the shared list,
+# ol/authoring/glossary-terms.yml in the open-language package.
+#
+# Matching is literal, so a word with an everyday meaning stays off the list:
+# `dative case` rather than `case`, `verb stem` rather than a bare `ending`.
+
+terms:
+  # Parts of speech
+  - noun
+  - pronoun
+  - personal pronoun
+  - reflexive pronoun
+  - relative pronoun
+  - verb
+  - adjective
+  - adverb
+  - preposition
+  - two-way preposition
+  - conjunction
+  - question word
+  - compound noun
+  - contraction
+
+  # Articles
+  - definite article
+  - indefinite article
+  - negative article
+  - possessive article
+  - demonstrative article
+
+  # Gender and number
+  - gender
+  - term: masculine
+  - term: feminine
+  - term: neuter
+    forms: [neuters]
+  - term: singular
+  - term: plural
+  - umlaut
+
+  # The cases
+  - term: declension
+    forms: [declensions]
+  - term: nominative case
+    forms: [nominative, nominatives]
+  - term: accusative case
+    forms: [accusative, accusatives]
+  - term: dative case
+    forms: [dative, datives]
+  - term: genitive case
+    forms: [genitive, genitives]
+
+  # Verbs
+  - term: infinitive
+  - term: conjugation
+    forms: [conjugate, conjugates, conjugated, conjugating]
+  - term: verb stem
+    forms: [stem, stems]
+  - prefix
+  - term: regular verb
+  - term: irregular verb
+  - strong verb
+  - weak verb
+  - term: modal verb
+    forms: [modal, modals]
+  - term: separable verb
+    forms: [separable]
+  - term: reflexive verb
+    forms: [reflexive]
+  - auxiliary verb
+  - term: past participle
+    forms: [participle, participles]
+  - imperative
+  - term: passive voice
+    forms: [passive, passives]
+
+  # Tenses and moods
+  - tense
+  - present tense
+  - past tense
+  - future tense
+  - term: Perfekt
+    forms: [perfect tense]
+  - Präteritum
+  - Plusquamperfekt
+  - Konjunktiv I
+  - Konjunktiv II
+
+  # Comparing
+  - comparative
+  - superlative
+
+  # Sentences
+  - subject
+  - term: object
+  - direct object
+  - indirect object
+  - clause
+  - main clause
+  - subordinate clause
+  - relative clause
+  - word order
+  - sentence bracket
+  - term: negation
+    forms: [negate, negates, negated, negating]
