@@ -1,3 +1,7 @@
+---
+html_theme.sidebar_secondary.remove:
+---
+
 # Vocabulary
 
 Word packs of 10 to 15 words on one theme, each with a table of the words and sentences that use every one. Each pack stands alone, so any pack can be read first.

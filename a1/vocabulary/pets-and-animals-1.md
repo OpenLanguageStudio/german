@@ -8,26 +8,28 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Pets and animals 1
+# Pets and animals
 
-Germans adore their pets, and animal talk is early small-talk gold: who has a dog, whose cat rules the flat, what the bird did this morning. This pack covers the household animals and the two words that keep them alive: *füttern* and *das Futter*.
+Pets and animals are early small-talk material in German: who has a dog, whose cat rules the flat, what the bird did this morning.
+
+This vocabulary covers the household animals and the umbrella words *das Tier* (animal) and *das Haustier* (pet). Two words cover their care: *füttern* (to feed) and *das Futter* (animal food). The dog ritual brings in *spazieren gehen*. The {term}`plurals <plural>` in the table change in several ways, as in *die Hunde*, *die Katzen* and *die Vögel*.
 
 ## The words
 
-| German | English |
+| Word | Notes |
 |---|---|
-| der Hund, die Hunde | dog |
-| die Katze, die Katzen | cat |
-| der Vogel, die Vögel | bird |
-| der Fisch, die Fische | fish |
-| das Pferd, die Pferde | horse |
-| die Maus, die Mäuse | mouse |
-| das Tier, die Tiere | animal |
-| das Haustier, die Haustiere | pet |
-| füttern | to feed |
-| das Futter | animal food |
-| der Käfig, die Käfige | cage |
-| spazieren gehen | to go for a walk |
+| {stack}`der Hund \| dog` | plural *die Hunde* |
+| {stack}`die Katze \| cat` | plural *die Katzen* |
+| {stack}`der Vogel \| bird` | plural *die Vögel* |
+| {stack}`der Fisch \| fish` | plural *die Fische* |
+| {stack}`das Pferd \| horse` | plural *die Pferde* |
+| {stack}`die Maus \| mouse` | plural *die Mäuse* |
+| {stack}`das Tier \| animal` | plural *die Tiere* |
+| {stack}`das Haustier \| pet` | plural *die Haustiere* |
+| {stack}`füttern \| to feed` | |
+| {stack}`das Futter \| animal food` | |
+| {stack}`der Käfig \| cage` | plural *die Käfige* |
+| {stack}`spazieren gehen \| to go for a walk` | |
 
 ## Hear it in practice
 
@@ -104,5 +106,5 @@ Meine Tante hat einen Hund.
 ## Related articles
 
 - [A1 > Grammar > Noun Gender and Plurals](/a1/grammar/other/nomen-genus-plural.md)
-- [On the farm 1](/a1/vocabulary/on-the-farm-1.md)
+- [On the farm](/a1/vocabulary/on-the-farm-1.md)
 - [Talking about family](/a1/concepts/talking-about-family.md)

@@ -8,29 +8,29 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# In the supermarket 1
+# In the supermarket
 
-You will stand in a German supermarket within days of arriving, and this is the vocabulary on the shelves. The concepts album taught you what to SAY at the till; this pack stocks the basket itself, from bread and milk to the bag you forgot to bring.
+Supermarket vocabulary in German stocks the basket: bread and milk, fruit and vegetables, and the words for the checkout. It names what is on the shelves.
+
+*Obst*, *Gemüse*, *Milch* and *Käse* are collective words, so the {term}`singular` covers the lot and no {term}`plural` is needed. The checkout brings *die Kasse*, *der Preis*, *das Angebot* and *die Tüte*. One {term}`verb` runs through the pack: *einkaufen*, a {term}`separable verb` that splits in a sentence, as in *Ich kaufe am Samstag ein*.
 
 ## The words
 
-| German | English |
+| Word | Notes |
 |---|---|
-| der Supermarkt, die Supermärkte | supermarket |
-| das Brot, die Brote | bread |
-| die Milch | milk |
-| der Käse | cheese |
-| das Obst | fruit (collective) |
-| das Gemüse | vegetables (collective) |
-| der Apfel, die Äpfel | apple |
-| die Kartoffel, die Kartoffeln | potato |
-| die Kasse, die Kassen | till, checkout |
-| die Tüte, die Tüten | bag |
-| das Angebot, die Angebote | offer, special |
-| der Preis, die Preise | price |
-| einkaufen | to shop (separable) |
-
-*Obst*, *Gemüse*, *Milch*, and *Käse* are collectives: no plural needed, the singular covers the lot.
+| {stack}`der Supermarkt \| supermarket` | plural *die Supermärkte* |
+| {stack}`das Brot \| bread` | plural *die Brote* |
+| {stack}`die Milch \| milk` | |
+| {stack}`der Käse \| cheese` | |
+| {stack}`das Obst \| fruit` | collective |
+| {stack}`das Gemüse \| vegetables` | collective |
+| {stack}`der Apfel \| apple` | plural *die Äpfel* |
+| {stack}`die Kartoffel \| potato` | plural *die Kartoffeln* |
+| {stack}`die Kasse \| till, checkout` | plural *die Kassen* |
+| {stack}`die Tüte \| bag` | plural *die Tüten* |
+| {stack}`das Angebot \| offer, special` | plural *die Angebote* |
+| {stack}`der Preis \| price` | plural *die Preise* |
+| {stack}`einkaufen \| to shop` | separable |
 
 ## Hear it in practice
 
@@ -110,5 +110,5 @@ Kaufst du heute ein?
 ## Related articles
 
 - [Shopping and paying](/a1/concepts/shopping-and-paying.md)
-- [In the kitchen 1](/a1/vocabulary/in-the-kitchen-1.md)
+- [In the kitchen](/a1/vocabulary/in-the-kitchen-1.md)
 - [A1 > Grammar > Separable Verbs](/a1/grammar/verbs/trennbare-verben.md)

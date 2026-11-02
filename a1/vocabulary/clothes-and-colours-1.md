@@ -8,30 +8,32 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Clothes and colours 1
+# Clothes and colours
 
-Clothes and colours travel together: you rarely name a jacket without saying which one, and colour is how you do it. This pack pairs the core wardrobe with the six colours German reaches for first, plus the two verbs of wearing and putting on.
+Clothes and colours travel together in German: a jacket is rarely named without saying which one, and colour is how speakers do it.
+
+This vocabulary pairs the core wardrobe with the six colours German uses first, plus two {term}`verbs <verb>`. *Tragen* means to wear, and *anziehen* means to put on. A colour after *sein* takes no ending: *Die Jacke ist rot*. The colour question fits anything: *Welche Farbe hat die Hose?*
 
 ## The words
 
-| German | English |
+| Word | Notes |
 |---|---|
-| die Hose, die Hosen | trousers |
-| das Hemd, die Hemden | shirt |
-| das Kleid, die Kleider | dress |
-| die Jacke, die Jacken | jacket |
-| der Schuh, die Schuhe | shoe |
-| die Farbe, die Farben | colour |
-| rot / blau / grün | red / blue / green |
-| gelb / schwarz / weiß | yellow / black / white |
-| tragen | to wear |
-| anziehen | to put on |
+| {stack}`die Hose \| trousers` | plural *die Hosen* |
+| {stack}`das Hemd \| shirt` | plural *die Hemden* |
+| {stack}`das Kleid \| dress` | plural *die Kleider* |
+| {stack}`die Jacke \| jacket` | plural *die Jacken* |
+| {stack}`der Schuh \| shoe` | plural *die Schuhe* |
+| {stack}`die Farbe \| colour` | plural *die Farben* |
+| {stack}`rot / blau / grün \| red / blue / green` | |
+| {stack}`gelb / schwarz / weiß \| yellow / black / white` | |
+| {stack}`tragen \| to wear` | |
+| {stack}`anziehen \| to put on` | |
 
-*Tragen* changes its vowel (*er trägt*), and *anziehen* is separable (*Ich ziehe die Jacke an*). Both patterns are old friends from the grammar albums.
+*Tragen* changes its vowel (*er trägt*), and *anziehen* is {term}`separable <separable verb>` (*Ich ziehe die Jacke an*).
 
 ## Hear it in practice
 
-Colours ride along with the clothes in most sentences, so both sets settle in together; the everyday plurals (*Schuhe, Kleider*) get their own turns.
+Colours ride along with the clothes in most sentences, so both sets settle in together; the everyday {term}`plurals <plural>` (*Schuhe, Kleider*) get their own turns.
 
 :::{audio-examples}
 :track: a1/vocabulary/clothes-and-colours-1
@@ -104,5 +106,5 @@ Mein Kleid ist alt, aber schön.
 ## Related articles
 
 - [A1 > Grammar > Separable Verbs](/a1/grammar/verbs/trennbare-verben.md)
-- [In the supermarket 1](/a1/vocabulary/in-the-supermarket-1.md)
+- [In the supermarket](/a1/vocabulary/in-the-supermarket-1.md)
 - [Shopping and paying](/a1/concepts/shopping-and-paying.md)

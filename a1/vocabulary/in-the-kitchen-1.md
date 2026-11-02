@@ -7,26 +7,28 @@ myst:
     "property=og:description": "A1 vocabulary: in the kitchen 1. The German kitchen from der Tisch to der Herd, the table setting, and the verb kochen."
     "property=og:type": "article"
 ---
-# In the kitchen 1
+# In the kitchen
 
-The kitchen is where German households actually live, and its vocabulary comes up daily: setting the table, finding the milk, asking for a spoon. This pack furnishes the room and sets the table, with *kochen* to put it all to work.
+Kitchen vocabulary in German comes up every day: setting the table, finding the milk, asking for a spoon. This pack furnishes the room and sets the table.
+
+The words fall into three groups: the furniture, the table setting, and the things used for cooking. *Kochen* (to cook) is the one {term}`verb` in the pack. The {term}`nouns <noun>` go well with location phrases such as *auf dem Tisch* and *im Kühlschrank*. Some nouns look the same in the {term}`plural`, so *der Teller* becomes *die Teller* with only the article changing.
 
 ## The words
 
-| German | English |
+| Word | Notes |
 |---|---|
-| der Tisch, die Tische | table |
-| der Stuhl, die Stühle | chair |
-| der Teller, die Teller | plate |
-| die Tasse, die Tassen | cup |
-| das Glas, die Gläser | glass |
-| das Messer, die Messer | knife |
-| die Gabel, die Gabeln | fork |
-| der Löffel, die Löffel | spoon |
-| der Topf, die Töpfe | pot |
-| der Kühlschrank, die Kühlschränke | fridge |
-| der Herd, die Herde | stove |
-| kochen | to cook |
+| {stack}`der Tisch \| table` | plural *die Tische* |
+| {stack}`der Stuhl \| chair` | plural *die Stühle* |
+| {stack}`der Teller \| plate` | plural *die Teller* |
+| {stack}`die Tasse \| cup` | plural *die Tassen* |
+| {stack}`das Glas \| glass` | plural *die Gläser* |
+| {stack}`das Messer \| knife` | plural *die Messer* |
+| {stack}`die Gabel \| fork` | plural *die Gabeln* |
+| {stack}`der Löffel \| spoon` | plural *die Löffel* |
+| {stack}`der Topf \| pot` | plural *die Töpfe* |
+| {stack}`der Kühlschrank \| fridge` | plural *die Kühlschränke* |
+| {stack}`der Herd \| stove` | plural *die Herde* |
+| {stack}`kochen \| to cook` | |
 
 ## Hear it in practice
 
@@ -103,5 +105,5 @@ Wer kocht am Sonntag?
 ## Related articles
 
 - [Describing your home](/a1/concepts/describing-your-home.md)
-- [In the supermarket 1](/a1/vocabulary/in-the-supermarket-1.md)
+- [In the supermarket](/a1/vocabulary/in-the-supermarket-1.md)
 - [Describing where things are](/a1/concepts/describing-where-things-are.md)

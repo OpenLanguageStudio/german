@@ -8,26 +8,28 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Sports and games 1
+# Sports and games
 
-Sport is Germany's second language, and football its grammar. Whether you play or only cheer, this vocabulary carries weekend plans, office small talk, and every conversation that starts with last night's *Spiel*. The verb pair *gewinnen* and *verlieren* covers both possible moods.
+Sports vocabulary in German carries weekend plans, office small talk, and every conversation that starts with last night's *Spiel*. Football is the favourite topic.
+
+The pack names the scene, the places and the things people use. The {term}`verbs <verb>` split into two groups. *Laufen*, *schwimmen* and *trainieren* are what the body does, and *laufen* changes its vowel in *er läuft*. *Gewinnen* and *verlieren* are the two possible endings of a game. Both work whether the speaker plays or only watches.
 
 ## The words
 
-| German | English |
+| Word | Notes |
 |---|---|
-| der Sport | sport |
-| der Fußball | football |
-| das Spiel, die Spiele | game, match |
-| das Team, die Teams | team |
-| der Ball, die Bälle | ball |
-| das Schwimmbad, die Schwimmbäder | swimming pool |
-| das Fahrrad, die Fahrräder | bicycle |
-| laufen | to run (er läuft) |
-| schwimmen | to swim |
-| gewinnen | to win |
-| verlieren | to lose |
-| trainieren | to train |
+| {stack}`der Sport \| sport` | |
+| {stack}`der Fußball \| football` | |
+| {stack}`das Spiel \| game, match` | plural *die Spiele* |
+| {stack}`das Team \| team` | plural *die Teams* |
+| {stack}`der Ball \| ball` | plural *die Bälle* |
+| {stack}`das Schwimmbad \| swimming pool` | plural *die Schwimmbäder* |
+| {stack}`das Fahrrad \| bicycle` | plural *die Fahrräder* |
+| {stack}`laufen \| to run` | *er läuft* |
+| {stack}`schwimmen \| to swim` | |
+| {stack}`gewinnen \| to win` | |
+| {stack}`verlieren \| to lose` | |
+| {stack}`trainieren \| to train` | |
 
 ## Hear it in practice
 
@@ -107,5 +109,5 @@ Ich trainiere am Abend.
 ## Related articles
 
 - [Talking about abilities](/a1/concepts/talking-about-abilities.md)
-- [At the park 1](/a1/vocabulary/at-the-park-1.md)
-- [Everyday verbs 2](/a1/vocabulary/everyday-verbs-2.md)
+- [At the park](/a1/vocabulary/at-the-park-1.md)
+- [Vowel-changing everyday verbs](/a1/vocabulary/everyday-verbs-2.md)

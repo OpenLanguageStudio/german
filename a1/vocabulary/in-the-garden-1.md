@@ -8,26 +8,28 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# In the garden 1
+# In the garden
 
-Germany is a nation of gardeners, from balcony tomatoes to the beloved *Schrebergarten*. This pack plants a small garden and tends it through the verbs: *pflanzen*, *wachsen*, *gießen*, *schneiden*. Sun and rain come included.
+Garden vocabulary in German runs from balcony tomatoes to the *Schrebergarten*, the small rented allotment. This pack plants a small garden and tends it.
+
+The {term}`verbs <verb>` follow the gardening year: *pflanzen* to plant, *gießen* to water and *schneiden* to cut. *Wachsen* is the plant's own verb. *Die Sonne* and *der Regen* come in as well, because the garden depends on them. The {term}`nouns <noun>` run from the garden itself to what grows in it.
 
 ## The words
 
-| German | English |
+| Word | Notes |
 |---|---|
-| der Garten, die Gärten | garden |
-| die Blume, die Blumen | flower |
-| der Baum, die Bäume | tree |
-| das Gras | grass |
-| der Apfel, die Äpfel | apple |
-| die Tomate, die Tomaten | tomato |
-| die Sonne | sun |
-| der Regen | rain |
-| pflanzen | to plant |
-| wachsen | to grow (er wächst) |
-| gießen | to water |
-| schneiden | to cut |
+| {stack}`der Garten \| garden` | plural *die Gärten* |
+| {stack}`die Blume \| flower` | plural *die Blumen* |
+| {stack}`der Baum \| tree` | plural *die Bäume* |
+| {stack}`das Gras \| grass` | |
+| {stack}`der Apfel \| apple` | plural *die Äpfel* |
+| {stack}`die Tomate \| tomato` | plural *die Tomaten* |
+| {stack}`die Sonne \| sun` | |
+| {stack}`der Regen \| rain` | |
+| {stack}`pflanzen \| to plant` | |
+| {stack}`wachsen \| to grow` | *er wächst* |
+| {stack}`gießen \| to water` | |
+| {stack}`schneiden \| to cut` | |
 
 *Wachsen* is a vowel-changer: *der Baum wächst*. The rest of the verbs behave themselves.
 
@@ -108,6 +110,6 @@ Der Apfelbaum wächst jedes Jahr.
 
 ## Related articles
 
-- [At the park 1](/a1/vocabulary/at-the-park-1.md)
+- [At the park](/a1/vocabulary/at-the-park-1.md)
 - [Talking about the weather](/a1/concepts/talking-about-the-weather.md)
 - [Describing your home](/a1/concepts/describing-your-home.md)

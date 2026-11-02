@@ -8,26 +8,28 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# At the park 1
+# At the park
 
-The park is where German cities breathe: children on the playground, bikes on the paths, someone on every bench. This pack furnishes a green afternoon, with three verbs that do most of the lounging: *spazieren gehen*, *spielen*, and *sitzen*.
+Park vocabulary in German covers a green afternoon: trees and flowers, the playground, a bench, and bikes on the paths.
+
+The park is where German cities breathe, with children on the playground and someone on every bench. Three {term}`verbs <verb>` cover most of what happens there: *spazieren gehen*, *spielen* and *sitzen*. The {term}`nouns <noun>` split into the scenery and the things people use there, and the table gives each {term}`plural` next to its word.
 
 ## The words
 
-| German | English |
+| Word | Notes |
 |---|---|
-| der Park, die Parks | park |
-| der Baum, die Bäume | tree |
-| die Blume, die Blumen | flower |
-| der Spielplatz, die Spielplätze | playground |
-| die Bank, die Bänke | bench |
-| der Weg, die Wege | path |
-| das Gras | grass |
-| der Ball, die Bälle | ball |
-| das Fahrrad, die Fahrräder | bicycle |
-| spazieren gehen | to go for a walk |
-| spielen | to play |
-| sitzen | to sit |
+| {stack}`der Park \| park` | plural *die Parks* |
+| {stack}`der Baum \| tree` | plural *die Bäume* |
+| {stack}`die Blume \| flower` | plural *die Blumen* |
+| {stack}`der Spielplatz \| playground` | plural *die Spielplätze* |
+| {stack}`die Bank \| bench` | plural *die Bänke* |
+| {stack}`der Weg \| path` | plural *die Wege* |
+| {stack}`das Gras \| grass` | |
+| {stack}`der Ball \| ball` | plural *die Bälle* |
+| {stack}`das Fahrrad \| bicycle` | plural *die Fahrräder* |
+| {stack}`spazieren gehen \| to go for a walk` | |
+| {stack}`spielen \| to play` | |
+| {stack}`sitzen \| to sit` | |
 
 ## Hear it in practice
 
@@ -103,6 +105,6 @@ Ich sitze gern in der Sonne.
 
 ## Related articles
 
-- [In the garden 1](/a1/vocabulary/in-the-garden-1.md)
-- [Sports and games 1](/a1/vocabulary/sports-and-games-1.md)
+- [In the garden](/a1/vocabulary/in-the-garden-1.md)
+- [Sports and games](/a1/vocabulary/sports-and-games-1.md)
 - [Talking about the weather](/a1/concepts/talking-about-the-weather.md)
