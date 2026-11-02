@@ -10,7 +10,9 @@ myst:
 ---
 # Talking about past events
 
-*Wie war dein Wochenende?* turns up long before the past tense is properly learned. The way through is *war* and *hatte* used freely, plus a starter set of past forms treated as ready-made chunks. Full past-tense grammar has its own articles later. This page is about talking first.
+*Wie war dein Wochenende?* turns up long before the {term}`past tense` is properly learned. The way through is *war* and *hatte*, plus a starter set of past forms treated as ready-made chunks.
+
+*War* and *hatte* are the single-word past forms of *sein* and *haben*, and they already describe most of a weekend. Actions need two parts: *haben* in second place and a *ge-* form at the end, as in *Ich habe Fußball gespielt*. That *ge-* form is called the {term}`past participle`, and the two-part form is the {term}`Perfekt`. At A1, five past participles work as fixed chunks.
 
 ## When to use it
 
@@ -20,18 +22,25 @@ myst:
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Wie war dein Wochenende? | How was your weekend? | THE Monday question |
-| Ich war im Kino. | I was at the cinema. | war = was |
-| Ich hatte viel Arbeit. | I had a lot of work. | hatte = had |
-| Was hast du gestern gemacht? | What did you do yesterday? | |
-| Ich habe ... gemacht / gesehen / gegessen. | I did / watched / ate ... | Perfekt chunks |
-| gestern, letzte Woche | yesterday, last week | time words |
+### How it was
 
-## Where you were: *war* and *hatte*
+| Phrase | Notes |
+|---|---|
+| {stack}`Wie war dein Wochenende? \| How was your weekend?` | THE Monday question |
+| {stack}`Ich war im Kino. \| I was at the cinema.` | war = was |
+| {stack}`Ich hatte viel Arbeit. \| I had a lot of work.` | hatte = had |
 
-The past of *sein* and *haben* comes in single words: *ich war* (I was), *ich hatte* (I had). With just these two you can already describe most of a weekend.
+### What happened
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Was hast du gestern gemacht? \| What did you do yesterday?` | |
+| {stack}`Ich habe ... gemacht / gesehen / gegessen. \| I did / watched / ate ...` | Perfekt chunks |
+| {stack}`gestern, letzte Woche \| yesterday, last week` | time words |
+
+## Two single words: *war* and *hatte*
+
+The past of *sein* and *haben* comes in single words: *ich war* (I was), *ich hatte* (I had). These two cover most of a weekend.
 
 **Examples:**
 
@@ -46,9 +55,9 @@ Das Essen {verb}`war` lecker.
 : The food was delicious.
 :::
 
-## What you did: Perfekt chunks
+## Actions in the past: Perfekt chunks
 
-Actions use a two-part pattern: *haben* in position 2, a *ge-* form at the end. Learn these five as whole chunks: *gemacht* (did), *gesehen* (watched), *gegessen* (ate), *gekauft* (bought), *gespielt* (played). The bracket shape is the one you know from the modals.
+Actions use a two-part pattern: *haben* in position 2, a *ge-* form at the end. These five work as whole chunks: *gemacht* (did), *gesehen* (watched), *gegessen* (ate), *gekauft* (bought), *gespielt* (played). {term}`Modal verbs <modal verb>` have the same two-part shape.
 
 **Examples:**
 
@@ -63,11 +72,9 @@ Was {verb}`hast` du gestern **gemacht**?
 : What did you do yesterday?
 :::
 
-The system behind these forms arrives in the Perfekt grammar articles; until then the five chunks cover a remarkable amount of ground.
+The system behind these forms has its own grammar article.
 
-## Placing events in time
-
-*Gestern* (yesterday), *letzte Woche* (last week), *letztes Jahr* (last year), *am Samstag*: put one of these first and the verb stays second, as always.
+*Gestern* (yesterday), *letzte Woche* (last week), *letztes Jahr* (last year), *am Samstag*: put one of these first and the {term}`verb` stays second, as always.
 
 **Examples:**
 
@@ -157,7 +164,7 @@ Wo warst du gestern?
 
 - *war* and *hatte* are single words; use them freely now.
 - Five Perfekt chunks to start: *gemacht, gesehen, gegessen, gekauft, gespielt*.
-- The pattern is a bracket: *habe* in position 2, the ge-form at the end.
+- The pattern is a {term}`sentence bracket`: *habe* in position 2, the ge-form at the end.
 - Time words first, verb second: *Gestern war ich ...*
 :::
 

@@ -10,7 +10,9 @@ myst:
 ---
 # Asking for and giving directions
 
-Directions come in a small, predictable set of instructions, which makes this one of the most learnable listening skills at A1. The difficulty is rarely the vocabulary. It is catching the instructions at speed, which is why the phrases here are worth over-learning.
+Asking for and giving directions in German uses a small, predictable set of instructions. That makes it one of the most learnable listening skills at A1.
+
+The vocabulary is small, so the hard part is catching the instructions at speed. Questions open with *Entschuldigung*, then *Wo ist ...?* or *Wie komme ich zum ...?* Answers come in the formal {term}`imperative`, the {term}`verb` form for instructions: *Gehen Sie geradeaus*. With *links*, *rechts* and a landmark or two, that covers the grammar of directions. The {term}`contraction` *zum* or *zur* depends on the {term}`gender` of the place: *zum Bahnhof*, *zur Post*.
 
 ## When to use it
 
@@ -20,15 +22,22 @@ Directions come in a small, predictable set of instructions, which makes this on
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Entschuldigung, wo ist ...? | Excuse me, where is ...? | the opener |
-| Wie komme ich zum / zur ...? | How do I get to ...? | zum (m/n), zur (f) |
-| Gehen Sie geradeaus. | Go straight ahead. | |
-| Gehen Sie links / rechts. | Turn left / right. | |
-| Ist das weit von hier? | Is that far from here? | |
-| ... zu Fuß | ... on foot | |
-| Gern geschehen! | You're welcome! | the reply to danke |
+### Asking the way
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Entschuldigung, wo ist ...? \| Excuse me, where is ...?` | the opener |
+| {stack}`Wie komme ich zum / zur ...? \| How do I get to ...?` | zum (m/n), zur (f) |
+| {stack}`Ist das weit von hier? \| Is that far from here?` | |
+
+### Understanding the answer
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Gehen Sie geradeaus. \| Go straight ahead.` | |
+| {stack}`Gehen Sie links / rechts. \| Turn left / right.` | |
+| {stack}`... zu Fuß \| ... on foot` | |
+| {stack}`Gern geschehen! \| You're welcome!` | the reply to danke |
 
 ## Asking the way
 
@@ -47,7 +56,7 @@ Ich suche die Goethestraße.
 : I am looking for Goethestraße.
 :::
 
-## Understanding the answer
+## Understanding the answer and saying thanks
 
 Answers arrive in the formal imperative: *Gehen Sie ..., Nehmen Sie ...*. Combined with *geradeaus*, *links*, *rechts*, and a landmark or two, that is the entire grammar of directions.
 
@@ -63,8 +72,6 @@ Nehmen Sie die erste Straße links.
 Sie müssen den Bus nehmen.
 : You have to take the bus.
 :::
-
-## Distance and thanks
 
 *Ist das weit von hier?* checks the distance; answers usually come in minutes on foot. Close with thanks and expect *Gern geschehen*.
 
@@ -166,7 +173,7 @@ Gern geschehen!
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Wie komme ich zu der Bahnhof?* → **zum** Bahnhof. (masculine contracts to zum)
+- *\*Wie komme ich zu der Bahnhof?* → **zum** Bahnhof. ({term}`masculine` contracts to zum)
 - Hearing *rechts* but walking left: drill the pair until automatic; they sound nothing alike, but under stress everything blurs.
 - Forgetting the opener: a bare *Wo ist der Bahnhof?* at a stranger sounds abrupt; **Entschuldigung** first.
 :::

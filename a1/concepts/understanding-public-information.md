@@ -10,7 +10,9 @@ myst:
 ---
 # Understanding public information
 
-Signs, notices, and loudspeaker announcements fill German public space: shop hours, station platforms, and the little imperatives on every door. This is a receptive skill, so the goal is catching these phrases rather than producing them.
+Signs, notices and loudspeaker announcements fill German public space: shop hours, station platforms, and short instructions on almost every door.
+
+This is a reading and listening skill, so the goal is catching these phrases more than producing them. Signs compress language to a few words, often with no {term}`verb`: *geöffnet*, *Rauchen verboten*. Official requests use *Bitte* plus an {term}`infinitive`, as in *Bitte hier warten*. Station announcements repeat the same few patterns with different numbers, so the words to catch are *Gleis*, *Verspätung* and *Halt*.
 
 ## When to use it
 
@@ -20,17 +22,24 @@ Signs, notices, and loudspeaker announcements fill German public space: shop hou
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| geöffnet / geschlossen | open / closed | shop doors |
-| Eingang / Ausgang | entrance / exit | |
-| drücken / ziehen | push / pull | on doors |
-| ... verboten | ... prohibited | Rauchen verboten |
-| Achtung! / Vorsicht! | Attention! / Careful! | |
-| das Gleis | the platform | stations |
-| die Verspätung | the delay | |
+### Doors and signs
 
-## Doors, shops, and signs
+| Phrase | Notes |
+|---|---|
+| {stack}`geöffnet / geschlossen \| open / closed` | shop doors |
+| {stack}`Eingang / Ausgang \| entrance / exit` | |
+| {stack}`drücken / ziehen \| push / pull` | on doors |
+| {stack}`... verboten \| ... prohibited` | Rauchen verboten |
+| {stack}`Achtung! / Vorsicht! \| Attention! / Careful!` | |
+
+### At the station
+
+| Phrase | Notes |
+|---|---|
+| {stack}`das Gleis \| the platform` | stations |
+| {stack}`die Verspätung \| the delay` | |
+
+## Doors, signs and official requests
 
 Signs compress language to its bones: no articles, no full sentences. Opening hours run *von ... bis ...*, prohibitions end in *verboten*.
 
@@ -47,9 +56,21 @@ Rauchen verboten.
 : Smoking prohibited.
 :::
 
+*Bitte* plus an infinitive is the polite official voice: *Bitte hier warten. Bitte drücken.* It appears on machines, counters and doors everywhere.
+
+**Examples:**
+
+:::{div} ol-examples
+Bitte hier warten.
+: Please wait here.
+
+Der Aufzug ist kaputt.
+: The lift is out of order.
+:::
+
 ## At the station
 
-Announcements recycle the same handful of patterns with different numbers. Listen for the platform (*Gleis*), the delay (*Verspätung*), and the stop (*Halt*).
+Announcements recycle the same handful of patterns with different numbers. The words to catch are the platform (*Gleis*), the delay (*Verspätung*) and the stop (*Halt*).
 
 **Examples:**
 
@@ -62,20 +83,6 @@ Der Zug hat zehn Minuten Verspätung.
 
 Nächster Halt: Hauptbahnhof.
 : Next stop: main station.
-:::
-
-## Short official requests
-
-*Bitte* plus an infinitive is the polite official voice: *Bitte hier warten. Bitte drücken.* You will see it on machines, counters, and doors everywhere.
-
-**Examples:**
-
-:::{div} ol-examples
-Bitte hier warten.
-: Please wait here.
-
-Der Aufzug ist kaputt.
-: The lift is out of order.
 :::
 
 ## Hear it in practice
@@ -165,7 +172,7 @@ Der Aufzug ist kaputt.
 
 - Confusing *drücken* (push) and *ziehen* (pull): the daily door lottery; learn the pair.
 - Hearing *Gleis fünf* but running to platform four: numbers under pressure need the drill from the numbers track.
-- *Kein Trinkwasser* means the water is NOT drinkable; *kein* on a sign always warns.
+- *Kein Trinkwasser* means the water is NOT drinkable; *kein* on a sign usually warns.
 :::
 
 ## Related articles

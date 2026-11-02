@@ -10,7 +10,9 @@ myst:
 ---
 # Talking about abilities
 
-One modal verb does nearly all the work here, so this concept is mostly about fluency with *können*. What varies is the small words around it, the ones that grade an ability from barely to very well, and the phrasing for a skill that is still missing.
+Talking about abilities in German needs one {term}`modal verb`, *können*, and a few small words that grade a skill from barely to very well.
+
+*Können* takes second place in the sentence, and the skill goes to the very end in the {term}`infinitive`: *Ich kann gut schwimmen*. The words in between do the grading: *gut*, *sehr gut* or *ein bisschen*. *Nicht* comes in front of the final {term}`verb`, and *noch nicht* (not yet) marks a skill still on the way. Languages and instruments take no article: *Deutsch sprechen*, *Klavier spielen*.
 
 ## When to use it
 
@@ -20,18 +22,25 @@ One modal verb does nearly all the work here, so this concept is mostly about fl
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Ich kann (gut) schwimmen. | I can swim (well). | |
-| Ich kann nicht singen. | I can't sing. | |
-| ein bisschen | a little | the honest qualifier |
-| schon / noch nicht | already / not yet | progress words |
-| Kannst du ...? | Can you ...? | |
-| Was kannst du gut? | What are you good at? | |
+### Skills and how well
 
-## Saying what you can do
+| Phrase | Notes |
+|---|---|
+| {stack}`Ich kann (gut) schwimmen. \| I can swim (well).` | |
+| {stack}`Ich kann nicht singen. \| I can't sing.` | |
+| {stack}`ein bisschen \| a little` | the honest qualifier |
+| {stack}`schon / noch nicht \| already / not yet` | progress words |
 
-*Können* opens the bracket, the skill closes it as an infinitive. Grade it with *gut*, *sehr gut*, or *ein bisschen*.
+### Asking
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Kannst du ...? \| Can you ...?` | |
+| {stack}`Was kannst du gut? \| What are you good at?` | |
+
+## Stating a skill
+
+*Können* comes second, and the skill closes the sentence as an infinitive. Grade it with *gut*, *sehr gut*, or *ein bisschen*.
 
 **Examples:**
 
@@ -46,7 +55,7 @@ Sie kann Auto **fahren**.
 : She can drive.
 :::
 
-## Saying what you cannot do
+## Missing skills and asking others
 
 *Nicht* slots in before the closing infinitive. For skills still on the way, *noch nicht* (not yet) is kinder and often truer; its opposite *schon* (already) celebrates progress.
 
@@ -62,8 +71,6 @@ Mein Sohn kann **noch nicht** schreiben.
 Meine Tochter kann **schon** lesen.
 : My daughter can already read.
 :::
-
-## Asking others
 
 *Kannst du ...?* and *Können Sie ...?* ask about ability; *Was kannst du gut?* opens the topic wide.
 

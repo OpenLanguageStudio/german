@@ -10,7 +10,9 @@ myst:
 ---
 # Expressing how you feel
 
-*Wie geht es dir?* deserves a better answer than *gut*. Moods, tiredness, illness, and aches each have their own small set of phrases, and the difference matters socially as much as it matters at the pharmacy counter.
+*Wie geht es dir?* deserves a better answer than *gut*. Moods, tiredness, illness and aches each have their own small set of phrases in German.
+
+Each kind of feeling has its own pattern. Moods use *sein* plus an {term}`adjective`: *Ich bin müde*. The general answer is *Mir geht es gut*, where *mir* is a {term}`dative <dative case>` form meaning "to me". Pain has two patterns: *haben* with a *-schmerzen* {term}`noun`, or a body part with *wehtun*. English *I am fine* does not translate word for word, because *Ich bin gut* means something else.
 
 ## When to use it
 
@@ -20,19 +22,26 @@ myst:
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Mir geht es gut / nicht so gut. | I am fine / not so well. | the base chunk |
-| Ich bin müde / krank. | I am tired / ill. | sein + adjective |
-| Ich habe Kopfschmerzen. | I have a headache. | haben + noun |
-| Mein Kopf tut weh. | My head hurts. | wehtun |
-| Ich bin erkältet. | I have a cold. | |
-| Gute Besserung! | Get well soon! | the reply to illness |
-| Was ist los? | What's the matter? | |
+### How someone feels
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Mir geht es gut / nicht so gut. \| I am fine / not so well.` | the base chunk |
+| {stack}`Ich bin müde / krank. \| I am tired / ill.` | sein + adjective |
+| {stack}`Ich habe Kopfschmerzen. \| I have a headache.` | haben + noun |
+| {stack}`Mein Kopf tut weh. \| My head hurts.` | wehtun |
+| {stack}`Ich bin erkältet. \| I have a cold.` | |
+
+### Responding
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Gute Besserung! \| Get well soon!` | the reply to illness |
+| {stack}`Was ist los? \| What's the matter?` | |
 
 ## Moods with *sein*
 
-Feelings that describe you take *sein* plus an adjective: *müde, krank, glücklich, traurig, nervös, zufrieden*. Soften with *ein bisschen*, strengthen with *sehr*.
+Feelings take *sein* plus an adjective: *müde, krank, glücklich, traurig, nervös, zufrieden*. Soften with *ein bisschen*, strengthen with *sehr*.
 
 **Examples:**
 
@@ -47,7 +56,7 @@ Wir sind sehr zufrieden.
 : We are very satisfied.
 :::
 
-## Aches and illness
+## Aches, illness and asking after someone
 
 Pains come in two patterns: *haben* with a *-schmerzen* noun, or a body part with *wehtun*. Being ill has its own words: *krank*, *erkältet*, *Fieber haben*.
 
@@ -65,8 +74,6 @@ Ich bin erkältet und habe Fieber.
 :::
 
 When someone else is ill, the fixed response is *Gute Besserung!*
-
-## Asking after someone
 
 *Was ist los?* asks what is wrong; *Alles in Ordnung?* checks that things are fine. The reassuring answer: *Alles ist in Ordnung.*
 
@@ -166,7 +173,7 @@ Alles ist in Ordnung.
 :class: caution
 
 - *\*Ich bin gut.* for "I'm fine" → **Mir geht es gut.** (Ich bin gut = I'm good at things)
-- *\*Mein Kopf ist weh.* → Mein Kopf **tut weh**. (wehtun is a verb)
+- *\*Mein Kopf ist weh.* → Mein Kopf **tut weh**. (wehtun is a {term}`verb`)
 - *\*Ich habe kalt.* → Mir ist kalt. (a chunk worth learning as-is)
 :::
 

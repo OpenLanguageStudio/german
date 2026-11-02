@@ -10,7 +10,9 @@ myst:
 ---
 # Ordering food and drink
 
-A café or restaurant visit runs on a small, predictable script: the menu, the order, any dietary exception, then the bill. It combines *möchten*, *nehmen*, and the accusative into one very practical routine.
+Ordering food and drink in a café or restaurant runs on a small, predictable script: the menu, the order, any dietary exception, then the bill.
+
+The script combines two {term}`verbs <verb>` with one point of grammar. *Ich möchte* and *Ich nehme* carry every order. The dish after them stands in the {term}`accusative <accusative case>`, the form for the thing ordered: *Ich nehme den Salat*. *Ich esse kein Fleisch* states a dietary limit. German restaurants split bills as a matter of course, so *Zusammen oder getrennt?* is a question to expect at the end.
 
 ## When to use it
 
@@ -20,17 +22,24 @@ A café or restaurant visit runs on a small, predictable script: the menu, the o
 
 ## Key phrases
 
-| German | English | Notes |
-|---|---|---|
-| Die Speisekarte, bitte. | The menu, please. | |
-| Ich möchte ..., bitte. | I would like ..., please. | polite order |
-| Ich nehme ... | I'll take ... | deciding |
-| Für mich ..., bitte. | ... for me, please. | ordering in a group |
-| Ich esse kein ... | I don't eat ... | dietary limits |
-| Die Rechnung, bitte. | The bill, please. | |
-| Zusammen oder getrennt? | Together or separately? | the paying question |
+### Ordering
 
-## Ordering
+| Phrase | Notes |
+|---|---|
+| {stack}`Die Speisekarte, bitte. \| The menu, please.` | |
+| {stack}`Ich möchte ..., bitte. \| I would like ..., please.` | polite order |
+| {stack}`Ich nehme ... \| I'll take ...` | deciding |
+| {stack}`Für mich ..., bitte. \| ... for me, please.` | ordering in a group |
+| {stack}`Ich esse kein ... \| I don't eat ...` | dietary limits |
+
+### Paying
+
+| Phrase | Notes |
+|---|---|
+| {stack}`Die Rechnung, bitte. \| The bill, please.` | |
+| {stack}`Zusammen oder getrennt? \| Together or separately?` | the paying question |
+
+## Ordering and preferences
 
 *Ich möchte* and *Ich nehme* carry every order; the dish stands in the accusative. In a group, *Für mich ...* keeps track of who ordered what.
 
@@ -47,9 +56,7 @@ Für mich einen Kaffee, bitte.
 : A coffee for me, please.
 :::
 
-## Preferences and questions
-
-Say what you avoid with *kein*, and let the staff work for you with *empfehlen* (to recommend).
+*Kein* states what someone avoids, and *empfehlen* (to recommend) asks the staff for help.
 
 **Examples:**
 
@@ -168,7 +175,7 @@ Das Essen war sehr gut.
 
 - *\*Ich will eine Pizza.* → Ich **möchte** eine Pizza, bitte. (wollen is too blunt here)
 - *\*Ich nehme der Salat.* → Ich nehme **den** Salat. (accusative)
-- *\*Ich esse nicht Fleisch.* → Ich esse **kein** Fleisch. (nouns negate with kein)
+- *\*Ich esse nicht Fleisch.* → Ich esse **kein** Fleisch. ({term}`nouns <noun>` {term}`negate <negation>` with kein)
 :::
 
 ## Related articles
