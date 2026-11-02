@@ -8,15 +8,17 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# The Accusative Case
+# The accusative case
+
+The accusative case marks the {term}`direct object`, the person or thing that receives the action of the {term}`verb`: *Ich sehe den Bus*.
+
+A case is the form a {term}`noun` and its article take to show their job in the sentence. At A1 the accusative changes very little. {term}`Feminine`, {term}`neuter` and {term}`plural` forms look exactly like the {term}`nominative <nominative case>`. Only the {term}`masculine` forms are new: *der* becomes *den*, *ein* becomes *einen* and *kein* becomes *keinen*. Most everyday verbs that act on something take the accusative.
 
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
 - [A1 > Grammar > The Nominative Case](/a1/grammar/cases/nominativ.md)
 :::
-
-When a person or thing receives the action of the verb, it stands in the accusative: *Ich sehe **den** Bus.* The good news at A1 is that the accusative changes very little. Feminine, neuter, and plural forms look exactly like the nominative; only the masculine forms are new.
 
 ## The direct object
 
@@ -44,7 +46,7 @@ Compare the two cases. Everything stays the same except the masculine column:
 | Nominative | der / ein / kein | die / eine / keine | das / ein / kein | die / – / keine |
 | Accusative | **den / einen / keinen** | die / eine / keine | das / ein / kein | die / – / keine |
 
-Possessive articles follow along: *mein* becomes **meinen**, *dein* becomes **deinen**, and so on.
+{term}`Possessive articles <possessive article>` follow along: *mein* becomes **meinen**, *dein* becomes **deinen**, and so on.
 
 **Examples:**
 
@@ -75,6 +77,14 @@ Kennst du {akk}`den Film`?
 
 :::{tip}
 *Es gibt* (there is) always takes the accusative: *Es gibt **einen** Park.* More on this in [es gibt](/a1/grammar/verbs/es-gibt.md).
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich sehe der Mann.* → Ich sehe **den** Mann. (direct object, masculine)
+- *\*Ich habe ein Bruder.* → Ich habe **einen** Bruder. (*haben* takes the accusative)
+- *\*Sie hat keinen Zeit.* → Sie hat **keine** Zeit. (*Zeit* is feminine; only masculine takes -en)
 :::
 
 ## Hear it in practice
@@ -160,14 +170,6 @@ Was kaufst du?
 - Only masculine forms change: *der* → *den*, *ein* → *einen*, *kein* → *keinen*, *mein* → *meinen*.
 - Feminine, neuter, and plural look exactly like the nominative.
 - Everyday verbs like *haben, brauchen, kaufen, sehen* take the accusative, and so does *es gibt*.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich sehe der Mann.* → Ich sehe **den** Mann. (direct object, masculine)
-- *\*Ich habe ein Bruder.* → Ich habe **einen** Bruder. (*haben* takes the accusative)
-- *\*Sie hat keinen Zeit.* → Sie hat **keine** Zeit. (*Zeit* is feminine; only masculine takes -en)
 :::
 
 ## Related articles

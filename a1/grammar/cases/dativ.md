@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# The Dative Case
+# The dative case
 
-At A1 the dative turns up in one main place: after a small group of prepositions that always demand it. The full dative system can wait. What matters now is recognising the forms and using them after these prepositions, which covers almost every dative at this level.
+The dative case turns up in one main place at A1: after a few {term}`prepositions <preposition>` that always demand it, such as *mit* and *aus*.
+
+A case is the form a {term}`noun` and its article take to show their job in the sentence. Prepositions are small words such as *with* or *from*, and these seven always bring the dative, so there is no decision to make. The articles change to *dem*, *der* and *den*. That covers almost every dative at this level, along with a few fixed phrases such as *Wie geht es dir?*
 
 ## Seven prepositions that always take the dative
 
@@ -35,7 +37,7 @@ After these prepositions the articles change like this:
 | Definite | dem | der | dem | den |
 | Indefinite | einem | einer | einem | – |
 
-*Kein* and the possessives take the same endings: *keinem, keiner, keinem, keinen*; *meinem, meiner, meinem, meinen*. In the dative plural the noun itself also adds **-n**: *bei meinen Elter**n***.
+*Kein* and the possessives take the same endings: *keinem, keiner, keinem, keinen*; *meinem, meiner, meinem, meinen*. In the dative {term}`plural` the noun itself also adds **-n**: *bei meinen Elter**n***.
 
 **Examples:**
 
@@ -51,12 +53,12 @@ Ich lerne seit {dativ}`einem Jahr` Deutsch.
 :::
 
 :::{tip}
-*Zu dem* usually shortens to **zum** and *zu der* to **zur**: *zum Arzt*, *zur Schule*. These contractions get their own page later: [Contracted Prepositions](/a1/grammar/prepositions/kurzformen.md).
+*Zu dem* usually shortens to **zum** and *zu der* to **zur**: *zum Arzt*, *zur Schule*. These {term}`contractions <contraction>` get their own page later: [Contracted Prepositions](/a1/grammar/prepositions/kurzformen.md).
 :::
 
 ## Everyday chunks
 
-A few fixed phrases use dative pronouns long before you study them as a system. Learn these as whole chunks:
+A few fixed phrases use dative {term}`pronouns <pronoun>` at A1, and they work as whole chunks:
 
 **Examples:**
 
@@ -73,7 +75,15 @@ Wie geht es {dativ}`Ihnen`?
 
 ## A look ahead
 
-German also uses the dative for the indirect object, the receiver in sentences like *Ich gebe **dem Mann** das Buch* (I give the man the book). That system is A2 material and gets its own article there. At A1, the prepositions and chunks above are enough.
+German also uses the dative for the {term}`indirect object`, the receiver of something: *Ich gebe **dem Mann** das Buch* (I give the man the book). That system is A2 material and gets its own article there. At A1, the prepositions and chunks above are enough.
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich fahre mit den Bus.* → Ich fahre mit **dem** Bus. (*mit* takes the dative)
+- *\*Sie kommt aus die Schweiz.* → Sie kommt aus **der** Schweiz. ({term}`feminine` dative is *der*)
+- *\*mit die Kinder* → mit **den Kindern**. (dative plural: *den* plus -n on the noun)
+:::
 
 ## Hear it in practice
 
@@ -155,18 +165,10 @@ Sie spricht mit der Lehrerin.
 :class: note
 
 - Seven prepositions always take the dative: *aus, bei, mit, nach, von, zu, seit*.
-- The definite articles become *dem* (m/n), *der* (f), *den* (plural).
+- The {term}`definite articles <definite article>` become *dem* (m/n), *der* (f), *den* (plural).
 - Dative plural nouns add -n: *bei meinen Eltern*.
 - Learn *Wie geht es dir? Mir geht es gut.* as fixed chunks.
 - The dative as indirect object comes at A2.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich fahre mit den Bus.* → Ich fahre mit **dem** Bus. (*mit* takes the dative)
-- *\*Sie kommt aus die Schweiz.* → Sie kommt aus **der** Schweiz. (feminine dative is *der*)
-- *\*mit die Kinder* → mit **den Kindern**. (dative plural: *den* plus -n on the noun)
 :::
 
 ## Related articles

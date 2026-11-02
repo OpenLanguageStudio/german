@@ -8,15 +8,17 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Possessive Articles
+# Possessive articles
+
+A possessive article says who something belongs to: German *mein*, *dein*, *sein* and *ihr* match English *my*, *your*, *his* and *her*. Each person has its own word.
+
+The word depends on the owner, and the ending depends on the {term}`noun` that follows. So *his dog* is *sein Hund* and *her dog* is *ihr Hund*, whatever the {term}`gender` of the dog. The endings are those of *ein* and *kein*: none for {term}`masculine` and {term}`neuter` nouns, and *-e* for {term}`feminine` and {term}`plural` nouns. A masculine {term}`direct object` takes *-en*: *Ich besuche meinen Vater*.
 
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
 - [A1 > Grammar > Indefinite Articles](/a1/grammar/articles/unbestimmter-artikel.md)
 :::
-
-Possessive articles say who something belongs to: *my*, *your*, *his*, *her*. Each person has its own possessive word, and each takes the same endings as *ein* and *kein*. If you can say *eine Schwester*, you can already say *meine Schwester*.
 
 ## One word per person
 
@@ -35,9 +37,6 @@ Possessive articles say who something belongs to: *my*, *your*, *his*, *her*. Ea
 :::{div} ol-examples
 {article}`Mein` Bruder wohnt in Berlin.
 : My brother lives in Berlin.
-
-Ist das {article}`dein` Fahrrad?
-: Is that your bike?
 
 {article}`Sein` Hund ist klein.
 : His dog is small. (er, so sein)
@@ -65,9 +64,6 @@ The possessive article takes the ein-word endings: no ending for masculine and n
 {article}`Meine` Schwester ist Ärztin.
 : My sister is a doctor. (feminine)
 
-{article}`Unsere` Kinder sind müde.
-: Our children are tired. (plural)
-
 Ich besuche {akk}`meinen` Vater.
 : I'm visiting my father. (accusative masculine)
 
@@ -77,6 +73,15 @@ Er sucht {akk}`seine` Brille.
 
 :::{tip}
 *euer* drops the middle *e* when it takes an ending: *euer Garten*, but *eure Wohnung* (not \**euere*).
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ihr Hund* (meaning: his dog) → **sein** Hund. (er takes sein, sie takes ihr)
+- *\*Ich besuche mein Vater.* → Ich besuche **meinen** Vater. ({term}`accusative <accusative case>` masculine)
+- *\*Das ist meine Auto.* → Das ist **mein** Auto. (Auto is neuter, no ending)
+- *\*euere Wohnung* → **eure** Wohnung. (euer drops the middle e)
 :::
 
 ## Hear it in practice
@@ -162,15 +167,6 @@ Unsere Lehrerin kommt aus Wien.
 - **sein** means his or its, **ihr** means her or their. The owner decides, not the noun.
 - The endings mirror *ein/kein*: feminine and plural add **-e**, accusative masculine adds **-en**.
 - Formal *Ihr* is always capitalised.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ihr Hund* (meaning: his dog) → **sein** Hund. (er takes sein, sie takes ihr)
-- *\*Ich besuche mein Vater.* → Ich besuche **meinen** Vater. (accusative masculine)
-- *\*Das ist meine Auto.* → Das ist **mein** Auto. (Auto is neuter, no ending)
-- *\*euere Wohnung* → **eure** Wohnung. (euer drops the middle e)
 :::
 
 ## Related articles

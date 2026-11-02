@@ -8,15 +8,17 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Demonstrative Articles
+# Demonstrative articles
+
+The demonstrative article *dieser* means *this*, and it points at one particular thing as opposed to any other: this apple, this street, this café.
+
+*Dieser* takes its endings from the {term}`definite article`: *der* gives *dieser*, *die* gives *diese* and *das* gives *dieses*. The {term}`plural` form is *diese*. As with *der*, only the {term}`masculine` form changes when the {term}`noun` is the {term}`direct object`: *Ich nehme diesen Kuchen*. It is a common word in shops, where it goes with pointing and choosing between items.
 
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
 - [A1 > Grammar > Definite Articles](/a1/grammar/articles/bestimmter-artikel.md)
 :::
-
-**Dieser** is how you point: *this* apple, *this* street, *this* café. The one right here, as opposed to any other. Its endings copy the definite article, so *der* becomes *dieser*, *die* becomes *diese*, and *das* becomes *dieses*.
 
 ## The forms: like *der*, *die*, *das*
 
@@ -25,16 +27,13 @@ Before reading this article, make sure you are comfortable with:
 | Nominative | dies**er** | dies**e** | dies**es** | dies**e** |
 | Accusative | dies**en** | dies**e** | dies**es** | dies**e** |
 
-The endings follow the definite article: *de**r*** gives diese**r**, *da**s*** gives diese**s**, and in the accusative *de**n*** gives diese**n**.
+The endings follow the definite article: *de**r*** gives diese**r**, *da**s*** gives diese**s**, and in the {term}`accusative <accusative case>` *de**n*** gives diese**n**.
 
 **Examples:**
 
 :::{div} ol-examples
 {article}`Dieser` Käse ist sehr gut.
 : This cheese is very good.
-
-{article}`Diese` Straße ist ruhig.
-: This street is quiet.
 
 {article}`Dieses` Brot ist frisch.
 : This bread is fresh.
@@ -58,13 +57,18 @@ Was kostet {article}`diese` Jacke?
 
 Ich möchte {akk}`diesen` Apfel, bitte.
 : I'd like this apple, please.
-
-{article}`Diese` Schuhe sind zu teuer.
-: These shoes are too expensive.
 :::
 
 :::{note}
 In spoken German you'll also hear the definite article do this job with emphasis: *Ich nehme **den** da.* ("I'll take that one there.") At A1, *dieser* is the safe, clear choice.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Dieses Straße ist ruhig.* → **Diese** Straße ist ruhig. (Straße is {term}`feminine`)
+- *\*Ich nehme dieser Kuchen.* → Ich nehme **diesen** Kuchen. (direct object, masculine)
+- *\*Diese Brot ist frisch.* → **Dieses** Brot ist frisch. (Brot is {term}`neuter`)
 :::
 
 ## Hear it in practice
@@ -148,10 +152,3 @@ Kennst du diese Stadt?
 - Accusative: only masculine changes, *dieser* becomes **diesen**.
 :::
 
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Dieses Straße ist ruhig.* → **Diese** Straße ist ruhig. (Straße is feminine)
-- *\*Ich nehme dieser Kuchen.* → Ich nehme **diesen** Kuchen. (direct object, masculine)
-- *\*Diese Brot ist frisch.* → **Dieses** Brot ist frisch. (Brot is neuter)
-:::

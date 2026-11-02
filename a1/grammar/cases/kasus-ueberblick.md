@@ -8,7 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# The Three Cases Compared
+# The three cases compared
+
+German has three cases at A1: {term}`nominative <nominative case>`, {term}`accusative <accusative case>` and {term}`dative <dative case>`. This page puts them side by side, because the real skill is hearing a sentence and telling which case is in use.
+
+A case is the form a {term}`noun` and its article take to show their job in the sentence. The nominative marks the {term}`subject`, the person or thing doing the action. The accusative marks the {term}`direct object`, the thing the action lands on. The dative appears after a small group of {term}`prepositions <preposition>`. The articles carry most of this information, so the quickest test is to find the {term}`verb` and then ask three questions.
 
 :::{admonition} Prerequisites
 :class: note
@@ -18,8 +22,6 @@ Before reading this article, make sure you are comfortable with:
 - [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
 :::
 
-You know the three cases separately. This page puts them side by side, because the real skill is not reciting one table; it is hearing a sentence and knowing which case you are looking at. Keep it short, then let the mixed track below do the work.
-
 ## All the forms in one table
 
 | | Masculine | Feminine | Neuter | Plural |
@@ -28,7 +30,7 @@ You know the three cases separately. This page puts them side by side, because t
 | Accusative | **den / einen** | die / eine | das / ein | die |
 | Dative | **dem / einem** | **der / einer** | **dem / einem** | **den** (+ -n) |
 
-Two observations carry most of the weight: the accusative only changes the masculine, and the dative changes everything.
+Two observations carry most of the weight: the accusative only changes the {term}`masculine`, and the dative changes everything.
 
 ## Three questions that pick the case
 
@@ -47,6 +49,14 @@ Ich fahre mit {dativ}`dem Bus`.
 
 {subj}`Das Kind` hat {akk}`einen Ball`.
 : The child has a ball.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich sehe der Hund.* → Ich sehe **den** Hund. (direct object, masculine)
+- *\*Mit den Bus.* → Mit **dem** Bus. (*mit* takes the dative)
+- Reciting tables instead of asking the three questions: the questions are faster and they scale.
 :::
 
 ## Hear it in practice
@@ -136,10 +146,3 @@ Der Zug fährt nach Berlin.
 - When in doubt, find the verb first, then ask who acts and what is acted on.
 :::
 
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich sehe der Hund.* → Ich sehe **den** Hund. (direct object, masculine)
-- *\*Mit den Bus.* → Mit **dem** Bus. (*mit* takes the dative)
-- Reciting tables instead of asking the three questions: the questions are faster and they scale.
-:::

@@ -8,7 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Interrogative Articles
+# Interrogative articles
+
+The interrogative article *welcher* asks *which one?* in German when there is a choice between specific options: *Welcher Bus fährt zum Bahnhof?*
+
+Its endings copy the {term}`definite article`, exactly like those of *dieser*: *welcher*, *welche* and *welches*, with *welche* for the {term}`plural`. A {term}`masculine` {term}`direct object`, the thing an action lands on, takes *welchen*. The natural answer often uses *dieser* with the same ending, so the question supplies the form of the answer: *Welchen Kuchen möchten Sie? Diesen, bitte!*
 
 :::{admonition} Prerequisites
 :class: note
@@ -16,8 +20,6 @@ Before reading this article, make sure you are comfortable with:
 - [A1 > Grammar > Definite Articles](/a1/grammar/articles/bestimmter-artikel.md)
 - [A1 > Grammar > Demonstrative Articles](/a1/grammar/articles/demonstrativartikel.md)
 :::
-
-**Welcher** asks *which one?* You use it when there's a choice between specific options. Its endings copy the definite article, exactly like *dieser*, and the natural answer often uses *dieser*: *Welchen Kuchen möchten Sie? Diesen, bitte!*
 
 ## The forms: like *der*, *die*, *das*
 
@@ -32,9 +34,6 @@ Before reading this article, make sure you are comfortable with:
 {article}`Welcher` Bus fährt zum Bahnhof?
 : Which bus goes to the station?
 
-{article}`Welche` Sprache sprichst du?
-: Which language do you speak?
-
 {article}`Welches` Zimmer ist frei?
 : Which room is free?
 
@@ -44,7 +43,7 @@ Before reading this article, make sure you are comfortable with:
 
 ## Question and answer: *welcher* and *dieser*
 
-*Welcher* and *dieser* are a natural pair. The question asks which one, the answer points at this one. Both take the same endings, so the question hands you the answer's form.
+*Welcher* and *dieser* are a natural pair. The question asks which one, the answer points at this one. Both take the same endings, so the question gives the form of the answer.
 
 **Examples:**
 
@@ -61,6 +60,14 @@ Before reading this article, make sure you are comfortable with:
 
 :::{note}
 *Was für ein …?* ("what kind of …?") looks similar but asks about type, not choice. That construction comes at A2. At A1, stick with *welcher* for choices.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Welche Zimmer ist frei?* → **Welches** Zimmer ist frei? (Zimmer is {term}`neuter`)
+- *\*Welcher Film siehst du?* → **Welchen** Film siehst du? (direct object, masculine)
+- *\*Welches Sprache sprichst du?* → **Welche** Sprache sprichst du? (Sprache is {term}`feminine`)
 :::
 
 ## Hear it in practice
@@ -141,16 +148,8 @@ Welches Obst isst du gern?
 
 - *welcher* means *which*. It asks someone to choose between specific options.
 - The endings copy **der/die/das**: welcher, welche, welches, plural welche.
-- Accusative: only masculine changes, *welcher* becomes **welchen**.
+- {term}`Accusative <accusative case>`: only masculine changes, *welcher* becomes **welchen**.
 - Question and answer pair up: *Welchen …? Diesen!*
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Welche Zimmer ist frei?* → **Welches** Zimmer ist frei? (Zimmer is neuter)
-- *\*Welcher Film siehst du?* → **Welchen** Film siehst du? (direct object, masculine)
-- *\*Welches Sprache sprichst du?* → **Welche** Sprache sprichst du? (Sprache is feminine)
 :::
 
 ## Related articles

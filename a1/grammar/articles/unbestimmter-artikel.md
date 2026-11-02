@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Indefinite Articles
+# Indefinite articles
 
-**Ein** and **eine** work like English *a/an*. You use them when you mention something for the first time, or when it doesn't matter which one you mean. German has no plural form of *ein*; plural nouns simply stand alone.
+The indefinite article is the German word for *a* or *an*: *ein* with {term}`masculine` and {term}`neuter` {term}`nouns <noun>`, *eine* with {term}`feminine` ones. It marks something mentioned for the first time, or something where it does not matter which one.
+
+German has no {term}`plural` form of *ein*, so plural nouns simply stand alone: *Das sind Schiffe*. Masculine nouns change when they are the {term}`direct object`, the thing an action lands on: *ein* becomes *einen*. English and German also differ after *sein*. For professions and nationalities German drops the article, so *Ich bin Lehrerin* has no word for *a*.
 
 ## The forms: *ein*, *eine*
 
@@ -28,9 +30,6 @@ Das ist {article}`ein` Hafen.
 
 Das ist {article}`eine` Brücke.
 : That is a bridge.
-
-Das ist {article}`ein` Hotel.
-: That is a hotel.
 
 Das sind Schiffe.
 : Those are ships. (plural, no article)
@@ -50,9 +49,6 @@ Just like *der* becomes *den*, only the masculine form changes when the noun is 
 :::{div} ol-examples
 Ich habe {akk}`einen` Bruder.
 : I have a brother.
-
-Er kauft {akk}`einen` Apfel.
-: He buys an apple.
 
 Sie hat {akk}`eine` Idee.
 : She has an idea. (feminine, unchanged)
@@ -80,6 +76,14 @@ Sie ist Italienerin.
 
 :::{note}
 This only applies after *sein/werden* with professions and nationalities. Everywhere else the article stays: *Ich habe **einen** Job.*
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich habe ein Bruder.* → Ich habe **einen** Bruder. (direct object, masculine)
+- *\*Das sind eine Bücher.* → Das sind Bücher. (plural takes no indefinite article)
+- *\*Ich bin ein Lehrer.* → Ich bin **Lehrer**. (professions after sein take no article)
 :::
 
 ## Hear it in practice
@@ -163,16 +167,8 @@ Ich mache einen Deutschkurs.
 
 - **ein** (masculine), **eine** (feminine), **ein** (neuter). There is no plural form.
 - Use *ein/eine* for new or unspecific things. Switch to *der/die/das* once the thing is known.
-- Accusative: only masculine changes, *ein* becomes **einen**.
+- {term}`Accusative <accusative case>`: only masculine changes, *ein* becomes **einen**.
 - No article after *sein* with professions and nationalities.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich habe ein Bruder.* → Ich habe **einen** Bruder. (direct object, masculine)
-- *\*Das sind eine Bücher.* → Das sind Bücher. (plural takes no indefinite article)
-- *\*Ich bin ein Lehrer.* → Ich bin **Lehrer**. (professions after sein take no article)
 :::
 
 ## Related articles
