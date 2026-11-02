@@ -64,12 +64,12 @@ Ich bin 25 Jahre alt.
 
 A conversation goes both ways. The {term}`question words <question word>` are *wie* (how/what), *woher* (from where), and *wo* (where). Choose *Sie* or *du* and keep it consistent.
 
-| Formal (Sie) | Informal (du) | English |
-|---|---|---|
-| Wie heißen Sie? | Wie heißt du? | What's your name? |
-| Woher kommen Sie? | Woher kommst du? | Where are you from? |
-| Wo wohnen Sie? | Wo wohnst du? | Where do you live? |
-| Wie alt sind Sie? | Wie alt bist du? | How old are you? |
+| Phrase | Notes |
+|---|---|
+| {stack}`Wie heißen Sie? / Wie heißt du? \| What's your name?` | formal / informal |
+| {stack}`Woher kommen Sie? / Woher kommst du? \| Where are you from?` | formal / informal |
+| {stack}`Wo wohnen Sie? / Wo wohnst du? \| Where do you live?` | formal / informal |
+| {stack}`Wie alt sind Sie? / Wie alt bist du? \| How old are you?` | formal / informal |
 
 **Examples:**
 

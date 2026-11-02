@@ -18,11 +18,11 @@ English has one *where*, and German splits it by direction. *Wo* asks about a lo
 
 German splits "where" by direction: *wo* asks about a location, *wohin* about a destination, *woher* about an origin.
 
-| Word | Asks | Example |
-|---|---|---|
-| wo | where (at) | Wo bist du? |
-| wohin | where to | Wohin gehst du? |
-| woher | where from | Woher kommst du? |
+| Word | Example |
+|---|---|
+| {stack}`wo \| where (at)` | Wo bist du? |
+| {stack}`wohin \| where to` | Wohin gehst du? |
+| {stack}`woher \| where from` | Woher kommst du? |
 
 **Examples:**
 

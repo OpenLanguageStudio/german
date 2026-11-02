@@ -16,12 +16,12 @@ The four are *helfen*, *gefallen*, *gehören* and *schmecken*. In all of them th
 
 ## The four verbs
 
-| Verb | Think of it as | The chunk to learn |
-|---|---|---|
-| helfen | to give help TO | Kannst du mir helfen? |
-| gefallen | to be pleasing TO | Das gefällt mir. |
-| gehören | to belong TO | Das gehört mir. |
-| schmecken | to taste good TO | Das schmeckt mir. |
+| Verb | The chunk to learn |
+|---|---|
+| {stack}`helfen \| to give help TO` | Kannst du mir helfen? |
+| {stack}`gefallen \| to be pleasing TO` | Das gefällt mir. |
+| {stack}`gehören \| to belong TO` | Das gehört mir. |
+| {stack}`schmecken \| to taste good TO` | Das schmeckt mir. |
 
 The trick: in all four, the person is a receiver, not a target. German marks that receiver with the dative.
 

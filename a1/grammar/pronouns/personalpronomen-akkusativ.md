@@ -23,16 +23,16 @@ Before reading this article, make sure you are comfortable with:
 
 ## The forms
 
-| Nominative | Accusative | English |
-|---|---|---|
-| ich | mich | me |
-| du | dich | you |
-| er | **ihn** | him |
-| sie | sie | her |
-| es | es | it |
-| wir | uns | us |
-| ihr | euch | you (plural) |
-| sie / Sie | sie / Sie | them / you (formal) |
+| Nominative | Accusative |
+|---|---|
+| ich | {stack}`mich \| me` |
+| du | {stack}`dich \| you` |
+| er | {stack}`ihn \| him` |
+| sie | {stack}`sie \| her` |
+| es | {stack}`es \| it` |
+| wir | {stack}`uns \| us` |
+| ihr | {stack}`euch \| you (plural)` |
+| sie / Sie | {stack}`sie / Sie \| them / you (formal)` |
 
 The big change is *er* → **ihn**. Most of the rest either match English logic or do not change at all.
 

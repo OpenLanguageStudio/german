@@ -23,15 +23,15 @@ Before reading this article, make sure you are comfortable with:
 
 ## The forms (for reference)
 
-| Nominative | Dative | English |
-|---|---|---|
-| ich | mir | to me |
-| du | dir | to you |
-| er / es | ihm | to him / it |
-| sie | ihr | to her |
-| wir | uns | to us |
-| ihr | euch | to you (plural) |
-| sie / Sie | ihnen / Ihnen | to them / to you (formal) |
+| Nominative | Dative |
+|---|---|
+| ich | {stack}`mir \| to me` |
+| du | {stack}`dir \| to you` |
+| er / es | {stack}`ihm \| to him / it` |
+| sie | {stack}`ihr \| to her` |
+| wir | {stack}`uns \| to us` |
+| ihr | {stack}`euch \| to you (plural)` |
+| sie / Sie | {stack}`ihnen / Ihnen \| to them / to you (formal)` |
 
 *Uns* and *euch* pull double duty: they are both {term}`accusative <accusative case>` and dative.
 

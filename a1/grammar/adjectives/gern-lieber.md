@@ -16,11 +16,11 @@ German has no {term}`verb` for *to like doing*, so these words go with the activ
 
 ## The ladder
 
-| Step | Word | Example |
-|---|---|---|
-| like | gern | Ich trinke gern Kaffee. |
-| prefer | lieber | Ich trinke lieber Tee. |
-| like most | am liebsten | Am liebsten trinke ich Wasser. |
+| Word | Example |
+|---|---|
+| {stack}`gern \| like` | Ich trinke gern Kaffee. |
+| {stack}`lieber \| prefer` | Ich trinke lieber Tee. |
+| {stack}`am liebsten \| like most` | Am liebsten trinke ich Wasser. |
 
 All three behave like *gern*: they follow the verb and change nothing else in the sentence.
 
