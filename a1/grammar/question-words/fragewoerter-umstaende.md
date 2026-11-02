@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Question Words for Circumstances
+# Question words for circumstances
 
-Beyond who and what, questions ask about the where, when, how, and why of things. German's words for these are short and regular, with one refinement English lacks: place questions come in three flavours.
+Question words for place, time, reason and manner ask the where, when, how and why of things. Place questions in German come in three forms: *wo*, *wohin* and *woher*.
+
+English has one *where*, and German splits it by direction. *Wo* asks about a location, *wohin* about a destination and *woher* about an origin. *Wann* asks for a point in time, and *warum* for a reason. *Wie* asks how, and with another word it measures things: *wie viel*, *wie lange*, *wie alt* and *wie oft*.
 
 ## Place: *wo*, *wohin*, *woher*
 
@@ -64,6 +66,14 @@ Wie lange dauert der Film?
 
 Wie oft machst du Sport?
 : How often do you do sport?
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Wo gehst du?* → **Wohin** gehst du? (movement needs wohin)
+- *\*Wo kommst du?* → **Woher** kommst du? (origin needs woher)
+- *\*Wie viele kostet das?* → **Wie viel** kostet das? (price is uncountable)
 :::
 
 ## Hear it in practice
@@ -145,15 +155,7 @@ Warum kommt er nicht?
 - Place has three words: *wo* (at), *wohin* (to), *woher* (from).
 - *wann* = when, *warum* = why.
 - *wie* combines: *wie viel, wie lange, wie alt, wie oft*.
-- All of them take the verb in second position, as usual.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Wo gehst du?* → **Wohin** gehst du? (movement needs wohin)
-- *\*Wo kommst du?* → **Woher** kommst du? (origin needs woher)
-- *\*Wie viele kostet das?* → **Wie viel** kostet das? (price is uncountable)
+- All of them take the {term}`verb` in second position, as usual.
 :::
 
 ## Related articles

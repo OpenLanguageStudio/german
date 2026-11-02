@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# The Verb in Second Position
+# The verb in second position
 
-German statements obey one iron rule: the conjugated verb stands in second position. Not the second word, the second slot. Whatever fills the first slot, subject or not, the verb comes right after, and everything else arranges itself behind.
+German {term}`word order` has one firm rule for statements: the {term}`conjugated <conjugation>` verb stands in second position. Whatever fills the first slot, the verb comes right after it.
+
+Second position means the second slot, not the second word: *Nach der Arbeit* is three words but one slot. With the {term}`subject` up front, German looks like English. When a sentence opens with a time or a place, the subject moves behind the verb. This is called inversion, and the verb itself does not move. *Heute fahre ich nach Berlin* is normal, everyday German.
 
 ## The basic pattern
 
@@ -28,7 +30,7 @@ With the subject up front, German looks like English:
 
 ## Something else first: inversion
 
-Open with a time, a place, or anything you want to stress, and the subject slides behind the verb. The verb itself does not move; that is the whole trick.
+A sentence can open with a time, a place, or anything a speaker wants to stress, and the subject then slides behind the verb. The verb itself does not move.
 
 | Slot 1 | Slot 2 (verb) | Slot 3 | Rest |
 |---|---|---|---|
@@ -51,6 +53,14 @@ Das {verb}`verstehe` {subj}`ich` nicht.
 
 :::{tip}
 Starting with time or place is not fancy German; it is normal German. *Heute fahre ich ...* sounds native. *Heute ich fahre ...* is the single most common word-order mistake at A1.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Heute ich fahre nach Berlin.* → Heute **fahre ich** nach Berlin. (verb stays second)
+- *\*Dann ich koche.* → Dann **koche ich**. (same rule after sequence words)
+- Counting words instead of slots: *Nach der Arbeit* is three words but one slot.
 :::
 
 ## Hear it in practice
@@ -132,10 +142,3 @@ Heute Abend sehen wir fern.
 - The verb never moves; everything else moves around it.
 :::
 
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Heute ich fahre nach Berlin.* → Heute **fahre ich** nach Berlin. (verb stays second)
-- *\*Dann ich koche.* → Dann **koche ich**. (same rule after sequence words)
-- Counting words instead of slots: *Nach der Arbeit* is three words but one slot.
-:::

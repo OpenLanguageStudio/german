@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Yes/No Questions and W-Questions
+# Yes/no questions and W-questions
 
-German builds questions without any helper verb: no "do", no "does". Instead, word order does the asking. There are exactly two patterns, and all the pieces are already familiar.
+German builds questions with {term}`word order` alone, with no helper like English *do* or *does*. There are two patterns: yes/no questions and W-questions.
+
+A yes/no question puts the {term}`conjugated <conjugation>` {term}`verb` first and the {term}`subject` straight behind it: *Kommst du aus Spanien?* Conjugated means that the verb has the ending that matches its subject. A W-question opens with a {term}`question word` such as *wann* or *warum*, and the verb takes its usual second place: *Wann kommst du?* A closing verb part stays at the end in both patterns.
 
 ## Yes/no questions: verb first
 
@@ -47,7 +49,15 @@ Wohin {verb}`fährst` du im Urlaub?
 :::
 
 :::{tip}
-Both patterns keep the sentence bracket intact: *Wann fängt der Film **an**? Kannst du morgen **kommen**?* The closing part stays at the end, whatever happens up front.
+Both patterns keep the {term}`sentence bracket` intact: *Wann fängt der Film **an**? Kannst du morgen **kommen**?* The closing part stays at the end, whatever happens up front.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Du kommst aus Spanien?* as the default question → **Kommst du** aus Spanien? (rising intonation alone is casual speech, not the standard pattern)
+- *\*Wo du wohnst?* → Wo **wohnst du**? (verb second after the W-word)
+- *\*Machst du was heute?* → **Was machst du** heute? (the W-word opens the question)
 :::
 
 ## Hear it in practice
@@ -127,14 +137,6 @@ Ja, das verstehe ich.
 - W-question: question word first, verb second.
 - The W-words: *wer, was, wo, woher, wohin, wann, wie, warum*.
 - Brackets and prefixes keep their end position in questions.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Du kommst aus Spanien?* as the default question → **Kommst du** aus Spanien? (rising intonation alone is casual speech, not the standard pattern)
-- *\*Wo du wohnst?* → Wo **wohnst du**? (verb second after the W-word)
-- *\*Machst du was heute?* → **Was machst du** heute? (the W-word opens the question)
 :::
 
 ## Related articles

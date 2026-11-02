@@ -8,7 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Personal Pronouns: Accusative
+# Personal pronouns: accusative
+
+Personal pronouns change form in the accusative, when they are the {term}`direct object`, just as English *I* becomes *me*: *Ich liebe dich*.
+
+The direct object is the person or thing an action lands on. The accusative {term}`pronouns <pronoun>` appear in everyday sentences about seeing, knowing, calling and loving people. The biggest change is *er*, which becomes *ihn*. *Sie* and *es* stay the same. Like the {term}`nominative <nominative case>` pronouns, they follow {term}`gender` for things as well as people, so *der Schlüssel* becomes *ihn*.
 
 :::{admonition} Prerequisites
 :class: note
@@ -16,8 +20,6 @@ Before reading this article, make sure you are comfortable with:
 - [A1 > Grammar > Personal Pronouns: Nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md)
 - [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
 :::
-
-When a pronoun is the direct object, it changes form, just as English *I* becomes *me*: *Ich liebe **dich**.* The accusative pronouns power everyday sentences about seeing, knowing, calling, and loving people.
 
 ## The forms
 
@@ -49,7 +51,7 @@ Der Lehrer fragt {akk}`uns`.
 
 ## Things are *ihn*, *sie*, *es* too
 
-Like the nominative pronouns, the accusative ones track grammatical gender. A masculine thing is *ihn*: *Wo ist der Schlüssel? Ich finde **ihn** nicht.*
+Like the nominative pronouns, the accusative ones track grammatical gender. A {term}`masculine` thing is *ihn*: *Wo ist der Schlüssel? Ich finde **ihn** nicht.*
 
 **Examples:**
 
@@ -62,6 +64,14 @@ Die Jacke ist schön. Ich kaufe {akk}`sie`.
 
 Das Buch? Ich lese {akk}`es` gerade.
 : The book? I am reading it right now.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Kennst du er?* → Kennst du **ihn**? ({term}`object` form needed)
+- *\*Ich sehe du.* → Ich sehe **dich**.
+- *\*Der Schlüssel? Ich finde es nicht.* → Ich finde **ihn** nicht. (Schlüssel is masculine)
 :::
 
 ## Hear it in practice
@@ -140,15 +150,7 @@ Wir sehen euch morgen.
 - *mich, dich, ihn, sie, es, uns, euch, sie/Sie*.
 - The headline change: *er* becomes **ihn**.
 - Thing-pronouns follow gender: *der Schlüssel* → *ihn*.
-- *sie/Sie* and *es* look the same in both cases; the verb and context decide.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Kennst du er?* → Kennst du **ihn**? (object form needed)
-- *\*Ich sehe du.* → Ich sehe **dich**.
-- *\*Der Schlüssel? Ich finde es nicht.* → Ich finde **ihn** nicht. (Schlüssel is masculine)
+- *sie/Sie* and *es* look the same in both cases; the {term}`verb` and context decide.
 :::
 
 ## Related articles

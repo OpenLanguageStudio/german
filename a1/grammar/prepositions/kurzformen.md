@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Contracted Prepositions
+# Contracted prepositions
 
-German glues its most frequent preposition-article pairs into single words: *in dem* becomes **im**, *zu der* becomes **zur**. These contractions have been turning up in chunks all through the course. This page sets out the system behind them, so the chunks stop being magic.
+{term}`Contractions <contraction>` join a German preposition and an article into one word: *in dem* becomes *im*, and *zu der* becomes *zur*.
+
+Eight contractions are common at A1. Six of them join a preposition to *dem* or *der* in the {term}`dative <dative case>`, the case these prepositions take. They say where someone is or where someone is heading: *im Kino*, *zum Arzt*. The other two, *ins* and *ans*, join a preposition to {term}`accusative <accusative case>` *das* and always show direction. Everyday German uses the short form by default.
 
 ## The contractions
 
@@ -29,7 +31,7 @@ Six contract with dative *dem/der*; the last two contract with accusative *das* 
 
 ## Being somewhere: *im*, *am*, *beim*
 
-The dative contractions describe where you are or when something happens.
+The dative contractions describe where someone is or when something happens.
 
 **Examples:**
 
@@ -62,7 +64,15 @@ Ich muss {prep}`zum` Bahnhof.
 :::
 
 :::{tip}
-Using the full form where a contraction is normal (*in dem Kino*) is not wrong, but it sounds emphatic, as if you were pointing at one particular cinema. Everyday German contracts.
+The full form (*in dem Kino*) is not wrong, but it sounds emphatic, as if pointing at one particular cinema. Everyday German contracts.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich gehe im Kino.* → Ich gehe **ins** Kino. (direction takes ins)
+- *\*zur Bahnhof* → **zum** Bahnhof. (Bahnhof is {term}`masculine`)
+- *\*Ich bin ins Büro.* → Ich bin **im** Büro. (being there takes im)
 :::
 
 ## Hear it in practice
@@ -144,10 +154,3 @@ Beim Essen sehen wir fern.
 - Contractions are the default in speech; full forms sound pointed.
 :::
 
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich gehe im Kino.* → Ich gehe **ins** Kino. (direction takes ins)
-- *\*zur Bahnhof* → **zum** Bahnhof. (Bahnhof is masculine)
-- *\*Ich bin ins Büro.* → Ich bin **im** Büro. (being there takes im)
-:::

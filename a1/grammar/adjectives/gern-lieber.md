@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# gern, lieber, am liebsten
+# *gern*, *lieber*, *am liebsten*
 
-*Gern* says you like doing something. Its two bigger siblings rank your likes: *lieber* (prefer) and *am liebsten* (most of all). Three words, one ladder, and suddenly you can compare everything you enjoy.
+*Gern* says that someone likes doing something. *Lieber* (prefer) and *am liebsten* (most of all) rank those likes, so the three words form one ladder.
+
+German has no {term}`verb` for *to like doing*, so these words go with the activity verb: *Ich trinke gern Kaffee*. All three follow the verb and change nothing else in the sentence. *Lieber* picks one option over another, often after a question with *oder*. *Am liebsten* likes to stand first, and the verb then stays in second place: *Am liebsten höre ich Musik*.
 
 ## The ladder
 
@@ -64,6 +66,14 @@ Ich bleibe heute **lieber** zu Hause.
 
 Was isst du **am liebsten**?
 : What do you like eating most?
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich mag lieber Tee trinken.* → Ich trinke **lieber** Tee. (lieber pairs with the action verb)
+- *\*am liebstens* → am **liebsten**. (no extra s)
+- *\*gerner* → **lieber**. (gern has no -er form; lieber IS the comparison)
 :::
 
 ## Hear it in practice
@@ -143,14 +153,6 @@ Ich bleibe heute lieber zu Hause.
 - All three sit after the verb and leave the sentence untouched.
 - *lieber ... oder ...?* asks for a preference.
 - Fronting *am liebsten* is natural; the verb stays second.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich mag lieber Tee trinken.* → Ich trinke **lieber** Tee. (lieber pairs with the action verb)
-- *\*am liebstens* → am **liebsten**. (no extra s)
-- *\*gerner* → **lieber**. (gern has no -er form; lieber IS the comparison)
 :::
 
 ## Related articles

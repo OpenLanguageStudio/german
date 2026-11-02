@@ -8,13 +8,15 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# The Pronoun man
+# The pronoun *man*
 
-*Man* talks about people in general: what one does, what is allowed, how something works. English scatters this across "you", "one", "people", and "they"; German has one small word for all of it, and you meet it constantly in questions, rules, and signs.
+The pronoun *man* talks about people in general: what one does, what is allowed, how something works. It appears constantly in questions, rules and signs.
+
+English scatters this meaning across *you*, *one*, *people* and *they*, while German has one small word for all of it. *Man* behaves like *er*, so the {term}`verb` takes the form for he or she: *In Deutschland spricht man Deutsch*. It never refers to a specific person. It is also a different word from *der Mann*, with one *n* and no article.
 
 ## How it works
 
-*Man* behaves like *er*: the verb takes the third person singular form. It never refers to a specific person, and it is not *der Mann*; one n, no article, no capital letter mid-sentence.
+*Man* behaves like *er*: the verb takes the third person {term}`singular` form. It never refers to a specific person, and it is not *der Mann*; one n, no article, no capital letter mid-sentence.
 
 **Examples:**
 
@@ -31,7 +33,7 @@ Das sagt {pronoun}`man` nicht.
 
 ## The question chunks
 
-Two *man* questions belong to every learner's survival kit: *Wie sagt man ...?* and *Wie schreibt man ...?* Both ask how things are done in general, which is exactly what you want to know as a beginner.
+Two *man* questions belong to every learner's survival kit: *Wie sagt man ...?* and *Wie schreibt man ...?* Both ask how things are done in general.
 
 **Examples:**
 
@@ -45,7 +47,7 @@ Wie macht {pronoun}`man` das?
 
 ## With modal verbs
 
-*Man* pairs naturally with modals for rules and possibilities: what one can, must, and may do in a place.
+*Man* pairs naturally with {term}`modals <modal verb>` for rules and possibilities: what one can, must, and may do in a place.
 
 **Examples:**
 
@@ -58,6 +60,14 @@ Wo kann {pronoun}`man` hier parken?
 
 {pronoun}`Man` muss den Bus nehmen.
 : You have to take the bus.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Man sprechen Deutsch.* → Man **spricht** Deutsch. (third person singular)
+- *\*Der Man kommt.* → Der **Mann** kommt. (the {term}`noun` has two n)
+- Translating every *man* as "one": English usually wants "you" or "people".
 :::
 
 ## Hear it in practice
@@ -137,14 +147,6 @@ Das kann man verstehen.
 - Survival questions: *Wie sagt man ...? Wie schreibt man ...?*
 - With modals it states rules: *Hier darf man nicht rauchen.*
 - One n: *man* is a pronoun, *der Mann* is a man.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Man sprechen Deutsch.* → Man **spricht** Deutsch. (third person singular)
-- *\*Der Man kommt.* → Der **Mann** kommt. (the noun has two n)
-- Translating every *man* as "one": English usually wants "you" or "people".
 :::
 
 ## Related articles

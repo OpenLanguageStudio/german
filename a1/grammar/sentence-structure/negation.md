@@ -8,13 +8,15 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Negation with nicht and kein
+# Negation with *nicht* and *kein*
 
-German has two ways to say no inside a sentence, and they divide the work cleanly: *kein* negates nouns, *nicht* negates everything else. Pick correctly and negation is painless; the decision takes one question.
+Negation in German uses two words: *kein* negates {term}`nouns <noun>`, and *nicht* negates everything else. One question decides which word a sentence needs.
+
+*Kein* is the word for *no* or *not a*, and it stands where a noun would have *ein* or no article at all. *Nicht* goes with {term}`verbs <verb>`, {term}`adjectives <adjective>`, and nouns that have a definite or {term}`possessive article`. *Nicht* stands directly before a word it negates, or towards the end when it negates the whole statement: *Er kommt heute nicht*.
 
 ## *kein*: negating nouns
 
-Where a noun has *ein* or no article at all, its negation is *kein*, sitting in the article slot with the endings you know from the article system.
+Where a noun has *ein* or no article at all, its negation is *kein*. It sits in the article slot and takes the endings of *ein*.
 
 **Examples:**
 
@@ -31,7 +33,7 @@ Ich esse {article}`kein` Fleisch.
 
 ## *nicht*: negating the rest
 
-Verbs, adjectives, adverbs, prepositional phrases, and nouns with a definite article or possessive: all of these take *nicht*.
+Verbs, adjectives, {term}`adverbs <adverb>`, prepositional phrases, and nouns with a {term}`definite article` or possessive: all of these take *nicht*.
 
 **Examples:**
 
@@ -48,7 +50,7 @@ Das ist **nicht** mein Schlüssel.
 
 ## Where *nicht* goes
 
-Negating the whole statement pushes *nicht* toward the end: *Er kommt heute nicht.* Negating one particular element puts *nicht* directly before it: *nicht neu*, *nicht in Berlin*, *nicht mein Schlüssel*. And a sentence bracket still wins: *nicht* stands before the closing verb part: *Ich kann heute nicht kommen.*
+Negating the whole statement pushes *nicht* toward the end: *Er kommt heute nicht.* Negating one particular element puts *nicht* directly before it: *nicht neu*, *nicht in Berlin*, *nicht mein Schlüssel*. And a {term}`sentence bracket` still wins: *nicht* stands before the closing verb part: *Ich kann heute nicht kommen.*
 
 **Examples:**
 
@@ -65,6 +67,14 @@ Ich kann heute **nicht** kommen.
 
 :::{tip}
 The decision test: find what you are negating. A noun that would take *ein* or no article → *kein*. Anything else → *nicht*. Two words, one question.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich habe nicht Zeit.* → Ich habe **keine** Zeit. (bare noun takes kein)
+- *\*Ich nicht verstehe.* → Ich verstehe **nicht**. (nicht never stands before the {term}`conjugated <conjugation>` verb)
+- *\*Ich kann kommen nicht.* → Ich kann **nicht kommen**. (nicht before the {term}`infinitive`)
 :::
 
 ## Hear it in practice
@@ -147,14 +157,6 @@ Kein Problem!
 - *nicht* negates verbs, adjectives, phrases, and definite nouns.
 - Whole-sentence *nicht* drifts to the end; targeted *nicht* stands before its target.
 - In a bracket, *nicht* comes before the final verb part.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich habe nicht Zeit.* → Ich habe **keine** Zeit. (bare noun takes kein)
-- *\*Ich nicht verstehe.* → Ich verstehe **nicht**. (nicht never stands before the conjugated verb)
-- *\*Ich kann kommen nicht.* → Ich kann **nicht kommen**. (nicht before the infinitive)
 :::
 
 ## Related articles
