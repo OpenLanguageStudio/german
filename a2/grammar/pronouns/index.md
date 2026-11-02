@@ -1,4 +1,5 @@
 ---
+menu_hidden: true
 myst:
   html_meta:
     description: "A2 German grammar: pronouns, indefinite pronouns for people and things, question words, and particles."

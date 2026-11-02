@@ -1,4 +1,5 @@
 ---
+menu_hidden: true
 myst:
   html_meta:
     description: "B2 German grammar index: links to all B2 grammar topics."

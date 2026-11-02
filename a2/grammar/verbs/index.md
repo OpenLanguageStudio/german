@@ -1,4 +1,5 @@
 ---
+menu_hidden: true
 myst:
   html_meta:
     description: "A2 German grammar: verb forms – Perfekt, modal verbs, reflexive verbs, werden, and Konjunktiv II."

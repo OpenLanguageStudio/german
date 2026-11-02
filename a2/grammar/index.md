@@ -1,4 +1,5 @@
 ---
+menu_hidden: true
 myst:
   html_meta:
     description: "A complete A2 German grammar reference covering adjectives, cases, prepositions, pronouns, subordinate clauses, and verbs."
