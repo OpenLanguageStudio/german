@@ -18,15 +18,15 @@ A case is the form a {term}`noun` and its article take to show their job in the 
 
 *aus, bei, mit, nach, von, zu, seit*: after these seven, the dative follows automatically. No decision to make, no exceptions.
 
-| Preposition | Core meaning | Example |
-|---|---|---|
-| aus | out of, from | aus der Schweiz |
-| bei | at, with (a person/place) | bei meinen Eltern |
-| mit | with, by (transport) | mit dem Bus |
-| nach | after, to (places) | nach der Arbeit |
-| von | from, of | von meiner Oma |
-| zu | to (people, places) | zu dem Arzt |
-| seit | since, for (time) | seit einem Jahr |
+| Preposition | Example |
+|---|---|
+| {stack}`aus \| out of, from` | aus der Schweiz |
+| {stack}`bei \| at, with (a person/place)` | bei meinen Eltern |
+| {stack}`mit \| with, by (transport)` | mit dem Bus |
+| {stack}`nach \| after, to (places)` | nach der Arbeit |
+| {stack}`von \| from, of` | von meiner Oma |
+| {stack}`zu \| to (people, places)` | zu dem Arzt |
+| {stack}`seit \| since, for (time)` | seit einem Jahr |
 
 ## The article forms
 

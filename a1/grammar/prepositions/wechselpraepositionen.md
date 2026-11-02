@@ -18,11 +18,11 @@ At A1 these work as chunks, short groups of words learned as one piece. *In* goe
 
 *In* for enclosed spaces, *auf* for surfaces and open areas, *an* for edges and points of contact:
 
-| Preposition | Chunk | English |
-|---|---|---|
-| in | in der Stadt, im Kino, im Büro | in town, at the cinema, at the office |
-| auf | auf dem Tisch, auf dem Markt | on the table, at the market |
-| an | an der Ecke, an der Wand, am Bahnhof | on the corner, on the wall, at the station |
+| Preposition | Chunk |
+|---|---|
+| in | {stack}`in der Stadt, im Kino, im Büro \| in town, at the cinema, at the office` |
+| auf | {stack}`auf dem Tisch, auf dem Markt \| on the table, at the market` |
+| an | {stack}`an der Ecke, an der Wand, am Bahnhof \| on the corner, on the wall, at the station` |
 
 *Im* is *in dem*, and *am* is *an dem*.
 

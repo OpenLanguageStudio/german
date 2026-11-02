@@ -16,12 +16,12 @@ A {term}`pronoun` is a short word that stands in for a {term}`noun`. One rule ca
 
 ## The nine pronouns
 
-| Singular | | Plural | |
-|---|---|---|---|
-| ich | I | wir | we |
-| du | you (informal) | ihr | you (plural informal) |
-| er / sie / es | he / she / it | sie | they |
-| | | Sie | you (formal) |
+| Singular | Plural |
+|---|---|
+| {stack}`ich \| I` | {stack}`wir \| we` |
+| {stack}`du \| you (informal)` | {stack}`ihr \| you (plural informal)` |
+| {stack}`er / sie / es \| he / she / it` | {stack}`sie \| they` |
+|  | {stack}`Sie \| you (formal)` |
 
 **Examples:**
 
