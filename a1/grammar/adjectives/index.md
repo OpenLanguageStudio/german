@@ -1,9 +1,10 @@
 ---
 menu_hidden: true
+html_theme.sidebar_secondary.remove:
 ---
 # Adjectives
 
-Adjectives describe things: big, new, cheap. At A1 you mostly use them after *sein*, where they take no ending at all, and with *gern* and *lieber* to say what you like doing.
+Adjectives describe things: big, new, cheap. At A1 they mostly follow *sein*, where they take no ending at all, and *gern* and *lieber* say what someone likes doing.
 
 ```{toctree}
 :maxdepth: 1

@@ -1,5 +1,6 @@
 ---
 menu_hidden: true
+html_theme.sidebar_secondary.remove:
 ---
 # Pronouns
 

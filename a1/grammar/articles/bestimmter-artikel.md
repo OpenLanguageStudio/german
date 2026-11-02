@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Definite Articles
+# Definite articles
 
-German nouns come in three genders. The word for *the* changes with the gender: **der**, **die**, or **das**. Beyond that, you use it just like English *the*, for things both speakers already know about.
+The definite article is the German word for *the*, and it has three main forms: *der*, *die* and *das*. Which one a {term}`noun` takes depends on its {term}`gender`.
+
+Every German noun has a gender: {term}`masculine`, {term}`feminine` or {term}`neuter`. Gender is a grammatical group, and it often has nothing to do with meaning, so a noun is best learned together with its article. The article works much like English *the*: it marks something specific or already known. It also changes with the noun's job in the sentence. When a masculine noun is the {term}`direct object`, the thing an action lands on, *der* becomes *den*.
 
 ## The forms: *der*, *die*, *das*
 
@@ -20,7 +22,7 @@ Every noun has a fixed gender, and the gender is part of the word. Always learn 
 |---|---|---|---|---|
 | Definite article | **der** | **die** | **das** | **die** |
 
-In the plural, all genders share the same article: **die**.
+In the {term}`plural`, all genders share the same article: **die**.
 
 **Examples:**
 
@@ -33,9 +35,6 @@ In the plural, all genders share the same article: **die**.
 
 {article}`Das` Hotel ist neu.
 : The hotel is new.
-
-{article}`Die` Schiffe sind im Hafen.
-: The ships are in the harbour.
 :::
 
 :::{note}
@@ -44,7 +43,7 @@ Gender is grammatical, not logical: *das Mädchen* (the girl) is neuter, *der Ti
 
 ## When to use *der*, *die*, *das*
 
-Use the definite article when the thing is specific or already known: it was mentioned before, there is only one, or everyone can see which one you mean.
+The definite article marks something specific or already known. It was mentioned before, there is only one, or everyone can see which one is meant.
 
 **Examples:**
 
@@ -57,9 +56,6 @@ Das ist {article}`der` Hafen von Hamburg.
 
 Wo ist {article}`der` Bahnhof?
 : Where is the train station? (the one in this town)
-
-{article}`Das` Brot kostet zwei Euro.
-: The bread costs two euros. (the one in front of us)
 :::
 
 :::{tip}
@@ -81,14 +77,19 @@ When the noun is the direct object of the sentence, only the masculine article c
 Ich sehe {akk}`den` Turm.
 : I see the tower.
 
-Er kauft {akk}`den` Käse.
-: He buys the cheese.
-
 Wir nehmen {akk}`die` Straßenbahn.
 : We take the tram. (feminine, unchanged)
 
 Sie liest {akk}`das` Buch.
 : She is reading the book. (neuter, unchanged)
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Die Hotel ist neu.* → **Das** Hotel ist neu. (Hotel is neuter)
+- *\*Ich sehe der Mann.* → Ich sehe **den** Mann. (direct object, masculine)
+- *\*Das Schiffe sind groß.* → **Die** Schiffe sind groß. (the plural article is die)
 :::
 
 ## Hear it in practice
@@ -173,15 +174,7 @@ Die Tür ist offen.
 - Three genders: **der** (masculine), **die** (feminine), **das** (neuter). The plural is always **die**.
 - Learn every noun with its article. Gender is part of the word.
 - Use *der/die/das* for specific or known things, *ein/eine* for new or unspecific ones.
-- In the accusative, only masculine changes: *der* becomes **den**.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Die Hotel ist neu.* → **Das** Hotel ist neu. (Hotel is neuter)
-- *\*Ich sehe der Mann.* → Ich sehe **den** Mann. (direct object, masculine)
-- *\*Das Schiffe sind groß.* → **Die** Schiffe sind groß. (the plural article is die)
+- In the {term}`accusative <accusative case>`, only masculine changes: *der* becomes **den**.
 :::
 
 ## Related articles

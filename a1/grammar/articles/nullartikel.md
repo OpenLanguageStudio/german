@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# The Zero Article
+# The zero article
 
-Sometimes German leaves the article slot empty: *Ich bin Lehrerin*, *Ich trinke Kaffee*, *Wir wohnen in Berlin*. English often does the same, but not always in the same places. This page collects the situations where German uses no article at all.
+The zero article means that German leaves the article out: *Ich bin Lehrerin*, *Ich trinke Kaffee*, *Wir wohnen in Berlin*. English does the same in many places, but not in all of them.
+
+There is no separate word to learn, only a set of situations. Professions and nationalities after *sein* take no article. Languages, food and drink take none in general statements. {term}`Plural` {term}`nouns <noun>` take none where the {term}`singular` would have *ein*, and names of cities and most countries take none either. When a sentence means one specific item, the article comes back: *Der Kaffee ist kalt*.
 
 ## Professions and nationalities after *sein*
 
@@ -89,6 +91,14 @@ Wir fahren nach **Deutschland**.
 
 Kommst du aus **Österreich**?
 : Do you come from Austria?
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich bin ein Lehrer.* → Ich bin **Lehrer**. (profession after *sein*, no article)
+- *\*Ich spreche das Deutsch.* → Ich spreche **Deutsch**. (languages take no article)
+- *\*Ich kaufe eine Äpfel.* → Ich kaufe **Äpfel**. (*ein* has no plural)
 :::
 
 ## Hear it in practice
@@ -176,10 +186,3 @@ Meine Schwester wohnt in Frankreich.
 - Cities and most countries have no article: *in Berlin*, *nach Deutschland*.
 :::
 
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich bin ein Lehrer.* → Ich bin **Lehrer**. (profession after *sein*, no article)
-- *\*Ich spreche das Deutsch.* → Ich spreche **Deutsch**. (languages take no article)
-- *\*Ich kaufe eine Äpfel.* → Ich kaufe **Äpfel**. (*ein* has no plural)
-:::
