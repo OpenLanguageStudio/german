@@ -8,15 +8,17 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Local Prepositions with Dative
+# Local prepositions with dative
+
+The local prepositions *zu*, *bei*, *aus* and *von* describe going somewhere, staying there and coming back. Together with *nach* for cities and countries, they cover most everyday movement.
+
+A preposition is a small word that shows place or time, and these all take the dative, the case that turns {term}`masculine` *der* into *dem*. *Zu* heads toward people and buildings, while *nach* goes to cities and most countries. *Bei* means at someone's place or at an employer. *Aus* comes out of a country, town or building, and *von* comes from a person, a point or an activity.
 
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
 - [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
 :::
-
-Four of your dative prepositions do heavy local work: *zu* takes you somewhere, *bei* keeps you there, *aus* and *von* bring you back. Together with *nach* for cities and countries, they cover the everyday geography of going, staying, and returning.
 
 ## Going: *zu* and *nach*
 
@@ -37,7 +39,7 @@ Wir fahren {prep}`nach` Berlin.
 
 ## Staying: *bei*
 
-*Bei* means at someone's place or at an employer: *bei meinen Eltern, bei Oma, bei einer Bank*. Its opposite number for your own place is the pair *zu Hause* (at home) versus *nach Hause* (homewards).
+*Bei* means at someone's place or at an employer: *bei meinen Eltern, bei Oma, bei einer Bank*. For home, German has the pair *zu Hause* (at home) versus *nach Hause* (homewards).
 
 **Examples:**
 
@@ -67,6 +69,14 @@ Er kommt gerade {prep}`von` der Arbeit.
 
 Der Zug kommt {prep}`aus` Hamburg.
 : The train comes from Hamburg.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich gehe nach dem Arzt.* → Ich gehe **zum** Arzt. (people and buildings take zu)
+- *\*Ich bin in Hause.* → Ich bin **zu** Hause. (fixed chunk)
+- *\*Ich komme von Italien.* → Ich komme **aus** Italien. (origin countries take aus)
 :::
 
 ## Hear it in practice
@@ -149,14 +159,6 @@ Kommst du mit zu uns?
 - *bei* = at someone's place or employer.
 - *aus* = out of an origin; *von* = from a point, person, or activity.
 - All of them take the dative, as always.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich gehe nach dem Arzt.* → Ich gehe **zum** Arzt. (people and buildings take zu)
-- *\*Ich bin in Hause.* → Ich bin **zu** Hause. (fixed chunk)
-- *\*Ich komme von Italien.* → Ich komme **aus** Italien. (origin countries take aus)
 :::
 
 ## Related articles

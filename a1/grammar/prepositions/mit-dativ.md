@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# The Preposition mit
+# The preposition *mit*
 
-*Mit* (with) earns its own page because it appears in three of the most common A1 sentence types: who you do things with, how you travel, and what you use. It always takes the dative, no exceptions.
+The preposition *mit* means *with* and always takes the {term}`dative <dative case>`. It appears in three of the most common A1 sentence types: who someone is with, how they travel, and what they use.
+
+A preposition is a small word in front of a {term}`noun` that shows how it relates to the rest of the sentence. The dative is the form that turns {term}`masculine` *der* into *dem* and {term}`feminine` *die* into *der*. So German says *mit dem Bus* and *mit meiner Schwester*. Every means of transport takes *mit*, apart from walking, which is *zu Fuß*. The question form is *Mit wem?*
 
 ## Together with people
 
@@ -61,6 +63,14 @@ Ich trinke Kaffee {prep}`mit` Milch.
 
 Ein Brötchen {prep}`mit` Käse, bitte.
 : A roll with cheese, please.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*mit den Bus* → mit **dem** Bus. (masculine dative)
+- *\*Ich fahre mit Fuß.* → Ich gehe **zu Fuß**. (walking has its own chunk)
+- *\*Mit wer gehst du?* → Mit **wem** gehst du? (mit forces the dative {term}`question word`)
 :::
 
 ## Hear it in practice
@@ -140,14 +150,6 @@ Wir fahren zusammen mit den Nachbarn.
 - People: *mit meiner Schwester*; ask back with *Mit wem?*
 - Transport: *mit dem Bus/Zug/Fahrrad*; walking is *zu Fuß*.
 - Instruments: *mit Karte, mit Milch, mit Messer und Gabel*.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*mit den Bus* → mit **dem** Bus. (masculine dative)
-- *\*Ich fahre mit Fuß.* → Ich gehe **zu Fuß**. (walking has its own chunk)
-- *\*Mit wer gehst du?* → Mit **wem** gehst du? (mit forces the dative question word)
 :::
 
 ## Related articles

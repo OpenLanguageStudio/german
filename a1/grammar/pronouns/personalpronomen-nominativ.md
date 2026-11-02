@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Personal Pronouns: Nominative
+# Personal pronouns: nominative
 
-The subject pronouns are the words you have used since your first German sentence: *ich wohne, du bist, wir lernen*. This page lines them all up and adds the one rule English speakers miss: *er*, *sie*, and *es* follow the noun's gender, not whether something is alive.
+Personal pronouns in the nominative are the {term}`subject` words of German: *ich*, *du*, *er*, *sie*, *es*, *wir*, *ihr*, *sie* and formal *Sie*.
+
+A {term}`pronoun` is a short word that stands in for a {term}`noun`. One rule catches English speakers: *er*, *sie* and *es* follow the grammatical {term}`gender` of the noun, whether or not the thing is alive. So *der Bus* becomes *er*, and *die Suppe* becomes *sie*. *Sie* can also mean *they* or formal *you*, and the {term}`verb` form and the capital letter show which.
 
 ## The nine pronouns
 
@@ -36,7 +38,7 @@ The subject pronouns are the words you have used since your first German sentenc
 
 ## *er*, *sie*, *es* follow gender
 
-A pronoun replaces a noun you already mentioned, and it copies that noun's grammatical gender. *Der Bus* becomes *er*, *die Suppe* becomes *sie*, *das Buch* becomes *es*, whether or not the thing is alive.
+A pronoun replaces a noun already mentioned, and it copies that noun's grammatical gender. *Der Bus* becomes *er*, *die Suppe* becomes *sie*, *das Buch* becomes *es*, whether or not the thing is alive.
 
 **Examples:**
 
@@ -54,6 +56,14 @@ Das Buch ist neu. {pronoun}`Es` ist interessant.
 ## The three faces of *sie*
 
 *Sie* can mean she, they, or formal you. The verb form and the capital letter sort it out: *sie ist* (she), *sie sind* (they), *Sie sind* (you, formal). In speech, context does the work.
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Der Bus? Es kommt gleich.* → **Er** kommt gleich. (Bus is {term}`masculine`)
+- Reading *sie sind* as *she*: check the verb. **ist** = she, **sind** = they.
+- Writing formal *Sie* lowercase: it is **always capitalised**.
+:::
 
 ## Hear it in practice
 
@@ -128,18 +138,10 @@ Es ist kalt heute.
 :::{admonition} Key points
 :class: note
 
-- Nine subject pronouns; you know most from the verb tables already.
+- Nine subject pronouns, listed in the table above.
 - *er/sie/es* copy the noun's gender: *der Bus* → *er*, even for things.
 - *sie* is she, they, or formal *Sie*; verb form and capitalisation decide.
 - *es* also carries weather and time: *Es regnet. Es ist spät.*
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Der Bus? Es kommt gleich.* → **Er** kommt gleich. (Bus is masculine)
-- *\*sie ist Lehrer und sie sind müde* muddled → check the verb: **ist** = she, **sind** = they.
-- Writing formal *Sie* lowercase: it is **always capitalised**.
 :::
 
 ## Related articles

@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Predicate Adjectives
+# Predicate adjectives
 
-The easiest way to describe anything in German is *sein* plus an adjective: *Das Haus ist groß.* Used this way, after the verb, the adjective takes no ending at all, ever. This page collects the core A1 adjectives and the small words that tune them.
+Predicate adjectives are the simplest way to describe anything in German: *sein* plus an adjective, as in *Das Haus ist groß*.
+
+A predicate adjective comes after the {term}`verb`, and in that position it takes no ending at all. The form stays the same for {term}`singular` and {term}`plural`, and for {term}`masculine`, {term}`feminine` and {term}`neuter` {term}`nouns <noun>`. The core A1 adjectives come in opposite pairs, such as *groß* and *klein*. *Sehr*, *zu* and *nicht* adjust them, and *finden* uses them to state an opinion.
 
 ## The pattern: *sein* + adjective, no ending
 
@@ -50,7 +52,7 @@ Das ist **nicht** {adj}`schlecht`.
 
 ## Opinions with *finden*
 
-*Finden* + accusative + adjective states an opinion: *Ich finde den Film super.* Same endingless adjective, new flavour.
+*Finden* + {term}`accusative <accusative case>` + adjective states an opinion: *Ich finde den Film super.* Same endingless adjective, new flavour.
 
 **Examples:**
 
@@ -63,7 +65,15 @@ Ich finde {akk}`den Film` {adj}`super`.
 :::
 
 :::{note}
-Adjectives BEFORE a noun (*ein großes Haus*) take endings, and that system is A2 material. At A1, keep adjectives after the verb and they stay effortless.
+Adjectives BEFORE a noun (*ein großes Haus*) take endings, and that system is A2 material. At A1, adjectives after the verb stay unchanged.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Das Haus ist großes.* → Das Haus ist **groß**. (no ending after sein)
+- *\*Die Schuhe sind zu teuers.* → zu **teuer**. (zu changes nothing on the adjective)
+- Reaching for adjective endings before nouns: park that until A2.
 :::
 
 ## Hear it in practice
@@ -144,16 +154,8 @@ Alles ist in Ordnung.
 
 - After *sein*, adjectives take no ending: *Das Haus ist groß.*
 - Learn adjectives in opposite pairs.
-- Grade with *sehr*, complain with *zu*, negate with *nicht*.
+- Grade with *sehr*, complain with *zu*, {term}`negate <negation>` with *nicht*.
 - *Ich finde ... gut/super* turns descriptions into opinions.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Das Haus ist großes.* → Das Haus ist **groß**. (no ending after sein)
-- *\*Die Schuhe sind zu teuers.* → zu **teuer**. (zu changes nothing on the adjective)
-- Reaching for adjective endings before nouns: park that until A2.
 :::
 
 ## Related articles

@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Temporal Prepositions
+# Temporal prepositions
 
-Seven little words pin events to the clock and the calendar. Three of them you already use as chunks (*um, am, im*); this page adds *von ... bis*, *seit*, *nach*, and *vor*, and turns the chunks into a system.
+Temporal prepositions are the small words that pin events to the clock and the calendar: *um*, *am*, *im*, *von ... bis*, *seit*, *vor* and *nach*.
+
+Each of *um*, *am* and *im* is locked to one kind of time word: clock times, days and months. *Von ... bis* marks a span. *Seit* marks a starting point that still holds, so German uses the {term}`present tense` where English says *have been*. *Vor* and *nach* put events in order, and both take the {term}`dative <dative case>`, the case that turns *die Arbeit* into *der Arbeit*.
 
 ## The big three: *um*, *am*, *im*
 
@@ -64,6 +66,14 @@ Ich lerne {prep}`seit` einem Jahr Deutsch.
 
 {prep}`Vor` dem Frühstück dusche ich.
 : Before breakfast I shower.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich lernte seit einem Jahr.* → Ich **lerne** seit einem Jahr. (seit takes the present)
+- *\*in Montag / an Januar* → **am** Montag, **im** Januar. (fixed pairs)
+- *\*nach die Arbeit* → nach **der** Arbeit. (nach takes the dative)
 :::
 
 ## Hear it in practice
@@ -146,14 +156,6 @@ Am Sonntag schlafe ich lange.
 - *von ... bis* spans; *seit* + dative + present tense for ongoing states.
 - *vor* and *nach* + dative order events.
 - German uses present tense with *seit* where English uses "have been".
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich lernte seit einem Jahr.* → Ich **lerne** seit einem Jahr. (seit takes the present)
-- *\*in Montag / an Januar* → **am** Montag, **im** Januar. (fixed pairs)
-- *\*nach die Arbeit* → nach **der** Arbeit. (nach takes the dative)
 :::
 
 ## Related articles

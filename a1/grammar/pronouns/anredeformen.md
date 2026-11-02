@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# du, ihr, or Sie
+# *du*, *ihr* or *Sie*
 
-English has one "you"; German has three, and picking the right one is a social decision as much as a grammatical one. The choice colours every question you ask a person, so it belongs early in your German, not late.
+German has three forms of address where English has one *you*: *du*, *ihr* and *Sie*. Picking the right one is a social decision as much as a grammatical one.
+
+*Du* is for one person a speaker knows well, and *ihr* is its {term}`plural`. *Sie* is the formal form, for one person or several, and it always has a capital letter. Each form takes its own {term}`verb` ending: *-st* with *du*, *-t* with *ihr* and *-en* with *Sie*. Other words change too, so *Wie geht es dir?* becomes *Wie geht es Ihnen?* with *Sie*.
 
 ## The three forms
 
@@ -64,6 +66,14 @@ Wir können du sagen.
 
 Sagen wir du?
 : Shall we use du?
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Kommst Sie aus Berlin?* → **Kommen** Sie aus Berlin? (Sie takes the -en form)
+- Using *du* with officials or shop staff: stay with **Sie** until offered.
+- *\*Wie geht es du?* → Wie geht es **dir**? (the chunk uses the {term}`dative <dative case>` form)
 :::
 
 ## Hear it in practice
@@ -146,14 +156,6 @@ Ihr könnt mitkommen.
 - Verb endings: du -st, ihr -t, Sie -en.
 - Default to *Sie* with adult strangers; wait for the offer to switch.
 - The chunks differ too: *dir / euch / Ihnen* in *Wie geht es ...?*
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Kommst Sie aus Berlin?* → **Kommen** Sie aus Berlin? (Sie takes the -en form)
-- Using *du* with officials or shop staff: stay with **Sie** until offered.
-- *\*Wie geht es du?* → Wie geht es **dir**? (the chunk uses the dative form)
 :::
 
 ## Related articles

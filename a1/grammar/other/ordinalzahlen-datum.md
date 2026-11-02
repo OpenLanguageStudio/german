@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Ordinal Numbers and Dates
+# Ordinal numbers and dates
 
-Ordinal numbers put things in order: first, second, third. In German they carry real grammar, because their endings decline like adjectives. At A1 you need exactly two patterns: *der ...te* for naming a date and *am ...ten* for placing something on it.
+Ordinal numbers put things in order: first, second, third. In German they also name dates, as in *der dritte Mai* and *am dritten Mai*.
+
+Ordinal numbers end in *-te* up to 19 and in *-ste* from 20. Their endings change like those of {term}`adjectives <adjective>`, but A1 needs only two patterns. *Der ...te* names a date: *Heute ist der dritte Mai*. *Am ...ten* places an event on it: *Ich habe am zwölften Juni Geburtstag*. Three forms are irregular: *erste*, *dritte* and *siebte*.
 
 ## Building the ordinals
 
@@ -27,7 +29,7 @@ Up to 19, add **-te** to the number; from 20, add **-ste**. Three forms misbehav
 
 ## Naming the date: *der dritte Mai*
 
-The date is masculine (*der Tag* hides behind it): *Heute ist der dritte Mai.* The question to know: *Der Wievielte ist heute?*
+The date is {term}`masculine` (*der Tag* hides behind it): *Heute ist der dritte Mai.* The question to know: *Der Wievielte ist heute?*
 
 **Examples:**
 
@@ -57,6 +59,14 @@ Weihnachten ist am vierundzwanzigsten Dezember.
 :::
 
 Ordinals also count floors and firsts: *im ersten Stock*, *mein erstes Auto*, *die erste Straße links*.
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*der dreite* → der **dritte**. (three is irregular)
+- *\*der siebente* → der **siebte** in everyday German.
+- *\*am dritte Mai* → am dritte**n** Mai. (the -n after am)
+:::
 
 ## Hear it in practice
 
@@ -138,14 +148,6 @@ Der Wievielte ist morgen?
 - Naming: *Heute ist der dritte Mai.* Asking: *Der Wievielte ist heute?*
 - Placing: *am* + ordinal + -n: *am dritten Mai*.
 - Written dates use a dot: *der 3. Mai* reads as *der dritte Mai*.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*der dreite* → der **dritte**. (three is irregular)
-- *\*der siebente* → der **siebte** in everyday German.
-- *\*am dritte Mai* → am dritte**n** Mai. (the -n after am)
 :::
 
 ## Related articles

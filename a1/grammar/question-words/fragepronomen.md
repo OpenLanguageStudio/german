@@ -8,15 +8,17 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Question Pronouns wer, wen, wem, was
+# Question pronouns
+
+Question pronouns ask about people and things: *wer* for who, *wen* for whom, *wem* for to whom, and *was* for what. German chooses between them by case.
+
+The {term}`question word` takes the case of the person in the answer, so question and answer match: *Wen siehst du? Ich sehe den Lehrer*. *Wer* asks for the {term}`subject`, the person acting. *Wen* asks for the {term}`direct object`, the person an action lands on, and *wem* for the person who receives something. *Was* stays the same as subject and {term}`object`.
 
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
 - [A1 > Grammar > The Three Cases Compared](/a1/grammar/cases/kasus-ueberblick.md)
 :::
-
-Asking "who?" in German means choosing a case, because the question word plays a role in the answer's sentence: *wer* asks for a subject, *wen* for a direct object, *wem* for a receiver. *Was* asks about things and is mercifully lazy about case.
 
 ## People: *wer*, *wen*, *wem*
 
@@ -41,11 +43,11 @@ The pronoun matches the case of the expected answer: *Wen siehst du? Ich sehe **
 : Whose is the bicycle?
 :::
 
-At A1, *wem* lives mostly with the dative verbs you know as chunks: *Wem gehört ...? Wem hilfst du? Wem schmeckt ...?*
+At A1, *wem* mostly goes with {term}`dative <dative case>` {term}`verbs <verb>` used as chunks: *Wem gehört ...? Wem hilfst du? Wem schmeckt ...?*
 
 ## Things: *was*
 
-*Was* covers "what" as both subject and object; it has no separate accusative form.
+*Was* covers "what" as both subject and object; it has no separate {term}`accusative <accusative case>` form.
 
 **Examples:**
 
@@ -58,6 +60,14 @@ At A1, *wem* lives mostly with the dative verbs you know as chunks: *Wem gehört
 
 {akk}`Was` suchst du?
 : What are you looking for?
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Wer siehst du?* → **Wen** siehst du? (object question needs wen)
+- *\*Wen gehört das?* → **Wem** gehört das? (gehören takes the dative)
+- Answering a *wen* question in the {term}`nominative <nominative case>`: *Wen? Den Lehrer*, not *der Lehrer*.
 :::
 
 ## Hear it in practice
@@ -137,14 +147,6 @@ Was suchst du?
 - The question word wears the case of the expected answer.
 - *wem* pairs with the dative chunk verbs: *gehören, helfen, schmecken*.
 - *was* asks about things, same form in nominative and accusative.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Wer siehst du?* → **Wen** siehst du? (object question needs wen)
-- *\*Wen gehört das?* → **Wem** gehört das? (gehören takes the dative)
-- Answering a *wen* question in the nominative: *Wen? Den Lehrer*, not *der Lehrer*.
 :::
 
 ## Related articles

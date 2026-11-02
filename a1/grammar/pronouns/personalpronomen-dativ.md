@@ -8,7 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Personal Pronouns: Dative
+# Personal pronouns: dative
+
+At A1, personal pronouns in the dative appear mostly in fixed chunks: *Wie geht es dir?*, *Kannst du mir helfen?* and *Das gefällt mir*.
+
+The dative is the case for the person who receives something or benefits from it. Here that means forms such as *mir* (to me), *dir* (to you) and *ihm* (to him). The full table is useful for recognising these forms, and the chunks cover what A1 needs in speech. Building free sentences with the whole set is A2 work.
 
 :::{admonition} Prerequisites
 :class: note
@@ -16,8 +20,6 @@ Before reading this article, make sure you are comfortable with:
 - [A1 > Grammar > Personal Pronouns: Accusative](/a1/grammar/pronouns/personalpronomen-akkusativ.md)
 - [A1 > Grammar > Verbs with the Dative](/a1/grammar/verbs/verben-mit-dativ.md)
 :::
-
-Dative pronouns have been in play since the very first *Wie geht es dir?* At A1 that is exactly the right relationship with them: a handful of fixed chunks, used confidently. This page sets out the full table for recognition and the chunks for actual use. Building free sentences with the whole set is A2 work.
 
 ## The forms (for reference)
 
@@ -31,11 +33,11 @@ Dative pronouns have been in play since the very first *Wie geht es dir?* At A1 
 | ihr | euch | to you (plural) |
 | sie / Sie | ihnen / Ihnen | to them / to you (formal) |
 
-*Uns* and *euch* pull double duty: they are both accusative and dative.
+*Uns* and *euch* pull double duty: they are both {term}`accusative <accusative case>` and dative.
 
 ## The chunks that matter now
 
-Four families of fixed expressions carry the A1 dative pronouns:
+Four families of fixed expressions carry the A1 dative {term}`pronouns <pronoun>`:
 
 **Examples:**
 
@@ -50,7 +52,9 @@ Das gefällt {dativ}`mir`. Das gehört {dativ}`mir`.
 : I like that. That belongs to me.
 :::
 
-The same chunks flex to other people: *Wie geht es ihm? Es geht ihnen gut. Kannst du uns helfen?*
+## The same chunks for other people
+
+The chunks change with the person: *Wie geht es ihm? Es geht ihnen gut. Kannst du uns helfen?*
 
 **Examples:**
 
@@ -63,6 +67,14 @@ Das Buch gehört {dativ}`ihm`.
 
 Ich danke {dativ}`Ihnen`.
 : Thank you. (formal)
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Wie geht es du?* → Wie geht es **dir**?
+- *\*Kannst du mich helfen?* → Kannst du **mir** helfen? (helfen takes the dative)
+- *\*Ich danke Sie.* → Ich danke **Ihnen**. (danken takes the dative)
 :::
 
 ## Hear it in practice
@@ -141,15 +153,7 @@ Ich danke Ihnen.
 - Table: *mir, dir, ihm, ihr, uns, euch, ihnen/Ihnen*; know it for recognition.
 - Active A1 use lives in chunks: *Wie geht es ...?*, *... helfen*, *gefallen*, *gehören*.
 - *uns* and *euch* are identical in accusative and dative.
-- Free production with the full set comes at A2; do not force it yet.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Wie geht es du?* → Wie geht es **dir**?
-- *\*Kannst du mich helfen?* → Kannst du **mir** helfen? (helfen takes the dative)
-- *\*Ich danke Sie.* → Ich danke **Ihnen**. (danken takes the dative)
+- Free production with the full set comes at A2; it is not needed yet.
 :::
 
 ## Related articles

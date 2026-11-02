@@ -8,15 +8,17 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# The Sentence Bracket
+# The sentence bracket
+
+The sentence bracket, or *Satzklammer*, is the German pattern where two {term}`verb` parts split up and frame everything else. One part stands in second position, and the rest goes to the very end.
+
+The pattern lies behind {term}`modal verbs <modal verb>` and {term}`separable verbs <separable verb>`. With a modal verb, the bracket opens with the modal and closes with the {term}`infinitive`, the basic form of the verb. With a separable verb, the {term}`prefix` closes it: *Ich stehe um sieben Uhr auf*. The middle can be as long as the sentence needs, and the closing part keeps its place in questions too.
 
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
 - [A1 > Grammar > The Verb in Second Position](/a1/grammar/sentence-structure/verb-position-2.md)
 :::
-
-When a German sentence has two verb parts, they split up and frame everything else: the conjugated part in position 2, the rest at the very end. This frame is the *Satzklammer*, the sentence bracket, and it is the deep pattern behind things you already do with modals and separable verbs.
 
 ## Two verbs, one frame
 
@@ -67,7 +69,15 @@ Wann {verb}`stehst` du am Sonntag {verb}`auf`?
 :::
 
 :::{note}
-The bracket returns in the past tense: *Ich habe Pizza gegessen* frames the sentence the same way. Learn the shape once and half of German word order is settled.
+The bracket returns in the {term}`past tense`: *Ich habe Pizza gegessen* frames the sentence the same way. Learn the shape once and half of German {term}`word order` is settled.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich möchte trinken einen Kaffee.* → Ich möchte einen Kaffee **trinken**. (bracket closes at the end)
+- *\*Ich stehe auf um sieben.* → Ich stehe um sieben **auf**. (the prefix waits for the end)
+- Closing the bracket early when the middle gets long: the end can wait; German listeners are used to it.
 :::
 
 ## Hear it in practice
@@ -143,18 +153,10 @@ Wir können später einkaufen gehen.
 :::{admonition} Key points
 :class: note
 
-- Two verb parts split: conjugated part in position 2, the rest at the end.
+- Two verb parts split: {term}`conjugated <conjugation>` part in position 2, the rest at the end.
 - Modal + infinitive and separable verbs both build this bracket.
 - Everything else, no matter how long, sits inside the frame.
 - Questions change the front, never the closing part.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich möchte trinken einen Kaffee.* → Ich möchte einen Kaffee **trinken**. (bracket closes at the end)
-- *\*Ich stehe auf um sieben.* → Ich stehe um sieben **auf**. (the prefix waits for the end)
-- Closing the bracket early when the middle gets long: the end can wait; German listeners are used to it.
 :::
 
 ## Related articles

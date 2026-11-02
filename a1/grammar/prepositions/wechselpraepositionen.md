@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Two-Way Prepositions
+# Two-way prepositions
 
-*In*, *auf*, and *an* answer *wo?* in almost every everyday location phrase: *in der Stadt*, *auf dem Tisch*, *an der Ecke*. At A1, learn these as fixed chunks, place by place. The full system behind them (they switch case with direction, hence "two-way") is A2 material; the chunks work perfectly without it.
+Two-way prepositions such as *in*, *auf* and *an* answer *wo?* in almost every everyday location phrase: *in der Stadt*, *auf dem Tisch*, *an der Ecke*.
+
+At A1 these work as chunks, short groups of words learned as one piece. *In* goes with enclosed spaces, *auf* with surfaces and open areas, and *an* with edges and points of contact. They are called two-way because the case changes with direction, and that full system comes at A2. For saying where something is, the chunks are always right.
 
 ## The chunks by preposition
 
@@ -22,7 +24,7 @@ myst:
 | auf | auf dem Tisch, auf dem Markt | on the table, at the market |
 | an | an der Ecke, an der Wand, am Bahnhof | on the corner, on the wall, at the station |
 
-*Im* is *in dem*; *am* is *an dem*. You have met both since your first location sentence.
+*Im* is *in dem*, and *am* is *an dem*.
 
 **Examples:**
 
@@ -39,7 +41,7 @@ Sie wartet {prep}`an` der Haltestelle.
 
 ## Using them in sentences
 
-Location chunks slot into any sentence pattern you know: with *sein*, with activity verbs, or up front with inversion.
+Location chunks fit any sentence pattern: with *sein*, with activity {term}`verbs <verb>`, or up front with inversion.
 
 **Examples:**
 
@@ -56,7 +58,15 @@ Wir essen {prep}`im` Restaurant.
 
 ## A look ahead
 
-These same prepositions can also express direction (*ins Kino gehen*), and then the case changes. That switch is the A2 lesson. For now: if you are saying where something IS, the chunks on this page are always right.
+These same {term}`prepositions <preposition>` can also express direction (*ins Kino gehen*), and then the case changes. That switch is A2 material. For saying where something is, the chunks on this page are always right.
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*auf dem Kino* → **im** Kino. (enclosed space takes in)
+- *\*in dem Tisch* → **auf** dem Tisch. (surfaces take auf)
+- Worrying about the case rule now: at A1 the chunk IS the rule.
+:::
 
 ## Hear it in practice
 
@@ -134,15 +144,7 @@ Wir treffen uns im Café.
 - *in* = inside, *auf* = on/at open places, *an* = at edges and points.
 - Learn locations as chunks: *in der Stadt, auf dem Tisch, an der Ecke*.
 - *im* = in dem, *am* = an dem.
-- The direction/case switch waits at A2; location chunks never mislead you.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*auf dem Kino* → **im** Kino. (enclosed space takes in)
-- *\*in dem Tisch* → **auf** dem Tisch. (surfaces take auf)
-- Worrying about the case rule now: at A1 the chunk IS the rule.
+- The direction/case switch waits at A2; location chunks are always safe.
 :::
 
 ## Related articles

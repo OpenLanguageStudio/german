@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# The Preposition für
+# The preposition *für*
 
-*Für* (for) is the mirror image of *mit*: just as reliably one-cased, but on the accusative side. Presents, purposes, prices, and short durations all run through it, which makes it the most useful accusative preposition at A1.
+The preposition *für* means *for* and always takes the {term}`accusative <accusative case>`. It covers presents, purposes, prices and short durations in everyday German.
+
+A preposition is a small word in front of a {term}`noun` that shows how it relates to the rest of the sentence. After *für*, the noun and its article stand in the accusative, the form that changes {term}`masculine` *der* to *den*. So a present goes *für meinen Sohn*, and the question is *Für wen?* There is no choice to make, because *für* never takes any other case.
 
 ## For people: recipients
 
@@ -57,7 +59,15 @@ Wir fahren {prep}`für` eine Woche nach Italien.
 : We are going to Italy for a week.
 :::
 
-*Für* also anchors the thanking pattern you know: *Danke für deine Hilfe, danke für die Erklärung.*
+*Für* also carries the thanks pattern: *Danke für deine Hilfe, danke für die Erklärung.*
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*für meinem Sohn* → für mein**en** Sohn. (accusative, not {term}`dative <dative case>`)
+- *\*Für wem ist das?* → Für **wen** ist das? (für forces the accusative {term}`question word`)
+- *\*Danke für deiner Hilfe.* → Danke für dein**e** Hilfe. (accusative {term}`feminine`)
+:::
 
 ## Hear it in practice
 
@@ -136,14 +146,6 @@ Ich koche für die ganze Familie.
 - Recipients (*für dich*), purposes (*für die Arbeit*), prices (*für zwei Euro*), durations (*für eine Woche*).
 - The question word: *Für wen?*
 - Thanks run on für: *Danke für ...*
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*für meinem Sohn* → für mein**en** Sohn. (accusative, not dative)
-- *\*Für wem ist das?* → Für **wen** ist das? (für forces the accusative question word)
-- *\*Danke für deiner Hilfe.* → Danke für dein**e** Hilfe. (accusative feminine)
 :::
 
 ## Related articles

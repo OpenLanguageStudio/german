@@ -1,27 +1,5 @@
 # Articles that failed `ol validate` when this baseline was written.
 # Remove a line once its article passes. Never add lines by hand.
-a1/grammar/adjectives/gern-lieber.md
-a1/grammar/adjectives/praedikative-adjektive.md
-a1/grammar/other/nomen-genus-plural.md
-a1/grammar/other/ordinalzahlen-datum.md
-a1/grammar/prepositions/fuer-akkusativ.md
-a1/grammar/prepositions/kurzformen.md
-a1/grammar/prepositions/lokale-praepositionen-dativ.md
-a1/grammar/prepositions/mit-dativ.md
-a1/grammar/prepositions/temporale-praepositionen.md
-a1/grammar/prepositions/wechselpraepositionen.md
-a1/grammar/pronouns/anredeformen.md
-a1/grammar/pronouns/man.md
-a1/grammar/pronouns/personalpronomen-akkusativ.md
-a1/grammar/pronouns/personalpronomen-dativ.md
-a1/grammar/pronouns/personalpronomen-nominativ.md
-a1/grammar/question-words/fragepronomen.md
-a1/grammar/question-words/fragewoerter-umstaende.md
-a1/grammar/sentence-structure/fragen.md
-a1/grammar/sentence-structure/konjunktionen.md
-a1/grammar/sentence-structure/negation.md
-a1/grammar/sentence-structure/satzklammer.md
-a1/grammar/sentence-structure/verb-position-2.md
 a1/grammar/tenses/partizip-ii.md
 a1/grammar/tenses/perfekt.md
 a1/grammar/tenses/praeteritum-sein-haben.md

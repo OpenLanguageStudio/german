@@ -8,9 +8,11 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Noun Gender and Plurals
+# Noun gender and plurals
 
-Every German noun carries two pieces of information that English nouns do not: a gender and a plural form of its own. Neither follows one neat rule, so the habit that pays off is learning each noun as a package: article, noun, plural. This page sets out what to look for.
+Every German noun carries two pieces of information that English nouns lack: a gender and a plural form of its own. Neither follows one neat rule.
+
+Gender is the grammatical group a noun belongs to: {term}`masculine`, {term}`feminine` or {term}`neuter`. It belongs to the word and often has nothing to do with meaning. The plural article is always *die*, but the noun itself changes in one of five common ways. So the habit that pays off is learning each noun as a package of article, noun and plural.
 
 ## Every noun has a gender
 
@@ -42,7 +44,7 @@ Meine {noun}`Schwester` hat eine {noun}`Katze`.
 
 ## The plural patterns
 
-The plural article is always **die**. The noun itself changes in one of a handful of ways. You cannot predict the pattern reliably at A1, but knowing the five common ones makes plurals feel familiar instead of random.
+The plural article is always **die**. The noun itself changes in one of a handful of ways. The pattern cannot be predicted reliably at A1, but five common ones cover most nouns.
 
 | Pattern | Singular | Plural |
 |---|---|---|
@@ -67,6 +69,14 @@ Die Wohnung ist groß. Die **Wohnungen** sind groß.
 
 :::{tip}
 Learn nouns as a trio: *der Tisch, die Tische*. Dictionaries and vocabulary lists always show the plural; take it along from the start and you never have to guess later.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich kaufe brot.* → Ich kaufe **Brot**. (nouns are always capitalised)
+- *\*Die Kind spielt.* → **Das** Kind spielt. (gender belongs to the word; Kind is neuter)
+- *\*Das Kinder spielen.* → **Die** Kinder spielen. (the plural article is always die)
 :::
 
 ## Hear it in practice
@@ -151,16 +161,8 @@ Die Männer arbeiten heute.
 - Three genders: *der*, *die*, *das*. Gender is part of the word; learn it with the noun.
 - Endings -ung and -chen are reliable: always *die Wohnung*, always *das Mädchen*.
 - Every noun is capitalised, everywhere in the sentence.
-- The plural article is always *die*; the noun changes by pattern (-n/-en, -e, -er, -s, umlaut).
+- The plural article is always *die*; the noun changes by pattern (-n/-en, -e, -er, -s, {term}`umlaut`).
 - Learn each noun as a trio: article, noun, plural.
-:::
-
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich kaufe brot.* → Ich kaufe **Brot**. (nouns are always capitalised)
-- *\*Die Kind spielt.* → **Das** Kind spielt. (gender belongs to the word; Kind is neuter)
-- *\*Das Kinder spielen.* → **Die** Kinder spielen. (the plural article is always die)
 :::
 
 ## Related articles

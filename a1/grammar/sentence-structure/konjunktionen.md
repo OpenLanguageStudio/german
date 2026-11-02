@@ -8,13 +8,15 @@ myst:
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Conjunctions und, oder, aber, denn
+# Conjunctions *und*, *oder*, *aber*, *denn*
 
-Four small words join your sentences into longer thoughts: *und* (and), *oder* (or), *aber* (but), *denn* (because). Their best feature: they change nothing. Both halves keep normal word order, verb in second position on each side.
+The conjunctions *und*, *oder*, *aber* and *denn* join short German sentences into longer thoughts. They mean *and*, *or*, *but* and *because*.
+
+A conjunction is a word that joins words or sentences. These four change nothing in the sentences they join, because they sit outside both of them. Each half keeps normal {term}`word order`, with the {term}`verb` in second position. That makes *denn* the easiest word for *because*. *Und* and *oder* also join single words, and then they need no comma: *Brot und Käse*.
 
 ## Position zero
 
-Think of these conjunctions as sitting in position zero: outside the sentence, before slot 1. That is why the verb stays exactly where it was.
+These conjunctions sit in position zero: outside the sentence, before slot 1. That is why the verb stays exactly where it was.
 
 | Sentence 1 | Position 0 | Sentence 2 |
 |---|---|---|
@@ -61,6 +63,14 @@ Ich bleibe zu Hause, {conj}`denn` ich bin krank.
 
 Ich gehe ins Bett, {conj}`denn` es ist spät.
 : I am going to bed because it is late.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich bleibe zu Hause, denn bin ich krank.* → denn **ich bin** krank. (no inversion after denn)
+- *\*Er ist nett aber, sehr müde.* → Er ist nett, **aber** sehr müde. (comma before aber)
+- Reaching for *weil* and rearranging: at A1, *denn* does the job with normal word order.
 :::
 
 ## Hear it in practice
@@ -142,10 +152,3 @@ Wir wohnen und arbeiten in Hamburg.
 - *denn* = because, the A1-friendly way to give reasons.
 :::
 
-:::{admonition} Common mistakes
-:class: caution
-
-- *\*Ich bleibe zu Hause, denn bin ich krank.* → denn **ich bin** krank. (no inversion after denn)
-- *\*Er ist nett aber, sehr müde.* → Er ist nett, **aber** sehr müde. (comma before aber)
-- Reaching for *weil* and rearranging: at A1, *denn* does the job with normal word order.
-:::
