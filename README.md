@@ -1,35 +1,42 @@
 # Open Language - German
 
-The German coursebook from Open Language: grammar, concepts, writing and vocabulary articles from A1 to B2, each with listening examples.
+**Learn German one topic at a time, free. Read it at [german.openlanguage.studio](https://german.openlanguage.studio).**
 
-## Layout
+Open Language - German is a free, open coursebook for adults learning German. Each article explains one thing in plain words, then ends with sentences to listen to and repeat aloud. It covers A1 to B2, from the first words to formal and precise German.
 
-```
-<level>/<category>/         articles, one topic each
-index.md, conf.py           the site's home page and its build settings
-open-language.yml           workspace settings and the cast of voices
-```
+## What is inside
 
-Levels are `a1` to `b2`. Categories are `grammar`, `concepts`, `writing` and `vocabulary`.
+- **Concepts**: what to say in an everyday situation, such as greeting someone or ordering a coffee.
+- **Grammar**: how German is built, one topic per page.
+- **Writing**: model emails, messages and postcards, ready to adapt.
+- **Vocabulary**: word packs on one theme, each word used in a sentence.
 
-## Working on the content
+Every page stands on its own. Start anywhere, in any order, with no account and no sign-up.
 
-Install with [uv](https://docs.astral.sh/uv/):
+## About Open Language
 
-```
-uv sync
-```
+Open Language makes language courses for adults who learn on their own terms: a short, clear explanation, then the language heard used correctly, again and again. It is built for learning in the gaps of a day, reading in the morning and listening on the way to work.
 
-Check everything the way CI does:
+**The vision** is that anyone can learn a language by reading and listening, in their own time and at their own pace, without a classroom, a streak to protect or a paywall in front of the explanation.
 
-```
-uv run ol check
-```
+**What we hold to:**
 
-That runs the article checks and a strict build of the site. Build and preview locally with `uv run ol docs`.
+- **Free to read.** Every page, at every level, with no account.
+- **Listening first.** Every article ends with sentences to hear, because a language is learned by ear.
+- **Correct, and open to checking.** The source is public, so anyone can see how a page is written and point out a mistake.
+- **No gates.** No locked levels, no required order, no points and no streaks.
+- **One standard for every language.** Each coursebook is built the same way, so a learner who knows one knows them all.
 
-New articles start from a template. `uv run ol templates` lists them and `uv run ol templates grammar-article.md` prints one.
+## The coursebooks
 
-## Reporting a problem
+- [Open Language - German](https://german.openlanguage.studio) ([source](https://github.com/OpenLanguageStudio/german))
+- [Open Language - English](https://english.openlanguage.studio) ([source](https://github.com/OpenLanguageStudio/english))
 
-Found a wrong example, a typo or a confusing explanation? [Open an issue](https://github.com/OpenLanguageStudio/german/issues).
+## Help make it better
+
+The people who read a coursebook find what its authors miss, and the Open Language team makes the change. The [issue tracker](https://github.com/OpenLanguageStudio/german/issues) is where that starts.
+
+- **Found a mistake?** A wrong example, an unnatural sentence, a typo or an explanation that does not make sense: [report a problem](https://github.com/OpenLanguageStudio/german/issues/new/choose).
+- **Missing a topic?** [Ask for an article](https://github.com/OpenLanguageStudio/german/issues/new/choose), with the topic and its level.
+- **Reading in the app?** Every page has a report button, which sends the report here.
+- **Finding it useful?** Star this repository and share a page with someone learning German. It is how other learners find it.
