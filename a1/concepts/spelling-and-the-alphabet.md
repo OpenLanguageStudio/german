@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: spelling and the alphabet. Spell your name aloud, ask how a word is written, and follow letter-by-letter dictation in German."
     keywords: "german, a1, concepts, alphabet, spelling, buchstabieren, wie schreibt man das, umlaut, letters"
-    "property=og:title": "Spelling and the alphabet"
+    "property=og:title": "Spell names and words aloud"
     "property=og:description": "A1 concept: spelling and the alphabet. Spell your name aloud, ask how a word is written, and follow letter-by-letter dictation in German."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Spelling and the alphabet
+# Spell names and words aloud
 
 Spelling aloud is a survival skill in Germany, needed at every reception desk and on every phone call about a form.
 
@@ -84,7 +84,7 @@ If dictation gets too fast, two short phrases save you: *Noch einmal, bitte* and
 :::{audio-examples}
 :track: a1/concepts/spelling-and-the-alphabet
 :title: Buchstabieren und das Alphabet
-:title-en: Spelling and the alphabet
+:title-en: Spell names and words aloud
 
 Wie schreibt man das?
 : How do you spell that?

@@ -479,4 +479,4 @@ Das ist die tiefste Stelle des Sees.
 - [B1 > Grammar > Adjektive ohne Artikel](/b1/grammar/adjektive-ohne-artikel.md)
 - [B1 > Grammar > Sätze mit je ..., desto/umso ...](/b1/grammar/je-desto.md)
 - [A2 > Grammar > Adjektivendungen](/a2/grammar/adjectives/adjektivendungen.md)
-- [A2 > Concepts > Making comparisons](/a2/concepts/making-comparisons.md)
+- [A2 > Concepts > Compare things](/a2/concepts/making-comparisons.md)

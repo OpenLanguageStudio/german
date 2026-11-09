@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: understanding public information. Signs, opening hours, station announcements, and the short official phrases you meet every day."
     keywords: "german, a1, concepts, signs, schilder, geöffnet, geschlossen, verboten, announcements, gleis"
-    "property=og:title": "Understanding public information"
+    "property=og:title": "Understand signs and announcements"
     "property=og:description": "A1 concept: understanding public information. Signs, opening hours, station announcements, and the short official phrases you meet every day."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Understanding public information
+# Understand signs and announcements
 
 Signs, notices and loudspeaker announcements fill German public space: shop hours, station platforms, and short instructions on almost every door.
 
@@ -90,7 +90,7 @@ Nächster Halt: Hauptbahnhof.
 :::{audio-examples}
 :track: a1/concepts/understanding-public-information
 :title: Öffentliche Informationen verstehen
-:title-en: Understanding public information
+:title-en: Understand signs and announcements
 
 Geöffnet von neun bis achtzehn Uhr.
 : Open from nine to six.

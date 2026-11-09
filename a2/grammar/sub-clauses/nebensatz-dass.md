@@ -385,4 +385,4 @@ Click the link below to practice everything from this page with an interactive t
 
 ## Related articles
 
-- [A2 > Concepts > Indirekte Fragen](/a2/concepts/indirect-questions.md)
+- [A2 > Concepts > Ask indirect questions](/a2/concepts/indirect-questions.md)

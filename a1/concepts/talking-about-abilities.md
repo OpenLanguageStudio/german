@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: talking about abilities. Say what you can and cannot do with können, soften it with ein bisschen, and ask others back."
     keywords: "german, a1, concepts, abilities, können, ich kann, skills, ein bisschen"
-    "property=og:title": "Talking about abilities"
+    "property=og:title": "Say what you can do"
     "property=og:description": "A1 concept: talking about abilities. Say what you can and cannot do with können, soften it with ein bisschen, and ask others back."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Talking about abilities
+# Say what you can do
 
 Talking about abilities in German needs one {term}`modal verb`, *können*, and a few small words that grade a skill from barely to very well.
 
@@ -89,7 +89,7 @@ Nein, aber ich kann Klavier spielen.
 :::{audio-examples}
 :track: a1/concepts/talking-about-abilities
 :title: Über Fähigkeiten sprechen
-:title-en: Talking about abilities
+:title-en: Say what you can do
 
 Ich kann gut schwimmen.
 : I can swim well.

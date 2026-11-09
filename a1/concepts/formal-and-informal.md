@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: formal and informal in German. Why German separates du and Sie, why it matters socially, and why beginners get plenty of forgiveness."
     keywords: "german, a1, concepts, formal informal, du, sie, duzen, siezen, politeness, register, anrede"
-    "property=og:title": "Formal and informal"
+    "property=og:title": "Choose between du and Sie"
     "property=og:description": "A1 concept: formal and informal in German. Why German separates du and Sie, why it matters socially, and why beginners get plenty of forgiveness."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Formal and informal
+# Choose between du and Sie
 
 German has two words for *you*: *du* for the informal and *Sie* for the formal. The choice between formal and informal runs through the whole language.
 
@@ -78,7 +78,7 @@ Do not let this scare you. At this stage any competent German speaker can tell a
 :::{audio-examples}
 :track: a1/concepts/formal-and-informal
 :title: Duzen und Siezen
-:title-en: Formal and informal
+:title-en: Choose between du and Sie
 
 Wie heißt du?
 : What is your name? (informal)

@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: numbers and personal data. Count to a hundred, understand einundzwanzig, and give your phone number, age, and address in German."
     keywords: "german, a1, concepts, numbers, zahlen, phone number, age, address, personal data, einundzwanzig"
-    "property=og:title": "Numbers and personal data"
+    "property=og:title": "Give your personal details"
     "property=og:description": "A1 concept: numbers and personal data. Count to a hundred, understand einundzwanzig, and give your phone number, age, and address in German."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Numbers and personal data
+# Give your personal details
 
 Numbers show up in nearly every A1 situation, from a phone number and an age to a street address and a postcode.
 
@@ -98,7 +98,7 @@ Ich bin einunddreißig Jahre alt.
 :::{audio-examples}
 :track: a1/concepts/numbers-and-personal-data
 :title: Zahlen und persönliche Daten
-:title-en: Numbers and personal data
+:title-en: Give your personal details
 
 null, eins, zwei, drei
 : zero, one, two, three

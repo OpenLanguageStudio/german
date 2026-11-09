@@ -1,1 +1,1 @@
-# Organising a festival
+# Organise a festival

@@ -4,7 +4,7 @@ myst:
     description: "A2 concept: indirect questions in German using ob/w-words and verb-last order."
     keywords: "german, a2, indirect questions, ob, w-questions, nebensaetze"
 ---
-# Indirect questions
+# Ask indirect questions
 
 Short overview: Use ob for yes/no questions and w‑words for information questions. The finite verb goes to the end.
 

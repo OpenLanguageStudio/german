@@ -239,5 +239,5 @@ Sie spricht kein Deutsch, deshalb verstehen wir sie nicht.
 
 - [A2 > Grammar > Konnektoren: deshalb, trotzdem](/a2/grammar/sub-clauses/konnektoren.md)
 - [B1 > Grammar > Kausal Nebensätze](/b1/grammar/kausal-nebensaetze.md)
-- [B1 > Concepts > Expressing consequences](/b1/concepts/expressing-consequences.md)
-- [B1 > Concepts > Goals, intention, and purpose](/b1/concepts/goals-intention-purpose.md)
+- [B1 > Concepts > Express consequences](/b1/concepts/expressing-consequences.md)
+- [B1 > Concepts > Talk about goals and purpose](/b1/concepts/goals-intention-purpose.md)

@@ -4,7 +4,7 @@ myst:
     description: "A2 concept: polite requests, wishes, and advice with Konjunktiv II."
     keywords: "german, a2, polite, requests, wishes, advice, konjunktiv ii"
 ---
-# Polite requests, wishes & advice
+# Ask, wish and advise politely
 
 Politeness in German softens a request rather than lengthening it. The same small set of forms covers asking for something, expressing a wish, and offering gentle advice.
 

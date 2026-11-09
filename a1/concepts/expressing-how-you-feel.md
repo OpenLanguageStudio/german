@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: expressing how you feel. Moods with sein, the Mir geht es chunk, aches with wehtun, and being ill or well."
     keywords: "german, a1, concepts, feelings, wie geht es, müde, krank, kopfschmerzen, wehtun"
-    "property=og:title": "Expressing how you feel"
+    "property=og:title": "Say how you feel"
     "property=og:description": "A1 concept: expressing how you feel. Moods with sein, the Mir geht es chunk, aches with wehtun, and being ill or well."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Expressing how you feel
+# Say how you feel
 
 *Wie geht es dir?* deserves a better answer than *gut*. Moods, tiredness, illness and aches each have their own small set of phrases in German.
 
@@ -92,7 +92,7 @@ Alles ist in Ordnung.
 :::{audio-examples}
 :track: a1/concepts/expressing-how-you-feel
 :title: Gefühle ausdrücken
-:title-en: Expressing how you feel
+:title-en: Say how you feel
 
 Wie geht es dir?
 : How are you?

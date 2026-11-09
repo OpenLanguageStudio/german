@@ -241,5 +241,5 @@ Wenn sie ein Auto kaufen, vergleichen sie die Preise.
 
 ## Related articles
 
-- [A2 > Concepts > Indirect questions](/a2/concepts/indirect-questions.md)
+- [A2 > Concepts > Ask indirect questions](/a2/concepts/indirect-questions.md)
 - [A2 > Grammar > Modalverben im Präteritum](/a2/grammar/verbs/modalverben-praeteritum.md)

@@ -275,5 +275,5 @@ Ich unterhalte mich gern mit meinen Freunden.
 - [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
 - [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
 - [A2 > Grammar > Verben mit festen Präpositionen](/a2/grammar/prepositions/verben-mit-praeposition.md)
-- [A2 > Concepts > Polite requests, wishes and advice](/a2/concepts/polite-requests-wishes-advice.md)
+- [A2 > Concepts > Ask, wish and advise politely](/a2/concepts/polite-requests-wishes-advice.md)
 - [A2 > Grammar > Positionsverben](/a2/grammar/prepositions/positionsverben.md)

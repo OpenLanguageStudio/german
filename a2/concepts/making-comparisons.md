@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A2 concept: comparing things. Say that two things are the same, that one is bigger or better, and which one is the best, with als, wie and am ...sten."
     keywords: "german, a2, concepts, comparing things, comparisons, als, so wie, komparativ, superlativ, lieber, am liebsten"
-    "property=og:title": "Comparing things"
+    "property=og:title": "Compare things"
     "property=og:description": "A2 concept: comparing things. Say that two things are the same, that one is bigger or better, and which one is the best, with als, wie and am ...sten."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Comparing things
+# Compare things
 
 Comparing things in German comes down to two small words and one ending. *So ... wie* says that two things are equal, an adjective with **-er** plus *als* says that one is more, and *am ...sten* picks out the top of a group. The same pattern covers prices, flats, cities, food and plans.
 
@@ -103,7 +103,7 @@ Comparisons with *nicht so ... wie* sound more polite than a direct negative com
 :::{audio-examples}
 :track: a2/concepts/making-comparisons
 :title: Dinge vergleichen
-:title-en: Comparing things
+:title-en: Compare things
 
 Mein Zimmer ist so groß wie dein Zimmer.
 : My room is as big as your room.

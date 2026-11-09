@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: talking about the weather. The impersonal es, the core weather verbs and adjectives, degrees, and the four seasons."
     keywords: "german, a1, concepts, weather, wetter, es regnet, sonne, grad, jahreszeiten, seasons"
-    "property=og:title": "Talking about the weather"
+    "property=og:title": "Talk about the weather"
     "property=og:description": "A1 concept: talking about the weather. The impersonal es, the core weather verbs and adjectives, degrees, and the four seasons."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Talking about the weather
+# Talk about the weather
 
 Talking about the weather opens a hundred German conversations a day and takes a handful of descriptions, a simple forecast, and one small word: *es*.
 
@@ -89,7 +89,7 @@ Im Herbst ist es oft windig.
 :::{audio-examples}
 :track: a1/concepts/talking-about-the-weather
 :title: Über das Wetter sprechen
-:title-en: Talking about the weather
+:title-en: Talk about the weather
 
 Wie ist das Wetter heute?
 : What is the weather like today?

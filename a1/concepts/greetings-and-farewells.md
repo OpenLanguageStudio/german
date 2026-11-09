@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: greetings and farewells. Say hello and goodbye in German at any time of day, formally and informally, and reply naturally."
     keywords: "german, a1, concepts, greetings, farewells, hallo, guten tag, tschüss, auf wiedersehen, hello, goodbye"
-    "property=og:title": "Greetings and farewells"
+    "property=og:title": "Say hello and goodbye"
     "property=og:description": "A1 concept: greetings and farewells. Say hello and goodbye in German at any time of day, formally and informally, and reply naturally."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Greetings and farewells
+# Say hello and goodbye
 
 Greetings and farewells in German are more fixed than in English. Each encounter has an opening line and a closing one, and leaving one out stands out.
 
@@ -85,7 +85,7 @@ Regional greetings are everywhere in Germany: *Moin* in the north, *Grüß Gott*
 :::{audio-examples}
 :track: a1/concepts/greetings-and-farewells
 :title: Begrüßung und Abschied
-:title-en: Greetings and farewells
+:title-en: Say hello and goodbye
 
 Hallo!
 : Hello!

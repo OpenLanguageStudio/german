@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: introducing yourself. Say your name, where you're from, where you live, and your age, and ask the same questions back."
     keywords: "german, a1, concepts, introducing yourself, sich vorstellen, wie heißt du, woher kommst du, name age origin"
-    "property=og:title": "Introducing yourself"
+    "property=og:title": "Introduce yourself"
     "property=og:description": "A1 concept: introducing yourself. Say your name, where you're from, where you live, and your age, and ask the same questions back."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Introducing yourself
+# Introduce yourself
 
 Introducing yourself in German rests on four sentences: name, origin, where home is, and age. The same four questions come back the other way, in both the formal *Sie* and the informal *du*.
 
@@ -98,7 +98,7 @@ Germans usually give surnames in formal settings (*Ich heiße Weber*) and first 
 :::{audio-examples}
 :track: a1/concepts/introducing-yourself
 :title: Sich vorstellen
-:title-en: Introducing yourself
+:title-en: Introduce yourself
 
 Ich heiße Anna Schmidt.
 : My name is Anna Schmidt.

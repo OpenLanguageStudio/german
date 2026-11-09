@@ -4,7 +4,7 @@ myst:
     description: "B1 concept: expressing goals, intention and purpose with um ... zu and damit."
     keywords: "german, b1, concept, purpose, um zu, damit"
 ---
-# Goals, intention, and purpose
+# Talk about goals and purpose
 
 Purpose answers the question *wozu*: what an action is for. German splits the job between two structures, depending on who benefits.
 

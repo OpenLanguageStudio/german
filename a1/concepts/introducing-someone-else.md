@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: introducing someone else. Present a friend, colleague, or family member in German: name, origin, job, and languages."
     keywords: "german, a1, concepts, introducing someone, das ist, er heißt, sie kommt aus, third person"
-    "property=og:title": "Introducing someone else"
+    "property=og:title": "Introduce someone else"
     "property=og:description": "A1 concept: introducing someone else. Present a friend, colleague, or family member in German: name, origin, job, and languages."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Introducing someone else
+# Introduce someone else
 
 Introducing someone else uses the same building blocks as a self-introduction, shifted to *er* and *sie*. The pattern opens with *Das ist ...* and then adds a name, an origin, a job, and the languages that person speaks.
 
@@ -82,7 +82,7 @@ Er spricht Englisch und ein bisschen Deutsch.
 :::{audio-examples}
 :track: a1/concepts/introducing-someone-else
 :title: Jemanden vorstellen
-:title-en: Introducing someone else
+:title-en: Introduce someone else
 
 Das ist mein Freund Tom.
 : This is my friend Tom.
