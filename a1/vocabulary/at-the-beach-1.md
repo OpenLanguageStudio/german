@@ -109,5 +109,5 @@ Das Wasser ist heute warm.
 ## Related articles
 
 - [A Postcard from Holiday](/a1/writing/postcard-1.md)
-- [Talking about the weather](/a1/concepts/talking-about-the-weather.md)
+- [Talk about the weather](/a1/how-to/talk-about-the-weather.md)
 - [Sports and games](/a1/vocabulary/sports-and-games-1.md)

@@ -1,0 +1,53 @@
+---
+myst:
+  html_meta:
+    description: "B1 how-to: expressing goals, intention and purpose with um ... zu and damit."
+    keywords: "german, b1, how to, purpose, um zu, damit"
+---
+# Talk about goals and purpose
+
+Purpose answers the question *wozu*: what an action is for. German splits the job between two structures, depending on who benefits.
+
+## When to use it
+
+- Explain why you do something (goal).
+- Give purpose in emails, plans, and conversations.
+
+## Key phrases
+
+| Phrase | Notes |
+|---|---|
+| {stack}`um ... zu + Infinitiv \| in order to` | same subject |
+| {stack}`damit + Nebensatz \| so that` | often different subject |
+
+---
+
+## Examples
+
+:::{div} ol-examples
+Ich lerne Deutsch, **um** einen Job in Berlin **zu** finden.
+: I’m learning German in order to find a job in Berlin.
+
+Ich schreibe es auf, **damit** ich es nicht vergesse.
+: I write it down so that I don't forget it.
+
+Wir gehen früher los, **damit** du den Zug schaffst.
+: We’re leaving earlier so that you catch the train.
+:::
+
+## Register and tone
+
+um ... zu is concise; damit sounds a bit more formal and flexible.
+
+## Mini practice
+
+- Transform: um ... zu → damit (different subject).
+- Choose whether um ... zu or damit fits better.
+
+---
+
+## Related articles
+
+- [B1 > Grammar > Konsekutiv Nebensätze](/b1/grammar/konsekutiv-nebensaetze.md)
+- [B1 > Grammar > brauchen + zu + Infinitiv](/b1/grammar/brauchen-zu-infinitiv.md)
+- [B1 > Grammar > Infinitiv mit "zu"](/b1/grammar/infinitiv-mit-zu.md)

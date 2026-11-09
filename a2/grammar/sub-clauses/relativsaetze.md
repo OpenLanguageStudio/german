@@ -417,4 +417,4 @@ Das Bild, das ich male, wird schön.
 
 - [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
 - [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Concepts > Ask indirect questions](/a2/concepts/indirect-questions.md)
+- [A2 > How to > Ask indirect questions](/a2/how-to/ask-indirect-questions.md)

@@ -27,7 +27,7 @@ A1 is the first CEFR level, for learners starting German from nothing. It covers
 ```{toctree}
 :maxdepth: 2
 
-concepts/index
+how-to/index
 grammar/index
 writing/index
 vocabulary/index

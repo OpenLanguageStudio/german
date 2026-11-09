@@ -364,7 +364,7 @@ Ich finde meinen Schlüssel nicht.
 
 - [A2 > Grammar > Verben mit festen Präpositionen](/a2/grammar/prepositions/verben-mit-praeposition.md)
 - [A2 > Grammar > Wechselpräpositionen](/a2/grammar/prepositions/wechselpraepositionen.md)
-- [A2 > Concepts > Ask, wish and advise politely](/a2/concepts/polite-requests-wishes-advice.md)
+- [A2 > How to > Ask, wish and advise politely](/a2/how-to/ask-wish-and-advise-politely.md)
 - [A2 > Grammar > Temporale Präpositionen](/a2/grammar/prepositions/temporale-praepositionen.md)
 - [A2 > Grammar > Pronomen: alles, etwas, nichts](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md)
 - [A2 > Grammar > Positionsverben](/a2/grammar/prepositions/positionsverben.md)

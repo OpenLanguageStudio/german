@@ -217,5 +217,5 @@ Wir sehen uns seltener, {conj}`seitdem` er umgezogen {verb}`ist`.
 ## Related articles
 
 - [B1 > Grammar > Präteritum](/b1/grammar/praeteritum.md)
-- [B1 > Concepts > Tell past events in order](/b1/concepts/order-of-events-past.md)
+- [B1 > How to > Tell past events in order](/b1/how-to/tell-past-events-in-order.md)
 - [B1 > Grammar > Zweiteilige Konnektoren](/b1/grammar/zweiteilige-konnektoren.md)

@@ -108,6 +108,6 @@ Ich trainiere am Abend.
 
 ## Related articles
 
-- [Talking about abilities](/a1/concepts/talking-about-abilities.md)
+- [Say what you can do](/a1/how-to/say-what-you-can-do.md)
 - [At the park](/a1/vocabulary/at-the-park-1.md)
 - [Vowel-changing everyday verbs](/a1/vocabulary/everyday-verbs-2.md)

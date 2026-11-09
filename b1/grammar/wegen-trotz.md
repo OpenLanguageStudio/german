@@ -343,6 +343,6 @@ Trotz seines Erfolgs bleibt er bescheiden.
 
 ## Related articles
 
-- [B1 > Concepts > Give reasons](/b1/concepts/expressing-reasons.md)
+- [B1 > How to > Give reasons](/b1/how-to/give-reasons.md)
 - [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)
 - [B1 > Grammar > Konzessiv Nebensätze](/b1/grammar/konzessiv-nebensaetze.md)

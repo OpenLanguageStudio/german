@@ -164,4 +164,4 @@ Kommst du mit zu uns?
 ## Related articles
 
 - [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
-- [Asking for and giving directions](/a1/concepts/asking-for-and-giving-directions.md)
+- [Ask for and give directions](/a1/how-to/ask-for-and-give-directions.md)

@@ -157,5 +157,5 @@ Ich bleibe heute lieber zu Hause.
 
 ## Related articles
 
-- [Expressing likes and dislikes](/a1/concepts/expressing-likes-and-dislikes.md)
+- [Talk about likes and dislikes](/a1/how-to/talk-about-likes-and-dislikes.md)
 - [A1 > Grammar > The Verb in Second Position](/a1/grammar/sentence-structure/verb-position-2.md)

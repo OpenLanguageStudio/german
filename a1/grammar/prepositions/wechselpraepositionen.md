@@ -149,4 +149,4 @@ Wir treffen uns im Café.
 
 ## Related articles
 
-- [Describing where things are](/a1/concepts/describing-where-things-are.md)
+- [Say where things are](/a1/how-to/say-where-things-are.md)

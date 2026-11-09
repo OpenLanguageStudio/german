@@ -3,7 +3,7 @@ title: "Home"
 html_theme.sidebar_secondary.remove:
 myst:
   html_meta:
-    description: "Open Language - German: a free, open coursebook of German grammar, concepts, writing and vocabulary from A1 to B2, with listening examples."
+    description: "Open Language - German: a free, open coursebook of German how-tos, grammar, writing and vocabulary from A1 to B2, with listening examples."
     keywords: "german, german learning, german language, german grammar, a1, a2, b1, b2"
 ---
 # Introduction
@@ -27,14 +27,14 @@ The levels follow the Common European Framework of Reference (CEFR), from A1 to 
 
 Every level is divided into the same categories. A level holds only the categories it has pages for.
 
-- [Concepts](a1/concepts/index.md): what to say in a situation, such as greeting or ordering.
+- [How to](a1/how-to/index.md): one everyday task per page, such as greeting someone or ordering food.
 - [Grammar](a1/grammar/index.md): how the language is built, one topic per page.
 - [Writing](a1/writing/index.md): model texts for everyday messages, with the phrases that frame them.
 - [Vocabulary](a1/vocabulary/index.md): word packs on one theme.
 
 ## Where to start
 
-- New to German: begin with the A1 [Concepts](a1/concepts/index.md).
+- New to German: pick any A1 [How to](a1/how-to/index.md) page, such as [Say hello and goodbye](a1/how-to/say-hello-and-goodbye.md).
 - One specific problem: find its page in [Grammar](a1/grammar/index.md), or search the site.
 - An unfamiliar term, such as *preposition*: look it up in the [Terminology](terminology.md).
 

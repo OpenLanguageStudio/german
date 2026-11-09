@@ -27,7 +27,7 @@ A2 starts where A1 ends, with the basic sentence and everyday words in place. It
 ```{toctree}
 :maxdepth: 2
 
-concepts/index
+how-to/index
 grammar/index
 ```
 

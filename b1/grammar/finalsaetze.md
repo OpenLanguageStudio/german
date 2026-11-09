@@ -137,4 +137,4 @@ A quick mental test: translate the sentence mentally into English. After "so tha
 
 ## Related articles
 
-- [B1 > Concepts > Talk about goals and purpose](/b1/concepts/goals-intention-purpose.md)
+- [B1 > How to > Talk about goals and purpose](/b1/how-to/talk-about-goals-and-purpose.md)

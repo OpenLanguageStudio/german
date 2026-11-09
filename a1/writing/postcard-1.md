@@ -83,6 +83,6 @@ Postcards allow something emails do not: plenty of exclamation marks.
 
 ## Related articles
 
-- [Talking about the weather](/a1/concepts/talking-about-the-weather.md)
-- [Talking about past events](/a1/concepts/talking-about-past-events.md)
+- [Talk about the weather](/a1/how-to/talk-about-the-weather.md)
+- [Talk about the past](/a1/how-to/talk-about-the-past.md)
 - [An Email to a Friend](/a1/writing/email-informal-1.md)

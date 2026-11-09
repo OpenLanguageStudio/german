@@ -152,6 +152,6 @@ Der Wievielte ist morgen?
 
 ## Related articles
 
-- [Numbers and personal data](/a1/concepts/numbers-and-personal-data.md)
-- [Telling the time and days](/a1/concepts/telling-the-time-and-days.md)
+- [Give your personal details](/a1/how-to/give-your-personal-details.md)
+- [Tell the time and day](/a1/how-to/tell-the-time-and-day.md)
 - [A1 > Grammar > Temporal Prepositions](/a1/grammar/prepositions/temporale-praepositionen.md)

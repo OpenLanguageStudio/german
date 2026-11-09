@@ -25,7 +25,7 @@ B2 turns correct German into precise German. It starts from a secure B1 and adds
 ```{toctree}
 :maxdepth: 2
 
-concepts/index
+how-to/index
 grammar/index
 vocabulary/index
 ```

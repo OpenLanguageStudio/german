@@ -343,4 +343,4 @@ Nichts ist unmöglich.
 
 - [A2 > Grammar > Adjektivdeklination](/a2/grammar/adjectives/adjektivendungen.md)
 - [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > Concepts > Ask indirect questions](/a2/concepts/indirect-questions.md)
+- [A2 > How to > Ask indirect questions](/a2/how-to/ask-indirect-questions.md)

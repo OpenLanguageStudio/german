@@ -108,5 +108,5 @@ Was tut dir weh?
 
 ## Related articles
 
-- [Expressing how you feel](/a1/concepts/expressing-how-you-feel.md)
+- [Say how you feel](/a1/how-to/say-how-you-feel.md)
 - [A1 > Grammar > Noun Gender and Plurals](/a1/grammar/other/nomen-genus-plural.md)
