@@ -433,4 +433,4 @@ Seit gestern habe ich Kopfschmerzen.
 
 - [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
 - [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Concepts > Indirekte Fragen](/a2/concepts/indirect-questions.md)
+- [A2 > Concepts > Ask indirect questions](/a2/concepts/indirect-questions.md)

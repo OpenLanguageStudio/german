@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: asking for help and clarification. Signal non-understanding, ask for repetition and meaning, and keep conversations alive."
     keywords: "german, a1, concepts, clarification, ich verstehe nicht, wiederholen, was bedeutet, help"
-    "property=og:title": "Asking for help and clarification"
+    "property=og:title": "Ask for help and clarification"
     "property=og:description": "A1 concept: asking for help and clarification. Signal non-understanding, ask for repetition and meaning, and keep conversations alive."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Asking for help and clarification
+# Ask for help and clarification
 
 Asking for help and clarification is the safety net under every German conversation. It covers what to say when the reply is too fast, too quiet, or simply unknown.
 
@@ -93,7 +93,7 @@ Danke für die Erklärung.
 :::{audio-examples}
 :track: a1/concepts/asking-for-help-and-clarification
 :title: Um Hilfe bitten und nachfragen
-:title-en: Asking for help and clarification
+:title-en: Ask for help and clarification
 
 Ich verstehe nicht.
 : I don't understand.

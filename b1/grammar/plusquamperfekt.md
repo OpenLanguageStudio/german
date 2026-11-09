@@ -215,4 +215,4 @@ Nachdem sie eingekauft hatte, hat sie das Abendessen gekocht.
 ## Related articles
 
 - [B1 > Grammar > Präteritum](/b1/grammar/praeteritum.md)
-- [B1 > Concepts > Order of events (past)](/b1/concepts/order-of-events-past.md)
+- [B1 > Concepts > Tell past events in order](/b1/concepts/order-of-events-past.md)

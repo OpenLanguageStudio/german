@@ -363,6 +363,6 @@ Click the link below to practice everything from this page with an interactive t
 
 ## Related articles
 
-- [A2 > Concepts > Indirekte Fragen (Indirect questions)](/a2/concepts/indirect-questions.md)
-- [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
+- [A2 > Concepts > Ask indirect questions](/a2/concepts/indirect-questions.md)
+- [A2 > Concepts > Ask, wish and advise politely](/a2/concepts/polite-requests-wishes-advice.md)
 - [A2 > Grammar > werden](/a2/grammar/verbs/verb-werden.md)

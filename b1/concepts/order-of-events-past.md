@@ -4,7 +4,7 @@ myst:
     description: "B1 concept: ordering events in the past with vorher/danach, bevor/nachdem, and prepositions."
     keywords: "german, b1, concept, order, past, vorher, danach, bevor, nachdem"
 ---
-# Order of events (past)
+# Tell past events in order
 
 Telling a past story clearly means marking what happened first and what came next, which German does with tense and with temporal connectors.
 

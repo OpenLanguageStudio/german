@@ -271,4 +271,4 @@ Während der Vorlesung macht sie Notizen.
 
 - [A2 > Grammar > Temporale Präpositionen](/a2/grammar/prepositions/temporale-praepositionen.md)
 - [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)
-- [B1 > Concepts > Order of events (past)](/b1/concepts/order-of-events-past.md)
+- [B1 > Concepts > Tell past events in order](/b1/concepts/order-of-events-past.md)

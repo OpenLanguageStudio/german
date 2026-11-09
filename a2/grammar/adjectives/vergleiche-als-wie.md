@@ -243,4 +243,4 @@ Er singt so schön wie ein Profi.
 
 ## Related articles
 
-- [A2 > Concepts > Making comparisons](/a2/concepts/making-comparisons.md)
+- [A2 > Concepts > Compare things](/a2/concepts/making-comparisons.md)

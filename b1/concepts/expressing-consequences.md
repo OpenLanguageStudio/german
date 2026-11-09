@@ -4,7 +4,7 @@ myst:
     description: "B1 concept: ways to express consequences (deshalb, deswegen, darum, sodass, so ... dass)."
     keywords: "german, b1, concept, consequences, deshalb, deswegen, darum, sodass, so dass"
 ---
-# Expressing consequences
+# Express consequences
 
 Consequences link a cause to what follows from it, and German has several connectors for the job, each with its own word order.
 

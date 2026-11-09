@@ -183,4 +183,4 @@ Ich würde dir schreiben, wenn ich deine Adresse wüsste.
 ## Related articles
 
 - [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
-- [B1 > Concepts > Unreal conditionals](/b1/concepts/unreal-conditionals.md)
+- [B1 > Concepts > Talk about imagined situations](/b1/concepts/unreal-conditionals.md)

@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: ordering food and drink. Read a menu, order politely with möchten and nehmen, state preferences, and ask for the bill."
     keywords: "german, a1, concepts, ordering, restaurant, cafe, bestellen, speisekarte, rechnung, ich nehme"
-    "property=og:title": "Ordering food and drink"
+    "property=og:title": "Order food and drink"
     "property=og:description": "A1 concept: ordering food and drink. Read a menu, order politely with möchten and nehmen, state preferences, and ask for the bill."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Ordering food and drink
+# Order food and drink
 
 Ordering food and drink in a café or restaurant runs on a small, predictable script: the menu, the order, any dietary exception, then the bill.
 
@@ -90,7 +90,7 @@ Zusammen oder getrennt? Zusammen, bitte.
 :::{audio-examples}
 :track: a1/concepts/ordering-food-and-drink
 :title: Essen und Trinken bestellen
-:title-en: Ordering food and drink
+:title-en: Order food and drink
 
 Die Speisekarte, bitte.
 : The menu, please.

@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: shopping and paying. Ask prices, order quantities, choose between items, and pay cash or by card in German shops."
     keywords: "german, a1, concepts, shopping, einkaufen, was kostet, bezahlen, kasse, prices, quantities"
-    "property=og:title": "Shopping and paying"
+    "property=og:title": "Shop and pay"
     "property=og:description": "A1 concept: shopping and paying. Ask prices, order quantities, choose between items, and pay cash or by card in German shops."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Shopping and paying
+# Shop and pay
 
 Shopping and paying in a German shop or market follows a fixed rhythm: what things cost, how much is wanted, which item, and payment.
 
@@ -94,7 +94,7 @@ Prices are spoken without a word for "point": *zwölf Euro fünfzig* is 12.50. S
 :::{audio-examples}
 :track: a1/concepts/shopping-and-paying
 :title: Einkaufen und Bezahlen
-:title-en: Shopping and paying
+:title-en: Shop and pay
 
 Was kostet das?
 : How much is that?

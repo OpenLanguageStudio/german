@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: profession and origin. Ask and answer what someone does for work and where they come from, with arbeiten als and bei."
     keywords: "german, a1, concepts, profession, beruf, origin, woher, arbeiten als, was machst du beruflich"
-    "property=og:title": "Talking about profession and origin"
+    "property=og:title": "Talk about work and origin"
     "property=og:description": "A1 concept: profession and origin. Ask and answer what someone does for work and where they come from, with arbeiten als and bei."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Talking about profession and origin
+# Talk about work and origin
 
 Talking about profession and origin fills the second half of a typical first conversation. It covers what someone does for a living, where they work, and where they come from.
 
@@ -80,7 +80,7 @@ Ich lebe seit zwei Jahren in Deutschland.
 :::{audio-examples}
 :track: a1/concepts/talking-about-profession-and-origin
 :title: Beruf und Herkunft
-:title-en: Talking about profession and origin
+:title-en: Talk about work and origin
 
 Was machst du beruflich?
 : What do you do for a living?

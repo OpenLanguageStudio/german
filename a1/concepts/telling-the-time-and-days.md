@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: time and days. Ask and tell the time, name the days of the week and months, and use um, am, and im correctly."
     keywords: "german, a1, concepts, time, uhrzeit, wie spät, days of the week, wochentage, months, halb vier"
-    "property=og:title": "Telling the time and days"
+    "property=og:title": "Tell the time and day"
     "property=og:description": "A1 concept: time and days. Ask and tell the time, name the days of the week and months, and use um, am, and im correctly."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Telling the time and days
+# Tell the time and day
 
 Telling the time in German takes the numbers plus a few words for the clock, the days of the week, and the months.
 
@@ -84,7 +84,7 @@ Ich komme um sieben.
 :::{audio-examples}
 :track: a1/concepts/telling-the-time-and-days
 :title: Uhrzeit und Wochentage
-:title-en: Telling the time and days
+:title-en: Tell the time and day
 
 Wie spät ist es?
 : What time is it?

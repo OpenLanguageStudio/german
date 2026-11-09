@@ -122,6 +122,6 @@ Jonas: Bis gleich – und danke für den angenehmen Einstieg.
 ## Related articles
 
 - [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
-- [A2 > Concepts > Indirect questions](/a2/concepts/indirect-questions.md)
-- [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
+- [A2 > Concepts > Ask indirect questions](/a2/concepts/indirect-questions.md)
+- [A2 > Concepts > Ask, wish and advise politely](/a2/concepts/polite-requests-wishes-advice.md)
 - [B2 > Grammar > Modalpartikeln](/b2/grammar/modalpartikeln.md)

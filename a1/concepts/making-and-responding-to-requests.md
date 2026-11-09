@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: requests. Ask for help politely with können and bitte, soften commands, and accept or decline requests naturally."
     keywords: "german, a1, concepts, requests, kannst du, können sie, bitte, helfen, polite, responses"
-    "property=og:title": "Making and responding to requests"
+    "property=og:title": "Make and answer requests"
     "property=og:description": "A1 concept: requests. Ask for help politely with können and bitte, soften commands, and accept or decline requests naturally."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Making and responding to requests
+# Make and answer requests
 
 Requests in German follow settled patterns: getting attention politely, asking for something without sounding rude, and answering yes gladly or no with an excuse.
 
@@ -93,7 +93,7 @@ Leider geht das nicht.
 :::{audio-examples}
 :track: a1/concepts/making-and-responding-to-requests
 :title: Bitten und Antworten
-:title-en: Making and responding to requests
+:title-en: Make and answer requests
 
 Kannst du mir helfen?
 : Can you help me?

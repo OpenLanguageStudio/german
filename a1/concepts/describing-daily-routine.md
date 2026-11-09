@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: daily routine. Walk through your day in German from getting up to going to bed, with time phrases and the verbs that split."
     keywords: "german, a1, concepts, daily routine, tagesablauf, aufstehen, arbeiten, time phrases, zuerst dann"
-    "property=og:title": "Describing daily routine"
+    "property=og:title": "Describe a daily routine"
     "property=og:description": "A1 concept: daily routine. Walk through your day in German from getting up to going to bed, with time phrases and the verbs that split."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Describing daily routine
+# Describe a daily routine
 
 A daily routine, told from getting up to going to bed, is one of the most common things to describe in German at A1.
 
@@ -86,7 +86,7 @@ Am Samstag **stehe ich** spät auf.
 :::{audio-examples}
 :track: a1/concepts/describing-daily-routine
 :title: Der Tagesablauf
-:title-en: Describing daily routine
+:title-en: Describe a daily routine
 
 Ich stehe um sieben Uhr auf.
 : I get up at seven o'clock.

@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: talking about family. Name your family members, say who you have with haben, and describe them with possessive articles."
     keywords: "german, a1, concepts, family, familie, bruder, schwester, eltern, geschwister, verheiratet"
-    "property=og:title": "Talking about family"
+    "property=og:title": "Talk about family"
     "property=og:description": "A1 concept: talking about family. Name your family members, say who you have with haben, and describe them with possessive articles."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Talking about family
+# Talk about family
 
 Family is one of the first topics Germans ask newcomers about. A short description covers who belongs to the family, their names and ages, and a fact or two about each person.
 
@@ -83,7 +83,7 @@ Meine Frau kommt aus Brasilien.
 :::{audio-examples}
 :track: a1/concepts/talking-about-family
 :title: Über die Familie sprechen
-:title-en: Talking about family
+:title-en: Talk about family
 
 Das ist meine Familie.
 : This is my family.

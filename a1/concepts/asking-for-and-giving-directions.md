@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: directions. Ask the way with Wie komme ich zu, follow geradeaus, links, and rechts, and thank your helper."
     keywords: "german, a1, concepts, directions, wie komme ich, geradeaus, links, rechts, weg fragen"
-    "property=og:title": "Asking for and giving directions"
+    "property=og:title": "Ask for and give directions"
     "property=og:description": "A1 concept: directions. Ask the way with Wie komme ich zu, follow geradeaus, links, and rechts, and thank your helper."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Asking for and giving directions
+# Ask for and give directions
 
 Asking for and giving directions in German uses a small, predictable set of instructions. That makes it one of the most learnable listening skills at A1.
 
@@ -93,7 +93,7 @@ Danke für Ihre Hilfe!
 :::{audio-examples}
 :track: a1/concepts/asking-for-and-giving-directions
 :title: Nach dem Weg fragen
-:title-en: Asking for and giving directions
+:title-en: Ask for and give directions
 
 Entschuldigung, wo ist der Bahnhof?
 : Excuse me, where is the station?

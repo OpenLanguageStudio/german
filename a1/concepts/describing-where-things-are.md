@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: describing where things are. Location chunks like auf dem Tisch and im Kühlschrank, plus links, rechts, and in der Nähe."
     keywords: "german, a1, concepts, location, where, auf dem tisch, im, links, rechts, in der nähe"
-    "property=og:title": "Describing where things are"
+    "property=og:title": "Say where things are"
     "property=og:description": "A1 concept: describing where things are. Location chunks like auf dem Tisch and im Kühlschrank, plus links, rechts, and in der Nähe."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Describing where things are
+# Say where things are
 
 *Wo ist ...?* can be asked about almost anything: keys, people, shops. The answers run on ready-made location chunks such as *auf dem Tisch* and *im Kühlschrank*, plus *links*, *rechts*, *oben* and *unten*.
 
@@ -90,7 +90,7 @@ Es gibt einen Park in der Nähe.
 :::{audio-examples}
 :track: a1/concepts/describing-where-things-are
 :title: Sagen, wo etwas ist
-:title-en: Describing where things are
+:title-en: Say where things are
 
 Wo ist mein Schlüssel?
 : Where is my key?

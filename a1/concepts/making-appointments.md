@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: making appointments. Propose a time, check availability with Hast du Zeit and Passt dir, accept, decline, and confirm."
     keywords: "german, a1, concepts, appointments, termin, hast du zeit, passt dir, treffen, availability"
-    "property=og:title": "Making appointments"
+    "property=og:title": "Make an appointment"
     "property=og:description": "A1 concept: making appointments. Propose a time, check availability with Hast du Zeit and Passt dir, accept, decline, and confirm."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Making appointments
+# Make an appointment
 
 Making appointments in German follows a short pattern. A day and a time go on the table, the other person accepts or declines, and a set phrase closes it.
 
@@ -93,7 +93,7 @@ Bis Freitag dann!
 :::{audio-examples}
 :track: a1/concepts/making-appointments
 :title: Termine machen
-:title-en: Making appointments
+:title-en: Make an appointment
 
 Hast du am Freitag Zeit?
 : Do you have time on Friday?

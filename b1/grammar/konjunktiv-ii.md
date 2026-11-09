@@ -277,6 +277,6 @@ Eine kurze Rückmeldung würde helfen.
 ## Related articles
 
 - [A2 > Grammar > Konjunktiv II](/a2/grammar/verbs/konjunktiv-ii.md)
-- [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
-- [B1 > Concepts > Unreal conditionals](/b1/concepts/unreal-conditionals.md)
+- [A2 > Concepts > Ask, wish and advise politely](/a2/concepts/polite-requests-wishes-advice.md)
+- [B1 > Concepts > Talk about imagined situations](/b1/concepts/unreal-conditionals.md)
 - [B1 > Grammar > Irreale Bedingungssätze](/b1/grammar/irreale-bedingungssaetze.md)

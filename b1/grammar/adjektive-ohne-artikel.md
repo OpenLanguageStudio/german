@@ -132,4 +132,4 @@ Drei **lange** Meetings in einem Tag sind anstrengend.
 - [B1 > Grammar > Komparativ und Superlativ vor Nomen](/b1/grammar/komparativ-superlativ.md)
 - [B1 > Grammar > Adjektive als Nomen](/b1/grammar/adjektive-als-nomen.md)
 - [B1 > Grammar > Partizip als Adjektiv](/b1/grammar/partizip-als-adjektiv.md)
-- [B1 > Concepts > Expressing opinions](/b1/concepts/expressing-opinions.md)
+- [B1 > Concepts > Give an opinion](/b1/concepts/expressing-opinions.md)

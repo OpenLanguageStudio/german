@@ -4,7 +4,7 @@ myst:
     description: "B1 concept: expressing reasons with weil, denn, wegen, aufgrund."
     keywords: "german, b1, concept, reasons, weil, denn, wegen, aufgrund"
 ---
-# Expressing reasons
+# Give reasons
 
 Explaining why something happens is one of the most frequent things a B1 speaker does, and German offers more than one connector for it.
 

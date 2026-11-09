@@ -272,5 +272,5 @@ Lasst ihr das alte Sofa abholen?
 ## Related articles
 
 - [A2 > Grammar > Konjunktiv II](/a2/grammar/verbs/konjunktiv-ii.md)
-- [B1 > Concepts > Goals, intention, and purpose](/b1/concepts/goals-intention-purpose.md)
+- [B1 > Concepts > Talk about goals and purpose](/b1/concepts/goals-intention-purpose.md)
 - [B1 > Grammar > Infinitiv mit „zu"](/b1/grammar/infinitiv-mit-zu.md)

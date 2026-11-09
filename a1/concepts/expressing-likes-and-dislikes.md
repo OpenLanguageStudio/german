@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: likes and dislikes. Say what you enjoy doing with gern and what you like or don't like with mögen."
     keywords: "german, a1, concepts, likes, dislikes, gern, mögen, ich mag, hobbies, preferences"
-    "property=og:title": "Expressing likes and dislikes"
+    "property=og:title": "Talk about likes and dislikes"
     "property=og:description": "A1 concept: likes and dislikes. Say what you enjoy doing with gern and what you like or don't like with mögen."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Expressing likes and dislikes
+# Talk about likes and dislikes
 
 Talking about likes and dislikes opens up hobby talk, food choices, and most small talk beyond the first introductions in German.
 
@@ -87,7 +87,7 @@ Ich mag {akk}`keinen Fisch`.
 :::{audio-examples}
 :track: a1/concepts/expressing-likes-and-dislikes
 :title: Vorlieben ausdrücken
-:title-en: Expressing likes and dislikes
+:title-en: Talk about likes and dislikes
 
 Ich koche gern.
 : I like cooking.

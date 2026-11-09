@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: describing your home. Name the rooms, say what your flat has and lacks, and describe it with simple adjectives."
     keywords: "german, a1, concepts, home, wohnung, zimmer, küche, balkon, describing flat"
-    "property=og:title": "Describing your home"
+    "property=og:title": "Describe your home"
     "property=og:description": "A1 concept: describing your home. Name the rooms, say what your flat has and lacks, and describe it with simple adjectives."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Describing your home
+# Describe your home
 
 Describing your home in German takes little new grammar. It covers how many rooms there are, what the place has and lacks, and what each room is like.
 
@@ -92,7 +92,7 @@ Die Wohnung gefällt {dativ}`mir` sehr.
 :::{audio-examples}
 :track: a1/concepts/describing-your-home
 :title: Die Wohnung beschreiben
-:title-en: Describing your home
+:title-en: Describe your home
 
 Meine Wohnung hat drei Zimmer.
 : My flat has three rooms.

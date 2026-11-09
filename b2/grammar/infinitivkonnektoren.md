@@ -200,5 +200,5 @@ Click the link below to practice everything from this page with an interactive t
 - [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
 - [B2 > Grammar > Negation](/b2/grammar/negation.md)
 - [B1 > Grammar > Infinitiv mit „zu"](/b1/grammar/infinitiv-mit-zu.md)
-- [B1 > Concepts > Goals, intention, and purpose](/b1/concepts/goals-intention-purpose.md)
+- [B1 > Concepts > Talk about goals and purpose](/b1/concepts/goals-intention-purpose.md)
 - [B2 > Grammar > Das Wort es](/b2/grammar/das-wort-es.md)

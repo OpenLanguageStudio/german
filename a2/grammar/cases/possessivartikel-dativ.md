@@ -281,4 +281,4 @@ Er spielt oft mit seinen Kindern.
 
 ## Related articles
 
-- [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
+- [A2 > Concepts > Ask, wish and advise politely](/a2/concepts/polite-requests-wishes-advice.md)

@@ -105,4 +105,4 @@ Do not use the positive form here. You need a comparative in both parts.
 
 - [B1 > Grammar > Komparativ und Superlativ vor Nomen](/b1/grammar/komparativ-superlativ.md)
 - [B1 > Grammar > Zweiteilige Konnektoren](/b1/grammar/zweiteilige-konnektoren.md)
-- [B1 > Concepts > Expressing consequences](/b1/concepts/expressing-consequences.md)
+- [B1 > Concepts > Express consequences](/b1/concepts/expressing-consequences.md)

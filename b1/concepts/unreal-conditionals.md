@@ -4,7 +4,7 @@ myst:
     description: "B1 concept: unreal conditionals with Konjunktiv II in present and past."
     keywords: "german, b1, concept, unreal conditionals, wenn, würde, hätte, wäre"
 ---
-# Unreal conditionals
+# Talk about imagined situations
 
 Hypothetical and contrary-to-fact situations run on Konjunktiv II, the form German reserves for things that are imagined rather than real.
 

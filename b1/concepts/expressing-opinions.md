@@ -4,7 +4,7 @@ myst:
     description: "B1 concept: expressing opinions politely and clearly."
     keywords: "german, b1, concept, opinions, meiner meinung nach, ich finde, ich glaube"
 ---
-# Expressing opinions
+# Give an opinion
 
 Stating a view and reacting to someone else's is the core move of any discussion, and German marks it with a small set of opening formulas.
 

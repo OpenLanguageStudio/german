@@ -3,12 +3,12 @@ myst:
   html_meta:
     description: "A1 concept: talking about past events. War and hatte, a starter set of Perfekt chunks, and the time words gestern and letzte Woche."
     keywords: "german, a1, concepts, past, gestern, war, hatte, perfekt, wochenende, ich habe gemacht"
-    "property=og:title": "Talking about past events"
+    "property=og:title": "Talk about the past"
     "property=og:description": "A1 concept: talking about past events. War and hatte, a starter set of Perfekt chunks, and the time words gestern and letzte Woche."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
-# Talking about past events
+# Talk about the past
 
 *Wie war dein Wochenende?* turns up long before the {term}`past tense` is properly learned. The way through is *war* and *hatte*, plus a starter set of past forms treated as ready-made chunks.
 
@@ -91,7 +91,7 @@ Am Sonntag {verb}`habe` ich nichts **gemacht**.
 :::{audio-examples}
 :track: a1/concepts/talking-about-past-events
 :title: Über Vergangenes sprechen
-:title-en: Talking about past events
+:title-en: Talk about the past
 
 Wie war dein Wochenende?
 : How was your weekend?
