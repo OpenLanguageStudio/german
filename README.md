@@ -6,7 +6,7 @@ Open Language - German is a free, open coursebook for adults learning German. Ea
 
 ## What is inside
 
-- **Concepts**: what to say in an everyday situation, such as greeting someone or ordering a coffee.
+- **How to**: one everyday task per page, such as greeting someone or ordering a coffee.
 - **Grammar**: how German is built, one topic per page.
 - **Writing**: model emails, messages and postcards, ready to adapt.
 - **Vocabulary**: word packs on one theme, each word used in a sentence.

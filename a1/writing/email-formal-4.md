@@ -95,5 +95,5 @@ The flat-hunting vocabulary: *die Anzeige* (ad), *die Miete* (rent), *frei* (ava
 
 ## Related articles
 
-- [Describing your home](/a1/concepts/describing-your-home.md)
-- [Shopping and paying](/a1/concepts/shopping-and-paying.md)
+- [Describe your home](/a1/how-to/describe-your-home.md)
+- [Shop and pay](/a1/how-to/shop-and-pay.md)

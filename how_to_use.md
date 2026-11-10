@@ -6,7 +6,7 @@ myst:
 ---
 # How to use
 
-The coursebook is organised by level and then by category. Work through a level's concepts in order, since each one builds on the last, and use its grammar articles as a reference alongside them. Writing and vocabulary articles stand alone and can be read in any order.
+The coursebook is organised by level and then by category. Every page can be read on its own, in any order. A how-to page covers one everyday task, and the grammar pages explain the structures those tasks use. Writing and vocabulary pages stand alone. When a page builds on another, its Prerequisites box names it.
 
 ## How an article is laid out
 

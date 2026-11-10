@@ -399,4 +399,4 @@ Könnte ich bitte bezahlen?
 
 ## Related articles
 
-- [A2 > Concepts > Ask, wish and advise politely](/a2/concepts/polite-requests-wishes-advice.md)
+- [A2 > How to > Ask, wish and advise politely](/a2/how-to/ask-wish-and-advise-politely.md)

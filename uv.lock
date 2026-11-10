@@ -227,7 +227,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "open-language", extras = ["render"], git = "https://github.com/OpenLanguageStudio/open-language?rev=v0.11.0" }]
+requires-dist = [{ name = "open-language", extras = ["render"], git = "https://github.com/OpenLanguageStudio/open-language?rev=v0.12.0" }]
 
 [[package]]
 name = "greenlet"
@@ -429,8 +429,8 @@ wheels = [
 
 [[package]]
 name = "open-language"
-version = "0.11.0"
-source = { git = "https://github.com/OpenLanguageStudio/open-language?rev=v0.11.0#fcc99c68b52939f744202336369a9236dc4ac43c" }
+version = "0.12.0"
+source = { git = "https://github.com/OpenLanguageStudio/open-language?rev=v0.12.0#81870ca4b6ea5a222926aa0b95e0393d5da3d768" }
 dependencies = [
     { name = "markdown-it-py" },
     { name = "mdit-py-plugins" },

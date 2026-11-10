@@ -207,6 +207,6 @@ Du brauchst nur einen Stift mitzubringen.
 
 ## Related articles
 
-- [B1 > Concepts > Talk about goals and purpose](/b1/concepts/goals-intention-purpose.md)
+- [B1 > How to > Talk about goals and purpose](/b1/how-to/talk-about-goals-and-purpose.md)
 - [B1 > Grammar > Infinitiv mit "zu"](/b1/grammar/infinitiv-mit-zu.md)
 - [B1 > Grammar > Stellung von "nicht" im Satz](/b1/grammar/negation.md)

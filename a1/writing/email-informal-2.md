@@ -93,5 +93,5 @@ Anna
 ## Related articles
 
 - [An Email to a Friend](/a1/writing/email-informal-1.md)
-- [Making appointments](/a1/concepts/making-appointments.md)
+- [Make an appointment](/a1/how-to/make-an-appointment.md)
 - [A1 > Grammar > The Imperative](/a1/grammar/verbs/imperativ.md)

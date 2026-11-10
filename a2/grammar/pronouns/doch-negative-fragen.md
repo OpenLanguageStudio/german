@@ -307,5 +307,5 @@ Hast du kein Auto? - Doch, es steht draußen.
 
 ## Related articles
 
-- [A2 > Concepts > Ask indirect questions](/a2/concepts/indirect-questions.md)
-- [A2 > Concepts > Ask, wish and advise politely](/a2/concepts/polite-requests-wishes-advice.md)
+- [A2 > How to > Ask indirect questions](/a2/how-to/ask-indirect-questions.md)
+- [A2 > How to > Ask, wish and advise politely](/a2/how-to/ask-wish-and-advise-politely.md)

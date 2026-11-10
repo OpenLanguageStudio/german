@@ -88,4 +88,4 @@ Anna
 ## Related articles
 
 - [A1 > Grammar > The Preposition für](/a1/grammar/prepositions/fuer-akkusativ.md)
-- [Talking about past events](/a1/concepts/talking-about-past-events.md)
+- [Talk about the past](/a1/how-to/talk-about-the-past.md)

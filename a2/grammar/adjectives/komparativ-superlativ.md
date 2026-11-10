@@ -297,5 +297,5 @@ Das ist der stressigste Job.
 
 ## Related articles
 
-- [A2 > Concepts > Compare things](/a2/concepts/making-comparisons.md)
+- [A2 > How to > Compare things](/a2/how-to/compare-things.md)
 - [B1 > Grammar > Komparativ und Superlativ vor Nomen](/b1/grammar/komparativ-superlativ.md)

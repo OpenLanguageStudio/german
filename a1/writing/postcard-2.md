@@ -84,5 +84,5 @@ Deine Anna
 
 ## Related articles
 
-- [Telling the time and days](/a1/concepts/telling-the-time-and-days.md)
+- [Tell the time and day](/a1/how-to/tell-the-time-and-day.md)
 - [A1 > Grammar > Ordinal Numbers and Dates](/a1/grammar/other/ordinalzahlen-datum.md)

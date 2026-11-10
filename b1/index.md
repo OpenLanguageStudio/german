@@ -26,7 +26,7 @@ B1 is the first independent level. It starts from a secure A2 and builds the gra
 ```{toctree}
 :maxdepth: 2
 
-concepts/index
+how-to/index
 grammar/index
 ```
 

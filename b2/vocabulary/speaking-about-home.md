@@ -97,4 +97,4 @@ Heute sage ich: Heimat ist dort, wo ich gefragt werde, wie es mir wirklich geht,
 - [A2 > Grammar > Nebensätze](/a2/grammar/sub-clauses/index.md)
 - [A2 > Grammar > Relativsätze](/a2/grammar/sub-clauses/relativsaetze.md)
 - [A2 > Grammar > Präposition](/a2/grammar/prepositions/index.md)
-- [A2 > Concepts > Compare things](/a2/concepts/making-comparisons.md)
+- [A2 > How to > Compare things](/a2/how-to/compare-things.md)
