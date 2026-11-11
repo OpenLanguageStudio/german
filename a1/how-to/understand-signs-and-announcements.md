@@ -89,6 +89,7 @@ Nächster Halt: Hauptbahnhof.
 :presenters: emilia
 :title: Öffentliche Informationen verstehen
 :title-en: Understand signs and announcements
+:tags: signs and announcements, imperative
 
 Geöffnet von neun bis achtzehn Uhr.
 : Open from nine to six.

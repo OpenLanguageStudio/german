@@ -90,6 +90,7 @@ German also uses the dative for the {term}`indirect object`, the receiver of som
 :presenters: emilia
 :title: Der Dativ
 :title-en: The dative case
+:tags: dative case
 
 Ich fahre mit dem Bus.
 : I go by bus.

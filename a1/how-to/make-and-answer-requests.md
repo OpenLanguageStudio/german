@@ -92,6 +92,7 @@ Leider geht das nicht.
 :presenters: emilia
 :title: Bitten und Antworten
 :title-en: Make and answer requests
+:tags: politeness, modal verb
 
 Kannst du mir helfen?
 : Can you help me?

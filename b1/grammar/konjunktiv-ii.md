@@ -181,6 +181,7 @@ Ich wünschte, ich {verb}`hätte` mehr Urlaub.
 :presenters: emilia
 :title: Konjunktiv II - Review
 :title-en: Konjunktiv II: Review
+:tags: Konjunktiv II
 
 Du solltest früher schlafen gehen.
 : You should go to bed earlier.

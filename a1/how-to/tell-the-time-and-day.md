@@ -84,6 +84,7 @@ Ich komme um sieben.
 :presenters: emilia
 :title: Uhrzeit und Wochentage
 :title-en: Tell the time and day
+:tags: time and dates, numbers
 
 Wie spät ist es?
 : What time is it?

@@ -38,6 +38,7 @@ Two formulas open the card: *Alles Gute zum Geburtstag* and *Ich wünsche dir ..
 :title: Eine Karte zum Geburtstag
 :title-en: A Birthday Greeting
 :mode: passage
+:tags: postcard, informal
 
 Lieber Opa,
 alles Gute zum Geburtstag! Ich wünsche dir Gesundheit und viel Glück.

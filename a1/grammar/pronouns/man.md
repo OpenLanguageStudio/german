@@ -74,6 +74,7 @@ Wo kann {pronoun}`man` hier parken?
 :presenters: emilia
 :title: Das Pronomen man
 :title-en: The impersonal pronoun man
+:tags: pronoun
 
 Wie sagt man das auf Deutsch?
 : How do you say that in German?

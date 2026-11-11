@@ -92,6 +92,7 @@ Danke für die Erklärung.
 :presenters: emilia
 :title: Um Hilfe bitten und nachfragen
 :title-en: Ask for help and clarification
+:tags: asking for help, politeness
 
 Ich verstehe nicht.
 : I don't understand.

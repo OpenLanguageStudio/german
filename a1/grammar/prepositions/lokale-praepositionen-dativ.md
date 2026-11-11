@@ -83,6 +83,7 @@ Der Zug kommt {prep}`aus` Hamburg.
 :presenters: emilia
 :title: Lokale Präpositionen zu, bei, aus und von
 :title-en: Local prepositions zu, bei, aus, von
+:tags: preposition, dative case, directions
 
 Ich gehe zum Arzt.
 : I am going to the doctor.

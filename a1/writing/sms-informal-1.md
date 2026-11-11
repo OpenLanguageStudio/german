@@ -34,6 +34,7 @@ Nina is ill and has to cancel tonight's cinema plan with Lina.
 :title: Eine Nachricht - Ich kann nicht kommen
 :title-en: Cancelling Plans
 :mode: dialogue
+:tags: text message, informal, plans and invitations
 
 emilia: Hallo Lina, es tut mir leid, aber ich kann heute Abend nicht kommen. Ich bin krank und habe Fieber. Gehen wir nächste Woche ins Kino?
 : Hi Lina, I'm sorry, but I can't come tonight. I'm ill and have a fever. Shall we go to the cinema next week?

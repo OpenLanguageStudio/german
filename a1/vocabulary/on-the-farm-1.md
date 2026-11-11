@@ -41,6 +41,7 @@ A day on the farm, animal by animal, from the early alarm to the fresh eggs.
 :presenters: emilia
 :title: Auf dem Bauernhof 1
 :title-en: On the Farm 1
+:tags: animals, nature
 
 Der Bauernhof ist groß.
 : The farm is big.

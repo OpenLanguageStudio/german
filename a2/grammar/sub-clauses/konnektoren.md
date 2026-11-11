@@ -169,6 +169,7 @@ In everyday spoken German, **weil** is more natural and more frequent. **Denn** 
 :presenters: emilia
 :title: Konnektor denn
 :title-en: The Connector denn
+:tags: conjunction, reasons and consequences
 
 Ich bleibe zu Hause, denn ich bin krank.
 : I'm staying home because I'm sick.
@@ -266,6 +267,7 @@ Wir lernen die Wörter, denn der Test kommt bald.
 :presenters: emilia
 :title: Konnektor deshalb
 :title-en: The Connector deshalb
+:tags: word order, reasons and consequences
 
 Ich bin krank, deshalb bleibe ich zu Hause.
 : I'm sick, therefore I'm staying home.
@@ -363,6 +365,7 @@ Ich bin Vegetarierin, deshalb esse ich kein Fleisch.
 :presenters: emilia
 :title: Konnektor trotzdem
 :title-en: The Connector trotzdem
+:tags: word order
 
 Es regnet, trotzdem gehen wir spazieren.
 : It's raining, nevertheless we're going for a walk.

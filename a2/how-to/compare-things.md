@@ -102,6 +102,7 @@ Comparisons with *nicht so ... wie* sound more polite than a direct negative com
 :presenters: emilia
 :title: Dinge vergleichen
 :title-en: Compare things
+:tags: comparing, comparative, superlative
 
 Mein Zimmer ist so groß wie dein Zimmer.
 : My room is as big as your room.

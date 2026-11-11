@@ -84,6 +84,7 @@ Wohin {verb}`bist` du **gefahren**?
 :presenters: emilia
 :title: Das Perfekt
 :title-en: The Perfekt tense
+:tags: Perfekt, past participle, the past
 
 Ich habe eine Pizza gegessen.
 : I ate a pizza.

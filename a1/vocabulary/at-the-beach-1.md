@@ -43,6 +43,7 @@ One beach day from arrival to ice cream, with the holiday postcard vocabulary al
 :presenters: emilia
 :title: Am Strand 1
 :title-en: At the Beach 1
+:tags: leisure, nature
 
 Der Strand ist heute voll.
 : The beach is crowded today.

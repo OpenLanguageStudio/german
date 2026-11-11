@@ -41,6 +41,7 @@ One shopping trip, shelf by shelf, ending where every trip ends: at the *Kasse*,
 :presenters: emilia
 :title: Im Supermarkt 1
 :title-en: In the Supermarket 1
+:tags: shopping, food and drink
 
 Der Supermarkt ist um die Ecke.
 : The supermarket is around the corner.

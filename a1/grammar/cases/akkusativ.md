@@ -91,6 +91,7 @@ Kennst du {akk}`den Film`?
 :presenters: emilia
 :title: Der Akkusativ
 :title-en: The accusative case
+:tags: accusative case
 
 Ich sehe den Bus.
 : I see the bus.

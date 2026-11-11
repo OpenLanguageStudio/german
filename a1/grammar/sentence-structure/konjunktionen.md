@@ -77,6 +77,7 @@ Ich gehe ins Bett, {conj}`denn` es ist spät.
 :presenters: emilia
 :title: Konjunktionen und, oder, aber, denn
 :title-en: Conjunctions und, oder, aber, denn
+:tags: conjunction, main clause
 
 Ich trinke Kaffee und er trinkt Tee.
 : I drink coffee and he drinks tea.

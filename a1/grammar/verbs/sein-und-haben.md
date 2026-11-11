@@ -83,6 +83,7 @@ German is hungry with *haben*, not with *sein*: *Ich habe Hunger*, never *Ich bi
 :presenters: emilia
 :title: sein und haben
 :title-en: The verbs sein and haben
+:tags: irregular verb, present tense
 
 ich bin, du bist, er ist
 : I am, you are, he is

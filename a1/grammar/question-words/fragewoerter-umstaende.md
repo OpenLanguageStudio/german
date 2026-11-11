@@ -80,6 +80,7 @@ Wie oft machst du Sport?
 :presenters: emilia
 :title: Fragewörter wo, wann, wie und warum
 :title-en: Question words for circumstances
+:tags: question word
 
 Wo bist du?
 : Where are you?

@@ -79,6 +79,7 @@ Do not let this scare you. At this stage any competent German speaker can tell a
 :presenters: emilia
 :title: Duzen und Siezen
 :title-en: Choose between du and Sie
+:tags: formal, informal, personal pronoun
 
 Wie heißt du?
 : What is your name? (informal)

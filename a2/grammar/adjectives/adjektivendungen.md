@@ -189,6 +189,7 @@ Sie trinkt den Kaffee mit **warm**er Milch.
 :presenters: emilia
 :title: Adjektivendungen – Nominativ
 :title-en: Adjective Endings: Nominative
+:tags: adjective, declension, nominative case
 
 Der neue Lehrer ist sehr nett.
 : The new teacher is very nice.
@@ -286,6 +287,7 @@ Heiße Schokolade schmeckt lecker.
 :presenters: emilia
 :title: Adjektivendungen – Akkusativ
 :title-en: Adjective Endings: Accusative
+:tags: adjective, declension, accusative case
 
 Ich sehe den neuen Lehrer.
 : I see the new teacher.
@@ -383,6 +385,7 @@ Ich trinke heiße Schokolade.
 :presenters: emilia
 :title: Adjektivendungen – Dativ
 :title-en: Adjective Endings: Dative
+:tags: adjective, declension, dative case
 
 Ich helfe dem neuen Lehrer.
 : I help the new teacher.

@@ -110,6 +110,7 @@ Germans usually give surnames in formal settings (*Ich heiße Weber*) and first 
 :presenters: emilia
 :title: Sich vorstellen
 :title-en: Introduce yourself
+:tags: introductions, personal details
 
 Ich heiße Anna Schmidt.
 : My name is Anna Schmidt.

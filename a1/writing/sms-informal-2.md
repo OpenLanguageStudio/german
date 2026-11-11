@@ -34,6 +34,7 @@ Lina is stuck at work, and her daughter Lana has football practice and a broken 
 :title: Eine Nachricht - Kannst du mir helfen?
 :title-en: Asking a Favour
 :mode: dialogue
+:tags: text message, informal, asking for help
 
 lina: Hallo Tobias, kannst du mir helfen? Ich bin noch bei der Arbeit und Lanas Fahrrad ist kaputt. Kannst du sie vielleicht vom Fußball abholen? Das Training ist um fünf Uhr fertig.
 : Hi Tobias, can you help me? I'm still at work and Lana's bike is broken. Could you maybe pick her up from football? Training finishes at five o'clock.

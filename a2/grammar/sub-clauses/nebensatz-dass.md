@@ -253,6 +253,7 @@ Use the following link to practice this section.
 :presenters: emilia
 :title: Nebensatz mit dass
 :title-en: Subordinate Clauses with dass
+:tags: subordinate clause
 
 Ich glaube, dass er recht hat.
 : I believe that he's right.

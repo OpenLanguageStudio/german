@@ -92,6 +92,7 @@ Danke für Ihre Hilfe!
 :presenters: emilia
 :title: Nach dem Weg fragen
 :title-en: Ask for and give directions
+:tags: directions, imperative, preposition
 
 Entschuldigung, wo ist der Bahnhof?
 : Excuse me, where is the station?

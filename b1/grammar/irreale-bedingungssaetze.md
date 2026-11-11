@@ -91,6 +91,7 @@ At B1 level, *Konjunktiv II* is the key signal for unreal meaning. *Präsens* of
 :presenters: emilia
 :title: Konjunktiv II - Irreale Bedingungssätze
 :title-en: Konjunktiv II: Unreal Conditional Sentences
+:tags: Konjunktiv II, subordinate clause
 
 Wenn ich reich wäre, würde ich eine Weltreise machen.
 : If I were rich, I would take a trip around the world.

@@ -90,6 +90,7 @@ Am Sonntag {verb}`habe` ich nichts **gemacht**.
 :presenters: emilia
 :title: Über Vergangenes sprechen
 :title-en: Talk about the past
+:tags: the past, Perfekt
 
 Wie war dein Wochenende?
 : How was your weekend?

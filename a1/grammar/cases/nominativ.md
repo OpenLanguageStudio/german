@@ -73,6 +73,7 @@ The nominative forms are the familiar ones from the article system:
 :presenters: emilia
 :title: Der Nominativ
 :title-en: The nominative case
+:tags: nominative case
 
 Der Mann ist müde.
 : The man is tired.

@@ -42,6 +42,7 @@ A gardening year in miniature: planting in spring, watering in summer, cutting i
 :presenters: emilia
 :title: Im Garten 1
 :title-en: In the Garden 1
+:tags: home, nature
 
 Der Garten ist hinter dem Haus.
 : The garden is behind the house.

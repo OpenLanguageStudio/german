@@ -79,6 +79,7 @@ Das Buch? Ich lese {akk}`es` gerade.
 :presenters: emilia
 :title: Personalpronomen im Akkusativ
 :title-en: Personal pronouns in the accusative
+:tags: personal pronoun, accusative case
 
 mich, dich, ihn, sie, es
 : me, you, him, her, it

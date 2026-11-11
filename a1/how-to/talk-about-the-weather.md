@@ -88,6 +88,7 @@ Im Herbst ist es oft windig.
 :presenters: emilia
 :title: Über das Wetter sprechen
 :title-en: Talk about the weather
+:tags: weather
 
 Wie ist das Wetter heute?
 : What is the weather like today?

@@ -77,6 +77,7 @@ The formal imperative keeps *Sie* and flips it behind the verb: *Kommen Sie! War
 :presenters: emilia
 :title: Der Imperativ
 :title-en: The imperative
+:tags: imperative
 
 Komm bitte her!
 : Come here, please!

@@ -217,6 +217,7 @@ In Deutschland sagt {pronoun}`man` oft „Alles klar?“.
 :presenters: emilia
 :title: Pronomen - alles, etwas und nichts
 :title-en: Pronouns: alles, etwas, and nichts
+:tags: pronoun
 
 Ich habe alles verstanden.
 : I understood everything.

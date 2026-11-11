@@ -70,6 +70,7 @@ Das Buch ist neu. {pronoun}`Es` ist interessant.
 :presenters: emilia
 :title: Personalpronomen im Nominativ
 :title-en: Personal pronouns in the nominative
+:tags: personal pronoun, nominative case
 
 ich, du, er, sie, es
 : I, you, he, she, it
