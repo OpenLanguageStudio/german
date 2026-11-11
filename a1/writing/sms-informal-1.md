@@ -33,6 +33,7 @@ Anna is ill and has to cancel tonight's cinema plan with Lena.
 :title: Eine Nachricht - Ich kann nicht kommen
 :title-en: Cancelling Plans
 :multiline:
+:tags: text message, informal, plans and invitations
 
 Anna: Hallo Lena, es tut mir leid, aber ich kann heute Abend nicht kommen. Ich bin krank und habe Fieber. Gehen wir nächste Woche ins Kino?
 Lena: Oh nein, gute Besserung! Kein Problem, wir gehen nächste Woche. Bleib im Bett und trink viel Tee! Brauchst du etwas aus der Apotheke?

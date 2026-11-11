@@ -86,6 +86,7 @@ Regional greetings are everywhere in Germany: *Moin* in the north, *Grüß Gott*
 :track: a1/how-to/say-hello-and-goodbye
 :title: Begrüßung und Abschied
 :title-en: Say hello and goodbye
+:tags: greetings, formal, informal
 
 Hallo!
 : Hello!

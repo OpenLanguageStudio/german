@@ -40,6 +40,7 @@ The address comes first, because a landlord with many flats needs to know which 
 :title: Eine E-Mail an den Vermieter
 :title-en: Emailing Your Landlord
 :multiline:
+:tags: email, formal, home
 
 Betreff: Die Heizung ist kaputt.
 Sehr geehrter Herr Braun,

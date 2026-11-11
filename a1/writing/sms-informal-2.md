@@ -33,6 +33,7 @@ Anna is stuck at work and needs Jonas to collect her son.
 :title: Eine Nachricht - Kannst du mir helfen?
 :title-en: Asking a Favour
 :multiline:
+:tags: text message, informal, asking for help
 
 Anna: Hallo Jonas, kannst du mir helfen? Ich bin noch bei der Arbeit und mein Sohn ist allein. Kannst du ihn vielleicht vom Fußball abholen? Das Training ist um fünf Uhr fertig.
 Jonas: Klar, kein Problem! Ich hole ihn ab. Soll ich ihn zu euch bringen?

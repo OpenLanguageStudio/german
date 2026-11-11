@@ -93,6 +93,7 @@ Alles ist in Ordnung.
 :track: a1/how-to/say-how-you-feel
 :title: Gefühle ausdrücken
 :title-en: Say how you feel
+:tags: feelings
 
 Wie geht es dir?
 : How are you?

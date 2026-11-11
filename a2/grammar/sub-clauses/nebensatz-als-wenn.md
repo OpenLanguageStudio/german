@@ -123,6 +123,7 @@ This article covers only temporal {conj}`als` (= "when" in one-time past context
 :track: a2/grammar/nebensatze-mit-als-und-wenn
 :title: Nebensätze mit als und wenn
 :title-en: Subordinate Clauses with als and wenn
+:tags: subordinate clause, the past
 
 Als ich ein Kind war, habe ich viel gespielt.
 : When I was a child, I played a lot.

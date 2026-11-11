@@ -67,6 +67,7 @@ The track mixes all three cases in one stream, which trains discrimination rathe
 :track: a1/grammar/kasus-ueberblick
 :title: Die Kasus - Gemischt
 :title-en: The three cases mixed
+:tags: nominative case, accusative case, dative case
 
 Der Mann kauft einen Apfel.
 : The man buys an apple.

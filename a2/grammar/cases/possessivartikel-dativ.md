@@ -169,6 +169,7 @@ In spoken German, contractions are very common: *bei dem* → *beim*, *von dem* 
 :track: a2/grammar/possessivartikel-im-dativ
 :title: Possessivartikel im Dativ
 :title-en: Possessive Articles in the Dative
+:tags: possessive article, dative case
 
 Ich fahre mit meinem Bruder nach Berlin.
 : I'm going to Berlin with my brother.

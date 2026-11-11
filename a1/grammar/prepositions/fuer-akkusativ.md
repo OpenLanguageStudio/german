@@ -75,6 +75,7 @@ Wir fahren {prep}`für` eine Woche nach Italien.
 :track: a1/grammar/fuer-akkusativ
 :title: Die Präposition für
 :title-en: The preposition für
+:tags: preposition, accusative case
 
 Das Geschenk ist für dich.
 : The present is for you.

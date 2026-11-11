@@ -139,6 +139,7 @@ Was für **ein** Hotel habt ihr gebucht?
 :track: a2/grammar/interrogativartikel-was-fur-ein-und-welcher
 :title: Interrogativartikel - Was für ein und Welcher
 :title-en: Interrogative Articles: Was für ein and Welcher
+:tags: question word
 
 Was für ein Auto hast du?
 : What kind of car do you have?

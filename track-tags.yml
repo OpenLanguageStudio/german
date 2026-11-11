@@ -1,0 +1,92 @@
+# The topic tags a track block may carry in :tags:. Learners browse
+# tracks by these tags in the app (topic pages, daily and weekly playlists).
+#
+# Grammar tags are terms from glossary-terms.yml, written exactly as there, so a
+# tag and the Terminology page always agree. Theme tags name what a track is
+# about: a situation, a subject or a kind of text.
+#
+# Rules: one to three tags per track, the main topic first. Tag the track's
+# writing block only; a :duplicate: block carries none. Add a tag here before
+# using it, and never rename one that is in use.
+
+grammar:
+  - definite article
+  - indefinite article
+  - negative article
+  - possessive article
+  - demonstrative article
+  - gender
+  - plural
+  - nominative case
+  - accusative case
+  - dative case
+  - genitive case
+  - declension
+  - regular verb
+  - irregular verb
+  - modal verb
+  - separable verb
+  - reflexive verb
+  - past participle
+  - imperative
+  - infinitive
+  - auxiliary verb
+  - present tense
+  - future tense
+  - Perfekt
+  - Präteritum
+  - Plusquamperfekt
+  - Konjunktiv II
+  - comparative
+  - superlative
+  - preposition
+  - two-way preposition
+  - contraction
+  - pronoun
+  - personal pronoun
+  - reflexive pronoun
+  - question word
+  - conjunction
+  - adjective
+  - word order
+  - sentence bracket
+  - main clause
+  - subordinate clause
+  - relative clause
+  - negation
+
+themes:
+  - advice
+  - animals
+  - appointments
+  - asking for help
+  - clothes
+  - comparing
+  - daily routine
+  - directions
+  - email
+  - family
+  - feelings
+  - food and drink
+  - formal
+  - greetings
+  - home
+  - informal
+  - introductions
+  - leisure
+  - likes and dislikes
+  - nature
+  - numbers
+  - personal details
+  - plans and invitations
+  - politeness
+  - postcard
+  - reasons and consequences
+  - shopping
+  - signs and announcements
+  - text message
+  - the body
+  - the past
+  - time and dates
+  - weather
+  - work

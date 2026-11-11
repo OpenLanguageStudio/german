@@ -85,6 +85,7 @@ Learn nouns as a trio: *der Tisch, die Tische*. Dictionaries and vocabulary list
 :track: a1/grammar/nomen-genus-plural
 :title: Genus und Plural
 :title-en: Noun gender and plurals
+:tags: gender, plural
 
 Der Tisch ist neu.
 : The table is new.

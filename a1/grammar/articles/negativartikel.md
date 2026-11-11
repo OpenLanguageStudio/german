@@ -102,6 +102,7 @@ Full decision rules and word-order details are in [Negation: nicht und kein](/a1
 :track: a1/grammar/negativartikel
 :title: Der Negativartikel
 :title-en: The negative article
+:tags: negative article, negation
 
 Das ist kein Bahnhof.
 : That is not a train station.

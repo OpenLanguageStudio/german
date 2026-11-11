@@ -208,6 +208,7 @@ Do not confuse:
 :track: a2/grammar/das-verb-werden
 :title: Das Verb werden
 :title-en: The Verb werden
+:tags: irregular verb, future tense
 
 Ich werde Lehrer.
 : I'm becoming a teacher.

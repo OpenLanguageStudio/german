@@ -163,6 +163,7 @@ If you want to express possession now and full genitive feels difficult, keep us
 :track: a2/grammar/genitiv-mit-namen
 :title: Genitiv mit Namen
 :title-en: The Genitive with Names
+:tags: genitive case
 
 Das ist Toms Auto.
 : That's Tom's car.

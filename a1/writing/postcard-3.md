@@ -38,6 +38,7 @@ The thanks come first and say what they are for (*für das schöne Wochenende*).
 :title: Eine Dankeskarte
 :title-en: A Thank-You Note
 :multiline:
+:tags: postcard, informal, politeness
 
 Liebe Tante Petra,
 vielen Dank für das schöne Wochenende bei dir! Das Essen war lecker, und der Ausflug an den See war super. Ich habe viel gelacht und sehr gut geschlafen.

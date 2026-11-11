@@ -187,6 +187,7 @@ Er hat {dativ}`mir` für das Geschenk gedankt.
 :::{audio-examples}
 :track: a2/grammar/dativ-grundlagen
 :title: Dativ – Grundlagen
+:tags: dative case
 
 Ich helfe meiner Mutter in der Küche.
 : I help my mother in the kitchen.

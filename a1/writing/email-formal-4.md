@@ -42,6 +42,7 @@ The *Betreff* names the ad, so the reader knows which flat it concerns. The ques
 :title: Eine E-Mail zu einer Wohnungsanzeige
 :title-en: Asking About an Apartment
 :multiline:
+:tags: email, formal, home
 
 Betreff: Ihre Anzeige: Wohnung in der Parkstraße.
 Sehr geehrte Frau Schulz,

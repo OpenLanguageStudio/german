@@ -40,6 +40,7 @@ The *Betreff* already asks the question, and the occasion and plan come together
 :title: Eine Einladung zum Geburtstag
 :title-en: Inviting a Friend Over
 :multiline:
+:tags: email, informal, plans and invitations
 
 Betreff: Kommst du am Samstag?
 Lieber Jonas,

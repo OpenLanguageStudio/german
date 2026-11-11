@@ -210,6 +210,7 @@ learn each verb as a set of three: **infinitive → Partizip II → auxiliary**
 :track: a2/grammar/perfekt-mit-haben
 :title: Perfekt mit haben
 :title-en: Perfect Tense with haben
+:tags: Perfekt, auxiliary verb, the past
 
 Ich habe gestern Fußball gespielt.
 : I played soccer yesterday.
@@ -306,6 +307,7 @@ Sie haben viel geredet.
 :track: a2/grammar/perfekt-mit-sein
 :title: Perfekt mit sein
 :title-en: Perfect Tense with sein
+:tags: Perfekt, auxiliary verb, the past
 
 Ich bin gestern nach Berlin gefahren.
 : I drove to Berlin yesterday.
@@ -402,6 +404,7 @@ Sie sind zwei Stunden geschwommen.
 :track: a2/grammar/perfekt-unregelmassige-partizipien
 :title: Perfekt – Unregelmäßige Partizipien
 :title-en: Perfect Tense: Irregular Past Participles
+:tags: Perfekt, past participle, irregular verb
 
 Ich habe einen Brief geschrieben.
 : I wrote a letter.

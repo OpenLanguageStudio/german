@@ -74,6 +74,7 @@ Ordinals also count floors and firsts: *im ersten Stock*, *mein erstes Auto*, *d
 :track: a1/grammar/ordinalzahlen-datum
 :title: Ordinalzahlen und Datum
 :title-en: Ordinal numbers and dates
+:tags: numbers, time and dates
 
 der erste, der zweite, der dritte
 : the first, the second, the third

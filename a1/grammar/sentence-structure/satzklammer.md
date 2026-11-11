@@ -86,6 +86,7 @@ The bracket returns in the {term}`past tense`: *Ich habe Pizza gegessen* frames 
 :track: a1/grammar/satzklammer
 :title: Die Satzklammer
 :title-en: The sentence bracket
+:tags: sentence bracket, word order
 
 Ich möchte einen Kaffee trinken.
 : I would like to drink a coffee.

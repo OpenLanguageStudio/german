@@ -181,6 +181,7 @@ Use the following link to practice this section.
 :track: a2/grammar/konjunktiv-ii-sollte-fur-ratschlage
 :title: Konjunktiv II - sollte für Ratschläge
 :title-en: Konjunktiv II: sollte for Giving Advice
+:tags: Konjunktiv II, modal verb, advice
 
 Du solltest mehr schlafen.
 : You should sleep more.
@@ -277,6 +278,7 @@ Ich sollte mehr lesen.
 :track: a2/grammar/konjunktiv-ii-von-konnen-hofliche-bitten
 :title: Konjunktiv II von können - höfliche Bitten
 :title-en: Konjunktiv II of können: Polite Requests
+:tags: Konjunktiv II, modal verb, politeness
 
 Könntest du mir bitte helfen?
 : Could you please help me?

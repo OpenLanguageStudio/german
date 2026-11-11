@@ -40,6 +40,7 @@ The request comes first, softened with *ich möchte gern*. The middle paragraph 
 :title: Eine E-Mail an den Chef
 :title-en: Emailing Your Boss
 :multiline:
+:tags: email, formal, work
 
 Betreff: Urlaub im August.
 Sehr geehrte Frau Weber,

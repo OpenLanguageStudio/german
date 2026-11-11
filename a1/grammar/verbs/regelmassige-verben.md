@@ -84,6 +84,7 @@ Du {verb}`tanzt` gut.
 :track: a1/grammar/regelmassige-verben
 :title: Regelmäßige Verben
 :title-en: Regular verbs in the present
+:tags: regular verb, present tense
 
 ich lerne, du lernst, er lernt
 : I learn, you learn, he learns

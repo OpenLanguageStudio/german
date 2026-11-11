@@ -197,6 +197,7 @@ Dative and genitive relative clauses (for example with *dem/der/dessen/deren*) a
 :track: a2/grammar/relativsatze-im-nominativ
 :title: Relativsätze im Nominativ
 :title-en: Relative Clauses in the Nominative
+:tags: relative clause, nominative case
 
 Der Mann, der dort steht, ist mein Lehrer.
 : The man who is standing there is my teacher.
@@ -293,6 +294,7 @@ Das Zimmer, das hell ist, gefällt mir besser.
 :track: a2/grammar/relativsatze-im-akkusativ
 :title: Relativsätze im Akkusativ
 :title-en: Relative Clauses in the Accusative
+:tags: relative clause, accusative case
 
 Der Mann, den ich kenne, ist sehr nett.
 : The man whom I know is very nice.

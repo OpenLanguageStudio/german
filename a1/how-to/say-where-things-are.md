@@ -91,6 +91,7 @@ Es gibt einen Park in der Nähe.
 :track: a1/how-to/say-where-things-are
 :title: Sagen, wo etwas ist
 :title-en: Say where things are
+:tags: two-way preposition, dative case, home
 
 Wo ist mein Schlüssel?
 : Where is my key?

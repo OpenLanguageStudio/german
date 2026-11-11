@@ -39,6 +39,7 @@ A sporting week: training, the match, the pool, and both possible endings of the
 :track: a1/vocabulary/sports-and-games-1
 :title: Sport und Spiele 1
 :title-en: Sports and Games 1
+:tags: leisure
 
 Machst du gern Sport?
 : Do you like doing sport?

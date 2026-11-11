@@ -204,6 +204,7 @@ Other contractions also exist – *aufs*, *vors*, *hinters*, *übers*, *unters*,
 :::{audio-examples}
 :track: a2/grammar/wechselprapositionen-wohin-und-wo
 :title: Wechselpräpositionen - Wohin und Wo
+:tags: two-way preposition, accusative case, dative case
 
 Ich stelle das Buch ins Regal.
 : I put the book on the shelf.

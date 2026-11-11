@@ -90,6 +90,7 @@ Nein, aber ich kann Klavier spielen.
 :track: a1/how-to/say-what-you-can-do
 :title: Über Fähigkeiten sprechen
 :title-en: Say what you can do
+:tags: modal verb, leisure
 
 Ich kann gut schwimmen.
 : I can swim well.

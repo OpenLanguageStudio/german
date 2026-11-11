@@ -83,6 +83,7 @@ Ich danke {dativ}`Ihnen`.
 :track: a1/grammar/personalpronomen-dativ
 :title: Personalpronomen im Dativ
 :title-en: Personal pronouns in the dative
+:tags: personal pronoun, dative case
 
 mir, dir, ihm, ihr
 : to me, to you, to him, to her

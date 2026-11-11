@@ -85,6 +85,7 @@ Ich komme um sieben.
 :track: a1/how-to/tell-the-time-and-day
 :title: Uhrzeit und Wochentage
 :title-en: Tell the time and day
+:tags: time and dates, numbers
 
 Wie spät ist es?
 : What time is it?

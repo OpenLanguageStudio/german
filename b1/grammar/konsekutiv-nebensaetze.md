@@ -148,6 +148,7 @@ When you speak, choose the connector based on what you want to emphasize: the re
 :track: b1/grammar/folgen-ausdrucken-mit-deswegen-darum-deshalb
 :title: Deswegen, darum und deshalb - Folgen ausdrücken
 :title-en: Expressing Consequences with deswegen, darum, deshalb
+:tags: reasons and consequences, word order
 
 Es regnet, deswegen bleibe ich zu Hause.
 : It's raining, that's why I'm staying at home.

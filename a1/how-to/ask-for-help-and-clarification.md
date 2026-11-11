@@ -94,6 +94,7 @@ Danke für die Erklärung.
 :track: a1/how-to/ask-for-help-and-clarification
 :title: Um Hilfe bitten und nachfragen
 :title-en: Ask for help and clarification
+:tags: asking for help, politeness
 
 Ich verstehe nicht.
 : I don't understand.

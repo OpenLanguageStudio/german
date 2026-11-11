@@ -92,6 +92,7 @@ Am Sonntag {verb}`habe` ich nichts **gemacht**.
 :track: a1/how-to/talk-about-the-past
 :title: Über Vergangenes sprechen
 :title-en: Talk about the past
+:tags: the past, Perfekt
 
 Wie war dein Wochenende?
 : How was your weekend?

@@ -75,6 +75,7 @@ Wir {verb}`fahren` nach Wien, und Anna {verb}`fährt` nach Rom.
 :track: a1/grammar/unregelmaessige-verben
 :title: Unregelmäßige Verben
 :title-en: Irregular verbs in the present
+:tags: irregular verb, present tense
 
 ich fahre, du fährst, er fährt
 : I drive, you drive, he drives

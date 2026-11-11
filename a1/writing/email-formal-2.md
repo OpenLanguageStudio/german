@@ -40,6 +40,7 @@ The request stands in the first line, and *seit* says how long the symptoms have
 :title: Eine E-Mail an die Arztpraxis
 :title-en: Emailing the Doctor's Clinic
 :multiline:
+:tags: email, formal, appointments
 
 Betreff: Termin für nächste Woche.
 Sehr geehrte Damen und Herren,

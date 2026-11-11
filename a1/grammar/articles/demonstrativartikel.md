@@ -77,6 +77,7 @@ In spoken German you'll also hear the definite article do this job with emphasis
 :track: a1/grammar/demonstrativartikel
 :title: Demonstrativartikel
 :title-en: Demonstrative articles
+:tags: demonstrative article
 
 Dieser Käse ist sehr gut.
 : This cheese is very good.

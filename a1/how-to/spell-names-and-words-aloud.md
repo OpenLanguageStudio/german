@@ -85,6 +85,7 @@ If dictation gets too fast, two short phrases save you: *Noch einmal, bitte* and
 :track: a1/how-to/spell-names-and-words-aloud
 :title: Buchstabieren und das Alphabet
 :title-en: Spell names and words aloud
+:tags: personal details
 
 Wie schreibt man das?
 : How do you spell that?

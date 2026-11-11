@@ -76,6 +76,7 @@ Das ist {subj}`der Turm`.
 :track: a1/grammar/verben-mit-akkusativ
 :title: Verben mit Akkusativ
 :title-en: Verbs with the accusative
+:tags: accusative case
 
 Ich habe einen Hund.
 : I have a dog.

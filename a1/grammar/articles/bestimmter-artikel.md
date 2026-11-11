@@ -98,6 +98,7 @@ Sie liest {akk}`das` Buch.
 :track: a1/grammar/bestimmter-artikel
 :title: Der bestimmte Artikel
 :title-en: The definite article
+:tags: definite article, gender
 
 Der Hafen ist groß.
 : The harbour is big.

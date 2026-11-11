@@ -83,6 +83,7 @@ Er spricht Englisch und ein bisschen Deutsch.
 :track: a1/how-to/introduce-someone-else
 :title: Jemanden vorstellen
 :title-en: Introduce someone else
+:tags: introductions, family
 
 Das ist mein Freund Tom.
 : This is my friend Tom.

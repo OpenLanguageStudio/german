@@ -79,6 +79,7 @@ Ein Brötchen {prep}`mit` Käse, bitte.
 :track: a1/grammar/mit-dativ
 :title: Die Präposition mit
 :title-en: The preposition mit
+:tags: preposition, dative case
 
 Ich fahre mit dem Bus.
 : I go by bus.

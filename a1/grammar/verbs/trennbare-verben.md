@@ -78,6 +78,7 @@ Ich {verb}`möchte` morgen **mitkommen**.
 :track: a1/grammar/trennbare-verben
 :title: Trennbare Verben
 :title-en: Separable verbs
+:tags: separable verb, sentence bracket
 
 Ich stehe um sieben Uhr auf.
 : I get up at seven o'clock.

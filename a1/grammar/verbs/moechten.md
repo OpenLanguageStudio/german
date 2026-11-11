@@ -75,6 +75,7 @@ Er {verb}`möchte` nach Berlin **fahren**.
 :track: a1/grammar/moechten
 :title: möchten
 :title-en: The polite want
+:tags: modal verb, politeness, food and drink
 
 ich möchte, du möchtest, er möchte
 : I would like, you would like, he would like
