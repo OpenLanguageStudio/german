@@ -82,6 +82,7 @@ Ich lerne {prep}`seit` einem Jahr Deutsch.
 :track: a1/grammar/temporale-praepositionen
 :title: Temporale Präpositionen - Grundlagen
 :title-en: Temporal prepositions, the basics
+:tags: preposition, time and dates
 
 Der Kurs beginnt um neun Uhr.
 : The course starts at nine.

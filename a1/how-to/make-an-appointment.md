@@ -94,6 +94,7 @@ Bis Freitag dann!
 :track: a1/how-to/make-an-appointment
 :title: Termine machen
 :title-en: Make an appointment
+:tags: appointments, time and dates
 
 Hast du am Freitag Zeit?
 : Do you have time on Friday?

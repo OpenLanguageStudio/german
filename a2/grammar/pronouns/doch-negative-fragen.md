@@ -213,6 +213,7 @@ Use the following link to practice this section.
 :track: a2/grammar/doch-nach-ja-nein-fragen
 :title: Doch nach Ja-Nein-Fragen
 :title-en: doch in Response to Yes-No Questions
+:tags: negation
 
 Kommst du nicht? - Doch, ich komme.
 : Aren't you coming? - Yes, I am coming.

@@ -76,6 +76,7 @@ Before reading this article, make sure you are comfortable with:
 :track: a1/grammar/interrogativartikel
 :title: Interrogativartikel
 :title-en: Interrogative articles
+:tags: question word
 
 Welcher Bus fährt zum Bahnhof?
 : Which bus goes to the station?

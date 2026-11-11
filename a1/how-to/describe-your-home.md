@@ -93,6 +93,7 @@ Die Wohnung gefällt {dativ}`mir` sehr.
 :track: a1/how-to/describe-your-home
 :title: Die Wohnung beschreiben
 :title-en: Describe your home
+:tags: home, adjective
 
 Meine Wohnung hat drei Zimmer.
 : My flat has three rooms.

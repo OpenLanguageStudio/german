@@ -124,6 +124,7 @@ When it comes second, the word order is normal:
 :track: b1/grammar/plusquamperfekt
 :title: Plusquamperfekt
 :title-en: The Past Perfect
+:tags: Plusquamperfekt, the past
 
 Wir hatten das Buch schon gelesen.
 : We had already read the book.

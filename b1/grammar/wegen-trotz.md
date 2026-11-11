@@ -162,6 +162,7 @@ For **feminine and plural nouns**, the dative and genitive article forms happen 
 :track: b1/grammar/praposition-wegen
 :title: Präposition wegen
 :title-en: The Preposition wegen
+:tags: preposition, genitive case, reasons and consequences
 
 Wegen des Regens bleiben wir zu Hause.
 : Because of the rain, we're staying at home.
@@ -240,6 +241,7 @@ Wegen ihm müssen wir früher gehen.
 :track: b1/grammar/praposition-trotz
 :title: Präposition trotz
 :title-en: The Preposition trotz
+:tags: preposition, genitive case
 
 Trotz des Regens gehen wir spazieren.
 : Despite the rain, we're going for a walk.

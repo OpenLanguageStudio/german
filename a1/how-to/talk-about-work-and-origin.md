@@ -81,6 +81,7 @@ Ich lebe seit zwei Jahren in Deutschland.
 :track: a1/how-to/talk-about-work-and-origin
 :title: Beruf und Herkunft
 :title-en: Talk about work and origin
+:tags: work, personal details
 
 Was machst du beruflich?
 : What do you do for a living?

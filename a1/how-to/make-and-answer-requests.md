@@ -94,6 +94,7 @@ Leider geht das nicht.
 :track: a1/how-to/make-and-answer-requests
 :title: Bitten und Antworten
 :title-en: Make and answer requests
+:tags: politeness, modal verb
 
 Kannst du mir helfen?
 : Can you help me?

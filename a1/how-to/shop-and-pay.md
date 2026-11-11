@@ -95,6 +95,7 @@ Prices are spoken without a word for "point": *zwölf Euro fünfzig* is 12.50. S
 :track: a1/how-to/shop-and-pay
 :title: Einkaufen und Bezahlen
 :title-en: Shop and pay
+:tags: shopping, numbers
 
 Was kostet das?
 : How much is that?

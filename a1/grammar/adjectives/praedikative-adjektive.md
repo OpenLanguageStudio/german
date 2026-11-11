@@ -82,6 +82,7 @@ Adjectives BEFORE a noun (*ein großes Haus*) take endings, and that system is A
 :track: a1/grammar/praedikative-adjektive
 :title: Adjektive mit sein
 :title-en: Predicate adjectives
+:tags: adjective
 
 Das Haus ist groß.
 : The house is big.

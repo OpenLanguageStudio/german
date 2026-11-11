@@ -74,6 +74,7 @@ The nominative forms are the familiar ones from the article system:
 :track: a1/grammar/nominativ
 :title: Der Nominativ
 :title-en: The nominative case
+:tags: nominative case
 
 Der Mann ist müde.
 : The man is tired.

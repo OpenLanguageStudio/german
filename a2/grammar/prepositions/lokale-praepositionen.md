@@ -207,6 +207,7 @@ Gehen Sie {prep}`um` {akk}`das` Hotel herum, dann sehen Sie den Eingang.
 :track: a2/grammar/lokale-prapositionen-mit-dativ
 :title: Lokale Präpositionen mit Dativ
 :title-en: Local Prepositions with the Dative
+:tags: preposition, dative case, directions
 
 Ich gehe am Park vorbei.
 : I walk past the park.
@@ -297,6 +298,7 @@ Ich laufe bis zum Spielplatz.
 :track: a2/grammar/lokale-prapositionen-mit-akkusativ
 :title: Lokale Präpositionen mit Akkusativ
 :title-en: Local Prepositions with the Accusative
+:tags: preposition, accusative case, directions
 
 Wir gehen durch den Park.
 : We walk through the park.

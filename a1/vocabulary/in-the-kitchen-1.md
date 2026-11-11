@@ -38,6 +38,7 @@ The sentences walk through the kitchen the way an evening does: setting the tabl
 :track: a1/vocabulary/in-the-kitchen-1
 :title: In der Küche 1
 :title-en: In the Kitchen 1
+:tags: food and drink, home
 
 Der Tisch steht in der Küche.
 : The table is in the kitchen.

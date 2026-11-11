@@ -82,6 +82,7 @@ Was isst du **am liebsten**?
 :track: a1/grammar/gern-lieber
 :title: gern, lieber, am liebsten
 :title-en: gern, lieber, am liebsten
+:tags: likes and dislikes, comparative, superlative
 
 Ich koche gern.
 : I like cooking.

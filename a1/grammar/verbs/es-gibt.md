@@ -75,6 +75,7 @@ Was gibt es zum Frühstück?
 :track: a1/grammar/es-gibt
 :title: es gibt
 :title-en: There is, there are
+:tags: accusative case
 
 Es gibt einen Park.
 : There is a park.

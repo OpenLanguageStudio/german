@@ -82,6 +82,7 @@ Wie oft machst du Sport?
 :track: a1/grammar/fragewoerter-umstaende
 :title: Fragewörter wo, wann, wie und warum
 :title-en: Question words for circumstances
+:tags: question word
 
 Wo bist du?
 : Where are you?

@@ -90,6 +90,7 @@ Er sucht {akk}`seine` Brille.
 :track: a1/grammar/possessivartikel
 :title: Possessivartikel
 :title-en: Possessive articles
+:tags: possessive article, family
 
 Mein Bruder wohnt in Berlin.
 : My brother lives in Berlin.

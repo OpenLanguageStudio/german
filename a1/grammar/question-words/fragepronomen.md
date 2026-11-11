@@ -76,6 +76,7 @@ At A1, *wem* mostly goes with {term}`dative <dative case>` {term}`verbs <verb>` 
 :track: a1/grammar/fragepronomen
 :title: Fragepronomen wer, wen und wem
 :title-en: Question pronouns wer, wen, wem
+:tags: question word, nominative case, accusative case
 
 Wer ist das?
 : Who is that?

@@ -181,6 +181,7 @@ Use the following link to practice this section.
 :track: a2/grammar/prapositionen-ohne-und-mit
 :title: Präpositionen ohne und mit
 :title-en: Prepositions ohne and mit
+:tags: preposition, accusative case, dative case
 
 Ich trinke Kaffee ohne Zucker.
 : I drink coffee without sugar.

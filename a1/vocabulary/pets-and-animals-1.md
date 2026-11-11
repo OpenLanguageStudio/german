@@ -39,6 +39,7 @@ Every word appears in a sentence, and the most common animals return in the plur
 :track: a1/vocabulary/pets-and-animals-1
 :title: Haustiere und Tiere 1
 :title-en: Pets and Animals 1
+:tags: animals
 
 Der Hund ist klein.
 : The dog is small.

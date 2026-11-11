@@ -91,6 +91,7 @@ Zusammen oder getrennt? Zusammen, bitte.
 :track: a1/how-to/order-food-and-drink
 :title: Essen und Trinken bestellen
 :title-en: Order food and drink
+:tags: food and drink, politeness
 
 Die Speisekarte, bitte.
 : The menu, please.

@@ -42,6 +42,7 @@ One sentence per word, with *wehtun* returning across different body parts, exac
 :track: a1/vocabulary/the-human-body-1
 :title: Der Körper 1
 :title-en: The Human Body 1
+:tags: the body
 
 Mein Kopf tut weh.
 : My head hurts.

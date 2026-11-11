@@ -107,6 +107,7 @@ Both forms are widely understood, but written German at B1 level and above uses 
 :track: b1/grammar/temporale-prapositionen-mit-dativ
 :title: Temporale Präpositionen mit Dativ
 :title-en: Temporal Prepositions with the Dative
+:tags: preposition, dative case, time and dates
 
 Ich gehe am Montag zum Arzt.
 : I'm going to the doctor on Monday.
@@ -176,6 +177,7 @@ Zu Weihnachten gibt es Geschenke.
 :track: b1/grammar/temporale-prapositionen-genitiv-formell
 :title: Temporale Präpositionen - Genitiv (Formell)
 :title-en: Temporal Prepositions: Genitive (Formal)
+:tags: preposition, genitive case, time and dates
 
 Während des Unterrichts ist mein Handy aus.
 : During class, my phone is off.

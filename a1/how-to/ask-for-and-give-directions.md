@@ -94,6 +94,7 @@ Danke für Ihre Hilfe!
 :track: a1/how-to/ask-for-and-give-directions
 :title: Nach dem Weg fragen
 :title-en: Ask for and give directions
+:tags: directions, imperative, preposition
 
 Entschuldigung, wo ist der Bahnhof?
 : Excuse me, where is the station?

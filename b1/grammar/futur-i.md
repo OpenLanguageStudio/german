@@ -114,6 +114,7 @@ The signal words are not grammatically required, but they make your intention cl
 :track: b1/grammar/futur-i
 :title: Futur I
 :title-en: Future Tense I
+:tags: future tense
 
 Ich werde morgen nach Berlin fahren.
 : I will go to Berlin tomorrow.

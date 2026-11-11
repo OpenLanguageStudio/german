@@ -82,6 +82,7 @@ Sagen wir du?
 :track: a1/grammar/anredeformen
 :title: du, ihr oder Sie
 :title-en: Forms of address
+:tags: personal pronoun, formal, informal
 
 Wie heißt du?
 : What is your name? (informal)

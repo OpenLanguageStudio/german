@@ -183,6 +183,7 @@ Diese Woche haben wir **am meisten** Hausaufgaben.
 :track: a2/grammar/adjektive-komparativ-und-superlativ
 :title: Adjektive - Komparativ und Superlativ
 :title-en: Adjectives: Comparative and Superlative
+:tags: comparative, superlative, comparing
 
 Mein Auto ist schneller als dein Auto.
 : My car is faster than your car.

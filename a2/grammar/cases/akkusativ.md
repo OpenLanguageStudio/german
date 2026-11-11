@@ -243,6 +243,7 @@ Ich liebe {akk}`das` Wetter hier im Sommer.
 :::{audio-examples}
 :track: a2/grammar/akkusativ-grundlagen
 :title: Akkusativ – Grundlagen
+:tags: accusative case
 
 Ich sehe den Mann auf der Straße.
 : I see the man on the street.

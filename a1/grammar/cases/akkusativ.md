@@ -93,6 +93,7 @@ Kennst du {akk}`den Film`?
 :track: a1/grammar/akkusativ
 :title: Der Akkusativ
 :title-en: The accusative case
+:tags: accusative case
 
 Ich sehe den Bus.
 : I see the bus.

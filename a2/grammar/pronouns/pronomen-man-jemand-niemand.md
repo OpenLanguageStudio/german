@@ -154,6 +154,7 @@ Do not use *man* as an object.
 :track: a2/grammar/pronomen-man-jemand-und-niemand
 :title: Pronomen - man, jemand und niemand
 :title-en: Pronouns: man, jemand, and niemand
+:tags: pronoun, negation
 
 Man kann hier gut essen.
 : You can eat well here.

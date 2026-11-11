@@ -39,6 +39,7 @@ Every pair puts the changed form in *du* or *er/sie/es* next to an unchanged per
 :track: a1/vocabulary/everyday-verbs-2
 :title: Alltagsverben 2
 :title-en: Everyday Verbs 2
+:tags: irregular verb, daily routine
 
 Siehst du den Bus?
 : Do you see the bus?

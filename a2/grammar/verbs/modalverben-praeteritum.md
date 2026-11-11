@@ -255,6 +255,7 @@ Ich {verb}`müsste` eigentlich früher aufstehen. *(Konjunktiv II, moral obligat
 :track: a2/grammar/modalverben-im-prateritum
 :title: Modalverben im Präteritum
 :title-en: Modal Verbs in the Simple Past
+:tags: modal verb, Präteritum, the past
 
 Ich konnte gestern nicht kommen.
 : I couldn't come yesterday.

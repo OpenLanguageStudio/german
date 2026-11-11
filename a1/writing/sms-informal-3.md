@@ -37,6 +37,7 @@ The opener checks availability before proposing anything. The plan comes with an
 :title: Eine Nachricht - Was machst du am Samstag?
 :title-en: Making Plans
 :multiline:
+:tags: text message, informal, plans and invitations
 
 Anna: Hallo Lena! Was machst du am Samstag? Wir wollen ins Schwimmbad gehen. Kommst du mit?
 Lena: Gute Idee! Um wie viel Uhr trefft ihr euch?

@@ -49,6 +49,7 @@ Each pair comes as two neighbouring sentences, so the contrast does the teaching
 :track: a1/vocabulary/everyday-adjectives-1
 :title: Alltagsadjektive 1
 :title-en: Everyday Adjectives 1
+:tags: adjective
 
 Das Haus ist groß.
 : The house is big.

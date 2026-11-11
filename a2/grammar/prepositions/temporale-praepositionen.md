@@ -310,6 +310,7 @@ If you learn these as fixed phrases, speaking about time becomes much faster.
 :track: a2/grammar/temporale-prapositionen
 :title: Temporale Präpositionen
 :title-en: Temporal Prepositions
+:tags: preposition, time and dates
 
 Ich arbeite bis 18 Uhr.
 : I work until 6 p.m.

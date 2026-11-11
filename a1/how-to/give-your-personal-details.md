@@ -99,6 +99,7 @@ Ich bin einunddreißig Jahre alt.
 :track: a1/how-to/give-your-personal-details
 :title: Zahlen und persönliche Daten
 :title-en: Give your personal details
+:tags: personal details, numbers
 
 null, eins, zwei, drei
 : zero, one, two, three

@@ -208,6 +208,7 @@ Entschuldigung, wo ist **die nächste** Bushaltestelle?
 :track: b1/grammar/komparativ-vor-nomen-nominativ
 :title: Komparativ vor Nomen – Nominativ
 :title-en: Comparative Before Nouns: Nominative
+:tags: comparative, declension, nominative case
 
 Der kleinere Tisch passt nicht.
 : The smaller table doesn't fit.
@@ -289,6 +290,7 @@ Das ruhigere Viertel ist sicherer.
 :track: b1/grammar/komparativ-vor-nomen-akkusativ-und-dativ
 :title: Komparativ vor Nomen – Akkusativ und Dativ
 :title-en: Comparative Before Nouns: Accusative and Dative
+:tags: comparative, declension, dative case
 
 Ich möchte eine ruhigere Straße.
 : I want a quieter street.
@@ -364,6 +366,7 @@ Ich suche einen schnelleren Zug.
 :track: b1/grammar/superlativ-vor-nomen
 :title: Superlativ vor Nomen
 :title-en: Superlative Before Nouns
+:tags: superlative, declension
 
 Das ist das größte Haus in der Straße.
 : That's the biggest house on the street.

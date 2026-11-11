@@ -83,6 +83,7 @@ The decision test: find what you are negating. A noun that would take *ein* or n
 :track: a1/grammar/negation
 :title: Negation mit nicht und kein
 :title-en: Negation with nicht and kein
+:tags: negation, negative article
 
 Ich habe keine Zeit.
 : I have no time.
