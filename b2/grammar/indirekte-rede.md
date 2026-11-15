@@ -30,8 +30,6 @@ In formal German, *Konjunktiv I* marks distance from the content: you show that 
 | Scientific text | Konjunktiv I | clear source distance |
 | Everyday conversation | often Indikativ | more direct, less formal |
 
-**Examples:**
-
 :::{div} ol-examples
 Die Ministerin erklärt, die Lage {verb}`sei` stabil.
 : The minister explains that the situation is stable.
@@ -66,8 +64,6 @@ You can report statements with *dass* clauses or without *dass*. Without *dass*,
 | without *dass* | reporting verb + comma + Konjunktiv I clause | Er sagt, er komme morgen. |
 | yes/no question | reporting verb + ob + ... + Verb (usually Konjunktiv) at the end | Sie fragt, ob er schon angekommen sei. |
 
-**Examples:**
-
 :::{div} ol-examples
 Der Sprecher sagt, dass die Verhandlungen morgen {verb}`beginnen`.
 : The spokesperson says that the negotiations begin tomorrow.
@@ -101,8 +97,6 @@ Some *Konjunktiv I* forms are identical to *Indikativ* (especially with *ich*, *
 | K I = Indikativ | use Konjunktiv II | Er sagt, sie hätten keine Zeit. |
 | K II also unclear/stiff | use würde + Infinitiv | Er sagt, sie würden später kommen. |
 
-**Examples:**
-
 :::{div} ol-examples
 Die Zeugin sagte, sie {verb}`hätten` den Fahrer nicht erkannt.
 : The witness said they had not recognized the driver.
@@ -135,8 +129,6 @@ In everyday spoken German, many speakers report statements in *Indikativ*, espec
 | --- | --- | --- |
 | formal written (news/science) | mostly Konjunktiv I | Er sagte, die Methode sei zuverlässig. |
 | informal spoken | often Indikativ | Er hat gesagt, dass die Methode zuverlässig ist. |
-
-**Examples:**
 
 :::{div} ol-examples
 Formal: Der Autor schreibt, das Ergebnis {verb}`sei` reproduzierbar.
@@ -189,8 +181,8 @@ Use the following link to practice this section:
 
 ## Related articles
 
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Negation](/b2/grammar/negation.md)
-- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
-- [B1 > Grammar > Passiv](/b1/grammar/passiv.md)
-- [B2 > Grammar > Irreale Vergleichssätze](/b2/grammar/irreale-vergleichssaetze.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b2/grammar/negation.md)
+- [](/b1/grammar/konjunktiv-ii.md) {level}`B1`
+- [](/b1/grammar/passiv.md) {level}`B1`
+- [](/b2/grammar/irreale-vergleichssaetze.md)

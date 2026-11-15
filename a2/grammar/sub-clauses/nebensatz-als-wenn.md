@@ -26,8 +26,6 @@ Use {conj}`als` for one specific event or one finished time period in the past. 
 
 > **{conj}`als`** + subject + ... + **{verb}`conjugated verb (past)`**
 
-**Examples:**
-
 :::{div} ol-examples
 {conj}`Als` ich in Berlin {verb}`war`, besuchte ich den Fernsehturm.
 : When I was in Berlin, I visited the TV tower.
@@ -56,8 +54,6 @@ Think of {conj}`als` as a camera snapshot from the past: one event, one occasion
 Use {conj}`wenn` when something happens repeatedly, usually, or under a condition. This includes repeated past situations, regular present situations, future time, and "if" sentences.
 
 > **{conj}`wenn`** + subject + ... + **{verb}`conjugated verb`**
-
-**Examples:**
 
 :::{div} ol-examples
 {conj}`Wenn` ich früher in Berlin {verb}`war`, besuchte ich immer meinen Onkel.
@@ -241,5 +237,5 @@ Wenn sie ein Auto kaufen, vergleichen sie die Preise.
 
 ## Related articles
 
-- [A2 > How to > Ask indirect questions](/a2/how-to/ask-indirect-questions.md)
-- [A2 > Grammar > Modalverben im Präteritum](/a2/grammar/verbs/modalverben-praeteritum.md)
+- [](/a2/how-to/ask-indirect-questions.md)
+- [](/a2/grammar/verbs/modalverben-praeteritum.md)

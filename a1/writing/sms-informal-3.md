@@ -84,5 +84,5 @@ Anna: Nein, du brauchst nur Badesachen. Jonas und seine Freundin kommen auch. Bi
 
 ## Related articles
 
-- [Cancelling Plans](/a1/writing/sms-informal-1.md)
-- [Make an appointment](/a1/how-to/make-an-appointment.md)
+- [](/a1/writing/sms-informal-1.md)
+- [](/a1/how-to/make-an-appointment.md)

@@ -17,8 +17,8 @@ The direct object is the person or thing an action lands on. The accusative {ter
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > Personal Pronouns: Nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md)
-- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
+- [](/a1/grammar/pronouns/personalpronomen-nominativ.md)
+- [](/a1/grammar/cases/akkusativ.md)
 :::
 
 ## The forms
@@ -36,8 +36,6 @@ Before reading this article, make sure you are comfortable with:
 
 The big change is *er* → **ihn**. Most of the rest either match English logic or do not change at all.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich liebe {akk}`dich`.
 : I love you.
@@ -52,8 +50,6 @@ Der Lehrer fragt {akk}`uns`.
 ## Things are *ihn*, *sie*, *es* too
 
 Like the nominative pronouns, the accusative ones track grammatical gender. A {term}`masculine` thing is *ihn*: *Wo ist der Schlüssel? Ich finde **ihn** nicht.*
-
-**Examples:**
 
 :::{div} ol-examples
 Wo ist der Schlüssel? Ich finde {akk}`ihn` nicht.
@@ -155,4 +151,4 @@ Wir sehen euch morgen.
 
 ## Related articles
 
-- [A1 > Grammar > Verbs with the Accusative](/a1/grammar/verbs/verben-mit-akkusativ.md)
+- [](/a1/grammar/verbs/verben-mit-akkusativ.md)

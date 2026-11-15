@@ -77,5 +77,5 @@ Anna: Ja, super! Vielen Dank, du bist der Beste. Ich bin um sechs zu Hause.
 
 ## Related articles
 
-- [Make and answer requests](/a1/how-to/make-and-answer-requests.md)
-- [A1 > Grammar > Modal Verbs dürfen and sollen](/a1/grammar/verbs/duerfen-sollen.md)
+- [](/a1/how-to/make-and-answer-requests.md)
+- [](/a1/grammar/verbs/duerfen-sollen.md)

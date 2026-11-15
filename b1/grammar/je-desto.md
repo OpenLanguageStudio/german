@@ -103,6 +103,6 @@ Do not use the positive form here. You need a comparative in both parts.
 
 ## Related articles
 
-- [B1 > Grammar > Komparativ und Superlativ vor Nomen](/b1/grammar/komparativ-superlativ.md)
-- [B1 > Grammar > Zweiteilige Konnektoren](/b1/grammar/zweiteilige-konnektoren.md)
-- [B1 > How to > Express consequences](/b1/how-to/express-consequences.md)
+- [](/b1/grammar/komparativ-superlativ.md)
+- [](/b1/grammar/zweiteilige-konnektoren.md)
+- [](/b1/how-to/express-consequences.md)

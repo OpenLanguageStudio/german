@@ -58,7 +58,7 @@ Könnten/Würden are safer for politeness. Use Sie formally; du informally.
 
 ## Related articles
 
-- [A2 > Grammar > Konjunktiv II – sollte und könnte](/a2/grammar/verbs/konjunktiv-ii.md)
-- [A2 > Grammar > Finalsätze: damit und um ... zu](/a2/grammar/sub-clauses/finalsaetze.md)
-- [A2 > Grammar > Modalverben im Präteritum](/a2/grammar/verbs/modalverben-praeteritum.md)
-- [A2 > Grammar > Doch bei Verneinungsfragen](/a2/grammar/pronouns/doch-negative-fragen.md)
+- [](/a2/grammar/verbs/konjunktiv-ii.md)
+- [](/a2/grammar/sub-clauses/finalsaetze.md)
+- [](/a2/grammar/verbs/modalverben-praeteritum.md)
+- [](/a2/grammar/pronouns/doch-negative-fragen.md)

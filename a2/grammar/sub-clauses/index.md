@@ -5,7 +5,7 @@ myst:
     description: "A2 German grammar: subordinate clauses, weil, dass, wenn, als, Finalsätze, Relativsätze, and connectors."
     keywords: "german, a2, grammar, subordinate clauses, nebensaetze, weil, dass, wenn, relativsaetze"
 ---
-# Subordinate Clauses
+# Subordinate clauses
 
 Subordinate clauses let you express reasons, conditions, time references, and relative information. The verb always moves to the end of the clause.
 

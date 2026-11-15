@@ -237,7 +237,7 @@ Sie spricht kein Deutsch, deshalb verstehen wir sie nicht.
 
 ## Related articles
 
-- [A2 > Grammar > Konnektoren: deshalb, trotzdem](/a2/grammar/sub-clauses/konnektoren.md)
-- [B1 > Grammar > Kausal Nebensätze](/b1/grammar/kausal-nebensaetze.md)
-- [B1 > How to > Express consequences](/b1/how-to/express-consequences.md)
-- [B1 > How to > Talk about goals and purpose](/b1/how-to/talk-about-goals-and-purpose.md)
+- [](/a2/grammar/sub-clauses/konnektoren.md) {level}`A2`
+- [](/b1/grammar/kausal-nebensaetze.md)
+- [](/b1/how-to/express-consequences.md)
+- [](/b1/how-to/talk-about-goals-and-purpose.md)

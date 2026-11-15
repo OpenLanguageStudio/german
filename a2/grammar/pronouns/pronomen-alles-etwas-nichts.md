@@ -28,8 +28,6 @@ Use *alles* when you mean the whole set of things or the full situation. In ever
 
 A useful signal: with *alles*, the verb is usually singular in simple sentences.
 
-**Examples:**
-
 :::{div} ol-examples
 {pronoun}`Alles` ist bereit.
 : Everything is ready.
@@ -70,8 +68,6 @@ At A2, learn both uses early, because they appear in questions, requests, and sm
 | Pronoun | something | Hast du etwas gehört? |
 | Quantity word | a little / some | Ich brauche etwas Wasser. |
 
-**Examples:**
-
 :::{div} ol-examples
 Hast du {pronoun}`etwas` gehört?
 : Did you hear something?
@@ -101,8 +97,6 @@ In everyday spoken German, you will also hear the shorter form *was* for *etwas*
 ## Nichts – “nothing”
 
 Use *nichts* to say that no thing is there, happens, or is known. In simple terms, it is the negative partner of *etwas*.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich sehe {pronoun}`nichts`.
@@ -145,8 +139,6 @@ You will often see this at A2 in short everyday expressions.
 | nichts + adjective | often -es | nichts Besonderes |
 | alles + adjective | often set phrase form | alles Gute |
 
-**Examples:**
-
 :::{div} ol-examples
 Ich suche {pronoun}`etwas` {adj}`Neues`.
 : I'm looking for something new.
@@ -182,8 +174,6 @@ This article's pronouns are for things and ideas. For people, German uses differ
 | Positive, non-specific | etwas | jemand |
 | Negative | nichts | niemand |
 | General totality | alles | man (general "one/people") |
-
-**Examples:**
 
 :::{div} ol-examples
 Gibt es {pronoun}`etwas` zu essen?
@@ -341,6 +331,6 @@ Nichts ist unmöglich.
 
 ## Related articles
 
-- [A2 > Grammar > Adjektivdeklination](/a2/grammar/adjectives/adjektivendungen.md)
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > How to > Ask indirect questions](/a2/how-to/ask-indirect-questions.md)
+- [](/a2/grammar/adjectives/adjektivendungen.md)
+- [](/a2/grammar/cases/akkusativ.md)
+- [](/a2/how-to/ask-indirect-questions.md)

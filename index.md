@@ -10,6 +10,13 @@ myst:
 
 Open Language - German is a free, open coursebook for adults learning German, written in English. It explains how the language works one topic at a time, in plain words, with short example sentences. Anyone can read it, report a problem or suggest a change.
 
+```{button-ref} a1/index
+:ref-type: doc
+:color: primary
+
+Start with A1
+```
+
 ## How the course works
 
 The pages are not a sequence. Each one stands on its own, so any page can be read first, and the menu is there to jump to what is needed. Every article ends with sentences to listen to, which is the part to repeat aloud.
@@ -18,19 +25,73 @@ The pages are not a sequence. Each one stands on its own, so any page can be rea
 
 The levels follow the Common European Framework of Reference (CEFR), from A1 to B2.
 
-- [A1](a1/index.md): the first days, with names, numbers, food, directions and the basic sentence.
-- [A2](a2/index.md): the past, comparisons and the reasons behind what people do.
-- [B1](b1/index.md): opinions, reasons, plans and past events in connected speech.
-- [B2](b2/index.md): formal and precise German, from nominal style to indirect speech.
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item-card} A1
+:link: a1/index
+:link-type: doc
+
+The first days, with names, numbers, food, directions and the basic sentence.
+:::
+
+:::{grid-item-card} A2
+:link: a2/index
+:link-type: doc
+
+The past, comparisons and the reasons behind what people do.
+:::
+
+:::{grid-item-card} B1
+:link: b1/index
+:link-type: doc
+
+Opinions, reasons, plans and past events in connected speech.
+:::
+
+:::{grid-item-card} B2
+:link: b2/index
+:link-type: doc
+
+Formal and precise German, from nominal style to indirect speech.
+:::
+::::
 
 ## Categories
 
 Every level is divided into the same categories. A level holds only the categories it has pages for.
 
-- [How to](a1/how-to/index.md): one everyday task per page, such as greeting someone or ordering food.
-- [Grammar](a1/grammar/index.md): how the language is built, one topic per page.
-- [Writing](a1/writing/index.md): model texts for everyday messages, with the phrases that frame them.
-- [Vocabulary](a1/vocabulary/index.md): word packs on one theme.
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item-card} How to
+:link: a1/how-to/index
+:link-type: doc
+
+One everyday task per page, such as greeting someone or ordering food.
+:::
+
+:::{grid-item-card} Grammar
+:link: a1/grammar/index
+:link-type: doc
+
+How the language is built, one topic per page.
+:::
+
+:::{grid-item-card} Writing
+:link: a1/writing/index
+:link-type: doc
+
+Model texts for everyday messages, with the phrases that frame them.
+:::
+
+:::{grid-item-card} Vocabulary
+:link: a1/vocabulary/index
+:link-type: doc
+
+Word packs on one theme.
+:::
+::::
 
 ## Where to start
 

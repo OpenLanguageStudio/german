@@ -17,7 +17,7 @@ The word depends on the owner, and the ending depends on the {term}`noun` that f
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > Indefinite Articles](/a1/grammar/articles/unbestimmter-artikel.md)
+- [](/a1/grammar/articles/unbestimmter-artikel.md)
 :::
 
 ## One word per person
@@ -31,8 +31,6 @@ Before reading this article, make sure you are comfortable with:
 | wir | **unser** | unser Haus |
 | ihr (you pl.) | **euer** | euer Garten |
 | sie / Sie (they / you formal) | **ihr / Ihr** | ihre Kinder / Ihre Frage |
-
-**Examples:**
 
 :::{div} ol-examples
 {article}`Mein` Bruder wohnt in Berlin.
@@ -57,8 +55,6 @@ The possessive article takes the ein-word endings: no ending for masculine and n
 |---|---|---|---|---|
 | Nominative | mein | mein**e** | mein | mein**e** |
 | Accusative | mein**en** | mein**e** | mein | mein**e** |
-
-**Examples:**
 
 :::{div} ol-examples
 {article}`Meine` Schwester ist Ärztin.
@@ -171,5 +167,5 @@ Unsere Lehrerin kommt aus Wien.
 
 ## Related articles
 
-- [A1 > Grammar > Personal Pronouns – Nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md)
-- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
+- [](/a1/grammar/pronouns/personalpronomen-nominativ.md)
+- [](/a1/grammar/cases/akkusativ.md)

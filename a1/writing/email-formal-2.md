@@ -91,5 +91,5 @@ Anna Kowalska
 
 ## Related articles
 
-- [Say how you feel](/a1/how-to/say-how-you-feel.md)
-- [Make an appointment](/a1/how-to/make-an-appointment.md)
+- [](/a1/how-to/say-how-you-feel.md)
+- [](/a1/how-to/make-an-appointment.md)

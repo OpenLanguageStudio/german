@@ -24,8 +24,6 @@ These conjunctions sit in position zero: outside the sentence, before slot 1. Th
 | Ich möchte kommen, | aber | ich habe keine Zeit. |
 | Ich bleibe zu Hause, | denn | ich bin krank. |
 
-**Examples:**
-
 :::{div} ol-examples
 Ich trinke Kaffee {conj}`und` er trinkt Tee.
 : I drink coffee and he drinks tea.
@@ -37,8 +35,6 @@ Ich möchte kommen, {conj}`aber` ich habe keine Zeit.
 ## Joining words and phrases
 
 *Und* and *oder* also join single words, with no comma: *Brot und Käse*, *Tee oder Kaffee*.
-
-**Examples:**
 
 :::{div} ol-examples
 Wir kaufen Brot {conj}`und` Käse.
@@ -54,8 +50,6 @@ Das Hotel ist klein, {conj}`aber` schön.
 ## Reasons with *denn*
 
 *Denn* introduces a reason and is the easiest "because" in German, precisely because word order stays untouched. (Its cousin *weil* rearranges the sentence; that is A2 territory.)
-
-**Examples:**
 
 :::{div} ol-examples
 Ich bleibe zu Hause, {conj}`denn` ich bin krank.

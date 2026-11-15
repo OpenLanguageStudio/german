@@ -34,8 +34,6 @@ A typical sentence has three parts:
 
 So the full sentence is: *Ich gebe **meiner Schwester** ein Buch.* (I give my sister a book.)
 
-**Examples:**
-
 :::{div} ol-examples
 Ich schicke {dativ}`meinem` Vater eine Nachricht.
 : I'm sending my father a message.
@@ -69,8 +67,6 @@ In the dative case, **all four article types change their endings**. This is dif
 
 > **Plural rule:** In the dative, plural nouns add a final **-n** if their plural form does not already end in *-n* or *-s*.
 > *die Kinder → mit den Kinder**n***, *die Autos → mit den Autos*
-
-**Examples:**
 
 :::{div} ol-examples
 Ich gebe {dativ}`dem` Kind einen Apfel.
@@ -112,8 +108,6 @@ Some prepositions **always** require the dative case. You never need to decide, 
 | {stack}`von \| from, of, by` | Das ist ein Geschenk **von meiner** Oma. |
 | {stack}`zu \| to (people, buildings)` | Ich gehe **zu meinem** Arzt. |
 | {stack}`gegenüber \| opposite, across from` | Das Hotel liegt **gegenüber dem** Bahnhof. |
-
-**Examples:**
 
 :::{div} ol-examples
 Ich komme {prep}`aus` {dativ}`der` Türkei.
@@ -157,8 +151,6 @@ Certain German verbs take a **dative object** instead of an accusative one. In E
 :::{note}
 *Gefallen* works differently from English *to like*. The thing you like is the subject, and you are in the dative: *Das Lied **gefällt mir*** = "The song pleases me" → "I like the song." The subject (*das Lied*) is singular, so the verb is singular (*gefällt*).
 :::
-
-**Examples:**
 
 :::{div} ol-examples
 Ich helfe {dativ}`meinem` Bruder mit den Hausaufgaben.
@@ -300,8 +292,8 @@ Er zeigt den Kindern den Weg.
 
 ## Related articles
 
-- [A2 > Grammar > Verben mit festen Präpositionen](/a2/grammar/prepositions/verben-mit-praeposition.md)
-- [A2 > How to > Ask, wish and advise politely](/a2/how-to/ask-wish-and-advise-politely.md)
-- [A2 > Grammar > Adjektivdeklination](/a2/grammar/adjectives/adjektivendungen.md)
-- [A2 > Grammar > Temporale Präpositionen](/a2/grammar/prepositions/temporale-praepositionen.md)
-- [A2 > Grammar > Positionsverben](/a2/grammar/prepositions/positionsverben.md)
+- [](/a2/grammar/prepositions/verben-mit-praeposition.md)
+- [](/a2/how-to/ask-wish-and-advise-politely.md)
+- [](/a2/grammar/adjectives/adjektivendungen.md)
+- [](/a2/grammar/prepositions/temporale-praepositionen.md)
+- [](/a2/grammar/prepositions/positionsverben.md)

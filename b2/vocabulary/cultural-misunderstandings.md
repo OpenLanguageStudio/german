@@ -73,4 +73,4 @@ Heute denke ich: Interkulturelle Kompetenz besteht aus drei Teilen – beobachte
 
 ## Related articles
 
-- [B2 > Grammar > Two-part connectors](/b2/grammar/zweiteilige-konnektoren.md)
+- [](/b2/grammar/zweiteilige-konnektoren.md)

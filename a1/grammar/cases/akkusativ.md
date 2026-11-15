@@ -17,14 +17,12 @@ A case is the form a {term}`noun` and its article take to show their job in the 
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > The Nominative Case](/a1/grammar/cases/nominativ.md)
+- [](/a1/grammar/cases/nominativ.md)
 :::
 
 ## The direct object
 
 The direct object answers *wen?* (whom?) or *was?* (what?). Whoever does the action is nominative; whatever the action lands on is accusative.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich sehe {akk}`den Bus`.
@@ -48,8 +46,6 @@ Compare the two cases. Everything stays the same except the masculine column:
 
 {term}`Possessive articles <possessive article>` follow along: *mein* becomes **meinen**, *dein* becomes **deinen**, and so on.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich brauche {akk}`einen Stift`.
 : I need a pen.
@@ -64,8 +60,6 @@ Er hat {akk}`keinen Hunger`.
 ## Verbs that take the accusative
 
 Most everyday verbs that act on something take the accusative: *haben, brauchen, kaufen, suchen, finden, sehen, essen, trinken, nehmen, kennen, besuchen*. If you can ask *was?* after the verb, the answer is accusative.
-
-**Examples:**
 
 :::{div} ol-examples
 Wir nehmen {akk}`den Bus`.
@@ -174,4 +168,4 @@ Was kaufst du?
 
 ## Related articles
 
-- [A1 > Grammar > es gibt](/a1/grammar/verbs/es-gibt.md)
+- [](/a1/grammar/verbs/es-gibt.md)

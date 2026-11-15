@@ -76,5 +76,5 @@ In chat German, sentences shrink but stay whole: *Ich bin krank*, not lone words
 
 ## Related articles
 
-- [Make an appointment](/a1/how-to/make-an-appointment.md)
-- [Say how you feel](/a1/how-to/say-how-you-feel.md)
+- [](/a1/how-to/make-an-appointment.md)
+- [](/a1/how-to/say-how-you-feel.md)

@@ -18,8 +18,6 @@ English scatters this meaning across *you*, *one*, *people* and *they*, while Ge
 
 *Man* behaves like *er*: the verb takes the third person {term}`singular` form. It never refers to a specific person, and it is not *der Mann*; one n, no article, no capital letter mid-sentence.
 
-**Examples:**
-
 :::{div} ol-examples
 In Deutschland spricht {pronoun}`man` Deutsch.
 : In Germany people speak German.
@@ -35,8 +33,6 @@ Das sagt {pronoun}`man` nicht.
 
 Two *man* questions belong to every learner's survival kit: *Wie sagt man ...?* and *Wie schreibt man ...?* Both ask how things are done in general.
 
-**Examples:**
-
 :::{div} ol-examples
 Wie sagt {pronoun}`man` das auf Deutsch?
 : How do you say that in German?
@@ -48,8 +44,6 @@ Wie macht {pronoun}`man` das?
 ## With modal verbs
 
 *Man* pairs naturally with {term}`modals <modal verb>` for rules and possibilities: what one can, must, and may do in a place.
-
-**Examples:**
 
 :::{div} ol-examples
 Hier darf {pronoun}`man` nicht rauchen.
@@ -151,5 +145,5 @@ Das kann man verstehen.
 
 ## Related articles
 
-- [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)
-- [A1 > Grammar > Modal Verbs dürfen and sollen](/a1/grammar/verbs/duerfen-sollen.md)
+- [](/a1/grammar/verbs/koennen-muessen-wollen.md)
+- [](/a1/grammar/verbs/duerfen-sollen.md)

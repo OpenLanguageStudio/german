@@ -22,8 +22,6 @@ German has no {term}`plural` form of *ein*, so plural nouns simply stand alone: 
 
 Masculine and neuter share **ein**. Feminine takes **eine**. In the plural there is no article at all.
 
-**Examples:**
-
 :::{div} ol-examples
 Das ist {article}`ein` Hafen.
 : That is a harbour.
@@ -44,8 +42,6 @@ Just like *der* becomes *den*, only the masculine form changes when the noun is 
 | Nominative | ein | eine | ein | – |
 | Accusative | **einen** | eine | ein | – |
 
-**Examples:**
-
 :::{div} ol-examples
 Ich habe {akk}`einen` Bruder.
 : I have a brother.
@@ -60,8 +56,6 @@ Wir suchen {akk}`ein` Café.
 ## No article: professions and nationalities
 
 After *sein*, German drops the article for professions and nationalities. Where English says *a*, German says nothing.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich bin Lehrerin.
@@ -173,5 +167,5 @@ Ich mache einen Deutschkurs.
 
 ## Related articles
 
-- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
-- [A1 > Grammar > es gibt](/a1/grammar/verbs/es-gibt.md)
+- [](/a1/grammar/cases/akkusativ.md)
+- [](/a1/grammar/verbs/es-gibt.md)

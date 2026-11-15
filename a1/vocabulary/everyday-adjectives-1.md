@@ -125,6 +125,6 @@ Die Familie ist wichtig.
 
 ## Related articles
 
-- [A1 > Grammar > Predicate Adjectives](/a1/grammar/adjectives/praedikative-adjektive.md)
-- [A1 > Grammar > gern, lieber, am liebsten](/a1/grammar/adjectives/gern-lieber.md)
-- [Everyday verbs](/a1/vocabulary/everyday-verbs-1.md)
+- [](/a1/grammar/adjectives/praedikative-adjektive.md)
+- [](/a1/grammar/adjectives/gern-lieber.md)
+- [](/a1/vocabulary/everyday-verbs-1.md)

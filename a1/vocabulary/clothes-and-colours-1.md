@@ -105,6 +105,6 @@ Mein Kleid ist alt, aber schön.
 
 ## Related articles
 
-- [A1 > Grammar > Separable Verbs](/a1/grammar/verbs/trennbare-verben.md)
-- [In the supermarket](/a1/vocabulary/in-the-supermarket-1.md)
-- [Shop and pay](/a1/how-to/shop-and-pay.md)
+- [](/a1/grammar/verbs/trennbare-verben.md)
+- [](/a1/vocabulary/in-the-supermarket-1.md)
+- [](/a1/how-to/shop-and-pay.md)

@@ -31,8 +31,6 @@ All four connectors in this article use the same base structure: connector + inf
 | **anstatt ... zu** + Infinitiv | alternative (more formal) | anstatt nur **zu kritisieren** |
 | **statt ... zu** + Infinitiv | alternative (neutral/shorter) | statt passiv **zu warten** |
 
-**Examples:**
-
 :::{div} ol-examples
 Sie öffnete die Datei, **um** die Zahlen sofort **zu prüfen**.
 : She opened the file to check the numbers immediately.
@@ -62,8 +60,6 @@ Use the following link to practice this section.
 Use **um ... zu** when you want to show intention or purpose. The action in the main clause is done with a clear goal in mind.
 
 > **um** + (optional objects/adverbials) + **zu + Infinitiv**
-
-**Examples:**
 
 :::{div} ol-examples
 Wir haben die Sitzung vorgezogen, **um** schneller eine Entscheidung **zu treffen**.
@@ -98,8 +94,6 @@ Use **ohne ... zu** to show that a second action did not happen while the first 
 | missing parallel action | without doing ... |
 | implicit criticism/limitation | without even ... |
 
-**Examples:**
-
 :::{div} ol-examples
 Er hat den Bericht veröffentlicht, **ohne** ihn vorher gründlich **zu prüfen**.
 : He published the report without checking it thoroughly first.
@@ -132,8 +126,6 @@ Both **anstatt ... zu** and **statt ... zu** introduce an alternative: one path 
 |---|---|
 | {stack}`anstatt ... zu \| instead of doing ...` | slightly more formal/explicit |
 | {stack}`statt ... zu \| instead of doing ...` | shorter, very common in speech |
-
-**Examples:**
 
 :::{div} ol-examples
 **Anstatt** neue Schuldige **zu suchen**, sollten wir den Prozess verbessern.
@@ -196,9 +188,9 @@ Click the link below to practice everything from this page with an interactive t
 
 ## Related articles
 
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Grammar > Negation](/b2/grammar/negation.md)
-- [B1 > Grammar > Infinitiv mit „zu"](/b1/grammar/infinitiv-mit-zu.md)
-- [B1 > How to > Talk about goals and purpose](/b1/how-to/talk-about-goals-and-purpose.md)
-- [B2 > Grammar > Das Wort es](/b2/grammar/das-wort-es.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b2/grammar/zweiteilige-konnektoren.md)
+- [](/b2/grammar/negation.md)
+- [](/b1/grammar/infinitiv-mit-zu.md) {level}`B1`
+- [](/b1/how-to/talk-about-goals-and-purpose.md) {level}`B1`
+- [](/b2/grammar/das-wort-es.md)

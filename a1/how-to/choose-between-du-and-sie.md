@@ -16,17 +16,17 @@ That choice is a social signal, and native speakers notice it. *Du* goes to frie
 
 ## When to use it
 
-**Formal:**
+*Sie* is the safe choice when:
 
-- Meeting an adult you do not know
-- Speaking to officials, shop staff, doctors, or older neighbours
-- Any workplace or business setting
+- meeting an adult for the first time
+- speaking to officials, shop staff, doctors or older neighbours
+- working, or doing business
 
-**Informal:**
+*du* is normal with:
 
-- Talking with friends and family
-- Speaking to children
-- Fellow students, and usually people your own age in relaxed settings
+- friends and family
+- children
+- fellow students, and usually people of the same age in relaxed settings
 
 ## Key phrases
 
@@ -48,8 +48,6 @@ That choice is a social signal, and native speakers notice it. *Du* goes to frie
 ## Two ways to say "you"
 
 The same question changes shape depending on which *you* you choose. The meaning is identical; only the level of formality differs. In formal settings people also use *Herr* or *Frau* with a surname, while informal settings use first names.
-
-**Examples:**
 
 :::{div} ol-examples
 Woher kommst du?
@@ -155,4 +153,4 @@ Komm, wir duzen uns!
 
 ## Related articles
 
-- [A1 > Grammar > du, ihr, or Sie](/a1/grammar/pronouns/anredeformen.md)
+- [](/a1/grammar/pronouns/anredeformen.md)

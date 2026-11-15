@@ -17,7 +17,7 @@ A modal verb adds a meaning to a second {term}`verb`, which stands at the very e
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)
+- [](/a1/grammar/verbs/koennen-muessen-wollen.md)
 :::
 
 ## The forms
@@ -37,8 +37,6 @@ Before reading this article, make sure you are comfortable with:
 
 *Darf ich ...?* is the standard way to ask permission. The negative *darf nicht* means something is forbidden, which is stronger than English "may not" suggests.
 
-**Examples:**
-
 :::{div} ol-examples
 {verb}`Darf` ich hier **parken**?
 : May I park here?
@@ -53,8 +51,6 @@ Die Kinder {verb}`dürfen` heute Abend **fernsehen**.
 ## *sollen*: what someone else wants
 
 *Sollen* reports an instruction or expectation from outside: the doctor, the boss, your grandmother. As a question, *Soll ich ...?* offers help.
-
-**Examples:**
 
 :::{div} ol-examples
 Der Arzt sagt, ich {verb}`soll` viel **schlafen**.
@@ -166,4 +162,4 @@ Du darfst das Eis essen.
 
 ## Related articles
 
-- [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)
+- [](/a1/grammar/sentence-structure/satzklammer.md)

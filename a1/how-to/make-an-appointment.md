@@ -43,8 +43,6 @@ Making appointments in German follows a short pattern. A day and a time go on th
 
 Two openers do most of the work: *Hast du ... Zeit?* with a day, and *Wollen wir ...?* with a plan. At an office, lead with *Ich möchte einen Termin machen.*
 
-**Examples:**
-
 :::{div} ol-examples
 Hast du am Freitag Zeit?
 : Do you have time on Friday?
@@ -60,8 +58,6 @@ Können Sie am Montag kommen?
 
 *Passt dir ...?* and *Geht es um ...?* check a specific slot. Accept with *Das passt gut*, decline with *leider* and a reason, then offer an alternative.
 
-**Examples:**
-
 :::{div} ol-examples
 Passt {dativ}`Ihnen` vierzehn Uhr?
 : Does two o'clock suit you?
@@ -74,8 +70,6 @@ Ich kann erst am Abend.
 :::
 
 Repeat the slot, agree on a place, and close with a *bis* phrase: the appointment is made.
-
-**Examples:**
 
 :::{div} ol-examples
 Der Termin ist am Donnerstag um neun.
@@ -179,5 +173,5 @@ Können Sie am Montag kommen?
 
 ## Related articles
 
-- [Tell the time and day](/a1/how-to/tell-the-time-and-day.md)
-- [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)
+- [](/a1/how-to/tell-the-time-and-day.md)
+- [](/a1/grammar/verbs/koennen-muessen-wollen.md)

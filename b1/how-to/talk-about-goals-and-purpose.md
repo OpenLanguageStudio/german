@@ -48,6 +48,6 @@ um ... zu is concise; damit sounds a bit more formal and flexible.
 
 ## Related articles
 
-- [B1 > Grammar > Konsekutiv Nebensätze](/b1/grammar/konsekutiv-nebensaetze.md)
-- [B1 > Grammar > brauchen + zu + Infinitiv](/b1/grammar/brauchen-zu-infinitiv.md)
-- [B1 > Grammar > Infinitiv mit "zu"](/b1/grammar/infinitiv-mit-zu.md)
+- [](/b1/grammar/konsekutiv-nebensaetze.md)
+- [](/b1/grammar/brauchen-zu-infinitiv.md)
+- [](/b1/grammar/infinitiv-mit-zu.md)

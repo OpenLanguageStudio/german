@@ -24,8 +24,6 @@ German splits "where" by direction: *wo* asks about a location, *wohin* about a 
 | {stack}`wohin \| where to` | Wohin gehst du? |
 | {stack}`woher \| where from` | Woher kommst du? |
 
-**Examples:**
-
 :::{div} ol-examples
 Wo ist der Bahnhof?
 : Where is the train station?
@@ -41,8 +39,6 @@ Woher kommt deine Familie?
 
 *Wann* asks for a point in time, *warum* for a reason.
 
-**Examples:**
-
 :::{div} ol-examples
 Wann beginnt der Kurs?
 : When does the course start?
@@ -54,8 +50,6 @@ Warum bist du müde?
 ## Manner and measure: *wie* and friends
 
 Alone, *wie* asks "how". Combined with another word it measures things: *wie viel* (how much), *wie lange* (how long), *wie alt* (how old), *wie oft* (how often).
-
-**Examples:**
 
 :::{div} ol-examples
 Wie komme ich zum Bahnhof?
@@ -160,4 +154,4 @@ Warum kommt er nicht?
 
 ## Related articles
 
-- [A1 > Grammar > Yes/No Questions and W-Questions](/a1/grammar/sentence-structure/fragen.md)
+- [](/a1/grammar/sentence-structure/fragen.md)

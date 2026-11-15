@@ -2,7 +2,7 @@
 menu_hidden: true
 html_theme.sidebar_secondary.remove:
 ---
-# Question Words
+# Question words
 
 The W-words themselves: the question pronouns *wer*, *wen*, *wem*, and *was*, and the question words for circumstances *wo*, *wann*, *wie*, and *warum*. How to build a question sentence lives in Sentence Building.
 

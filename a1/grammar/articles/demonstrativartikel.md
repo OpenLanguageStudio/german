@@ -17,7 +17,7 @@ The demonstrative article *dieser* means *this*, and it points at one particular
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > Definite Articles](/a1/grammar/articles/bestimmter-artikel.md)
+- [](/a1/grammar/articles/bestimmter-artikel.md)
 :::
 
 ## The forms: like *der*, *die*, *das*
@@ -28,8 +28,6 @@ Before reading this article, make sure you are comfortable with:
 | Accusative | dies**en** | dies**e** | dies**es** | dies**e** |
 
 The endings follow the definite article: *de**r*** gives diese**r**, *da**s*** gives diese**s**, and in the {term}`accusative <accusative case>` *de**n*** gives diese**n**.
-
-**Examples:**
 
 :::{div} ol-examples
 {article}`Dieser` Käse ist sehr gut.
@@ -45,8 +43,6 @@ Ich nehme {akk}`diesen` Kuchen.
 ## When to use *dieser*
 
 *Dieser* singles out one thing among others, typically while pointing, choosing, or comparing. It comes up constantly when shopping.
-
-**Examples:**
 
 :::{div} ol-examples
 Was kostet {article}`diese` Jacke?

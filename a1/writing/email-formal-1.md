@@ -94,5 +94,5 @@ The formal frame, ready to reuse with any request:
 
 ## Related articles
 
-- [Make and answer requests](/a1/how-to/make-and-answer-requests.md)
-- [A1 > Grammar > du, ihr, or Sie](/a1/grammar/pronouns/anredeformen.md)
+- [](/a1/how-to/make-and-answer-requests.md)
+- [](/a1/grammar/pronouns/anredeformen.md)

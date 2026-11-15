@@ -43,8 +43,6 @@ A chunk is a short group of words learned as one piece. Each chunk here pairs a 
 
 These work as whole chunks, each with a preposition and the dative article.
 
-**Examples:**
-
 :::{div} ol-examples
 Der Schlüssel ist auf dem Tisch.
 : The key is on the table.
@@ -58,8 +56,6 @@ Die Katze ist unter dem Tisch.
 
 The same pattern says where someone is: *im Büro, in der Küche, im Supermarkt*.
 
-**Examples:**
-
 :::{div} ol-examples
 Er ist im Büro.
 : He is in the office.
@@ -71,8 +67,6 @@ Wir sind in der Küche.
 ## Around the neighbourhood
 
 For places in town, add the direction words and two useful distance phrases: *in der Nähe* (nearby) and *nicht weit* (not far).
-
-**Examples:**
 
 :::{div} ol-examples
 Die Toilette ist links.
@@ -177,5 +171,5 @@ Oben ist das Schlafzimmer.
 
 ## Related articles
 
-- [A1 > Grammar > es gibt](/a1/grammar/verbs/es-gibt.md)
-- [A1 > Grammar > Local Prepositions with Dative](/a1/grammar/prepositions/lokale-praepositionen-dativ.md)
+- [](/a1/grammar/verbs/es-gibt.md)
+- [](/a1/grammar/prepositions/lokale-praepositionen-dativ.md)

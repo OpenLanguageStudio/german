@@ -264,7 +264,7 @@ They can also appear after the subject within the clause, but the clause-initial
 
 ## Related articles
 
-- [B1 > Grammar > Kausal Nebensätze](/b1/grammar/kausal-nebensaetze.md)
-- [B1 > Grammar > Sätze mit je ..., desto/umso ...](/b1/grammar/je-desto.md)
-- [B1 > Grammar > Negation](/b1/grammar/negation.md)
-- [B1 > Grammar > Temporal Nebensätze](/b1/grammar/temporal-nebensaetze.md)
+- [](/b1/grammar/kausal-nebensaetze.md)
+- [](/b1/grammar/je-desto.md)
+- [](/b1/grammar/negation.md)
+- [](/b1/grammar/temporal-nebensaetze.md)

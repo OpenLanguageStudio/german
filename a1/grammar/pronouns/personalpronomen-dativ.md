@@ -17,8 +17,8 @@ The dative is the case for the person who receives something or benefits from it
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > Personal Pronouns: Accusative](/a1/grammar/pronouns/personalpronomen-akkusativ.md)
-- [A1 > Grammar > Verbs with the Dative](/a1/grammar/verbs/verben-mit-dativ.md)
+- [](/a1/grammar/pronouns/personalpronomen-akkusativ.md)
+- [](/a1/grammar/verbs/verben-mit-dativ.md)
 :::
 
 ## The forms (for reference)
@@ -39,8 +39,6 @@ Before reading this article, make sure you are comfortable with:
 
 Four families of fixed expressions carry the A1 dative {term}`pronouns <pronoun>`:
 
-**Examples:**
-
 :::{div} ol-examples
 Wie geht es {dativ}`dir`? {dativ}`Mir` geht es gut.
 : How are you? I am fine.
@@ -55,8 +53,6 @@ Das gefällt {dativ}`mir`. Das gehört {dativ}`mir`.
 ## The same chunks for other people
 
 The chunks change with the person: *Wie geht es ihm? Es geht ihnen gut. Kannst du uns helfen?*
-
-**Examples:**
 
 :::{div} ol-examples
 Wie geht es {dativ}`ihm`?
@@ -158,5 +154,5 @@ Ich danke Ihnen.
 
 ## Related articles
 
-- [A1 > Grammar > Verbs with the Dative](/a1/grammar/verbs/verben-mit-dativ.md)
-- [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
+- [](/a1/grammar/verbs/verben-mit-dativ.md)
+- [](/a1/grammar/cases/dativ.md)

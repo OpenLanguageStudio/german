@@ -237,5 +237,5 @@ Der Chef spricht mit dem Praktikanten.
 
 ## Related articles
 
-- [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)
-- [B1 > Grammar > Adjektive als Nomen](/b1/grammar/adjektive-als-nomen.md)
+- [](/b1/grammar/genitiv.md)
+- [](/b1/grammar/adjektive-als-nomen.md)

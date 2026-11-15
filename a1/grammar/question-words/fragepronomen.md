@@ -17,7 +17,7 @@ The {term}`question word` takes the case of the person in the answer, so questio
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > The Three Cases Compared](/a1/grammar/cases/kasus-ueberblick.md)
+- [](/a1/grammar/cases/kasus-ueberblick.md)
 :::
 
 ## People: *wer*, *wen*, *wem*
@@ -29,8 +29,6 @@ Before reading this article, make sure you are comfortable with:
 | Dative | wem | the receiver | Wem gehört das? |
 
 The pronoun matches the case of the expected answer: *Wen siehst du? Ich sehe **den Lehrer**.* Question and answer wear the same case.
-
-**Examples:**
 
 :::{div} ol-examples
 {subj}`Wer` möchte Kaffee?
@@ -48,8 +46,6 @@ At A1, *wem* mostly goes with {term}`dative <dative case>` {term}`verbs <verb>` 
 ## Things: *was*
 
 *Was* covers "what" as both subject and object; it has no separate {term}`accusative <accusative case>` form.
-
-**Examples:**
 
 :::{div} ol-examples
 {subj}`Was` ist das?
@@ -151,5 +147,5 @@ Was suchst du?
 
 ## Related articles
 
-- [A1 > Grammar > Yes/No Questions and W-Questions](/a1/grammar/sentence-structure/fragen.md)
-- [A1 > Grammar > The Three Cases Compared](/a1/grammar/cases/kasus-ueberblick.md)
+- [](/a1/grammar/sentence-structure/fragen.md)
+- [](/a1/grammar/cases/kasus-ueberblick.md)

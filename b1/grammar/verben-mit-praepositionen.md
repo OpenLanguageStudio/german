@@ -186,7 +186,7 @@ Only shorten to a zu-infinitive when the same person or thing is responsible for
 
 ## Related articles
 
-- [B1 > Grammar > Pronominaladverbien](/b1/grammar/pronominaladverbien.md)
-- [A2 > Grammar > Verben mit Präposition](/a2/grammar/prepositions/verben-mit-praeposition.md)
-- [A2 > Grammar > W-Fragen mit Präposition](/a2/grammar/prepositions/w-fragen-mit-praeposition.md)
-- [A2 > Grammar > Nebensaetze](/a2/grammar/sub-clauses/index.md)
+- [](/b1/grammar/pronominaladverbien.md)
+- [](/a2/grammar/prepositions/verben-mit-praeposition.md) {level}`A2`
+- [](/a2/grammar/prepositions/w-fragen-mit-praeposition.md) {level}`A2`
+- [](/a2/grammar/sub-clauses/index.md) {level}`A2`

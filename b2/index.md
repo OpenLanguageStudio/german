@@ -24,11 +24,39 @@ B2 turns correct German into precise German. It starts from a secure B1 and adds
 
 ```{toctree}
 :maxdepth: 2
+:hidden:
 
 how-to/index
 grammar/index
 vocabulary/index
 ```
+
+## Categories
+
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item-card} How to
+:link: how-to/index
+:link-type: doc
+
+Everyday tasks, one per page, such as greeting someone or asking the way.
+:::
+
+:::{grid-item-card} Grammar
+:link: grammar/index
+:link-type: doc
+
+How the language is built, one topic per page.
+:::
+
+:::{grid-item-card} Vocabulary
+:link: vocabulary/index
+:link-type: doc
+
+Word packs on one theme, each word heard in a sentence.
+:::
+::::
 
 ## Additional reading
 

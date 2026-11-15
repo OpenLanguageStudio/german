@@ -31,8 +31,6 @@ Like the {term}`modals <modal verb>`, the *ich* and *er* forms match.
 
 Everything *sein* does in the present, *war* does in the past: places, descriptions, states.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich {verb}`war` gestern im Kino.
 : I was at the cinema yesterday.
@@ -47,8 +45,6 @@ Das Wetter {verb}`war` schön.
 ## *hatte*: possession and chunks
 
 *Hatte* covers past possession and all the haben-chunks: *Zeit, Hunger, Fieber, Spaß*.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich {verb}`hatte` keine Zeit.
@@ -154,4 +150,4 @@ Früher hatte ich einen Hund.
 
 ## Related articles
 
-- [A1 > Grammar > sein und haben](/a1/grammar/verbs/sein-und-haben.md)
+- [](/a1/grammar/verbs/sein-und-haben.md)

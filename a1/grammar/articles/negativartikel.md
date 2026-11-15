@@ -17,7 +17,7 @@ The negative article *kein* {term}`negates <negation>` a {term}`noun` in German,
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > Indefinite Articles](/a1/grammar/articles/unbestimmter-artikel.md)
+- [](/a1/grammar/articles/unbestimmter-artikel.md)
 :::
 
 ## The forms: *kein*, *keine*
@@ -27,8 +27,6 @@ Before reading this article, make sure you are comfortable with:
 | Negative article | **kein** | **keine** | **kein** | **keine** |
 
 The endings mirror *ein/eine*, but unlike *ein*, kein has a plural: *keine*.
-
-**Examples:**
 
 :::{div} ol-examples
 Das ist {article}`kein` Bahnhof.
@@ -50,8 +48,6 @@ The same {term}`accusative <accusative case>` pattern as *ein*: only the masculi
 | Nominative | kein | keine | kein | keine |
 | Accusative | **keinen** | keine | kein | keine |
 
-**Examples:**
-
 :::{div} ol-examples
 Ich habe {akk}`keinen` Hunger.
 : I'm not hungry. (literally: I have no hunger)
@@ -70,8 +66,6 @@ Some very common chunks with accusative *kein*: *keinen Hunger*, *keinen Durst*,
 ## *kein* and *nicht* compared
 
 **Kein** negates nouns (wherever you could say *ein*, or where there is no article at all). **Nicht** negates everything else: verbs, adjectives, and specific known things.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich habe {article}`kein` Auto.
@@ -183,4 +177,4 @@ Wir haben keinen Zucker mehr.
 
 ## Related articles
 
-- [A1 > Grammar > Negation: nicht und kein](/a1/grammar/sentence-structure/negation.md)
+- [](/a1/grammar/sentence-structure/negation.md)

@@ -29,8 +29,6 @@ In standard German, {conj}`wie` is used for equality and {conj}`als` for inequal
 | Equality | so/genauso + Positiv + {conj}`wie` | Die zweite Lösung ist genauso praktikabel wie die erste. |
 | Inequality | Komparativ + {conj}`als` | Die zweite Lösung ist praktikabler als die erste. |
 
-**Examples:**
-
 :::{div} ol-examples
 Ihr Bericht ist **genauso präzise wie** der Bericht aus der Rechtsabteilung.
 : Her report is just as precise as the report from the legal department.
@@ -63,8 +61,6 @@ Use the following link to practice this section.
 Use this structure when two things are presented as equivalent in one feature. You can scale tone with modifiers like *fast so ... wie*, *annähernd so ... wie*, or *nicht ganz so ... wie*.
 
 > (fast/annähernd/genau) so + Adjektiv/Adverb (Positiv) + {conj}`wie` + Vergleichspunkt
-
-**Examples:**
 
 :::{div} ol-examples
 Die neue Software ist **genauso stabil wie** die alte Version.
@@ -102,8 +98,6 @@ This group covers different types of difference: **Komparativ + als** for measur
 | Degree comparison | Komparativ + {conj}`als` | One side has more/less of a feature |
 | Difference in type/manner | anders + {conj}`als` | Not in the same way/form |
 | Strong re-framing | etwas/nichts anderes + {conj}`als` | "nothing other than..." style evaluation |
-
-**Examples:**
 
 :::{div} ol-examples
 Die aktuelle Lösung ist **robuster als** die frühere Version.
@@ -145,8 +139,6 @@ Use this structure to show proportional change: when one factor changes, another
 | --- | --- | --- |
 | Je ..., desto ... | proportional relation | Je klarer die Ziele sind, desto schneller arbeitet das Team. |
 | Je ..., umso ... | same meaning, slightly stylistic variant | Je besser wir dokumentieren, umso leichter lassen sich Fehler finden. |
-
-**Examples:**
 
 :::{div} ol-examples
 **Je klarer** wir kommunizieren, **desto weniger** Missverständnisse entstehen.
@@ -209,10 +201,10 @@ Use the link below to practice the full topic interactively.
 
 ## Related articles
 
-- [B2 > Grammar > Irreale Vergleichssätze mit als, als ob, als wenn](/b2/grammar/irreale-vergleichssaetze.md)
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B1 > Grammar > Sätze mit je ..., desto/umso ...](/b1/grammar/je-desto.md)
-- [A2 > Grammar > Vergleiche mit als und wie](/a2/grammar/adjectives/vergleiche-als-wie.md)
-- [B2 > Grammar > Konnektor während](/b2/grammar/konnektor-waehrend.md)
-- [B2 > Grammar > Modalsätze](/b2/grammar/modalsaetze.md)
-- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
+- [](/b2/grammar/irreale-vergleichssaetze.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b1/grammar/je-desto.md) {level}`B1`
+- [](/a2/grammar/adjectives/vergleiche-als-wie.md) {level}`A2`
+- [](/b2/grammar/konnektor-waehrend.md)
+- [](/b2/grammar/modalsaetze.md)
+- [](/b2/grammar/zweiteilige-konnektoren.md)

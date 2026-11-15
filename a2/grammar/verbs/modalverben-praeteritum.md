@@ -348,5 +348,5 @@ Solltest du nicht arbeiten heute?
 
 ## Related articles
 
-- [A2 > Grammar > als und wenn - Unterschied](/a2/grammar/sub-clauses/nebensatz-als-wenn.md)
-- [A2 > How to > Ask, wish and advise politely](/a2/how-to/ask-wish-and-advise-politely.md)
+- [](/a2/grammar/sub-clauses/nebensatz-als-wenn.md)
+- [](/a2/how-to/ask-wish-and-advise-politely.md)

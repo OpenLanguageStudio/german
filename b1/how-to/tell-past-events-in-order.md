@@ -53,6 +53,6 @@ Use Plusquamperfekt to mark the earlier of two past actions when needed.
 
 ## Related articles
 
-- [B1 > Grammar > Plusquamperfekt (Past Perfect)](/b1/grammar/plusquamperfekt.md)
-- [B1 > Grammar > Zeitangaben – Präpositionen](/b1/grammar/zeitangaben-praepositionen.md)
-- [B1 > Grammar > Temporal Nebensätze](/b1/grammar/temporal-nebensaetze.md)
+- [](/b1/grammar/plusquamperfekt.md)
+- [](/b1/grammar/zeitangaben-praepositionen.md)
+- [](/b1/grammar/temporal-nebensaetze.md)

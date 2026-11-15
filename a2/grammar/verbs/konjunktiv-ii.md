@@ -44,8 +44,6 @@ Use *sollte* when you want to give advice, a recommendation, or a gentle reminde
 
 > Subject + **sollte/solltest/sollten...** + ... + infinitive (at the end)
 
-**Examples:**
-
 :::{div} ol-examples
 Du {verb}`solltest` heute früher schlafen {verb}`gehen`.
 : You should go to sleep earlier today.
@@ -103,8 +101,6 @@ Use *könnte* when you ask someone to do something politely. You often add *bitt
 
 > **Könnte/Könntest/Könnten ...?** + ... + infinitive (at the end)
 
-**Examples:**
-
 :::{div} ol-examples
 {verb}`Könntest` du mir bitte kurz {verb}`helfen`?
 : Could you help me for a moment, please.
@@ -145,8 +141,6 @@ Both forms are polite, but they do different jobs. Use *sollte* when you give ad
 | You ask for help politely | **könnte** | **Könntest** du mir helfen? |
 | You suggest a practical step | **sollte** | Wir **sollten** jetzt losfahren. |
 | You ask in a formal setting | **könnte** | **Könnten** Sie das wiederholen? |
-
-**Examples:**
 
 :::{div} ol-examples
 Du {verb}`solltest` heute zu Hause {verb}`bleiben`.
@@ -399,4 +393,4 @@ Könnte ich bitte bezahlen?
 
 ## Related articles
 
-- [A2 > How to > Ask, wish and advise politely](/a2/how-to/ask-wish-and-advise-politely.md)
+- [](/a2/how-to/ask-wish-and-advise-politely.md)

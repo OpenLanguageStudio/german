@@ -405,5 +405,5 @@ Sie läuft den Strand entlang und macht Fotos.
 
 ## Related articles
 
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
+- [](/a2/grammar/cases/dativ.md)
+- [](/a2/grammar/cases/akkusativ.md)

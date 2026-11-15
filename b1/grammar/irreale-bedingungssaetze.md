@@ -182,5 +182,5 @@ Ich würde dir schreiben, wenn ich deine Adresse wüsste.
 
 ## Related articles
 
-- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
-- [B1 > How to > Talk about imagined situations](/b1/how-to/talk-about-imagined-situations.md)
+- [](/b1/grammar/konjunktiv-ii.md)
+- [](/b1/how-to/talk-about-imagined-situations.md)

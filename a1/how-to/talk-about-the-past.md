@@ -42,8 +42,6 @@ myst:
 
 The past of *sein* and *haben* comes in single words: *ich war* (I was), *ich hatte* (I had). These two cover most of a weekend.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich {verb}`war` gestern im Kino.
 : I was at the cinema yesterday.
@@ -59,8 +57,6 @@ Das Essen {verb}`war` lecker.
 
 Actions use a two-part pattern: *haben* in position 2, a *ge-* form at the end. These five work as whole chunks: *gemacht* (did), *gesehen* (watched), *gegessen* (ate), *gekauft* (bought), *gespielt* (played). {term}`Modal verbs <modal verb>` have the same two-part shape.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich {verb}`habe` Fußball **gespielt**.
 : I played football.
@@ -75,8 +71,6 @@ Was {verb}`hast` du gestern **gemacht**?
 The system behind these forms has its own grammar article.
 
 *Gestern* (yesterday), *letzte Woche* (last week), *letztes Jahr* (last year), *am Samstag*: put one of these first and the {term}`verb` stays second, as always.
-
-**Examples:**
 
 :::{div} ol-examples
 Letzte Woche {verb}`war` ich krank.
@@ -178,5 +172,5 @@ Wo warst du gestern?
 
 ## Related articles
 
-- [A1 > Grammar > war and hatte](/a1/grammar/tenses/praeteritum-sein-haben.md)
-- [A1 > Grammar > The Perfekt Tense](/a1/grammar/tenses/perfekt.md)
+- [](/a1/grammar/tenses/praeteritum-sein-haben.md)
+- [](/a1/grammar/tenses/perfekt.md)

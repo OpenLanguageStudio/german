@@ -27,8 +27,6 @@ It is the most useful {term}`verb` for ordering and shopping. The forms for *ich
 
 Note *ich möchte* and *er möchte* are identical, both without the usual -t on the er-form.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich {verb}`möchte` {akk}`einen Kaffee`, bitte.
 : I would like a coffee, please.
@@ -43,8 +41,6 @@ Das Kind {verb}`möchte` ein Eis.
 ## With a second verb: the bracket
 
 *Möchten* can carry a whole planned action. Then the second verb goes to the very end of the sentence, in the infinitive, and everything else sits between the two verbs. This two-part frame is the German sentence bracket.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich {verb}`möchte` bezahlen.
@@ -156,5 +152,5 @@ Er möchte eine Pause machen.
 
 ## Related articles
 
-- [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)
-- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
+- [](/a1/grammar/sentence-structure/satzklammer.md)
+- [](/a1/grammar/cases/akkusativ.md)

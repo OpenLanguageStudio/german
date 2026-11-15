@@ -32,8 +32,6 @@ For everything else, the article has to be learned with the noun. *Der Tisch*, n
 
 German capitalises every noun, everywhere in the sentence, not only names. This is useful when reading: any capitalised word in the middle of a sentence is a noun.
 
-**Examples:**
-
 :::{div} ol-examples
 Der {noun}`Mann` kauft {noun}`Brot` und {noun}`Käse`.
 : The man buys bread and cheese.
@@ -53,8 +51,6 @@ The plural article is always **die**. The noun itself changes in one of a handfu
 | -er (often with umlaut) | das Kind, das Buch | die Kinder, die Bücher |
 | -s | das Auto | die Autos |
 | no ending (often with umlaut) | das Zimmer, der Apfel | die Zimmer, die Äpfel |
-
-**Examples:**
 
 :::{div} ol-examples
 Der Apfel ist rot. Die **Äpfel** sind rot.
@@ -167,6 +163,6 @@ Die Männer arbeiten heute.
 
 ## Related articles
 
-- [A1 > Grammar > Definite Articles](/a1/grammar/articles/bestimmter-artikel.md)
-- [A1 > Grammar > Indefinite Articles](/a1/grammar/articles/unbestimmter-artikel.md)
-- [A1 > Grammar > The Zero Article](/a1/grammar/articles/nullartikel.md)
+- [](/a1/grammar/articles/bestimmter-artikel.md)
+- [](/a1/grammar/articles/unbestimmter-artikel.md)
+- [](/a1/grammar/articles/nullartikel.md)

@@ -49,6 +49,6 @@ Use würde + Infinitiv for many verbs; use K2 forms of sein/haben/modal verbs of
 
 ## Related articles
 
-- [B1 > Grammar > Irreale Bedingungssätze](/b1/grammar/irreale-bedingungssaetze.md)
-- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
-- [B1 > Grammar > Plusquamperfekt (Past Perfect)](/b1/grammar/plusquamperfekt.md)
+- [](/b1/grammar/irreale-bedingungssaetze.md)
+- [](/b1/grammar/konjunktiv-ii.md)
+- [](/b1/grammar/plusquamperfekt.md)

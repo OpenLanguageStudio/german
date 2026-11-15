@@ -42,8 +42,6 @@ The other forms follow the regular pattern.
 | ihr | **werdet** |
 | sie / Sie | **werden** |
 
-**Examples:**
-
 :::{div} ol-examples
 Ich {verb}`werde` heute schnell müde.
 : I get tired quickly today.
@@ -328,4 +326,4 @@ Wird deine Schwester auch Lehrerin?
 
 ## Related articles
 
-- [A2 > Grammar > Adjektivendungen](/a2/grammar/adjectives/adjektivendungen.md)
+- [](/a2/grammar/adjectives/adjektivendungen.md)

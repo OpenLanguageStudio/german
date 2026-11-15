@@ -39,8 +39,6 @@ After these prepositions the articles change like this:
 
 *Kein* and the possessives take the same endings: *keinem, keiner, keinem, keinen*; *meinem, meiner, meinem, meinen*. In the dative {term}`plural` the noun itself also adds **-n**: *bei meinen Elter**n***.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich fahre mit {dativ}`dem Bus`.
 : I go by bus.
@@ -59,8 +57,6 @@ Ich lerne seit {dativ}`einem Jahr` Deutsch.
 ## Everyday chunks
 
 A few fixed phrases use dative {term}`pronouns <pronoun>` at A1, and they work as whole chunks:
-
-**Examples:**
 
 :::{div} ol-examples
 Wie geht es {dativ}`dir`?
@@ -173,4 +169,4 @@ Sie spricht mit der Lehrerin.
 
 ## Related articles
 
-- [A1 > Grammar > Local Prepositions with Dative](/a1/grammar/prepositions/lokale-praepositionen-dativ.md)
+- [](/a1/grammar/prepositions/lokale-praepositionen-dativ.md)

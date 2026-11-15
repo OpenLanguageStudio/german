@@ -276,7 +276,7 @@ Eine kurze Rückmeldung würde helfen.
 
 ## Related articles
 
-- [A2 > Grammar > Konjunktiv II](/a2/grammar/verbs/konjunktiv-ii.md)
-- [A2 > How to > Ask, wish and advise politely](/a2/how-to/ask-wish-and-advise-politely.md)
-- [B1 > How to > Talk about imagined situations](/b1/how-to/talk-about-imagined-situations.md)
-- [B1 > Grammar > Irreale Bedingungssätze](/b1/grammar/irreale-bedingungssaetze.md)
+- [](/a2/grammar/verbs/konjunktiv-ii.md) {level}`A2`
+- [](/a2/how-to/ask-wish-and-advise-politely.md) {level}`A2`
+- [](/b1/how-to/talk-about-imagined-situations.md)
+- [](/b1/grammar/irreale-bedingungssaetze.md)

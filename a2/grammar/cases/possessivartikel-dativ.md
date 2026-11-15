@@ -47,8 +47,6 @@ The next table gives the same forms in full mini-phrases so you can see gender a
 | ihr | mit **eurem Bruder** | mit **eurer Schwester** | mit **eurem Kind** | mit **euren Eltern** |
 | Sie (formal) | mit **Ihrem Bruder** | mit **Ihrer Schwester** | mit **Ihrem Kind** | mit **Ihren Eltern** |
 
-**Examples:**
-
 :::{div} ol-examples
 Ich spreche oft mit **{dativ}`meiner`** Nachbarin.
 : I often talk with my neighbour.
@@ -89,8 +87,6 @@ These eight prepositions always take dative. That means your possessive article 
 | {stack}`nach \| after/to` | nach **unserem** Meeting |
 | {stack}`seit \| since/for` | seit **meinem** Kurs |
 | {stack}`gegenüber \| opposite/across from` | gegenüber **eurem** Haus |
-
-**Examples:**
 
 :::{div} ol-examples
 Ich gehe heute nicht joggen, weil ich seit **{dativ}`meinem`** Termin müde bin.
@@ -134,8 +130,6 @@ You can use this grammar in very normal daily conversations. Below are common co
 | Work | mit + possessive + colleague/boss | mit **unserem Kollegen** |
 | Hobbies | mit + possessive + hobby object | mit **deinem Schläger** |
 | Meetings | nach/seit + possessive + meeting word | nach **ihrem Termin** |
-
-**Examples:**
 
 :::{div} ol-examples
 Am Sonntag essen wir bei **{dativ}`meinen`** Eltern.
@@ -281,4 +275,4 @@ Er spielt oft mit seinen Kindern.
 
 ## Related articles
 
-- [A2 > How to > Ask, wish and advise politely](/a2/how-to/ask-wish-and-advise-politely.md)
+- [](/a2/how-to/ask-wish-and-advise-politely.md)

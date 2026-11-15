@@ -17,7 +17,7 @@ The stem is the part of a {term}`verb` that carries its meaning. The vowel insid
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > Regular Verbs in the Present](/a1/grammar/verbs/regelmassige-verben.md)
+- [](/a1/grammar/verbs/regelmassige-verben.md)
 :::
 
 ## The three vowel changes
@@ -34,8 +34,6 @@ Before reading this article, make sure you are comfortable with:
 
 *Nehmen* changes its consonants as well; learn *nimmst / nimmt* as their own little words. Also in the e → i group: *geben (gibt)* and *helfen (hilft)*.
 
-**Examples:**
-
 :::{div} ol-examples
 Du {verb}`fährst` zu schnell.
 : You are driving too fast.
@@ -50,8 +48,6 @@ Sie {verb}`liest` die Zeitung.
 ## Only two forms change
 
 The vowel change never touches *ich*, *wir*, *ihr*, or *sie/Sie*: *ich fahre, wir fahren, ihr fahrt*. Every other form follows the regular pattern.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich {verb}`spreche` Englisch, und er {verb}`spricht` Spanisch.

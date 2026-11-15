@@ -43,8 +43,6 @@ Both topics run on a few short patterns. Work uses *Ich bin*, *Ich arbeite als* 
 
 Three patterns cover nearly every answer: *Ich bin* + job, *Ich arbeite als* + job, and *Ich arbeite bei* + employer. Jobs take no article, and most have a female form in *-in*: *Lehrer/Lehrerin*.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich bin Ingenieur.
 : I am an engineer.
@@ -61,8 +59,6 @@ Not working right now also has simple answers: *Ich studiere* (I study), *Ich su
 ## Origin with *aus*
 
 *Woher kommst du?* asks for origin; the answer uses *aus* plus a country or city. A few country names carry an article and keep it after *aus*: *aus der Schweiz, aus der Türkei*.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich komme aus Italien.
@@ -170,4 +166,4 @@ Mein Mann ist Bäcker.
 
 ## Related articles
 
-- [A1 > Grammar > The Zero Article](/a1/grammar/articles/nullartikel.md)
+- [](/a1/grammar/articles/nullartikel.md)

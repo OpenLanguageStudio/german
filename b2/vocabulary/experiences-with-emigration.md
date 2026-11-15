@@ -94,5 +94,5 @@ Heute würde ich sagen: Auswandern ist weniger ein Sprung und mehr eine Reihe kl
 
 ## Related articles
 
-- [B2 > Grammar > Two-part connectors](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Grammar > "zu" with infinitive](/b1/grammar/infinitiv-mit-zu.md)
+- [](/b2/grammar/zweiteilige-konnektoren.md)
+- [](/b1/grammar/infinitiv-mit-zu.md)

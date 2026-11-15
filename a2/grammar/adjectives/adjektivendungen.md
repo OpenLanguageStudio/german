@@ -496,7 +496,7 @@ Sie trinkt aus heißer Schokolade Tasse.
 
 ## Related articles
 
-- [A2 > Grammar > Das Verb werden](/a2/grammar/verbs/verb-werden.md)
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > Grammar > Pronomen: alles, etwas, nichts](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md)
+- [](/a2/grammar/verbs/verb-werden.md)
+- [](/a2/grammar/cases/dativ.md)
+- [](/a2/grammar/cases/akkusativ.md)
+- [](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md)

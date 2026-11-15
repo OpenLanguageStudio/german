@@ -33,8 +33,6 @@ Six contract with dative *dem/der*; the last two contract with accusative *das* 
 
 The dative contractions describe where someone is or when something happens.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich bin {prep}`im` Kino.
 : I am at the cinema.
@@ -49,8 +47,6 @@ Ich bin {prep}`am` Bahnhof.
 ## Heading somewhere: *zum*, *zur*, *ins*, *ans*
 
 *Zum* and *zur* aim at people and buildings; *ins* and *ans* go INTO and TO places: *ins Kino, ans Meer*. Compare the pair: *Ich gehe **ins** Kino* (heading there) versus *Ich bin **im** Kino* (already there).
-
-**Examples:**
 
 :::{div} ol-examples
 Ich gehe {prep}`ins` Kino.
