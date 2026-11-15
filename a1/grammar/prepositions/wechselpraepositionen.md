@@ -26,8 +26,6 @@ At A1 these work as chunks, short groups of words learned as one piece. *In* goe
 
 *Im* is *in dem*, and *am* is *an dem*.
 
-**Examples:**
-
 :::{div} ol-examples
 Wir sind {prep}`in` der Stadt.
 : We are in town.
@@ -42,8 +40,6 @@ Sie wartet {prep}`an` der Haltestelle.
 ## Using them in sentences
 
 Location chunks fit any sentence pattern: with *sein*, with activity {term}`verbs <verb>`, or up front with inversion.
-
-**Examples:**
 
 :::{div} ol-examples
 Wir essen {prep}`im` Restaurant.

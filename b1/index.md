@@ -25,10 +25,31 @@ B1 is the first independent level. It starts from a secure A2 and builds the gra
 
 ```{toctree}
 :maxdepth: 2
+:hidden:
 
 how-to/index
 grammar/index
 ```
+
+## Categories
+
+::::{grid} 1 1 2 2
+:gutter: 3
+
+:::{grid-item-card} How to
+:link: how-to/index
+:link-type: doc
+
+Everyday tasks, one per page, such as greeting someone or asking the way.
+:::
+
+:::{grid-item-card} Grammar
+:link: grammar/index
+:link-type: doc
+
+How the language is built, one topic per page.
+:::
+::::
 
 ## Additional reading
 

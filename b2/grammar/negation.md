@@ -30,8 +30,6 @@ These prefixes often appear in formal or academic vocabulary. They can express a
 | **dis-** | separation, mismatch, loss of validity | disqualifizieren, diskontinuierlich |
 | **miss-** | wrong execution or harmful use | missverstehen, missbrauchen |
 
-**Examples:**
-
 :::{div} ol-examples
 Nach dem Nachtflug war ich völlig **des**orientiert.
 : After the night flight, I was completely disoriented.
@@ -72,8 +70,6 @@ These forms are very common at B2 because they appear in abstract adjectives and
 | **in- / il- / ir-** | mainly with international adjectives | inaktiv, illegal, irrelevant |
 | **a-** | mostly in learned/technical words | asymmetrisch, atypisch |
 | **non-** | explicit classificatory negation | nonverbal, Nonstopflug |
-
-**Examples:**
 
 :::{div} ol-examples
 Die neue Regel ist für viele Mitarbeitende **un**klar.
@@ -118,8 +114,6 @@ German also creates negative meaning through suffixes and compounds. This is ver
 | {stack}`-frei \| free from, without (often neutral/positive)` | zuckerfrei, alkoholfrei |
 | {stack}`-leer \| empty of, lacking content/substance` | sinnleer, inhaltsleer |
 | {stack}`Nicht- + Nomen \| explicit category negation` | Nichtmitglied, Nichtzahlung |
-
-**Examples:**
 
 :::{div} ol-examples
 Nach der Kündigung war er mehrere Monate arbeits**los**.
@@ -167,8 +161,6 @@ At B2, you need to control what exactly is negated. A practical core rule is: **
 | Specific element (focus) | right before the element | Ich habe **nicht** den Bericht gelesen, sondern die E-Mail. |
 | Adjective/adverb | before adjective/adverb | Das ist **nicht** sinnvoll. |
 | Prepositional phrase | before the phrase | Wir treffen uns **nicht** im Büro. |
-
-**Examples:**
 
 :::{div} ol-examples
 Ich kann heute leider **nicht** kommen.
@@ -237,9 +229,9 @@ Click the link below to practice everything from this page with an interactive t
 
 ## Related articles
 
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B1 > Grammar > brauchen + zu + Infinitiv](/b1/grammar/brauchen-zu-infinitiv.md)
-- [A2 > Grammar > Doch bei Verneinungsfragen](/a2/grammar/pronouns/doch-negative-fragen.md)
-- [B2 > Grammar > Indefinitpronomen](/b2/grammar/indefinitpronomen.md)
-- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Grammar > Nomen-Verb-Verbindungen](/b2/grammar/nomen-verb-verbindungen.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b1/grammar/brauchen-zu-infinitiv.md) {bdg-secondary-line}`B1`
+- [](/a2/grammar/pronouns/doch-negative-fragen.md) {bdg-secondary-line}`A2`
+- [](/b2/grammar/indefinitpronomen.md)
+- [](/b2/grammar/zweiteilige-konnektoren.md)
+- [](/b2/grammar/nomen-verb-verbindungen.md)

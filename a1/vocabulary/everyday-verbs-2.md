@@ -127,4 +127,4 @@ Er ist nach Berlin gefahren.
 
 ## Related articles
 
-- [A1 > Grammar > Irregular Verbs in the Present](/a1/grammar/verbs/unregelmaessige-verben.md)
+- [](/a1/grammar/verbs/unregelmaessige-verben.md)

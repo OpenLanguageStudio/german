@@ -76,5 +76,5 @@ Nach einem Jahr fragte mich jemand, ob Deutschland sich wie Zuhause anfühlt. Ic
 
 ## Related articles
 
-- [B2 > Vocabulary > Experiences with emigration](/b2/vocabulary/experiences-with-emigration.md)
-- [B2 > Vocabulary > Multilingualism](/b2/vocabulary/multilingualism.md)
+- [](/b2/vocabulary/experiences-with-emigration.md)
+- [](/b2/vocabulary/multilingualism.md)

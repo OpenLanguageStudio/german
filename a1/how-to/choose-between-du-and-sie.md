@@ -49,8 +49,6 @@ That choice is a social signal, and native speakers notice it. *Du* goes to frie
 
 The same question changes shape depending on which *you* you choose. The meaning is identical; only the level of formality differs. In formal settings people also use *Herr* or *Frau* with a surname, while informal settings use first names.
 
-**Examples:**
-
 :::{div} ol-examples
 Woher kommst du?
 : Where are you from? (informal)
@@ -155,4 +153,4 @@ Komm, wir duzen uns!
 
 ## Related articles
 
-- [A1 > Grammar > du, ihr, or Sie](/a1/grammar/pronouns/anredeformen.md)
+- [](/a1/grammar/pronouns/anredeformen.md)

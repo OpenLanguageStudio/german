@@ -42,8 +42,6 @@ Three patterns carry the whole description. *Haben* counts the rooms, as in *Mei
 
 The core vocabulary: *das Zimmer, das Wohnzimmer, das Schlafzimmer, die Küche, das Bad, der Balkon, der Garten, der Flur*. Count rooms with *haben*, announce extras with *es gibt*, deny them with *kein*.
 
-**Examples:**
-
 :::{div} ol-examples
 Meine Wohnung hat drei Zimmer.
 : My flat has three rooms.
@@ -59,8 +57,6 @@ Wir haben {akk}`keinen Garten`.
 
 Describe each room with *sein* and a plain adjective: *hell, klein, groß, neu, teuer*. Where the furniture stands, the usual location chunks carry over.
 
-**Examples:**
-
 :::{div} ol-examples
 Das Wohnzimmer ist hell.
 : The living room is bright.
@@ -73,8 +69,6 @@ Der Tisch steht am Fenster.
 :::
 
 Floors use the chunk *im ... Stock*, the rent is *die Miete*, and the overall verdict uses *gefallen*.
-
-**Examples:**
 
 :::{div} ol-examples
 Die Wohnung ist im dritten Stock.
@@ -179,6 +173,6 @@ Die Wohnung gefällt mir sehr.
 
 ## Related articles
 
-- [A1 > Grammar > es gibt](/a1/grammar/verbs/es-gibt.md)
-- [A1 > Grammar > Negative Articles](/a1/grammar/articles/negativartikel.md)
-- [A1 > Grammar > Predicate Adjectives](/a1/grammar/adjectives/praedikative-adjektive.md)
+- [](/a1/grammar/verbs/es-gibt.md)
+- [](/a1/grammar/articles/negativartikel.md)
+- [](/a1/grammar/adjectives/praedikative-adjektive.md)

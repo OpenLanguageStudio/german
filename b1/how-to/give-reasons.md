@@ -53,5 +53,5 @@ weil is most common in speech; denn is slightly formal; aufgrund is formal and o
 
 ## Related articles
 
-- [B1 > Grammar > wegen und trotz](/b1/grammar/wegen-trotz.md)
-- [B1 > Grammar > Kausal Nebensätze](/b1/grammar/kausal-nebensaetze.md)
+- [](/b1/grammar/wegen-trotz.md)
+- [](/b1/grammar/kausal-nebensaetze.md)

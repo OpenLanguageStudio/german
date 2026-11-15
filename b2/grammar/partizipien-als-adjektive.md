@@ -32,8 +32,6 @@ Use *Partizip I* when the noun is actively doing something or when you want to s
 | wachsen | wachsend | ein wachsender Markt |
 | fehlen | fehlend | die fehlenden Daten |
 
-**Examples:**
-
 :::{div} ol-examples
 Wir haben gestern einen {adj}`spannenden` Film gesehen.
 : We watched an exciting film yesterday.
@@ -65,8 +63,6 @@ Use *Partizip II* as an adjective when you describe a completed action or result
 | reparieren | repariert | die reparierte Maschine |
 | veröffentlichen | veröffentlicht | der veröffentlichte Bericht |
 
-**Examples:**
-
 :::{div} ol-examples
 Sonntags gibt es hier nur einen {adj}`geschlossenen` Laden in der Straße.
 : On Sundays there is only a closed shop on this street.
@@ -97,8 +93,6 @@ When a participle stands directly before a noun, it declines exactly like any ad
 | Indefinite article | ein + Partizip + ending | ein geschlossener Laden |
 | No article (plural) | Partizip + -e/-en | geschlossene Läden |
 
-**Examples:**
-
 :::{div} ol-examples
 Der {adj}`lachende` Junge begrüßte uns zuerst.
 : The laughing boy greeted us first.
@@ -128,8 +122,6 @@ At B2, participial adjectives are especially useful for concise style. You can o
 | die Zahlen, die gestern veröffentlicht wurden | die gestern veröffentlichten Zahlen |
 | die Mitarbeitenden, die gerade verhandeln | die gerade verhandelnden Mitarbeitenden |
 | ein Problem, das schon gelöst ist | ein bereits gelöstes Problem |
-
-**Examples:**
 
 :::{div} ol-examples
 Wir analysieren die gestern {adj}`veröffentlichten` Zahlen sehr genau.
@@ -173,7 +165,7 @@ If a relative clause only adds compact descriptive information, a participial ph
 
 ## Related articles
 
-- [B1 > Grammar > Partizip als Adjektiv](/b1/grammar/partizip-als-adjektiv.md)
-- [B2 > Grammar > Zustandspassiv](/b2/grammar/zustandspassiv.md)
-- [B2 > Grammar > Passiv und Passiversatzformen](/b2/grammar/passiv-und-passiversatzformen.md)
-- [A2 > Grammar > Adjektivendungen](/a2/grammar/adjectives/adjektivendungen.md)
+- [](/b1/grammar/partizip-als-adjektiv.md) {bdg-secondary-line}`B1`
+- [](/b2/grammar/zustandspassiv.md)
+- [](/b2/grammar/passiv-und-passiversatzformen.md)
+- [](/a2/grammar/adjectives/adjektivendungen.md) {bdg-secondary-line}`A2`

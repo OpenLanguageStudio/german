@@ -43,8 +43,6 @@ The main change is the ending of the {term}`verb`. *Ich komme* becomes *er kommt
 
 Every introduction starts with *Das ist ...* plus a name or a role. The *das* never changes, no matter who you introduce; for several people it becomes *Das sind ...*.
 
-**Examples:**
-
 :::{div} ol-examples
 Das ist mein Freund Tom.
 : This is my friend Tom.
@@ -59,8 +57,6 @@ Das sind meine Eltern.
 ## Saying more about them
 
 After the opener, switch to *er* or *sie* and reuse the verbs of a self-introduction: *heißen, kommen, wohnen, sein, sprechen*. In the third person they end in **-t**: *er kommt, sie wohnt, er spricht*.
-
-**Examples:**
 
 :::{div} ol-examples
 Er kommt aus England und wohnt in Frankfurt.
@@ -172,4 +168,4 @@ Freut mich!
 
 ## Related articles
 
-- [A1 > Grammar > sein und haben](/a1/grammar/verbs/sein-und-haben.md)
+- [](/a1/grammar/verbs/sein-und-haben.md)

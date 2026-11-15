@@ -2,7 +2,7 @@
 menu_hidden: true
 html_theme.sidebar_secondary.remove:
 ---
-# Verbs: Forms and Usage
+# Verbs: forms and usage
 
 Verbs change their ending for each person: *ich lerne*, *du lernst*, *er lernt*. This section covers the essential verbs *sein* and *haben*, regular and irregular present-tense forms, the modal verbs, separable verbs, verbs that demand a specific case, the imperative, and *es gibt*.
 

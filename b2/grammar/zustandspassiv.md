@@ -28,8 +28,6 @@ Use this form when you focus on what is currently happening or what regularly ha
 | --- | --- | --- |
 | Action in progress | *werden* (Präsens) + Partizip II | Der Vertrag **wird unterschrieben**. |
 
-**Examples:**
-
 :::{div} ol-examples
 Die E-Mails **werden** heute Nachmittag **beantwortet**.
 : The emails are being answered this afternoon.
@@ -61,8 +59,6 @@ Use this form when you describe a process in the past, especially in reports, ne
 | Focus | Pattern | Example |
 | --- | --- | --- |
 | Past process | *wurde/wurden* + Partizip II | Der Antrag **wurde geprüft**. |
-
-**Examples:**
 
 :::{div} ol-examples
 Der Antrag **wurde** gestern endgültig **genehmigt**.
@@ -96,8 +92,6 @@ Use this form when you describe the current condition after an action has alread
 | --- | --- | --- |
 | Present state/result | *sein* (Präsens) + Partizip II | Die Tür **ist geschlossen**. |
 
-**Examples:**
-
 :::{div} ol-examples
 Der Konferenzraum **ist bereits reserviert**.
 : The conference room is already reserved.
@@ -129,8 +123,6 @@ Use this form for a state that existed at a point in the past. You are not narra
 | Focus | Pattern | Example |
 | --- | --- | --- |
 | Past state/result | *war/waren* + Partizip II | Die Tür **war geschlossen**. |
-
-**Examples:**
 
 :::{div} ol-examples
 Als wir ankamen, **war** der Saal schon **vorbereitet**.
@@ -189,8 +181,8 @@ Click the link below to practice everything from this page with an interactive t
 
 ## Related articles
 
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B1 > Grammar > Passiv (Passive Voice)](/b1/grammar/passiv.md)
-- [B1 > Grammar > Partizip als Adjektiv](/b1/grammar/partizip-als-adjektiv.md)
-- [A2 > Grammar > Verb werden](/a2/grammar/verbs/verb-werden.md)
-- [B2 > Grammar > Partizipien als Adjektive](/b2/grammar/partizipien-als-adjektive.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b1/grammar/passiv.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/partizip-als-adjektiv.md) {bdg-secondary-line}`B1`
+- [](/a2/grammar/verbs/verb-werden.md) {bdg-secondary-line}`A2`
+- [](/b2/grammar/partizipien-als-adjektive.md)

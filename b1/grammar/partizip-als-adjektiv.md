@@ -157,6 +157,6 @@ For everyday spoken German, the Partizip I is mainly used before nouns. Notice i
 
 ## Related articles
 
-- [B1 > Grammar > Passiv](/b1/grammar/passiv.md)
-- [B1 > Grammar > Adjektive ohne Artikel](/b1/grammar/adjektive-ohne-artikel.md)
-- [A2 > Grammar > Adjektivendungen](/a2/grammar/adjectives/adjektivendungen.md)
+- [](/b1/grammar/passiv.md)
+- [](/b1/grammar/adjektive-ohne-artikel.md)
+- [](/a2/grammar/adjectives/adjektivendungen.md) {bdg-secondary-line}`A2`

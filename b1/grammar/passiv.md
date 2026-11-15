@@ -179,5 +179,5 @@ The *Partizip II* never changes, only the modal verb changes to match the tense 
 
 ## Related articles
 
-- [A2 > Grammar > werden](/a2/grammar/verbs/verb-werden.md)
-- [B1 > Grammar > Partizip als Adjektiv](/b1/grammar/partizip-als-adjektiv.md)
+- [](/a2/grammar/verbs/verb-werden.md) {bdg-secondary-line}`A2`
+- [](/b1/grammar/partizip-als-adjektiv.md)

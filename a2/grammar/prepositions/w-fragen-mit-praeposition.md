@@ -32,8 +32,6 @@ When you ask about a person, keep the preposition and add the right question wor
 | preposition + **wen** | person in accusative | Über wen sprichst du? |
 | preposition + **wem** | person in dative | Mit wem fährst du? |
 
-**Examples:**
-
 :::{div} ol-examples
 {prep}`Mit` wem sprichst du?
 : Who are you speaking with?
@@ -77,8 +75,6 @@ When you ask about a thing, an activity, or a topic, German usually uses *wo(r)-
 | mit | womit | Womit fängst du an? |
 | von | wovon | Wovon träumst du? |
 
-**Examples:**
-
 :::{div} ol-examples
 Worauf wartest du?
 : What are you waiting for?
@@ -119,8 +115,6 @@ The answer keeps the same preposition that appeared in the question.
 | Mit wem sprichst du? | Mit meiner Lehrerin. |
 | Woran denkst du? | An das Wochenende. |
 | Wofür interessierst du dich? | Für Musik. |
-
-**Examples:**
 
 :::{div} ol-examples
 Worauf wartest du? – {prep}`Auf` den Bus.
@@ -277,5 +271,5 @@ Von wem träumst du? – Von einem Star.
 
 ## Related articles
 
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
+- [](/a2/grammar/cases/akkusativ.md)
+- [](/a2/grammar/cases/dativ.md)

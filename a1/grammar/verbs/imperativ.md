@@ -18,8 +18,6 @@ The *du* form is the {term}`verb` without *-st* and without the {term}`pronoun`:
 
 The form comes from the *du* form of the present, without *-st* and the pronoun: *du kommst* → *Komm!* Verbs with e → i keep the change, as in *Nimm*, *Iss*, *Lies* and *Sprich*. Verbs with a → ä drop the {term}`umlaut`: *du fährst*, but *Fahr!*
 
-**Examples:**
-
 :::{div} ol-examples
 {verb}`Komm` bitte her!
 : Come here, please!
@@ -35,8 +33,6 @@ The form comes from the *du* form of the present, without *-st* and the pronoun:
 
 For several people, the form is the normal *ihr* form without the pronoun: *Kommt! Wartet! Spielt!*
 
-**Examples:**
-
 :::{div} ol-examples
 {verb}`Kommt` her, Kinder!
 : Come here, children!
@@ -48,8 +44,6 @@ For several people, the form is the normal *ihr* form without the pronoun: *Komm
 ## The *Sie* form: verb first, *Sie* stays
 
 The formal imperative keeps *Sie* and flips it behind the verb: *Kommen Sie! Warten Sie!* This is the form for strangers, offices, and customers.
-
-**Examples:**
 
 :::{div} ol-examples
 {verb}`Nehmen Sie` Platz!

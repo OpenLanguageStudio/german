@@ -62,8 +62,6 @@ German adds four letters of its own: **ä, ö, ü** (the umlauts) and **ß** (ca
 
 The letters go one by one. For clarity, Germans often anchor them to first names: *A wie Anton, B wie Berta*, a habit that turns up on the phone constantly.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich buchstabiere: A, N, N, A.
 : I'll spell it: A, N, N, A.
@@ -175,4 +173,4 @@ Danke schön!
 ## Related articles
 
 - [Ask for help and clarification](/a1/how-to/ask-for-help-and-clarification.md)
-- [A1 > Grammar > Question Words for Circumstances](/a1/grammar/question-words/fragewoerter-umstaende.md)
+- [](/a1/grammar/question-words/fragewoerter-umstaende.md)

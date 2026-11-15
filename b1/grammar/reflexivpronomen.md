@@ -348,5 +348,5 @@ Was leistet sie sich?
 
 ## Related articles
 
-- [B1 > Grammar > Artikelwörter als Pronomen](/b1/grammar/artikelwoerter-als-pronomen.md)
-- [B1 > Grammar > Pronominaladverbien](/b1/grammar/pronominaladverbien.md)
+- [](/b1/grammar/artikelwoerter-als-pronomen.md)
+- [](/b1/grammar/pronominaladverbien.md)

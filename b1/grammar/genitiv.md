@@ -284,7 +284,7 @@ Die Freundin meines Sohnes hat Medizin studiert.
 
 ## Related articles
 
-- [A2 > Grammar > Genitiv bei Namen](/a2/grammar/cases/genitiv-name-s.md)
-- [B1 > Grammar > wegen und trotz](/b1/grammar/wegen-trotz.md)
-- [B1 > Grammar > Zeitangaben - Präpositionen](/b1/grammar/zeitangaben-praepositionen.md)
-- [B1 > Grammar > Relativsätze](/b1/grammar/relativsaetze.md)
+- [](/a2/grammar/cases/genitiv-name-s.md) {bdg-secondary-line}`A2`
+- [](/b1/grammar/wegen-trotz.md)
+- [](/b1/grammar/zeitangaben-praepositionen.md)
+- [](/b1/grammar/relativsaetze.md)

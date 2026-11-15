@@ -14,7 +14,7 @@ myst:
 :class: dropdown
 Before reading this article, make sure you are comfortable with:
 
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
+- [](/a2/grammar/cases/dativ.md)
 :::
 
 Nine German prepositions can each take **either** the accusative or the dative case. The choice is not random, it depends on whether the sentence describes *where something is going* (direction) or *where something already is* (position). One simple question settles it every time: *Wohin?* (Where to?) or *Wo?* (Where?).
@@ -171,8 +171,6 @@ In everyday German, four combinations are **always** contracted, you will rarely
 | an + dem | **am** | location: *am* Tisch, *am* Bahnhof |
 | an + das | **ans** | movement: *ans* Fenster, *ans* Meer |
 
-**Examples:**
-
 :::{div} ol-examples
 Wir gehen heute Abend {prep}`ins` Kino.
 : We're going to the cinema tonight. (Wohin? → in + das = ins)
@@ -324,4 +322,4 @@ Sie läuft im Park.
 
 ## Related articles
 
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
+- [](/a2/grammar/cases/dativ.md)

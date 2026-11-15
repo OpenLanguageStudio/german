@@ -29,8 +29,6 @@ Both pairs add information, but they do not sound identical. Use **sowohl ... al
 | {conj}`sowohl ... als auch` | two equally relevant elements | balanced, neutral |
 | {conj}`nicht nur ... sondern auch` | second element adds emphasis | stronger, argumentative |
 
-**Examples:**
-
 :::{div} ol-examples
 Die Reform betrifft **sowohl** die Schulen **als auch** die Universitäten.
 : The reform affects both schools and universities.
@@ -64,8 +62,6 @@ Use **entweder ... oder** to present two alternatives. Use **weder ... noch** to
 
 > {conj}`entweder` + option A + {conj}`oder` + option B  
 > {conj}`weder` + option A + {conj}`noch` + option B
-
-**Examples:**
 
 :::{div} ol-examples
 Wir brauchen **entweder** eine Fristverlängerung **oder** zusätzliche Ressourcen.
@@ -102,8 +98,6 @@ These pairs are central for B2 argumentation. **zwar ... aber** concedes one poi
 | --- | --- | --- |
 | {conj}`zwar ... aber` | concession + contrast | spoken argument, quick evaluation |
 | {conj}`einerseits ... andererseits` | two perspectives | formal discussion, essays, reports |
-
-**Examples:**
 
 :::{div} ol-examples
 Die Idee ist **zwar** ambitioniert, **aber** finanziell schwer umsetzbar.
@@ -142,8 +136,6 @@ Use this pattern when one change depends on another change. The first clause wit
 | --- | --- |
 | je ..., desto ... | Je genauer die Daten sind, desto stabiler sind die Prognosen. |
 | je ..., umso ... | Je früher wir reagieren, umso geringer wird der Schaden. |
-
-**Examples:**
 
 :::{div} ol-examples
 **Je klarer** die Zuständigkeiten sind, **desto schneller** werden Entscheidungen getroffen.
@@ -206,11 +198,11 @@ Use the link below to practice the full topic interactively.
 
 ## Related articles
 
-- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Negation](/b2/grammar/negation.md)
-- [B1 > Grammar > Zweiteilige Konnektoren](/b1/grammar/zweiteilige-konnektoren.md)
-- [B1 > Grammar > Sätze mit je ..., desto/umso ...](/b1/grammar/je-desto.md)
-- [B2 > Grammar > Konnektor während](/b2/grammar/konnektor-waehrend.md)
-- [B2 > Grammar > Modalsätze](/b2/grammar/modalsaetze.md)
-- [B2 > Grammar > Infinitivkonnektoren](/b2/grammar/infinitivkonnektoren.md)
+- [](/b2/grammar/vergleichssaetze.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b2/grammar/negation.md)
+- [](/b1/grammar/zweiteilige-konnektoren.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/je-desto.md) {bdg-secondary-line}`B1`
+- [](/b2/grammar/konnektor-waehrend.md)
+- [](/b2/grammar/modalsaetze.md)
+- [](/b2/grammar/infinitivkonnektoren.md)

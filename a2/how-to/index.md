@@ -20,4 +20,4 @@ ask-wish-and-advise-politely
 
 ## Related articles
 
-- [A2 > Index.Md > A2](/a2/index.md)
+- [](/a2/index.md)

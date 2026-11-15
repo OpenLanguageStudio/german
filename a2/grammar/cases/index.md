@@ -4,7 +4,7 @@ myst:
     description: "A2 German grammar: cases, accusative, dative, genitive, and possessives."
     keywords: "german, a2, grammar, cases, akkusativ, dativ, genitiv, kasus"
 ---
-# Grammatical Cases
+# Grammatical cases
 
 German nouns, articles, and pronouns change their form depending on their role in a sentence. At A2 level you need the accusative (direct object), the dative (indirect object), and the basics of the genitive.
 

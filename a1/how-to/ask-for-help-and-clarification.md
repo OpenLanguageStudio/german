@@ -43,8 +43,6 @@ A few short chunks do the job: some slow a speaker down, and others check what a
 
 A clear signal plus a request keeps the conversation going.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich verstehe nicht. Können Sie das bitte wiederholen?
 : I don't understand. Can you repeat that, please?
@@ -60,8 +58,6 @@ Ich spreche nur ein bisschen Deutsch.
 
 *Was bedeutet ...?* asks for a meaning; *Wie sagt man ...?* asks for the German word. Together they turn every conversation into a small lesson.
 
-**Examples:**
-
 :::{div} ol-examples
 Was bedeutet dieses Wort?
 : What does this word mean?
@@ -74,8 +70,6 @@ Können Sie das erklären?
 :::
 
 The last step checks the understanding and says thanks.
-
-**Examples:**
 
 :::{div} ol-examples
 Habe ich das richtig verstanden?

@@ -14,8 +14,8 @@ myst:
 :class: dropdown
 Before reading this article, make sure you are comfortable with:
 
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
+- [](/a2/grammar/cases/dativ.md)
+- [](/a2/grammar/cases/akkusativ.md)
 :::
 
 These verbs help you say that someone gets, receives, or hears something. You use one object for the person (*dative*, *Wem?*) and one object for the thing (*accusative*, *Was?*).
@@ -53,8 +53,6 @@ Many common verbs can take two objects at the same time. Ask *Wem?* for the dati
 | {stack}`anbieten \| to offer` | jemandem etwas anbieten |
 | {stack}`empfehlen \| to recommend` | jemandem etwas empfehlen |
 
-**Examples:**
-
 :::{div} ol-examples
 Ich gebe {dativ}`meiner Schwester` {akk}`das Buch`.
 : I give my sister the book.
@@ -91,8 +89,6 @@ With two noun phrases, German usually puts the dative object before the accusati
 | Accusative pronoun + dative noun | accusative pronoun first | Ich gebe es dem Kind. |
 | Accusative pronoun + dative pronoun | accusative first, then dative | Ich gebe es ihm. |
 
-**Examples:**
-
 :::{div} ol-examples
 Ich gebe {dativ}`dem Kind` {akk}`das Buch`.
 : I give the child the book.
@@ -127,8 +123,6 @@ You can ask for each object separately. Ask *Wem?* for the dative person and *Wa
 |---|---|---|
 | Dative object (person) | Wem + verb + subject + accusative object? | Wem gibst du das Buch? |
 | Accusative object (thing) | Was + verb + subject + dative object? | Was gibst du dem Kind? |
-
-**Examples:**
 
 :::{div} ol-examples
 **Wem** gibst du das Buch?

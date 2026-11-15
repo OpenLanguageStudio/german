@@ -30,8 +30,6 @@ German often keeps the same preposition across related forms, but there are impo
 | Partial overlap | only two forms match | *Interesse an* / *interessiert an* but *sich interessieren für* |
 | No reliable overlap | each form can differ | must be learned as separate chunks |
 
-**Examples:**
-
 :::{div} ol-examples
 Wir brauchen mehr {noun}`Hilfe` {prep}`bei` {dativ}`der` Planung.
 : We need more help with the planning.
@@ -65,8 +63,6 @@ In many high-frequency patterns, all three forms keep the same preposition. Thes
 | Hilfe {prep}`bei` | helfen {prep}`bei` | hilfreich {prep}`bei` | Dativ |
 | Freude {prep}`über` | sich freuen {prep}`über` | erfreut {prep}`über` | Akkusativ |
 | Teilnahme {prep}`an` | teilnehmen {prep}`an` | beteiligt {prep}`an` | Dativ |
-
-**Examples:**
 
 :::{div} ol-examples
 Vielen Dank für deine {noun}`Hilfe` {prep}`bei` {dativ}`dem` Bericht.
@@ -108,8 +104,6 @@ Many pairs match between noun and verb, while an adjective with the same preposi
 | Suche {prep}`nach` + Dat | suchen {prep}`nach` + Dat | often lexical adjective (*auf der Suche nach*) |
 | Warnung {prep}`vor` + Dat | warnen {prep}`vor` + Dat | adjective often differs by meaning (*vorsichtig bei/mit*) |
 
-**Examples:**
-
 :::{div} ol-examples
 Unsere {noun}`Bitte` {prep}`um` {akk}`eine` Fristverlängerung wurde angenommen.
 : Our request for an extension was accepted.
@@ -149,8 +143,6 @@ Another common B2 pattern is noun and adjective with one preposition, while the 
 | Interesse {prep}`an` + Dat | interessiert {prep}`an` + Dat | sich interessieren {prep}`für` + Akk |
 | Neugier {prep}`auf` + Akk | neugierig {prep}`auf` + Akk | often different verb expression |
 | Wut {prep}`auf` + Akk | wütend {prep}`auf` + Akk | verbs often use *über* (*sich ärgern über*) |
-
-**Examples:**
 
 :::{div} ol-examples
 Es gibt großes {noun}`Interesse` {prep}`an` {dativ}`einer` schnellen Einigung.
@@ -214,8 +206,8 @@ Click the link below to practice everything from this page with an interactive t
 
 ## Related articles
 
-- [B2 > Grammar > Nomen-Verb-Verbindungen](/b2/grammar/nomen-verb-verbindungen.md)
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B1 > Grammar > Verben mit Präpositionen und Nebensatz](/b1/grammar/verben-mit-praepositionen.md)
-- [A2 > Grammar > Verben mit festen Präpositionen](/a2/grammar/prepositions/verben-mit-praeposition.md)
-- [A2 > Grammar > W-Fragen mit Präposition](/a2/grammar/prepositions/w-fragen-mit-praeposition.md)
+- [](/b2/grammar/nomen-verb-verbindungen.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b1/grammar/verben-mit-praepositionen.md) {bdg-secondary-line}`B1`
+- [](/a2/grammar/prepositions/verben-mit-praeposition.md) {bdg-secondary-line}`A2`
+- [](/a2/grammar/prepositions/w-fragen-mit-praeposition.md) {bdg-secondary-line}`A2`

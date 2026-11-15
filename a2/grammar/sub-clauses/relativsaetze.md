@@ -28,8 +28,6 @@ myst:
 
 A relative clause adds detail to a noun from the main clause. Instead of two short sentences, you can connect them into one smoother sentence.
 
-**Examples:**
-
 :::{div} ol-examples
 Das ist der Mann, **der** nebenan wohnt.
 : That is the man who lives next door.
@@ -57,8 +55,6 @@ The forms are almost the same as the definite article. At A2, the key difference
 
 The pronoun's gender and number match the noun it refers to, but the case is chosen by what happens inside the relative clause.
 
-**Examples:**
-
 :::{div} ol-examples
 Der Mann, **den** ich kenne, ist freundlich.
 : The man whom I know is friendly.
@@ -81,8 +77,6 @@ Think: same as *der/die/das* article table, plus one important change: masculine
 Use nominative relative pronouns when the relative pronoun does the action in the relative clause.
 
 > noun + comma + **der/die/das/die** + ... + verb at the end
-
-**Examples:**
 
 :::{div} ol-examples
 Der Mann, **der** dort steht, wartet auf den Bus.
@@ -110,8 +104,6 @@ Use accusative relative pronouns when the relative pronoun receives the action (
 
 > noun + comma + **den/die/das/die** + ... + verb at the end
 
-**Examples:**
-
 :::{div} ol-examples
 Der Mann, **den** ich kenne, kommt aus Wien.
 : The man whom I know comes from Vienna.
@@ -137,8 +129,6 @@ Only masculine changes in accusative: **der -> den**. Feminine, neuter, and plur
 Relative clauses are subordinate clauses. That means you always put a comma before them, and the conjugated verb goes to the end of the relative clause.
 
 If the relative clause is in the middle of a sentence, it is enclosed by two commas.
-
-**Examples:**
 
 :::{div} ol-examples
 Der Film, den wir heute Abend **sehen**, ist neu.
@@ -168,8 +158,6 @@ Use this quick check inside the relative clause:
 |---|---|---|
 | Who does the action? | Nominative | der/die/das/die |
 | Whom/what does the subject act on? | Accusative | den/die/das/die |
-
-**Examples:**
 
 :::{div} ol-examples
 Das ist der Mann, **den** ich jeden Tag sehe.
@@ -415,6 +403,6 @@ Das Bild, das ich male, wird schön.
 
 ## Related articles
 
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > How to > Ask indirect questions](/a2/how-to/ask-indirect-questions.md)
+- [](/a2/grammar/cases/akkusativ.md)
+- [](/a2/grammar/cases/dativ.md)
+- [](/a2/how-to/ask-indirect-questions.md)

@@ -31,8 +31,6 @@ Most prepositions in this lesson are followed by a genitive noun phrase in stand
 | Feminine | der | {prep}`trotz` **der** Kritik |
 | Plural | der | {prep}`innerhalb` **der** Fristen |
 
-**Examples:**
-
 :::{div} ol-examples
 {prep}`Wegen` **des** Streik**s** kam es zu Verspätungen.
 : Because of the strike, there were delays.
@@ -66,8 +64,6 @@ These prepositions let you define temporal windows and spatial limits very clear
 | {stack}`während \| during` | time period in progress |
 | {stack}`innerhalb \| within` | inside a time limit or area |
 | {stack}`außerhalb \| outside of` | outside a time frame or area |
-
-**Examples:**
 
 :::{div} ol-examples
 {prep}`Während` **des** Umzug**s** arbeitete das Team im Homeoffice.
@@ -110,8 +106,6 @@ These prepositions are useful when you want compact, noun-based cause statements
 | {stack}`infolge \| as a result of` | formal, written |
 | {stack}`aufgrund \| due to / on the basis of` | formal, written |
 
-**Examples:**
-
 :::{div} ol-examples
 {prep}`Wegen` **des** Serverproblem**s** wurde die Anmeldung unterbrochen.
 : Because of the server problem, registration was interrupted.
@@ -144,8 +138,6 @@ Use the following link to practice this section.
 {prep}`Trotz` introduces a contrast: something happens even though an obstacle exists. This is especially useful in arguments, reports, and discussion writing.
 
 > {prep}`Trotz` + genitive noun phrase, main statement
-
-**Examples:**
 
 :::{div} ol-examples
 {prep}`Trotz` **des** Widerstand**s** setzte die Stadt den Plan um.
@@ -205,8 +197,8 @@ Use the link below to practice the full topic interactively.
 
 ## Related articles
 
-- [B2 > Grammar > Konnektor während](/b2/grammar/konnektor-waehrend.md)
-- [B2 > Grammar > Nominalisierung](/b2/grammar/nominalisierung.md)
-- [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)
-- [B1 > Grammar > wegen und trotz](/b1/grammar/wegen-trotz.md)
-- [B1 > Grammar > Zeitangaben: Präpositionen](/b1/grammar/zeitangaben-praepositionen.md)
+- [](/b2/grammar/konnektor-waehrend.md)
+- [](/b2/grammar/nominalisierung.md)
+- [](/b1/grammar/genitiv.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/wegen-trotz.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/zeitangaben-praepositionen.md) {bdg-secondary-line}`B1`

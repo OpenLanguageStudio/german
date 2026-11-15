@@ -37,8 +37,6 @@ When one thing is more (or less) of something than another, use the **comparativ
 | [comparative] + **als** | **größer als**, **billiger als** |
 | Subject + verb + [comparative] + **als** + reference | Mein Bruder ist **größer als** ich. |
 
-**Examples:**
-
 :::{div} ol-examples
 Mein Bruder ist **größer als** ich.
 : My brother is taller than me.
@@ -74,8 +72,6 @@ When two things are the same in some way, use **(genau) so + [positive adjective
 | **(genau) so** + [positive] + **wie** | **so groß wie**, **genauso gut wie** |
 | Subject + verb + **(genau) so** + [positive] + **wie** + reference | Er ist **so groß wie** sein Vater. |
 
-**Examples:**
-
 :::{div} ol-examples
 Er ist **so groß wie** sein Vater.
 : He is as tall as his father.
@@ -105,8 +101,6 @@ Du bist **genau so alt wie** mein Bruder.
 ## Expressing "not as ... as": *nicht so...wie*
 
 To say that something is *less than* something else, or simply *not equal*, use **nicht so + [positive adjective] + wie**. As with *so...wie*, the adjective stays in its positive form, never the comparative. Think of it as a negated equality: "not as ... as".
-
-**Examples:**
 
 :::{div} ol-examples
 Dresden ist **nicht so teuer wie** Berlin.
@@ -243,4 +237,4 @@ Er singt so schön wie ein Profi.
 
 ## Related articles
 
-- [A2 > How to > Compare things](/a2/how-to/compare-things.md)
+- [](/a2/how-to/compare-things.md)

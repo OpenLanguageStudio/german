@@ -30,8 +30,6 @@ In this function, *es* does not point to a concrete thing. It is required by the
 | Natural events | {pronoun}`es` + verb/adjective | {pronoun}`Es` donnert in der Ferne. |
 | Time progression | {pronoun}`es` + wird + adjective | {pronoun}`Es` wird langsam dunkel. |
 
-**Examples:**
-
 :::{div} ol-examples
 {pronoun}`Es` **regnet** schon den ganzen Nachmittag.
 : It has been raining all afternoon.
@@ -68,8 +66,6 @@ German often uses *es* in neutral statements about calendar and time reference p
 | Clock time | {pronoun}`Es` ist zehn Uhr. |
 | Day/date statements | {pronoun}`Es` ist Montag. |
 | Seasons | {pronoun}`Es` ist noch Winter. |
-
-**Examples:**
 
 :::{div} ol-examples
 {pronoun}`Es` **ist** kurz nach acht, wir sollten anfangen.
@@ -110,8 +106,6 @@ Some high-frequency expressions require *es* as part of the idiomatic chunk. You
 | {stack}`es handelt sich um \| it is about / it concerns` | |
 | {stack}`es eilig haben \| to be in a hurry` | |
 
-**Examples:**
-
 :::{div} ol-examples
 In dieser Debatte {pronoun}`es` **geht** vor allem **um** Vertrauen.
 : In this debate, it is mainly about trust.
@@ -149,8 +143,6 @@ When a *dass*-clause functions as the logical subject and appears at the end, Ge
 | Main clause first, clause later | Mich überrascht {pronoun}`es`, dass niemand reagiert hat. |
 | Clause first -> no placeholder | Dass niemand reagiert hat, überrascht mich. |
 
-**Examples:**
-
 :::{div} ol-examples
 {pronoun}`Es` **ist** offensichtlich, **dass** das Team Unterstützung braucht.
 : It is obvious that the team needs support.
@@ -183,8 +175,6 @@ Use the following link to practice this section.
 The same placeholder logic appears with infinitive groups (*zu + Infinitiv*). At B2, these structures help you build compact, nuanced statements in both spoken and written German.
 
 > {pronoun}`Es` + predicate + , ... **zu** + infinitive
-
-**Examples:**
 
 :::{div} ol-examples
 {pronoun}`Es` **ist** wichtig, regelmäßig Feedback **zu geben**.
@@ -240,6 +230,6 @@ Use the following link to practice this section.
 
 ## Related articles
 
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Infinitivkonnektoren](/b2/grammar/infinitivkonnektoren.md)
-- [B1 > Grammar > Infinitiv mit "zu"](/b1/grammar/infinitiv-mit-zu.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b2/grammar/infinitivkonnektoren.md)
+- [](/b1/grammar/infinitiv-mit-zu.md) {bdg-secondary-line}`B1`

@@ -217,5 +217,5 @@ Hast du {pronoun}`irgendwelche` Fragen?
 
 ## Related articles
 
-- [B1 > Grammar > Reflexivpronomen](/b1/grammar/reflexivpronomen.md)
-- [B1 > Grammar > Pronominaladverbien](/b1/grammar/pronominaladverbien.md)
+- [](/b1/grammar/reflexivpronomen.md)
+- [](/b1/grammar/pronominaladverbien.md)

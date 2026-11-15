@@ -17,8 +17,8 @@ Its endings copy the {term}`definite article`, exactly like those of *dieser*: *
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > Definite Articles](/a1/grammar/articles/bestimmter-artikel.md)
-- [A1 > Grammar > Demonstrative Articles](/a1/grammar/articles/demonstrativartikel.md)
+- [](/a1/grammar/articles/bestimmter-artikel.md)
+- [](/a1/grammar/articles/demonstrativartikel.md)
 :::
 
 ## The forms: like *der*, *die*, *das*
@@ -27,8 +27,6 @@ Before reading this article, make sure you are comfortable with:
 |---|---|---|---|---|
 | Nominative | welch**er** | welch**e** | welch**es** | welch**e** |
 | Accusative | welch**en** | welch**e** | welch**es** | welch**e** |
-
-**Examples:**
 
 :::{div} ol-examples
 {article}`Welcher` Bus fährt zum Bahnhof?
@@ -44,8 +42,6 @@ Before reading this article, make sure you are comfortable with:
 ## Question and answer: *welcher* and *dieser*
 
 *Welcher* and *dieser* are a natural pair. The question asks which one, the answer points at this one. Both take the same endings, so the question gives the form of the answer.
-
-**Examples:**
 
 :::{div} ol-examples
 {article}`Welche` Jacke gefällt dir? – {article}`Diese` Jacke.
@@ -154,4 +150,4 @@ Welches Obst isst du gern?
 
 ## Related articles
 
-- [A1 > Grammar > Question Pronouns](/a1/grammar/question-words/fragepronomen.md)
+- [](/a1/grammar/question-words/fragepronomen.md)

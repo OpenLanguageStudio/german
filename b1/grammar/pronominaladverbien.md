@@ -254,6 +254,6 @@ Hast du dich mit dem Problem beschäftigt? - Ja, ich habe mich damit beschäftig
 
 ## Related articles
 
-- [B1 > Grammar > Verben mit Präposition und Nebensatz](/b1/grammar/verben-mit-praepositionen.md)
-- [B1 > Grammar > Reflexivpronomen](/b1/grammar/reflexivpronomen.md)
-- [B1 > Grammar > Relativsätze mit „was" und „wo"](/b1/grammar/relativsaetze-was-wo.md)
+- [](/b1/grammar/verben-mit-praepositionen.md)
+- [](/b1/grammar/reflexivpronomen.md)
+- [](/b1/grammar/relativsaetze-was-wo.md)

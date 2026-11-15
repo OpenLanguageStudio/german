@@ -27,8 +27,6 @@ myst:
 
 *Sein* connects a person or thing to a description: a noun (*Er ist Lehrer*), an adjective (*Ich bin müde*), an age, a place.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich {verb}`bin` müde.
 : I am tired.
@@ -52,8 +50,6 @@ Wir {verb}`sind` zu Hause.
 | sie / Sie | haben | Sie haben Recht. |
 
 *Haben* takes a direct object in the accusative: *Ich habe **einen** Bruder.* It also carries a family of feeling-chunks where English uses "to be": *Hunger haben, Durst haben, Zeit haben, Recht haben*.
-
-**Examples:**
 
 :::{div} ol-examples
 {verb}`Hast` du Hunger?
@@ -165,4 +161,4 @@ Wir haben keine Fragen.
 
 ## Related articles
 
-- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
+- [](/a1/grammar/cases/akkusativ.md)

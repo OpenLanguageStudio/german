@@ -32,8 +32,6 @@ German uses two groups of verbs here:
 | Move / put to a place | *Wohin?* | transitive placement verb | accusative |
 | Be in a place | *Wo?* | intransitive position verb | dative |
 
-**Examples:**
-
 :::{div} ol-examples
 Ich {verb}`stelle` die Flasche {prep}`auf` {akk}`den` Tisch.
 : I put the bottle on the table.
@@ -162,8 +160,6 @@ With two-way prepositions (*an, auf, hinter, in, neben, über, unter, vor, zwisc
 |---|---|
 | Er hängt die Jacke **an den** Haken. | movement to location (*Wohin?*) |
 | Die Jacke hängt **an dem** Haken / **am** Haken. | location (*Wo?*) |
-
-**Examples:**
 
 :::{div} ol-examples
 Ich {verb}`setze` mich {prep}`zwischen` {akk}`die` Kinder.
@@ -308,6 +304,6 @@ Sie legt die Decke aufs Sofa.
 
 ## Related articles
 
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > Grammar > Reflexive Verben](/a2/grammar/verbs/reflexive-verben.md)
+- [](/a2/grammar/cases/akkusativ.md)
+- [](/a2/grammar/cases/dativ.md)
+- [](/a2/grammar/verbs/reflexive-verben.md)

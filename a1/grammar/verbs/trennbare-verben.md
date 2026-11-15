@@ -18,8 +18,6 @@ The dictionary form looks like one word, and the sentence shows two: *aufstehen*
 
 The verb part is {term}`conjugated <conjugation>` as usual, and the prefix goes to the end. Whatever else the sentence contains sits in between.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich {verb}`stehe` um sieben Uhr {verb}`auf`.
 : I get up at seven o'clock. (aufstehen)
@@ -53,8 +51,6 @@ The stress falls on the prefix: **AUF**stehen, **AN**rufen. If you hear the stre
 ## When the verb stays whole
 
 After a modal verb the separable verb goes to the end as one unbroken {term}`infinitive`: *Ich muss noch **einkaufen***, *Ich möchte **mitkommen***.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich {verb}`muss` noch **einkaufen**.
@@ -159,4 +155,4 @@ Rufst du mich an?
 
 ## Related articles
 
-- [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)
+- [](/a1/grammar/sentence-structure/satzklammer.md)

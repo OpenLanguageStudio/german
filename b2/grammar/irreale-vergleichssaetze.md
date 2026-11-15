@@ -31,8 +31,6 @@ With {conj}`als` in unreal comparisons, German usually uses a condensed clause w
 | als + verb-first clause | Er tut so, als {verb}`wäre` er der Chef. |
 | als + perfect Konjunktiv II | Sie sah mich an, als {verb}`hätte` ich sie belogen. |
 
-**Examples:**
-
 :::{div} ol-examples
 Der Chef behandelt uns, als {verb}`wären` wir gleichberechtigte Partner.
 : The boss treats us as if we were equal partners.
@@ -70,8 +68,6 @@ Use the following link to practice this section:
 | --- | --- | --- |
 | als ob | subordinate clause (verb at end) | Sie tut so, als ob sie alles {verb}`wüsste`. |
 | als wenn | subordinate clause (verb at end) | Es klingt, als wenn er nicht kommen {verb}`könnte`. |
-
-**Examples:**
 
 :::{div} ol-examples
 Die Kollegen tun immer so, als ob sie alle perfekt {verb}`wären`.
@@ -112,8 +108,6 @@ At B2 level, an important restriction is: this comparison clause is normally **n
 | so tun | Er tut so, als hätte er davon nie etwas gehört. |
 | sich fühlen | Ich fühlte mich, als wäre ich in einem falschen Film. |
 | aussehen | Es sieht so aus, als wenn ein Sturm kommen {verb}`würde`. |
-
-**Examples:**
 
 :::{div} ol-examples
 Es wirkt, als ob das Team ohne klaren Plan arbeiten {verb}`würde`.
@@ -173,7 +167,7 @@ Use the link below to practice the full topic interactively.
 
 ## Related articles
 
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Indirekte Rede](/b2/grammar/indirekte-rede.md)
-- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
-- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b2/grammar/indirekte-rede.md)
+- [](/b1/grammar/konjunktiv-ii.md) {bdg-secondary-line}`B1`
+- [](/b2/grammar/vergleichssaetze.md)

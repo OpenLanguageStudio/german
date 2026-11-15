@@ -133,8 +133,8 @@ Do not start a sentence with **denn** in this structure. Use **weil** or **da** 
 
 ## Related articles
 
-- [A2 > Grammar > Nebensatz mit weil](/a2/grammar/sub-clauses/nebensatz-weil.md)
-- [A2 > Grammar > Konnektoren: denn, deshalb, trotzdem](/a2/grammar/sub-clauses/konnektoren.md)
-- [B1 > Grammar > Konsekutiv-Nebensätze](/b1/grammar/konsekutiv-nebensaetze.md)
-- [B1 > Grammar > Konzessiv-Nebensätze](/b1/grammar/konzessiv-nebensaetze.md)
-- [B1 > How to > Give reasons](/b1/how-to/give-reasons.md)
+- [](/a2/grammar/sub-clauses/nebensatz-weil.md) {bdg-secondary-line}`A2`
+- [](/a2/grammar/sub-clauses/konnektoren.md) {bdg-secondary-line}`A2`
+- [](/b1/grammar/konsekutiv-nebensaetze.md)
+- [](/b1/grammar/konzessiv-nebensaetze.md)
+- [](/b1/how-to/give-reasons.md)

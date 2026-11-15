@@ -212,6 +212,6 @@ Reinforce what you've learned by listening to short audio tracks with natural Ge
 
 ## Related articles
 
-- [B1 > Grammar > Relativsätze mit was und wo](/b1/grammar/relativsaetze-was-wo.md)
-- [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)
-- [B1 > Grammar > Verben mit Präpositionen](/b1/grammar/verben-mit-praepositionen.md)
+- [](/b1/grammar/relativsaetze-was-wo.md)
+- [](/b1/grammar/genitiv.md)
+- [](/b1/grammar/verben-mit-praepositionen.md)

@@ -31,8 +31,6 @@ Up to 19, add **-te** to the number; from 20, add **-ste**. Three forms misbehav
 
 The date is {term}`masculine` (*der Tag* hides behind it): *Heute ist der dritte Mai.* The question to know: *Der Wievielte ist heute?*
 
-**Examples:**
-
 :::{div} ol-examples
 Der Wievielte ist heute?
 : What's the date today?
@@ -44,8 +42,6 @@ Heute ist {subj}`der einundzwanzigste Juli`.
 ## Placing events: *am ...ten*
 
 Events happen *am* + ordinal + **-n**: *am dritten Mai, am zwölften Juni*. This is the pattern for birthdays, appointments, and holidays.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich habe am zwölften Juni Geburtstag.
@@ -154,4 +150,4 @@ Der Wievielte ist morgen?
 
 - [Give your personal details](/a1/how-to/give-your-personal-details.md)
 - [Tell the time and day](/a1/how-to/tell-the-time-and-day.md)
-- [A1 > Grammar > Temporal Prepositions](/a1/grammar/prepositions/temporale-praepositionen.md)
+- [](/a1/grammar/prepositions/temporale-praepositionen.md)

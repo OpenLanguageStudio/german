@@ -405,6 +405,6 @@ Sie hat schon lange die Idee, ein Café zu eröffnen.
 
 ## Related articles
 
-- [B1 > Grammar > brauchen + zu + Infinitiv](/b1/grammar/brauchen-zu-infinitiv.md)
-- [B1 > Grammar > lassen + Infinitiv](/b1/grammar/lassen-infinitiv.md)
-- [B1 > How to > Talk about goals and purpose](/b1/how-to/talk-about-goals-and-purpose.md)
+- [](/b1/grammar/brauchen-zu-infinitiv.md)
+- [](/b1/grammar/lassen-infinitiv.md)
+- [](/b1/how-to/talk-about-goals-and-purpose.md)

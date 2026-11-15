@@ -105,6 +105,6 @@ Meine Tante hat einen Hund.
 
 ## Related articles
 
-- [A1 > Grammar > Noun Gender and Plurals](/a1/grammar/other/nomen-genus-plural.md)
+- [](/a1/grammar/other/nomen-genus-plural.md)
 - [On the farm](/a1/vocabulary/on-the-farm-1.md)
 - [Talk about family](/a1/how-to/talk-about-family.md)

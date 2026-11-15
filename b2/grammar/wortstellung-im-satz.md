@@ -31,8 +31,6 @@ TeKaMoLo (Temporal, Kausal, Modal, Lokal) is a strong default pattern for many n
 | {mo}`Mo` | Wie? | manner phrase |
 | {lo}`Lo` | Wo? / Wohin? | place phrase |
 
-**Examples:**
-
 :::{div} ol-examples
 Wir haben {te}`gestern` {ka}`wegen eines Serverfehlers` {mo}`nur kurz` {lo}`im Büro` gesprochen.
 : Yesterday, we spoke only briefly in the office because of a server error.
@@ -70,8 +68,6 @@ With two objects, German often places the dative object before the accusative ob
 | Dative pronoun + noun | Dative pronoun often before accusative noun | Ich erkläre {dativ}`ihm` {akk}`den Ablauf`. |
 | Two pronouns | Often accusative pronoun before dative pronoun | Ich erkläre {akk}`es` {dativ}`ihm`. |
 
-**Examples:**
-
 :::{div} ol-examples
 Die Assistentin hat {dativ}`dem Kunden` {akk}`den Entwurf` noch am selben Tag geschickt.
 : The assistant sent the client the draft the same day.
@@ -107,8 +103,6 @@ Prepositional phrases can have different functions, and this affects placement. 
 | Verb-bound prepositional complement | Stays close to the verbal core | Wir müssen uns {prep}`auf` die Frist konzentrieren. |
 | Optional adverbial PP | More flexible in the middle field | Wir haben gestern {prep}`über` das Budget gesprochen. |
 | Heavy/long PP | Often later for readability | Ich habe im Meeting lange über die Auswirkungen auf internationale Partner gesprochen. |
-
-**Examples:**
 
 :::{div} ol-examples
 Wir haben gestern lange {prep}`über` die neue Preisstrategie gesprochen.
@@ -169,22 +163,22 @@ Click the link below to practice everything from this page with an interactive t
 
 ## Related articles
 
-- [B2 > Grammar > Zustandspassiv](/b2/grammar/zustandspassiv.md)
-- [B2 > Grammar > Nomen, Verben und Adjektive mit Präpositionen](/b2/grammar/nomen-verben-adjektive-praepositionen.md)
-- [B1 > Grammar > Verben mit Präpositionen und Nebensatz](/b1/grammar/verben-mit-praepositionen.md)
-- [B1 > Grammar > Relativsätze](/b1/grammar/relativsaetze.md)
-- [A2 > Grammar > Verben mit Dativ und Akkusativ](/a2/grammar/cases/verben-mit-dativ-akkusativ.md)
-- [A2 > Grammar > Wechselpräpositionen](/a2/grammar/prepositions/wechselpraepositionen.md)
-- [B2 > Grammar > Negation](/b2/grammar/negation.md)
-- [B2 > Grammar > Modalsätze](/b2/grammar/modalsaetze.md)
-- [B2 > Grammar > Modalpartikeln](/b2/grammar/modalpartikeln.md)
-- [B2 > Grammar > Konnektor während](/b2/grammar/konnektor-waehrend.md)
-- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Grammar > Infinitivkonnektoren](/b2/grammar/infinitivkonnektoren.md)
-- [B2 > Grammar > Das Wort es](/b2/grammar/das-wort-es.md)
-- [B2 > Grammar > Indirekte Rede](/b2/grammar/indirekte-rede.md)
-- [B2 > Grammar > Nomen-Verb-Verbindungen](/b2/grammar/nomen-verb-verbindungen.md)
-- [B2 > Grammar > Irreale Vergleichssätze](/b2/grammar/irreale-vergleichssaetze.md)
-- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)
-- [B2 > Grammar > Relativsätze mit wer](/b2/grammar/relativsaetze-mit-wer.md)
-- [B2 > Grammar > Nominalisierung von Verben](/b2/grammar/nominalisierung.md)
+- [](/b2/grammar/zustandspassiv.md)
+- [](/b2/grammar/nomen-verben-adjektive-praepositionen.md)
+- [](/b1/grammar/verben-mit-praepositionen.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/relativsaetze.md) {bdg-secondary-line}`B1`
+- [](/a2/grammar/cases/verben-mit-dativ-akkusativ.md) {bdg-secondary-line}`A2`
+- [](/a2/grammar/prepositions/wechselpraepositionen.md) {bdg-secondary-line}`A2`
+- [](/b2/grammar/negation.md)
+- [](/b2/grammar/modalsaetze.md)
+- [](/b2/grammar/modalpartikeln.md)
+- [](/b2/grammar/konnektor-waehrend.md)
+- [](/b2/grammar/zweiteilige-konnektoren.md)
+- [](/b2/grammar/infinitivkonnektoren.md)
+- [](/b2/grammar/das-wort-es.md)
+- [](/b2/grammar/indirekte-rede.md)
+- [](/b2/grammar/nomen-verb-verbindungen.md)
+- [](/b2/grammar/irreale-vergleichssaetze.md)
+- [](/b2/grammar/vergleichssaetze.md)
+- [](/b2/grammar/relativsaetze-mit-wer.md)
+- [](/b2/grammar/nominalisierung.md)

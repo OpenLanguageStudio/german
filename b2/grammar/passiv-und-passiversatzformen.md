@@ -29,8 +29,6 @@ The passive puts the process or result in focus, not the person doing it. At B2,
 | Agent optional | von + Dativ | add who did it only when relevant |
 | Formal style | passive common | objective, impersonal tone |
 
-**Examples:**
-
 :::{div} ol-examples
 Der Vertrag **wird** aktuell **geprüft**.
 : The contract is currently being reviewed.
@@ -60,8 +58,6 @@ These two forms are the foundation of the *Vorgangspassiv*. Use *Präsens* for c
 | Präsens | **werden** (present) + Partizip II | Die Daten **werden analysiert**. |
 | Präteritum | **wurden/wurde** + Partizip II | Die Daten **wurden analysiert**. |
 
-**Examples:**
-
 :::{div} ol-examples
 Die Unterlagen **werden** heute noch **gescannt**.
 : The documents are still being scanned today.
@@ -90,8 +86,6 @@ For compound passive tenses, German uses *sein* as the auxiliary. The typical B2
 |---|---|---|
 | Perfekt | **sein** (present) + Partizip II + **worden** | Der Plan **ist angepasst worden**. |
 | Plusquamperfekt | **sein** (präteritum) + Partizip II + **worden** | Der Plan **war angepasst worden**. |
-
-**Examples:**
 
 :::{div} ol-examples
 Die Rechnung **ist** bereits **bezahlt worden**.
@@ -127,8 +121,6 @@ With modal verbs, passive meaning and modality combine in one clause. At B2, the
 | possibility | kann ... werden | Die Datei **kann geteilt werden**. |
 | recommendation/expectation | sollte ... werden | Der Fehler **sollte dokumentiert werden**. |
 
-**Examples:**
-
 :::{div} ol-examples
 Die Ergebnisse **müssen** bis Freitag **ausgewertet werden**.
 : The results must be evaluated by Friday.
@@ -160,8 +152,6 @@ German often avoids full passive forms when a shorter active-looking structure s
 | sich lassen + Infinitiv | practical possibility | neutral, frequent |
 | sein + -bar/-lich adjective | inherent quality | compact, evaluative |
 
-**Examples:**
-
 :::{div} ol-examples
 Der Bericht **wird morgen erstellt**.
 : The report is being prepared tomorrow.
@@ -188,8 +178,6 @@ This structure often appears in instructions, regulations, and formal writing. I
 
 > **sein** (conjugated) + zu + Infinitiv
 
-**Examples:**
-
 :::{div} ol-examples
 Der Antrag **ist bis Ende Mai einzureichen**.
 : The application must be submitted by the end of May.
@@ -215,8 +203,6 @@ Do not confuse this with a regular adjective + infinitive pattern. In *sein + zu
 This form highlights whether something is practically possible and often feels natural in spoken and written everyday German. It is a productive alternative to *kann ... werden* passive patterns.
 
 > **sich lassen** (conjugated) + Infinitiv
-
-**Examples:**
 
 :::{div} ol-examples
 Das Problem **lässt sich** schnell **lösen**.
@@ -248,8 +234,6 @@ Adjectives like *machbar*, *lesbar*, *verständlich* or *nutzbar* package passiv
 | lesbar | kann gelesen werden |
 | verständlich | kann verstanden werden |
 | umsetzbar | kann umgesetzt werden |
-
-**Examples:**
 
 :::{div} ol-examples
 Der Zeitplan ist unter diesen Bedingungen **machbar**.
@@ -295,9 +279,9 @@ Not every verb forms a natural *-bar* adjective. Choose lexicalized, established
 
 ## Related articles
 
-- [B1 > Grammar > Passiv](/b1/grammar/passiv.md)
-- [B1 > Grammar > lassen + Infinitiv](/b1/grammar/lassen-infinitiv.md)
-- [B1 > Grammar > Partizip als Adjektiv](/b1/grammar/partizip-als-adjektiv.md)
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Partizipien als Adjektive](/b2/grammar/partizipien-als-adjektive.md)
-- [B2 > Grammar > Nominalisierung von Verben](/b2/grammar/nominalisierung.md)
+- [](/b1/grammar/passiv.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/lassen-infinitiv.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/partizip-als-adjektiv.md) {bdg-secondary-line}`B1`
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b2/grammar/partizipien-als-adjektive.md)
+- [](/b2/grammar/nominalisierung.md)

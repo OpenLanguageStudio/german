@@ -87,5 +87,5 @@ Anna
 
 ## Related articles
 
-- [A1 > Grammar > The Preposition für](/a1/grammar/prepositions/fuer-akkusativ.md)
+- [](/a1/grammar/prepositions/fuer-akkusativ.md)
 - [Talk about the past](/a1/how-to/talk-about-the-past.md)

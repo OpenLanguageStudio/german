@@ -29,8 +29,6 @@ A Modalsatz adds information about method, procedure, or manner. In many context
 | Method / strategy | Wie? Auf welche Weise? | {conj}`indem` |
 | Process-based explanation | Wodurch? Auf welche Art? | {conj}`dadurch ... dass` |
 
-**Examples:**
-
 :::{div} ol-examples
 Das Team hat den Konflikt gelöst, {conj}`indem` es frühzeitig moderierte.
 : The team solved the conflict by moderating early.
@@ -64,8 +62,6 @@ Use **dadurch ... dass** when you want to foreground the process itself: a chang
 You can also place the clause first:
 
 > {conj}`Dadurch`, {conj}`dass` + subordinate clause, main clause
-
-**Examples:**
 
 :::{div} ol-examples
 Viele Kinder verlieren die Familiensprache {conj}`dadurch`, {conj}`dass` zu Hause fast nur Deutsch gesprochen wird.
@@ -103,8 +99,6 @@ Use **indem** when you present a concrete method that someone actively uses to r
 or
 
 > {conj}`Indem` + subordinate clause, main clause
-
-**Examples:**
 
 :::{div} ol-examples
 Sie hat ihr Hörverstehen verbessert, {conj}`indem` sie täglich Nachrichtenausschnitte analysiert hat.
@@ -172,6 +166,6 @@ Use the link below to practice the full topic interactively.
 
 ## Related articles
 
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b2/grammar/zweiteilige-konnektoren.md)
+- [](/b2/grammar/vergleichssaetze.md)

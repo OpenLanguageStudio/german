@@ -31,8 +31,6 @@ In statements, modal particles usually appear in the middle field, often after t
 | Stress | Usually unstressed; stress can change meaning |
 | Position | Often in the middle field, commonly after the finite verb |
 
-**Examples:**
-
 :::{div} ol-examples
 Das **ist ja** wirklich unerwartet.
 : That really is unexpected, you know.
@@ -66,8 +64,6 @@ These particles are common in statements and exclamations where you react emotio
 | **ja** | marks something as obvious, shared, or newly noticed with emotion |
 | **doch** | counters an assumption, reminds insistently, or reinforces |
 | **aber** | expresses surprise or strong reaction in exclamations |
-
-**Examples:**
 
 :::{div} ol-examples
 Das **ist ja** interessant!
@@ -110,8 +106,6 @@ Use the following link to practice this section.
 | Questions | often sounds less formal, more friendly/curious |
 | Statements | can suggest a quick, casual action |
 
-**Examples:**
-
 :::{div} ol-examples
 Schau **mal**!
 : Look! / Have a look!
@@ -151,8 +145,6 @@ In questions, **denn** often shows interest, surprise, impatience, or emotional 
 | W-questions | adds involvement, curiosity, surprise |
 | Yes/no questions | can sound more engaged or slightly pressing |
 | Follow-up questions | links to previous context naturally |
-
-**Examples:**
 
 :::{div} ol-examples
 Was machst du **denn** hier?
@@ -219,8 +211,8 @@ Click the link below to practice everything from this page with an interactive t
 
 ## Related articles
 
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Negation](/b2/grammar/negation.md)
-- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Vocabulary > Small talk](/b2/vocabulary/smalltalk.md)
-- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b2/grammar/negation.md)
+- [](/b2/grammar/zweiteilige-konnektoren.md)
+- [](/b2/vocabulary/smalltalk.md)
+- [](/b1/grammar/konjunktiv-ii.md) {bdg-secondary-line}`B1`

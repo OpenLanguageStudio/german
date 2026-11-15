@@ -13,7 +13,7 @@ myst:
 :::{note}
 :class: dropdown
 Before reading this article, make sure you are comfortable with:
-- [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)
+- [](/b1/grammar/genitiv.md) {bdg-secondary-line}`B1`
 :::
 
 At B2, actions often need to become compact noun phrases. This is called *Nominalisierung* (or *Substantivierung*), and it is what produces a more formal, information-dense style, especially in reports, academic texts, and professional communication.
@@ -33,8 +33,6 @@ Nominalized structures let you package complex ideas in fewer clauses. Instead o
 |---|---|---|
 | verbal | finite verb clause | direct, dynamic |
 | nominal | noun phrase | compact, formal, abstract |
-
-**Examples:**
 
 :::{div} ol-examples
 Das Team **analysiert** die Daten sehr genau.
@@ -69,8 +67,6 @@ German forms nominalizations in different ways. Some are highly productive (espe
 | **-e** | **die** or **der** | folgen -> die Folge, glauben -> der Glaube |
 | **-(t)nis** | **das** or **die** | erleben -> das Erlebnis, erkennen -> die Erkenntnis |
 | **-(t)ion** | usually **die** | reagieren -> die Reaktion |
-
-**Examples:**
 
 :::{div} ol-examples
 Der **Abbau** von Bürokratie spart Zeit.
@@ -166,8 +162,6 @@ The agent can still be added with **durch + Akkusativ** (cause/means) or sometim
 
 At B2, the goal is not to nominalize everything. Too many nominal phrases can sound heavy. Choose nominal style where precision and compactness matter, and verbal style where readability and rhythm matter.
 
-**Examples:**
-
 :::{div} ol-examples
 Verbal: Der Bericht erklärt, warum die Zahlen sinken.
 : Verbal: The report explains why the numbers are falling.
@@ -212,8 +206,8 @@ A practical strategy: draft in verbal style first, then nominalize only the key 
 
 ## Related articles
 
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Passiv und Passiversatzformen](/b2/grammar/passiv-und-passiversatzformen.md)
-- [B2 > Grammar > Negation](/b2/grammar/negation.md)
-- [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)
-- [B1 > Grammar > Adjektive als Nomen](/b1/grammar/adjektive-als-nomen.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b2/grammar/passiv-und-passiversatzformen.md)
+- [](/b2/grammar/negation.md)
+- [](/b1/grammar/genitiv.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/adjektive-als-nomen.md) {bdg-secondary-line}`B1`

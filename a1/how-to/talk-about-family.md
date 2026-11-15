@@ -44,8 +44,6 @@ The core words start with *der Vater, die Mutter, die Eltern*. Next come *der Br
 
 Saying who you have uses *haben*, and the accusative shows up naturally: *Ich habe **einen** Bruder.*
 
-**Examples:**
-
 :::{div} ol-examples
 Ich habe {akk}`einen Bruder` und {akk}`eine Schwester`.
 : I have a brother and a sister.
@@ -60,8 +58,6 @@ Ich habe {akk}`keine Geschwister`.
 ## Describing family members
 
 The possessive articles pick out each person so something can be said about them: name, age, city, job, or what they like doing. The usual patterns for name, age and home all work here.
-
-**Examples:**
 
 :::{div} ol-examples
 Mein Bruder heißt Jonas.
@@ -173,5 +169,5 @@ Wie groß ist deine Familie?
 
 ## Related articles
 
-- [A1 > Grammar > Possessive Articles](/a1/grammar/articles/possessivartikel.md)
-- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
+- [](/a1/grammar/articles/possessivartikel.md)
+- [](/a1/grammar/cases/akkusativ.md)

@@ -26,8 +26,6 @@ Use *wenn* to say that one thing happens only under a condition. In English, thi
 
 > main clause **,** {conj}`wenn` + subject + ... + {verb}`conjugated verb`
 
-**Examples:**
-
 :::{div} ol-examples
 Ich helfe dir, {conj}`wenn` du Hilfe {verb}`brauchst`.
 : I will help you if you need help.
@@ -61,8 +59,6 @@ Use *wenn* when something happens regularly, usually, or every time a situation 
 
 > {conj}`Wenn` + subject + ... + {verb}`conjugated verb` **,** main clause
 
-**Examples:**
-
 :::{div} ol-examples
 {conj}`Wenn` ich nach Hause {verb}`komme`, trinke ich zuerst einen Tee.
 : When I come home, I drink a tea first.
@@ -95,8 +91,6 @@ Use the following link to practice this section.
 You also use *wenn* for future events. German does not need a separate future marker in the *wenn*-clause. The present tense is enough.
 
 > {conj}`Wenn` + subject + ... + {verb}`present tense` **,** main clause
-
-**Examples:**
 
 :::{div} ol-examples
 Ich rufe dich an, {conj}`wenn` ich zu Hause {verb}`bin`.
@@ -253,4 +247,4 @@ Ich nehme einen Schirm mit, wenn es regnet.
 
 ## Related articles
 
-- [A2 > Grammar > Konjunktiv II](/a2/grammar/verbs/konjunktiv-ii.md)
+- [](/a2/grammar/verbs/konjunktiv-ii.md)

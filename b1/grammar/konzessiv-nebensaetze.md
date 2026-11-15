@@ -151,6 +151,6 @@ Quick check:
 
 ## Related articles
 
-- [A2 > Grammar > Konnektoren: denn, deshalb, trotzdem](/a2/grammar/sub-clauses/konnektoren.md)
-- [B1 > Grammar > Kausal Nebensätze](/b1/grammar/kausal-nebensaetze.md)
-- [B1 > Grammar > wegen und trotz](/b1/grammar/wegen-trotz.md)
+- [](/a2/grammar/sub-clauses/konnektoren.md) {bdg-secondary-line}`A2`
+- [](/b1/grammar/kausal-nebensaetze.md)
+- [](/b1/grammar/wegen-trotz.md)

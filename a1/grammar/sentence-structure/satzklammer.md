@@ -17,7 +17,7 @@ The pattern lies behind {term}`modal verbs <modal verb>` and {term}`separable ve
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > The Verb in Second Position](/a1/grammar/sentence-structure/verb-position-2.md)
+- [](/a1/grammar/sentence-structure/verb-position-2.md)
 :::
 
 ## Two verbs, one frame
@@ -29,8 +29,6 @@ With a modal, the bracket opens with the modal and closes with the infinitive. E
 | Ich **möchte** | einen Kaffee | **trinken**. |
 | Ich **muss** | heute lange | **arbeiten**. |
 | Wir **können** | später einkaufen | **gehen**. |
-
-**Examples:**
 
 :::{div} ol-examples
 Ich {verb}`möchte` einen Kaffee **trinken**.
@@ -44,8 +42,6 @@ Ich {verb}`kann` dich morgen **abholen**.
 
 A separable prefix is simply the closing half of a bracket: *Ich **stehe** um sieben Uhr **auf**.* One verb, two parts, same shape.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich {verb}`stehe` um sieben Uhr {verb}`auf`.
 : I get up at seven o'clock.
@@ -57,8 +53,6 @@ Der Kurs {verb}`fängt` um neun Uhr {verb}`an`.
 ## The bracket survives questions
 
 Questions rearrange the front of the sentence, never the end. The closing part keeps its place: *Kannst du morgen **kommen**? Wann stehst du am Sonntag **auf**?*
-
-**Examples:**
 
 :::{div} ol-examples
 {verb}`Kannst` du morgen **kommen**?
@@ -161,5 +155,5 @@ Wir können später einkaufen gehen.
 
 ## Related articles
 
-- [A1 > Grammar > Separable Verbs](/a1/grammar/verbs/trennbare-verben.md)
-- [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)
+- [](/a1/grammar/verbs/trennbare-verben.md)
+- [](/a1/grammar/verbs/koennen-muessen-wollen.md)

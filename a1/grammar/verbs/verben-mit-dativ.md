@@ -25,8 +25,6 @@ The four are *helfen*, *gefallen*, *gehören* and *schmecken*. In all of them th
 
 The trick: in all four, the person is a receiver, not a target. German marks that receiver with the dative.
 
-**Examples:**
-
 :::{div} ol-examples
 Kannst du {dativ}`mir` helfen?
 : Can you help me?
@@ -41,8 +39,6 @@ Die Suppe schmeckt {dativ}`mir`.
 ## With nouns instead of pronouns
 
 The same verbs work with dative {term}`nouns <noun>`, with the same article forms as after dative {term}`prepositions <preposition>`: *Das Auto gehört meinem Vater.*
-
-**Examples:**
 
 :::{div} ol-examples
 Ich helfe {dativ}`meiner Oma` im Garten.
@@ -149,5 +145,5 @@ Er hilft mir gern.
 
 ## Related articles
 
-- [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
-- [A1 > Grammar > Personal Pronouns: Dative](/a1/grammar/pronouns/personalpronomen-dativ.md)
+- [](/a1/grammar/cases/dativ.md)
+- [](/a1/grammar/pronouns/personalpronomen-dativ.md)

@@ -24,8 +24,6 @@ Each is locked to one kind of time word. There is no choosing, which makes them 
 | am | days, dates, parts of the day | am Montag, am ersten Mai, am Abend |
 | im | months, seasons | im Januar, im Sommer |
 
-**Examples:**
-
 :::{div} ol-examples
 Der Kurs beginnt {prep}`um` neun Uhr.
 : The course starts at nine.
@@ -41,8 +39,6 @@ Der Kurs beginnt {prep}`um` neun Uhr.
 
 *Von ... bis* frames a span; *seit* marks a starting point that still holds, always with the dative, always with the present tense.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich arbeite {prep}`von` neun {prep}`bis` fünf.
 : I work from nine to five.
@@ -57,8 +53,6 @@ Ich lerne {prep}`seit` einem Jahr Deutsch.
 ## Before and after: *vor*, *nach*
 
 *Vor* (before) and *nach* (after) order events, both with the dative: *vor der Arbeit*, *nach dem Essen*.
-
-**Examples:**
 
 :::{div} ol-examples
 {prep}`Nach` der Arbeit bin ich müde.
@@ -161,5 +155,5 @@ Am Sonntag schlafe ich lange.
 ## Related articles
 
 - [Tell the time and day](/a1/how-to/tell-the-time-and-day.md)
-- [A1 > Grammar > Ordinal Numbers and Dates](/a1/grammar/other/ordinalzahlen-datum.md)
-- [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
+- [](/a1/grammar/other/ordinalzahlen-datum.md)
+- [](/a1/grammar/cases/dativ.md)

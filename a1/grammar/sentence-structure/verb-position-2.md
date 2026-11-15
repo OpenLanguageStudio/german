@@ -18,8 +18,6 @@ Second position means the second slot, not the second word: *Nach der Arbeit* is
 
 With the subject up front, German looks like English:
 
-**Examples:**
-
 :::{div} ol-examples
 {subj}`Ich` {verb}`fahre` heute nach Berlin.
 : I am going to Berlin today.
@@ -37,8 +35,6 @@ A sentence can open with a time, a place, or anything a speaker wants to stress,
 | Ich | fahre | | heute nach Berlin. |
 | Heute | fahre | ich | nach Berlin. |
 | Nach der Arbeit | gehe | ich | nach Hause. |
-
-**Examples:**
 
 :::{div} ol-examples
 Heute {verb}`fahre` {subj}`ich` nach Berlin.

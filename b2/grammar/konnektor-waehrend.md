@@ -28,8 +28,6 @@ In temporal use, {conj}`während` answers the question "when?" You use it when o
 >
 > Main clause, {conj}`während` + subject + ... + {verb}`finite verb` (at the end).
 
-**Examples:**
-
 :::{div} ol-examples
 {conj}`Während` ich den Bericht {verb}`schrieb`, hat das Team schon mit der Auswertung begonnen.
 : While I was writing the report, the team had already started the analysis.
@@ -66,8 +64,6 @@ In concessive/contrastive use, {conj}`während` means "whereas" or "while" in th
 | Temporal | Wann? | at the same time |
 | Concessive/contrastive | Wie stehen die Aussagen zueinander? | opposition or contrast |
 
-**Examples:**
-
 :::{div} ol-examples
 {conj}`Während` viele Mitarbeitende Flexibilität fordern, wünschen sich andere klare Präsenzregeln.
 : While many employees demand flexibility, others want clear on-site rules.
@@ -98,8 +94,6 @@ Use the following link to practice this section.
 ## How context tells you the meaning
 
 The form is the same in both uses, so meaning comes from context. Look at the kind of information in both clauses: time flow usually signals temporal meaning, opposing evaluations usually signal concessive meaning.
-
-**Examples:**
 
 :::{div} ol-examples
 {conj}`Während` ich den Vertrag {verb}`las`, machte sie sich Notizen.
@@ -162,9 +156,9 @@ Use the link below to practice the full topic interactively.
 
 ## Related articles
 
-- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Präpositionen mit Genitiv](/b2/grammar/praepositionen-mit-genitiv.md)
-- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)
-- [B1 > Grammar > Temporal Nebensätze](/b1/grammar/temporal-nebensaetze.md)
-- [B1 > Grammar > Konzessiv Nebensätze](/b1/grammar/konzessiv-nebensaetze.md)
+- [](/b2/grammar/zweiteilige-konnektoren.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b2/grammar/praepositionen-mit-genitiv.md)
+- [](/b2/grammar/vergleichssaetze.md)
+- [](/b1/grammar/temporal-nebensaetze.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/konzessiv-nebensaetze.md) {bdg-secondary-line}`B1`

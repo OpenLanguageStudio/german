@@ -94,4 +94,4 @@ Two habits are worth keeping: fill the *Betreff* line with two or three words, a
 
 ## Related articles
 
-- [A1 > Grammar > du, ihr, or Sie](/a1/grammar/pronouns/anredeformen.md)
+- [](/a1/grammar/pronouns/anredeformen.md)

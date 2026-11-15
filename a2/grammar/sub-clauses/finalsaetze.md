@@ -35,8 +35,6 @@ Use {conj}`damit` when the person in the main clause is **not** the same as the 
 
 The {conj}`damit` clause is a subordinate clause, so the finite verb goes to the end.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich spreche langsam, {conj}`damit` du mich **verstehst**.
 : I speak slowly so that you understand me.
@@ -69,8 +67,6 @@ Use {conj}`um` ... {verb}`zu` when the subject is the **same** in both parts.
 > Main clause, **{conj}`um`** + ... + **{verb}`zu`** + infinitive.
 
 This is an infinitive construction, so there is no conjugated verb inside the purpose part.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich lerne jeden Abend, {conj}`um` die Prüfung {verb}`zu` bestehen.
@@ -363,6 +359,6 @@ Click the link below to practice everything from this page with an interactive t
 
 ## Related articles
 
-- [A2 > How to > Ask indirect questions](/a2/how-to/ask-indirect-questions.md)
-- [A2 > How to > Ask, wish and advise politely](/a2/how-to/ask-wish-and-advise-politely.md)
-- [A2 > Grammar > werden](/a2/grammar/verbs/verb-werden.md)
+- [](/a2/how-to/ask-indirect-questions.md)
+- [](/a2/how-to/ask-wish-and-advise-politely.md)
+- [](/a2/grammar/verbs/verb-werden.md)

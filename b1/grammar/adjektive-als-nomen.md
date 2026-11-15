@@ -179,5 +179,5 @@ After **etwas** and **nichts**, the nominalized adjective is **always neuter**, 
 
 ## Related articles
 
-- [A2 > Grammar > Adjektivendungen](/a2/grammar/adjectives/adjektivendungen.md)
-- [B1 > Grammar > N-Deklination](/b1/grammar/n-deklination.md)
+- [](/a2/grammar/adjectives/adjektivendungen.md) {bdg-secondary-line}`A2`
+- [](/b1/grammar/n-deklination.md)

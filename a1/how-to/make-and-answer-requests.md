@@ -43,8 +43,6 @@ The usual polite request is a question with *können*, a {term}`modal verb` that
 
 The polite workhorse is a question with *können*: name the person, then what you want, with the action verb at the very end. Add *bitte* anywhere in the middle and the request cannot sound harsh.
 
-**Examples:**
-
 :::{div} ol-examples
 Kannst du das Fenster öffnen?
 : Can you open the window?
@@ -57,8 +55,6 @@ Kann ich eine Frage stellen?
 :::
 
 Short commands are fine in German when *bitte* rides along, especially for small everyday things. The full {term}`imperative` has its own grammar article, and at A1 these work best as fixed patterns.
-
-**Examples:**
 
 :::{div} ol-examples
 Einen Moment, bitte.
@@ -74,8 +70,6 @@ Hilf mir bitte!
 ## Saying yes and saying no
 
 Accepting is short: *Ja, gern. Natürlich. Kein Problem.* Declining pairs an apology with a reason: *Tut mir leid, ich habe keine Zeit.* A reason, even a small one, keeps the no friendly.
-
-**Examples:**
 
 :::{div} ol-examples
 Das mache ich gern.
@@ -183,5 +177,5 @@ Vielen Dank!
 
 ## Related articles
 
-- [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)
-- [A1 > Grammar > The Imperative](/a1/grammar/verbs/imperativ.md)
+- [](/a1/grammar/verbs/koennen-muessen-wollen.md)
+- [](/a1/grammar/verbs/imperativ.md)

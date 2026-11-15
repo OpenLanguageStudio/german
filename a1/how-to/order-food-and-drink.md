@@ -43,8 +43,6 @@ The script combines two {term}`verbs <verb>` with one point of grammar. *Ich mö
 
 *Ich möchte* and *Ich nehme* carry every order; the dish stands in the accusative. In a group, *Für mich ...* keeps track of who ordered what.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich möchte {akk}`eine Pizza`, bitte.
 : I would like a pizza, please.
@@ -57,8 +55,6 @@ Für mich einen Kaffee, bitte.
 :::
 
 *Kein* states what someone avoids, and *empfehlen* (to recommend) asks the staff for help.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich esse {article}`kein` Fleisch.
@@ -74,8 +70,6 @@ Was können Sie empfehlen?
 ## Paying
 
 *Die Rechnung, bitte* or *Ich möchte bezahlen, bitte* brings the bill. Expect the question *Zusammen oder getrennt?*; German restaurants split bills without blinking.
-
-**Examples:**
 
 :::{div} ol-examples
 Die Rechnung, bitte.
@@ -180,5 +174,5 @@ Das Essen war sehr gut.
 
 ## Related articles
 
-- [A1 > Grammar > möchten](/a1/grammar/verbs/moechten.md)
-- [A1 > Grammar > Negative Articles](/a1/grammar/articles/negativartikel.md)
+- [](/a1/grammar/verbs/moechten.md)
+- [](/a1/grammar/articles/negativartikel.md)
