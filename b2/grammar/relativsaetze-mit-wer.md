@@ -32,8 +32,6 @@ The key B2 rule: the case in the first clause and the case in the second clause 
 | Direct object in first clause | {pronoun}`Wen` | der / den / dem | Wen ..., der/den/dem ... |
 | Indirect object in first clause | {pronoun}`Wem` | der / den / dem | Wem ..., der/den/dem ... |
 
-**Examples:**
-
 :::{div} ol-examples
 **Wer** offen kommuniziert, **der** löst viele Konflikte schneller.
 : Whoever communicates openly solves many conflicts faster.
@@ -63,8 +61,6 @@ Use the following link to practice this section.
 Use this pattern when the free relative pronoun is the subject in the first clause. It is very common in general truths, recommendations, and formal advice.
 
 > {pronoun}`Wer` + ... + verb, {pronoun}`der` + ...
-
-**Examples:**
 
 :::{div} ol-examples
 **Wer** regelmäßig Feedback einholt, **der** entwickelt sich schneller.
@@ -96,8 +92,6 @@ In B2 usage, accusative often appears because the person from the first clause b
 
 > {pronoun}`Wer` + ... , {pronoun}`den` + subject + ...
 > {pronoun}`Wen` + subject + ... , {pronoun}`der` + ...
-
-**Examples:**
 
 :::{div} ol-examples
 **Wer** zu spät absagt, **den** berücksichtigen wir beim nächsten Termin später.
@@ -131,8 +125,6 @@ Use the following link to practice this section.
 This pattern appears when the first clause needs dative, often with verbs like *vertrauen*, *helfen*, *antworten*, or *zuhören*. In your target pattern, the second clause can still be nominative: *Wem ..., der ...*.
 
 > {pronoun}`Wem` + ... , {pronoun}`der` + ...
-
-**Examples:**
 
 :::{div} ol-examples
 **Wem** man früh Verantwortung überträgt, **der** wächst oft schnell in die Rolle hinein.
@@ -195,8 +187,8 @@ Click the link below to practice everything from this page with an interactive t
 
 ## Related articles
 
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B1 > Grammar > Relativsätze](/b1/grammar/relativsaetze.md)
-- [B1 > Grammar > Relativsätze mit "was" und "wo"](/b1/grammar/relativsaetze-was-wo.md)
-- [A2 > Grammar > Relativsätze](/a2/grammar/sub-clauses/relativsaetze.md)
-- [B2 > Grammar > Indefinitpronomen](/b2/grammar/indefinitpronomen.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b1/grammar/relativsaetze.md) {level}`B1`
+- [](/b1/grammar/relativsaetze-was-wo.md) {level}`B1`
+- [](/a2/grammar/sub-clauses/relativsaetze.md) {level}`A2`
+- [](/b2/grammar/indefinitpronomen.md)

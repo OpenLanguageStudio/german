@@ -283,4 +283,4 @@ Das ist Ellas Geheimnis.
 
 ## Related articles
 
-- [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)
+- [](/b1/grammar/genitiv.md) {level}`B1`

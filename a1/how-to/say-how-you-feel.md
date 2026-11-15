@@ -43,8 +43,6 @@ Each kind of feeling has its own pattern. Moods use *sein* plus an {term}`adject
 
 Feelings take *sein* plus an adjective: *müde, krank, glücklich, traurig, nervös, zufrieden*. Soften with *ein bisschen*, strengthen with *sehr*.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich bin ein bisschen nervös.
 : I am a little nervous.
@@ -60,8 +58,6 @@ Wir sind sehr zufrieden.
 
 Pains come in two patterns: *haben* with a *-schmerzen* noun, or a body part with *wehtun*. Being ill has its own words: *krank*, *erkältet*, *Fieber haben*.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich habe Kopfschmerzen.
 : I have a headache.
@@ -76,8 +72,6 @@ Ich bin erkältet und habe Fieber.
 When someone else is ill, the fixed response is *Gute Besserung!*
 
 *Was ist los?* asks what is wrong; *Alles in Ordnung?* checks that things are fine. The reassuring answer: *Alles ist in Ordnung.*
-
-**Examples:**
 
 :::{div} ol-examples
 Was ist los?
@@ -179,5 +173,5 @@ Alles ist in Ordnung.
 
 ## Related articles
 
-- [A1 > Grammar > Predicate Adjectives](/a1/grammar/adjectives/praedikative-adjektive.md)
-- [A1 > Grammar > Personal Pronouns: Dative](/a1/grammar/pronouns/personalpronomen-dativ.md)
+- [](/a1/grammar/adjectives/praedikative-adjektive.md)
+- [](/a1/grammar/pronouns/personalpronomen-dativ.md)

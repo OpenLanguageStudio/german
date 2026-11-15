@@ -109,6 +109,6 @@ Die Familie arbeitet jeden Tag.
 
 ## Related articles
 
-- [Pets and animals](/a1/vocabulary/pets-and-animals-1.md)
-- [Describe a daily routine](/a1/how-to/describe-a-daily-routine.md)
-- [In the supermarket](/a1/vocabulary/in-the-supermarket-1.md)
+- [](/a1/vocabulary/pets-and-animals-1.md)
+- [](/a1/how-to/describe-a-daily-routine.md)
+- [](/a1/vocabulary/in-the-supermarket-1.md)

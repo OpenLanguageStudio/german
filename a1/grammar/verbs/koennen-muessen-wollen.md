@@ -30,8 +30,6 @@ All three change their vowel in the singular and drop the endings for *ich* and 
 
 *Können* covers ability and possibility, *müssen* necessity, *wollen* firm intention. In each case the main verb waits at the end.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich {verb}`kann` gut **schwimmen**.
 : I can swim well.
@@ -46,8 +44,6 @@ Ich {verb}`will` Deutsch **lernen**.
 ## The bracket in questions and negation
 
 Questions put the modal first; the infinitive still ends the sentence. *Nicht* slots in before the infinitive.
-
-**Examples:**
 
 :::{div} ol-examples
 {verb}`Kannst` du morgen **kommen**?
@@ -159,4 +155,4 @@ Ich kann heute leider nicht.
 
 ## Related articles
 
-- [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)
+- [](/a1/grammar/sentence-structure/satzklammer.md)

@@ -110,6 +110,6 @@ Der Apfelbaum wächst jedes Jahr.
 
 ## Related articles
 
-- [At the park](/a1/vocabulary/at-the-park-1.md)
-- [Talk about the weather](/a1/how-to/talk-about-the-weather.md)
-- [Describe your home](/a1/how-to/describe-your-home.md)
+- [](/a1/vocabulary/at-the-park-1.md)
+- [](/a1/how-to/talk-about-the-weather.md)
+- [](/a1/how-to/describe-your-home.md)

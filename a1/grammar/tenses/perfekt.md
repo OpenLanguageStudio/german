@@ -17,15 +17,13 @@ It has two parts, which form a {term}`sentence bracket`. *Haben* or sometimes *s
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > The Past Participle](/a1/grammar/tenses/partizip-ii.md)
-- [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)
+- [](/a1/grammar/tenses/partizip-ii.md)
+- [](/a1/grammar/sentence-structure/satzklammer.md)
 :::
 
 ## The pattern with *haben*
 
 Most verbs build the Perfekt with *haben*: {term}`conjugate <conjugation>` it as usual, park the participle last.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich {verb}`habe` eine Pizza **gegessen**.
@@ -42,8 +40,6 @@ Wir {verb}`haben` am Samstag **eingekauft**.
 
 Verbs of movement from A to B (*gehen, fahren, kommen*) and change of state (*aufstehen*) use *sein* instead: *Ich **bin** gegangen.* At A1 this is a short list; learn it with the verb.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich {verb}`bin` nach Hause **gegangen**.
 : I went home.
@@ -58,8 +54,6 @@ Wir {verb}`sind` spät **aufgestanden**.
 ## Questions and negation
 
 The bracket behaves exactly as with the {term}`modals <modal verb>`: the helper moves for questions, *nicht* and *noch nicht* stand before the participle.
-
-**Examples:**
 
 :::{div} ol-examples
 {verb}`Hast` du schon **gegessen**?
@@ -167,4 +161,4 @@ Wohin bist du gefahren?
 
 ## Related articles
 
-- [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)
+- [](/a1/grammar/sentence-structure/satzklammer.md)

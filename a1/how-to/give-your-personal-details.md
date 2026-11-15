@@ -63,8 +63,6 @@ From 21 upwards, German says the unit first, then the ten, joined by *und*: 21 i
 | 40 vierzig | 80 achtzig |
 | 50 fünfzig | 90 neunzig |
 
-**Examples:**
-
 :::{div} ol-examples
 einundzwanzig
 : twenty-one (one-and-twenty)
@@ -79,8 +77,6 @@ neunundneunzig
 ## Phone numbers and addresses
 
 Phone numbers are read digit by digit. Addresses put the house number after the street name, and the postcode before the city.
-
-**Examples:**
 
 :::{div} ol-examples
 Meine Nummer ist null, eins, sieben, zwei.
@@ -188,4 +184,4 @@ Hausnummer sechsundzwanzig.
 
 ## Related articles
 
-- [Tell the time and day](/a1/how-to/tell-the-time-and-day.md)
+- [](/a1/how-to/tell-the-time-and-day.md)

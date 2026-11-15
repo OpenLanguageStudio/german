@@ -105,6 +105,6 @@ Ich sitze gern in der Sonne.
 
 ## Related articles
 
-- [In the garden](/a1/vocabulary/in-the-garden-1.md)
-- [Sports and games](/a1/vocabulary/sports-and-games-1.md)
-- [Talk about the weather](/a1/how-to/talk-about-the-weather.md)
+- [](/a1/vocabulary/in-the-garden-1.md)
+- [](/a1/vocabulary/sports-and-games-1.md)
+- [](/a1/how-to/talk-about-the-weather.md)

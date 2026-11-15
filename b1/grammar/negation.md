@@ -175,5 +175,5 @@ Quick test: if you can say "no, on the contrary, the truth is...", use *sondern*
 
 ## Related articles
 
-- [B1 > Grammar > brauchen + zu + Infinitiv](/b1/grammar/brauchen-zu-infinitiv.md)
-- [B1 > Grammar > Zweiteilige Konnektoren](/b1/grammar/zweiteilige-konnektoren.md)
+- [](/b1/grammar/brauchen-zu-infinitiv.md)
+- [](/b1/grammar/zweiteilige-konnektoren.md)

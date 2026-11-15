@@ -43,8 +43,6 @@ This is a reading and listening skill, so the goal is catching these phrases mor
 
 Signs compress language to its bones: no articles, no full sentences. Opening hours run *von ... bis ...*, prohibitions end in *verboten*.
 
-**Examples:**
-
 :::{div} ol-examples
 Geöffnet von neun bis achtzehn Uhr.
 : Open from nine to six.
@@ -58,8 +56,6 @@ Rauchen verboten.
 
 *Bitte* plus an infinitive is the polite official voice: *Bitte hier warten. Bitte drücken.* It appears on machines, counters and doors everywhere.
 
-**Examples:**
-
 :::{div} ol-examples
 Bitte hier warten.
 : Please wait here.
@@ -71,8 +67,6 @@ Der Aufzug ist kaputt.
 ## At the station
 
 Announcements recycle the same handful of patterns with different numbers. The words to catch are the platform (*Gleis*), the delay (*Verspätung*) and the stop (*Halt*).
-
-**Examples:**
 
 :::{div} ol-examples
 Der Zug nach München fährt von Gleis fünf.
@@ -177,5 +171,5 @@ Der Aufzug ist kaputt.
 
 ## Related articles
 
-- [Give your personal details](/a1/how-to/give-your-personal-details.md)
-- [Tell the time and day](/a1/how-to/tell-the-time-and-day.md)
+- [](/a1/how-to/give-your-personal-details.md)
+- [](/a1/how-to/tell-the-time-and-day.md)

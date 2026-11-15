@@ -20,8 +20,6 @@ Use **um...zu** when the subject performing the action and the subject pursuing 
 
 > [Main clause]**, um** + [other elements] + **zu** + Infinitiv
 
-**Examples:**
-
 :::{div} ol-examples
 Ich spare Geld, {conj}`um` eine neue Jacke **zu kaufen**.
 : I'm saving money in order to buy a new jacket.
@@ -58,8 +56,6 @@ The "um...zu" phrase can also come **first** in the sentence. When it does, the 
 Use **damit** when the subject performing the action and the person who benefits from or carries out the goal are **different people or things**. "damit" introduces a full subordinate clause with its own subject, and the conjugated verb goes to the very end, just like in any other *Nebensatz*.
 
 > [Main clause]**, damit** + Subjekt + [other elements] + **conjugated verb** (at end)
-
-**Examples:**
 
 :::{div} ol-examples
 Ich erkläre es nochmal, {conj}`damit` du es **verstehst**.
@@ -137,4 +133,4 @@ A quick mental test: translate the sentence mentally into English. After "so tha
 
 ## Related articles
 
-- [B1 > How to > Talk about goals and purpose](/b1/how-to/talk-about-goals-and-purpose.md)
+- [](/b1/how-to/talk-about-goals-and-purpose.md)

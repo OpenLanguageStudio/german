@@ -23,8 +23,6 @@ A {term}`pronoun` is a short word that stands in for a {term}`noun`. One rule ca
 | {stack}`er / sie / es \| he / she / it` | {stack}`sie \| they` |
 |  | {stack}`Sie \| you (formal)` |
 
-**Examples:**
-
 :::{div} ol-examples
 {pronoun}`Wir` lernen zusammen Deutsch.
 : We are learning German together.
@@ -39,8 +37,6 @@ A {term}`pronoun` is a short word that stands in for a {term}`noun`. One rule ca
 ## *er*, *sie*, *es* follow gender
 
 A pronoun replaces a noun already mentioned, and it copies that noun's grammatical gender. *Der Bus* becomes *er*, *die Suppe* becomes *sie*, *das Buch* becomes *es*, whether or not the thing is alive.
-
-**Examples:**
 
 :::{div} ol-examples
 Wo ist der Bus? {pronoun}`Er` kommt gleich.
@@ -146,4 +142,4 @@ Es ist kalt heute.
 
 ## Related articles
 
-- [A1 > Grammar > The Nominative Case](/a1/grammar/cases/nominativ.md)
+- [](/a1/grammar/cases/nominativ.md)

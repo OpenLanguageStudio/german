@@ -55,6 +55,6 @@ deshalb/deswegen/darum are common and neutral. sodass and so ... dass are a bit 
 
 ## Related articles
 
-- [B1 > Grammar > Konsekutiv Nebensätze](/b1/grammar/konsekutiv-nebensaetze.md)
-- [B1 > Grammar > Saetze mit je ..., desto/umso ...](/b1/grammar/je-desto.md)
-- [B1 > Grammar > Kausal Nebensätze](/b1/grammar/kausal-nebensaetze.md)
+- [](/b1/grammar/konsekutiv-nebensaetze.md)
+- [](/b1/grammar/je-desto.md)
+- [](/b1/grammar/kausal-nebensaetze.md)

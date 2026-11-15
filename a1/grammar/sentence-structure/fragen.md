@@ -18,8 +18,6 @@ A yes/no question puts the {term}`conjugated <conjugation>` {term}`verb` first a
 
 Move the conjugated verb to the front, subject right behind it, done. The answer starts with *ja* or *nein*.
 
-**Examples:**
-
 :::{div} ol-examples
 {verb}`Kommst` du aus Spanien?
 : Do you come from Spain?
@@ -34,8 +32,6 @@ Move the conjugated verb to the front, subject right behind it, done. The answer
 ## W-questions: question word, then verb
 
 Open with the question word, and the verb takes its usual second position. The W-words: *wer* (who), *was* (what), *wo* (where), *woher* (from where), *wohin* (where to), *wann* (when), *wie* (how), *warum* (why).
-
-**Examples:**
 
 :::{div} ol-examples
 Wann {verb}`kommst` du nach Hause?
@@ -141,5 +137,5 @@ Ja, das verstehe ich.
 
 ## Related articles
 
-- [A1 > Grammar > Question Pronouns wer, wen, wem, was](/a1/grammar/question-words/fragepronomen.md)
-- [A1 > Grammar > Question Words for Circumstances](/a1/grammar/question-words/fragewoerter-umstaende.md)
+- [](/a1/grammar/question-words/fragepronomen.md)
+- [](/a1/grammar/question-words/fragewoerter-umstaende.md)

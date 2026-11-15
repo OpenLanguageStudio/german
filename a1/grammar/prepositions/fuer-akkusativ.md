@@ -18,8 +18,6 @@ A preposition is a small word in front of a {term}`noun` that shows how it relat
 
 Whoever benefits stands in the accusative: *für dich, für meinen Sohn, für die ganze Familie*. The question: *Für wen ...?*
 
-**Examples:**
-
 :::{div} ol-examples
 Das Geschenk ist {prep}`für` dich.
 : The present is for you.
@@ -35,8 +33,6 @@ Die Blumen sind {prep}`für` meine Mutter.
 
 What something serves or belongs to: *für die Arbeit, für den Kurs, für die Party*.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich brauche das {prep}`für` die Arbeit.
 : I need that for work.
@@ -48,8 +44,6 @@ Der Kuchen ist {prep}`für` die Party.
 ## Prices and durations
 
 *Für* names a price (*für zwei Euro*) and a planned duration (*für eine Woche*).
-
-**Examples:**
 
 :::{div} ol-examples
 Ein Kilo Äpfel {prep}`für` zwei Euro.
@@ -150,5 +144,5 @@ Ich koche für die ganze Familie.
 
 ## Related articles
 
-- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
-- [A1 > Grammar > Personal Pronouns: Accusative](/a1/grammar/pronouns/personalpronomen-akkusativ.md)
+- [](/a1/grammar/cases/akkusativ.md)
+- [](/a1/grammar/pronouns/personalpronomen-akkusativ.md)

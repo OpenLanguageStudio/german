@@ -104,6 +104,6 @@ Wer kocht am Sonntag?
 
 ## Related articles
 
-- [Describe your home](/a1/how-to/describe-your-home.md)
-- [In the supermarket](/a1/vocabulary/in-the-supermarket-1.md)
-- [Say where things are](/a1/how-to/say-where-things-are.md)
+- [](/a1/how-to/describe-your-home.md)
+- [](/a1/vocabulary/in-the-supermarket-1.md)
+- [](/a1/how-to/say-where-things-are.md)

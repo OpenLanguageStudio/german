@@ -260,4 +260,4 @@ Welches Restaurant ist besser?
 
 ## Related articles
 
-- [A2 > How to > Ask indirect questions](/a2/how-to/ask-indirect-questions.md)
+- [](/a2/how-to/ask-indirect-questions.md)

@@ -2,7 +2,7 @@
 html_theme.sidebar_secondary.remove:
 ---
 
-# Grammatical Cases
+# Grammatical cases
 
 Cases mark the job a noun does in a sentence: subject, direct object, or indirect object. German shows the case mostly in the article. A1 has three cases: nominative, accusative, and a first taste of the dative.
 

@@ -17,9 +17,9 @@ A case is the form a {term}`noun` and its article take to show their job in the 
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > The Nominative Case](/a1/grammar/cases/nominativ.md)
-- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
-- [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
+- [](/a1/grammar/cases/nominativ.md)
+- [](/a1/grammar/cases/akkusativ.md)
+- [](/a1/grammar/cases/dativ.md)
 :::
 
 ## All the forms in one table
@@ -37,8 +37,6 @@ Two observations carry most of the weight: the accusative only changes the {term
 1. **Who is doing it?** The subject, found with *wer oder was?*, is nominative.
 2. **What does the action land on?** The direct object, found with *wen oder was?*, is accusative.
 3. **Is there a dative preposition in front?** After *aus, bei, mit, nach, von, zu, seit*, it is dative, always.
-
-**Examples:**
 
 :::{div} ol-examples
 {subj}`Der Mann` kauft {akk}`einen Apfel`.

@@ -42,8 +42,6 @@ Talking about abilities in German needs one {term}`modal verb`, *können*, and a
 
 *Können* comes second, and the skill closes the sentence as an infinitive. Grade it with *gut*, *sehr gut*, or *ein bisschen*.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich kann gut **schwimmen**.
 : I can swim well.
@@ -59,8 +57,6 @@ Sie kann Auto **fahren**.
 
 *Nicht* slots in before the closing infinitive. For skills still on the way, *noch nicht* (not yet) is kinder and often truer; its opposite *schon* (already) celebrates progress.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich kann **nicht** singen.
 : I can't sing.
@@ -73,8 +69,6 @@ Meine Tochter kann **schon** lesen.
 :::
 
 *Kannst du ...?* and *Können Sie ...?* ask about ability; *Was kannst du gut?* opens the topic wide.
-
-**Examples:**
 
 :::{div} ol-examples
 Kannst du Gitarre spielen?
@@ -173,5 +167,5 @@ Wir können zusammen üben.
 
 ## Related articles
 
-- [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)
-- [A1 > Grammar > Negation with nicht and kein](/a1/grammar/sentence-structure/negation.md)
+- [](/a1/grammar/verbs/koennen-muessen-wollen.md)
+- [](/a1/grammar/sentence-structure/negation.md)

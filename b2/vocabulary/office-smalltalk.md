@@ -110,4 +110,4 @@ Tom: Mach ich.
 
 ## Related articles
 
-- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
+- [](/b1/grammar/konjunktiv-ii.md) {level}`B1`

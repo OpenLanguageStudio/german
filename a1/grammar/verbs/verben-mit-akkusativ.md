@@ -17,7 +17,7 @@ The thing they act on is the {term}`direct object`, and German puts it in the ac
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
+- [](/a1/grammar/cases/akkusativ.md)
 :::
 
 ## The core accusative verbs
@@ -35,8 +35,6 @@ Before reading this article, make sure you are comfortable with:
 | {stack}`kennen \| to know (people, places)` | *Kennst du meinen Bruder?* |
 | {stack}`besuchen \| to visit` | *Wir besuchen unsere Großeltern.* |
 
-**Examples:**
-
 :::{div} ol-examples
 Ich brauche {akk}`einen Regenschirm`.
 : I need an umbrella.
@@ -51,8 +49,6 @@ Kennst du {akk}`meinen Bruder`?
 ## The test: *wen oder was*
 
 After each of these verbs the question *wen?* or *was?* works, and whatever answers it is accusative. *Sein* is not on this list. After *sein* both sides stay nominative: *Das ist der Bahnhof*, never *den Bahnhof*.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich sehe {akk}`den Turm`.
@@ -157,4 +153,4 @@ Wen kennst du hier?
 
 ## Related articles
 
-- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
+- [](/a1/grammar/cases/akkusativ.md)

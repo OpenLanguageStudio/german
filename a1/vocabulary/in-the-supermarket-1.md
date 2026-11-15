@@ -109,6 +109,6 @@ Kaufst du heute ein?
 
 ## Related articles
 
-- [Shop and pay](/a1/how-to/shop-and-pay.md)
-- [In the kitchen](/a1/vocabulary/in-the-kitchen-1.md)
-- [A1 > Grammar > Separable Verbs](/a1/grammar/verbs/trennbare-verben.md)
+- [](/a1/how-to/shop-and-pay.md)
+- [](/a1/vocabulary/in-the-kitchen-1.md)
+- [](/a1/grammar/verbs/trennbare-verben.md)

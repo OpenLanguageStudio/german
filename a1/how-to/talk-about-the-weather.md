@@ -42,8 +42,6 @@ German weather sentences have no real {term}`subject`, so *es* stands in: *Es re
 
 German weather sentences have no real subject, so *es* stands in: *Es regnet*, *Es ist kalt*. Degrees, oddly, take *sind*: *Es sind dreißig Grad.*
 
-**Examples:**
-
 :::{div} ol-examples
 Es regnet.
 : It is raining.
@@ -59,8 +57,6 @@ Es sind nur fünf Grad.
 
 The present tense covers the forecast too; *morgen* alone pushes it into the future. No new {term}`verb` forms are needed.
 
-**Examples:**
-
 :::{div} ol-examples
 Das Wetter ist heute schlecht.
 : The weather is bad today.
@@ -73,8 +69,6 @@ Nimm eine Jacke mit!
 :::
 
 *Der Frühling, der Sommer, der Herbst, der Winter*; each takes *im*: *im Sommer ist es warm*.
-
-**Examples:**
 
 :::{div} ol-examples
 Im Winter schneit es oft.
@@ -176,4 +170,4 @@ Hoffentlich scheint morgen die Sonne.
 
 ## Related articles
 
-- [A1 > Grammar > Personal Pronouns: Nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md)
+- [](/a1/grammar/pronouns/personalpronomen-nominativ.md)

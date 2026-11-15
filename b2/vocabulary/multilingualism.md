@@ -75,5 +75,5 @@ Heute würde ich sagen: Mehrsprachigkeit ist kein Wettbewerb, sondern eine Lands
 
 ## Related articles
 
-- [A2 > Grammar > Nebensätze](/a2/grammar/sub-clauses/index.md)
-- [A2 > Grammar > Relativsätze](/a2/grammar/sub-clauses/relativsaetze.md)
+- [](/a2/grammar/sub-clauses/index.md) {level}`A2`
+- [](/a2/grammar/sub-clauses/relativsaetze.md) {level}`A2`

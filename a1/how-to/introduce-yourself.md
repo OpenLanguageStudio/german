@@ -27,7 +27,7 @@ Each of the four sentences starts with *ich* and a {term}`verb`: *Ich heiße*, *
 | Phrase | Notes |
 |---|---|
 | {stack}`Ich heiße … \| My name is …` | most common opener |
-| {stack}`Mein Name ist … \| My name is …` | slightly more formal |
+| {stack}`Mein Name ist … \| My name is …` | {bdg-light}`formal` |
 | {stack}`Ich komme aus … \| I come from …` | country or city |
 | {stack}`Ich wohne in … \| I live in …` | city or district |
 | {stack}`Ich bin … Jahre alt. \| I am … years old.` | with a number |
@@ -43,8 +43,6 @@ Each of the four sentences starts with *ich* and a {term}`verb`: *Ich heiße*, *
 ## The four sentences
 
 Three verbs do almost all the work: *heißen* (to be called), *kommen* (to come), and *wohnen* (to live). With *ich* they all end in **-e**.
-
-**Examples:**
 
 :::{div} ol-examples
 Ich heiße Anna Schmidt.
@@ -64,14 +62,27 @@ Ich bin 25 Jahre alt.
 
 A conversation goes both ways. The {term}`question words <question word>` are *wie* (how/what), *woher* (from where), and *wo* (where). Choose *Sie* or *du* and keep it consistent.
 
+::::{tab-set}
+
+:::{tab-item} Formal (Sie)
 | Phrase | Notes |
 |---|---|
-| {stack}`Wie heißen Sie? / Wie heißt du? \| What's your name?` | formal / informal |
-| {stack}`Woher kommen Sie? / Woher kommst du? \| Where are you from?` | formal / informal |
-| {stack}`Wo wohnen Sie? / Wo wohnst du? \| Where do you live?` | formal / informal |
-| {stack}`Wie alt sind Sie? / Wie alt bist du? \| How old are you?` | formal / informal |
+| {stack}`Wie heißen Sie? \| What's your name?` | |
+| {stack}`Woher kommen Sie? \| Where are you from?` | |
+| {stack}`Wo wohnen Sie? \| Where do you live?` | |
+| {stack}`Wie alt sind Sie? \| How old are you?` | |
+:::
 
-**Examples:**
+:::{tab-item} Informal (du)
+| Phrase | Notes |
+|---|---|
+| {stack}`Wie heißt du? \| What's your name?` | |
+| {stack}`Woher kommst du? \| Where are you from?` | |
+| {stack}`Wo wohnst du? \| Where do you live?` | |
+| {stack}`Wie alt bist du? \| How old are you?` | |
+:::
+
+::::
 
 :::{div} ol-examples
 Wie heißen Sie? – Ich heiße Müller.
@@ -187,6 +198,6 @@ Ich bin neu in Berlin.
 
 ## Related articles
 
-- [A1 > Grammar > sein und haben](/a1/grammar/verbs/sein-und-haben.md)
-- [A1 > Grammar > Personal Pronouns – Nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md)
-- [A1 > Grammar > Question Words](/a1/grammar/question-words/fragewoerter-umstaende.md)
+- [](/a1/grammar/verbs/sein-und-haben.md)
+- [](/a1/grammar/pronouns/personalpronomen-nominativ.md)
+- [](/a1/grammar/question-words/fragewoerter-umstaende.md)

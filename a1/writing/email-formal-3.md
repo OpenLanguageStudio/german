@@ -91,6 +91,6 @@ The problem vocabulary is small and reusable: *kaputt* (broken), *funktioniert n
 
 ## Related articles
 
-- [Emailing Your Boss](/a1/writing/email-formal-1.md)
-- [Describe your home](/a1/how-to/describe-your-home.md)
-- [Make and answer requests](/a1/how-to/make-and-answer-requests.md)
+- [](/a1/writing/email-formal-1.md)
+- [](/a1/how-to/describe-your-home.md)
+- [](/a1/how-to/make-and-answer-requests.md)

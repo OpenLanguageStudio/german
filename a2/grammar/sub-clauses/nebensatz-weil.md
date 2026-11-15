@@ -26,8 +26,6 @@ myst:
 
 > main clause **,** {conj}`weil` + subject + ... + {verb}`conjugated verb`
 
-**Examples:**
-
 :::{div} ol-examples
 Ich bleibe zu Hause, {conj}`weil` ich krank {verb}`bin`.
 : I am staying home because I am sick.

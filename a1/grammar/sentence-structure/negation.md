@@ -18,8 +18,6 @@ Negation in German uses two words: *kein* negates {term}`nouns <noun>`, and *nic
 
 Where a noun has *ein* or no article at all, its negation is *kein*. It sits in the article slot and takes the endings of *ein*.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich habe {article}`keine` Zeit.
 : I have no time.
@@ -35,8 +33,6 @@ Ich esse {article}`kein` Fleisch.
 
 Verbs, adjectives, {term}`adverbs <adverb>`, prepositional phrases, and nouns with a {term}`definite article` or possessive: all of these take *nicht*.
 
-**Examples:**
-
 :::{div} ol-examples
 Ich verstehe das **nicht**.
 : I don't understand that.
@@ -51,8 +47,6 @@ Das ist **nicht** mein Schlüssel.
 ## Where *nicht* goes
 
 Negating the whole statement pushes *nicht* toward the end: *Er kommt heute nicht.* Negating one particular element puts *nicht* directly before it: *nicht neu*, *nicht in Berlin*, *nicht mein Schlüssel*. And a {term}`sentence bracket` still wins: *nicht* stands before the closing verb part: *Ich kann heute nicht kommen.*
-
-**Examples:**
 
 :::{div} ol-examples
 Er kommt heute **nicht**.
@@ -161,4 +155,4 @@ Kein Problem!
 
 ## Related articles
 
-- [A1 > Grammar > Negative Articles](/a1/grammar/articles/negativartikel.md)
+- [](/a1/grammar/articles/negativartikel.md)

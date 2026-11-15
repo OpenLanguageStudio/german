@@ -127,4 +127,4 @@ Wir haben Deutsch gelernt.
 
 ## Related articles
 
-- [A1 > Grammar > Regular Verbs in the Present](/a1/grammar/verbs/regelmassige-verben.md)
+- [](/a1/grammar/verbs/regelmassige-verben.md)

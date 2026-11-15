@@ -270,8 +270,6 @@ In daily life, these prepositions organise the day and place events before or af
 | Appointments and routines | **an/am**, **nach**, **vor** | *am Montag*, *nach dem Essen*, *vor dem Termin* |
 | Past vs. ongoing vs. future | **vor**, **seit**, **ab** | *vor einem Jahr*, *seit einem Jahr*, *ab nächster Woche* |
 
-**Examples:**
-
 :::{div} ol-examples
 Wir haben {prep}`am` Montag {prep}`um` 10 Uhr einen Arzttermin.
 : We have a doctor’s appointment on Monday at 10.
@@ -431,6 +429,6 @@ Seit gestern habe ich Kopfschmerzen.
 
 ## Related articles
 
-- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
-- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
-- [A2 > How to > Ask indirect questions](/a2/how-to/ask-indirect-questions.md)
+- [](/a2/grammar/cases/akkusativ.md)
+- [](/a2/grammar/cases/dativ.md)
+- [](/a2/how-to/ask-indirect-questions.md)

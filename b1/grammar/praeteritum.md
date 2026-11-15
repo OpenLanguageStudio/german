@@ -360,5 +360,5 @@ Er sollte mehr lernen.
 
 ## Related articles
 
-- [B1 > Grammar > Plusquamperfekt](/b1/grammar/plusquamperfekt.md)
-- [B1 > Grammar > Temporal Nebensätze](/b1/grammar/temporal-nebensaetze.md)
+- [](/b1/grammar/plusquamperfekt.md)
+- [](/b1/grammar/temporal-nebensaetze.md)

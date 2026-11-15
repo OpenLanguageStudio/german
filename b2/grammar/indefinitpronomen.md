@@ -33,8 +33,6 @@ These forms all refer to people, but they do not mean the same thing. At B2, the
 | {stack}`niemand \| no one` | absolute person negation |
 | {stack}`keiner \| no one / none of them` | often contrastive or set-based |
 
-**Examples:**
-
 :::{div} ol-examples
 {pronoun}`Man` kann diese Software auch ohne Schulung bedienen.
 : You/people can use this software even without training.
@@ -77,8 +75,6 @@ These forms are adverbial, but they function like indefinite location references
 | {stack}`nirgendwo \| nowhere` | negated location |
 | {stack}`nirgends \| nowhere` | stylistic variant of *nirgendwo* |
 
-**Examples:**
-
 :::{div} ol-examples
 Ich hatte mein Ladegerät {adv}`irgendwo` im Büro liegen lassen.
 : I had left my charger somewhere in the office.
@@ -115,8 +111,6 @@ These time words help you control how specific or absolute your statement is. At
 | {stack}`irgendwann \| sometime` | unspecified point in time |
 | {stack}`nie \| never` | neutral strong negation |
 | {stack}`niemals \| never, absolutely never` | often more emphatic |
-
-**Examples:**
 
 :::{div} ol-examples
 Wir müssen {adv}`irgendwann` entscheiden, welche Option wir finanzieren.
@@ -156,8 +150,6 @@ For non-person reference, these forms let you mark existence, vagueness, absence
 | {stack}`nichts \| nothing` | absolute negation for things/concepts |
 | {stack}`keins \| none (of a neuter noun/set)` | contrast to expected item |
 
-**Examples:**
-
 :::{div} ol-examples
 Wenn dir {pronoun}`etwas` unklar ist, frag bitte sofort nach.
 : If something is unclear to you, please ask immediately.
@@ -194,8 +186,6 @@ The forms *einer, eins, eine* can stand alone and replace a previously mentioned
 | Masculine | {pronoun}`einer` | Von den Bewerbern wirkt {pronoun}`einer` besonders erfahren. |
 | Neuter | {pronoun}`eins` | Zwei Konzepte sind interessant, aber {pronoun}`eins` ist realistischer. |
 | Feminine | {pronoun}`eine` | Von den Methoden wirkt {pronoun}`eine` besonders effizient. |
-
-**Examples:**
 
 :::{div} ol-examples
 Von den drei Kandidaten hat {pronoun}`einer` besonders viel Führungserfahrung.
@@ -258,7 +248,7 @@ Click the link below to practice everything from this page with an interactive t
 
 ## Related articles
 
-- [B2 > Grammar > Negation](/b2/grammar/negation.md)
-- [B2 > Grammar > Relativsätze mit wer](/b2/grammar/relativsaetze-mit-wer.md)
-- [A2 > Grammar > Pronomen - man, jemand, niemand](/a2/grammar/pronouns/pronomen-man-jemand-niemand.md)
-- [A2 > Grammar > Pronomen: alles, etwas, nichts](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md)
+- [](/b2/grammar/negation.md)
+- [](/b2/grammar/relativsaetze-mit-wer.md)
+- [](/a2/grammar/pronouns/pronomen-man-jemand-niemand.md) {level}`A2`
+- [](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md) {level}`A2`

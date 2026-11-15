@@ -18,8 +18,6 @@ A preposition is a small word in front of a {term}`noun` that shows how it relat
 
 *Mit* + person in the dative: *mit meiner Schwester, mit den Kindern, mit dir*. The question form is *Mit wem ...?* (with whom).
 
-**Examples:**
-
 :::{div} ol-examples
 Ich gehe {prep}`mit` meiner Schwester ins Kino.
 : I am going to the cinema with my sister.
@@ -35,8 +33,6 @@ Ich telefoniere {prep}`mit` meiner Mutter.
 
 Every means of transport takes *mit*: *mit dem Bus, mit dem Zug, mit dem Fahrrad, mit dem Auto*. The one exception has no vehicle at all: *zu Fuß* (on foot).
 
-**Examples:**
-
 :::{div} ol-examples
 Sie fährt {prep}`mit` dem Fahrrad zur Arbeit.
 : She cycles to work.
@@ -51,8 +47,6 @@ Fahren Sie {prep}`mit` dem Taxi?
 ## Instruments and ingredients
 
 What you pay with, eat with, or take in your coffee: *mit Karte, mit Messer und Gabel, mit Milch*.
-
-**Examples:**
 
 :::{div} ol-examples
 Kann ich {prep}`mit` Karte zahlen?
@@ -154,5 +148,5 @@ Wir fahren zusammen mit den Nachbarn.
 
 ## Related articles
 
-- [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
-- [A1 > Grammar > Question Pronouns wer, wen, wem, was](/a1/grammar/question-words/fragepronomen.md)
+- [](/a1/grammar/cases/dativ.md)
+- [](/a1/grammar/question-words/fragepronomen.md)

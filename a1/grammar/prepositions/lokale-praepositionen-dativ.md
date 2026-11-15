@@ -17,14 +17,12 @@ A preposition is a small word that shows place or time, and these all take the d
 :::{admonition} Prerequisites
 :class: note
 Before reading this article, make sure you are comfortable with:
-- [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
+- [](/a1/grammar/cases/dativ.md)
 :::
 
 ## Going: *zu* and *nach*
 
 *Zu* heads toward people, shops, and buildings: *zum Arzt, zur Schule, zu Anna*. *Nach* is reserved for cities, most countries, and the special case *nach Hause* (homewards).
-
-**Examples:**
 
 :::{div} ol-examples
 Ich gehe {prep}`zum` Arzt.
@@ -41,8 +39,6 @@ Wir fahren {prep}`nach` Berlin.
 
 *Bei* means at someone's place or at an employer: *bei meinen Eltern, bei Oma, bei einer Bank*. For home, German has the pair *zu Hause* (at home) versus *nach Hause* (homewards).
 
-**Examples:**
-
 :::{div} ol-examples
 Ich wohne {prep}`bei` meinen Eltern.
 : I live with my parents.
@@ -57,8 +53,6 @@ Bist du {prep}`zu` Hause?
 ## Coming from: *aus* and *von*
 
 *Aus* comes out of an enclosed origin: a country, a town, a building. *Von* comes from a point, a person, or an activity: *von der Arbeit, vom Markt, von meiner Oma*.
-
-**Examples:**
 
 :::{div} ol-examples
 Sie kommt gerade {prep}`aus` dem Haus.
@@ -163,5 +157,5 @@ Kommst du mit zu uns?
 
 ## Related articles
 
-- [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
-- [Ask for and give directions](/a1/how-to/ask-for-and-give-directions.md)
+- [](/a1/grammar/cases/dativ.md)
+- [](/a1/how-to/ask-for-and-give-directions.md)

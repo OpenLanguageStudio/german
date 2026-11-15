@@ -30,8 +30,6 @@ In these combinations, the noun usually carries the main lexical meaning, while 
 | Simple full verb | often shorter and more direct | entscheiden |
 | Fixed idiomatic chunk | meaning cannot be guessed from single words | in Frage kommen |
 
-**Examples:**
-
 :::{div} ol-examples
 Die Leitung hat gestern eine klare Entscheidung **getroffen**.
 : Management made a clear decision yesterday.
@@ -65,8 +63,6 @@ In this group, you can usually paraphrase the combination with a single verb wit
 | eine Entscheidung treffen | entscheiden | often sounds more formal or deliberate |
 | eine Verbesserung vornehmen | verbessern | often used in technical or official contexts |
 | eine Erklärung abgeben | erklären | often used for official statements |
-
-**Examples:**
 
 :::{div} ol-examples
 Wir müssen bis Freitag eine Entscheidung **treffen**.
@@ -108,8 +104,6 @@ In this group, you cannot reliably derive the meaning from the noun alone. Learn
 | {stack}`in Frage kommen \| to be possible/to be considered` | to come into question |
 | {stack}`zur Verfügung stehen \| to be available` | to stand to disposal |
 
-**Examples:**
-
 :::{div} ol-examples
 Das Team steht vor dem Launch stark **unter Druck**.
 : The team is under strong pressure before the launch.
@@ -149,8 +143,6 @@ To sound natural, you should not only recognize these combinations but also comb
 | Add precision | adjective + noun | eine **endgültige** Entscheidung treffen |
 | Set limits | nicht in Frage kommen | Diese Option kommt **nicht in Frage**. |
 | Formal service tone | zur Verfügung stehen + dative pronoun | Ich stehe Ihnen gern zur Verfügung. |
-
-**Examples:**
 
 :::{div} ol-examples
 Nach langer Diskussion haben wir eine **endgültige** Entscheidung **getroffen**.
@@ -213,7 +205,7 @@ Use the link below to practice the full topic interactively.
 
 ## Related articles
 
-- [B2 > Grammar > Nomen, Verben und Adjektive mit Präpositionen](/b2/grammar/nomen-verben-adjektive-praepositionen.md)
-- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
-- [B2 > Grammar > Negation](/b2/grammar/negation.md)
-- [B1 > Grammar > Verben mit Präpositionen und Nebensatz](/b1/grammar/verben-mit-praepositionen.md)
+- [](/b2/grammar/nomen-verben-adjektive-praepositionen.md)
+- [](/b2/grammar/wortstellung-im-satz.md)
+- [](/b2/grammar/negation.md)
+- [](/b1/grammar/verben-mit-praepositionen.md) {level}`B1`
