@@ -199,6 +199,6 @@ Use the link below to practice the full topic interactively.
 
 - [](/b2/grammar/konnektor-waehrend.md)
 - [](/b2/grammar/nominalisierung.md)
-- [](/b1/grammar/genitiv.md) {bdg-secondary-line}`B1`
-- [](/b1/grammar/wegen-trotz.md) {bdg-secondary-line}`B1`
-- [](/b1/grammar/zeitangaben-praepositionen.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/genitiv.md) {level}`B1`
+- [](/b1/grammar/wegen-trotz.md) {level}`B1`
+- [](/b1/grammar/zeitangaben-praepositionen.md) {level}`B1`

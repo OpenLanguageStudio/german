@@ -160,5 +160,5 @@ Use the link below to practice the full topic interactively.
 - [](/b2/grammar/wortstellung-im-satz.md)
 - [](/b2/grammar/praepositionen-mit-genitiv.md)
 - [](/b2/grammar/vergleichssaetze.md)
-- [](/b1/grammar/temporal-nebensaetze.md) {bdg-secondary-line}`B1`
-- [](/b1/grammar/konzessiv-nebensaetze.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/temporal-nebensaetze.md) {level}`B1`
+- [](/b1/grammar/konzessiv-nebensaetze.md) {level}`B1`

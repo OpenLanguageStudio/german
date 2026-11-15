@@ -183,6 +183,6 @@ Use the following link to practice this section:
 
 - [](/b2/grammar/wortstellung-im-satz.md)
 - [](/b2/grammar/negation.md)
-- [](/b1/grammar/konjunktiv-ii.md) {bdg-secondary-line}`B1`
-- [](/b1/grammar/passiv.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/konjunktiv-ii.md) {level}`B1`
+- [](/b1/grammar/passiv.md) {level}`B1`
 - [](/b2/grammar/irreale-vergleichssaetze.md)

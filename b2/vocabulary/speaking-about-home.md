@@ -94,7 +94,7 @@ Heute sage ich: Heimat ist dort, wo ich gefragt werde, wie es mir wirklich geht,
 
 ## Related articles
 
-- [](/a2/grammar/sub-clauses/index.md) {bdg-secondary-line}`A2`
-- [](/a2/grammar/sub-clauses/relativsaetze.md) {bdg-secondary-line}`A2`
-- [](/a2/grammar/prepositions/index.md) {bdg-secondary-line}`A2`
-- [](/a2/how-to/compare-things.md) {bdg-secondary-line}`A2`
+- [](/a2/grammar/sub-clauses/index.md) {level}`A2`
+- [](/a2/grammar/sub-clauses/relativsaetze.md) {level}`A2`
+- [](/a2/grammar/prepositions/index.md) {level}`A2`
+- [](/a2/how-to/compare-things.md) {level}`A2`

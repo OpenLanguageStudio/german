@@ -133,8 +133,8 @@ Do not start a sentence with **denn** in this structure. Use **weil** or **da** 
 
 ## Related articles
 
-- [](/a2/grammar/sub-clauses/nebensatz-weil.md) {bdg-secondary-line}`A2`
-- [](/a2/grammar/sub-clauses/konnektoren.md) {bdg-secondary-line}`A2`
+- [](/a2/grammar/sub-clauses/nebensatz-weil.md) {level}`A2`
+- [](/a2/grammar/sub-clauses/konnektoren.md) {level}`A2`
 - [](/b1/grammar/konsekutiv-nebensaetze.md)
 - [](/b1/grammar/konzessiv-nebensaetze.md)
 - [](/b1/how-to/give-reasons.md)

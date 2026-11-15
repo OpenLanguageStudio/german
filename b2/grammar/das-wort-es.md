@@ -232,4 +232,4 @@ Use the following link to practice this section.
 
 - [](/b2/grammar/wortstellung-im-satz.md)
 - [](/b2/grammar/infinitivkonnektoren.md)
-- [](/b1/grammar/infinitiv-mit-zu.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/infinitiv-mit-zu.md) {level}`B1`

@@ -188,7 +188,7 @@ Click the link below to practice everything from this page with an interactive t
 ## Related articles
 
 - [](/b2/grammar/wortstellung-im-satz.md)
-- [](/b1/grammar/relativsaetze.md) {bdg-secondary-line}`B1`
-- [](/b1/grammar/relativsaetze-was-wo.md) {bdg-secondary-line}`B1`
-- [](/a2/grammar/sub-clauses/relativsaetze.md) {bdg-secondary-line}`A2`
+- [](/b1/grammar/relativsaetze.md) {level}`B1`
+- [](/b1/grammar/relativsaetze-was-wo.md) {level}`B1`
+- [](/a2/grammar/sub-clauses/relativsaetze.md) {level}`A2`
 - [](/b2/grammar/indefinitpronomen.md)

@@ -237,7 +237,7 @@ Sie spricht kein Deutsch, deshalb verstehen wir sie nicht.
 
 ## Related articles
 
-- [](/a2/grammar/sub-clauses/konnektoren.md) {bdg-secondary-line}`A2`
+- [](/a2/grammar/sub-clauses/konnektoren.md) {level}`A2`
 - [](/b1/grammar/kausal-nebensaetze.md)
 - [](/b1/how-to/express-consequences.md)
 - [](/b1/how-to/talk-about-goals-and-purpose.md)

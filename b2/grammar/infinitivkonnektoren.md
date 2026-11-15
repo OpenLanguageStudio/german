@@ -191,6 +191,6 @@ Click the link below to practice everything from this page with an interactive t
 - [](/b2/grammar/wortstellung-im-satz.md)
 - [](/b2/grammar/zweiteilige-konnektoren.md)
 - [](/b2/grammar/negation.md)
-- [](/b1/grammar/infinitiv-mit-zu.md) {bdg-secondary-line}`B1`
-- [](/b1/how-to/talk-about-goals-and-purpose.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/infinitiv-mit-zu.md) {level}`B1`
+- [](/b1/how-to/talk-about-goals-and-purpose.md) {level}`B1`
 - [](/b2/grammar/das-wort-es.md)

@@ -250,5 +250,5 @@ Click the link below to practice everything from this page with an interactive t
 
 - [](/b2/grammar/negation.md)
 - [](/b2/grammar/relativsaetze-mit-wer.md)
-- [](/a2/grammar/pronouns/pronomen-man-jemand-niemand.md) {bdg-secondary-line}`A2`
-- [](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md) {bdg-secondary-line}`A2`
+- [](/a2/grammar/pronouns/pronomen-man-jemand-niemand.md) {level}`A2`
+- [](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md) {level}`A2`

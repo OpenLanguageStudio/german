@@ -298,4 +298,4 @@ Das ist der stressigste Job.
 ## Related articles
 
 - [](/a2/how-to/compare-things.md)
-- [](/b1/grammar/komparativ-superlativ.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/komparativ-superlativ.md) {level}`B1`

@@ -175,4 +175,4 @@ In formal written German, the preposition + relative pronoun is generally prefer
 
 - [](/b1/grammar/relativsaetze.md)
 - [](/b1/grammar/pronominaladverbien.md)
-- [](/a2/grammar/sub-clauses/relativsaetze.md) {bdg-secondary-line}`A2`
+- [](/a2/grammar/sub-clauses/relativsaetze.md) {level}`A2`

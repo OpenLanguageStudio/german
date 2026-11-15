@@ -215,4 +215,4 @@ Click the link below to practice everything from this page with an interactive t
 - [](/b2/grammar/negation.md)
 - [](/b2/grammar/zweiteilige-konnektoren.md)
 - [](/b2/vocabulary/smalltalk.md)
-- [](/b1/grammar/konjunktiv-ii.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/konjunktiv-ii.md) {level}`B1`

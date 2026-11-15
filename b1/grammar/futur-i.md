@@ -222,6 +222,6 @@ Das werdet ihr schaffen!
 
 ## Related articles
 
-- [](/a2/grammar/verbs/verb-werden.md) {bdg-secondary-line}`A2`
+- [](/a2/grammar/verbs/verb-werden.md) {level}`A2`
 - [](/b1/grammar/konjunktiv-ii.md)
 - [](/b1/how-to/talk-about-goals-and-purpose.md)

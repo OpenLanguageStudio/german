@@ -165,10 +165,10 @@ Click the link below to practice everything from this page with an interactive t
 
 - [](/b2/grammar/zustandspassiv.md)
 - [](/b2/grammar/nomen-verben-adjektive-praepositionen.md)
-- [](/b1/grammar/verben-mit-praepositionen.md) {bdg-secondary-line}`B1`
-- [](/b1/grammar/relativsaetze.md) {bdg-secondary-line}`B1`
-- [](/a2/grammar/cases/verben-mit-dativ-akkusativ.md) {bdg-secondary-line}`A2`
-- [](/a2/grammar/prepositions/wechselpraepositionen.md) {bdg-secondary-line}`A2`
+- [](/b1/grammar/verben-mit-praepositionen.md) {level}`B1`
+- [](/b1/grammar/relativsaetze.md) {level}`B1`
+- [](/a2/grammar/cases/verben-mit-dativ-akkusativ.md) {level}`A2`
+- [](/a2/grammar/prepositions/wechselpraepositionen.md) {level}`A2`
 - [](/b2/grammar/negation.md)
 - [](/b2/grammar/modalsaetze.md)
 - [](/b2/grammar/modalpartikeln.md)

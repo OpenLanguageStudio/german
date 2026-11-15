@@ -182,7 +182,7 @@ Click the link below to practice everything from this page with an interactive t
 ## Related articles
 
 - [](/b2/grammar/wortstellung-im-satz.md)
-- [](/b1/grammar/passiv.md) {bdg-secondary-line}`B1`
-- [](/b1/grammar/partizip-als-adjektiv.md) {bdg-secondary-line}`B1`
-- [](/a2/grammar/verbs/verb-werden.md) {bdg-secondary-line}`A2`
+- [](/b1/grammar/passiv.md) {level}`B1`
+- [](/b1/grammar/partizip-als-adjektiv.md) {level}`B1`
+- [](/a2/grammar/verbs/verb-werden.md) {level}`A2`
 - [](/b2/grammar/partizipien-als-adjektive.md)

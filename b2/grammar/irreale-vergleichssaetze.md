@@ -169,5 +169,5 @@ Use the link below to practice the full topic interactively.
 
 - [](/b2/grammar/wortstellung-im-satz.md)
 - [](/b2/grammar/indirekte-rede.md)
-- [](/b1/grammar/konjunktiv-ii.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/konjunktiv-ii.md) {level}`B1`
 - [](/b2/grammar/vergleichssaetze.md)

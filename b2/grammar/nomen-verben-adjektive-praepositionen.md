@@ -208,6 +208,6 @@ Click the link below to practice everything from this page with an interactive t
 
 - [](/b2/grammar/nomen-verb-verbindungen.md)
 - [](/b2/grammar/wortstellung-im-satz.md)
-- [](/b1/grammar/verben-mit-praepositionen.md) {bdg-secondary-line}`B1`
-- [](/a2/grammar/prepositions/verben-mit-praeposition.md) {bdg-secondary-line}`A2`
-- [](/a2/grammar/prepositions/w-fragen-mit-praeposition.md) {bdg-secondary-line}`A2`
+- [](/b1/grammar/verben-mit-praepositionen.md) {level}`B1`
+- [](/a2/grammar/prepositions/verben-mit-praeposition.md) {level}`A2`
+- [](/a2/grammar/prepositions/w-fragen-mit-praeposition.md) {level}`A2`

@@ -39,7 +39,7 @@ In the {term}`plural`, all genders share the same article: **die**.
 Gender is grammatical, not logical: *das Mädchen* (the girl) is neuter, *der Tisch* (the table) is masculine. There is no shortcut. Learn *der Tisch*, not just *Tisch*.
 :::
 
-:::{dropdown} Endings that decide the gender
+:::{tip}
 A few endings fix a noun's gender. Nouns ending in *-chen* or *-lein* are always neuter, which is why *das Mädchen* (the girl) is neuter. Nouns ending in *-ung*, *-heit* or *-keit* are always feminine: *die Zeitung*, *die Freiheit*.
 :::
 

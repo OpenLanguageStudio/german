@@ -128,7 +128,7 @@ Drei **lange** Meetings in einem Tag sind anstrengend.
 
 ## Related articles
 
-- [](/a2/grammar/adjectives/adjektivendungen.md) {bdg-secondary-line}`A2`
+- [](/a2/grammar/adjectives/adjektivendungen.md) {level}`A2`
 - [](/b1/grammar/komparativ-superlativ.md)
 - [](/b1/grammar/adjektive-als-nomen.md)
 - [](/b1/grammar/partizip-als-adjektiv.md)

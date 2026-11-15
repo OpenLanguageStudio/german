@@ -165,7 +165,7 @@ If a relative clause only adds compact descriptive information, a participial ph
 
 ## Related articles
 
-- [](/b1/grammar/partizip-als-adjektiv.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/partizip-als-adjektiv.md) {level}`B1`
 - [](/b2/grammar/zustandspassiv.md)
 - [](/b2/grammar/passiv-und-passiversatzformen.md)
-- [](/a2/grammar/adjectives/adjektivendungen.md) {bdg-secondary-line}`A2`
+- [](/a2/grammar/adjectives/adjektivendungen.md) {level}`A2`

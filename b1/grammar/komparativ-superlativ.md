@@ -478,5 +478,5 @@ Das ist die tiefste Stelle des Sees.
 
 - [](/b1/grammar/adjektive-ohne-artikel.md)
 - [](/b1/grammar/je-desto.md)
-- [](/a2/grammar/adjectives/adjektivendungen.md) {bdg-secondary-line}`A2`
-- [](/a2/how-to/compare-things.md) {bdg-secondary-line}`A2`
+- [](/a2/grammar/adjectives/adjektivendungen.md) {level}`A2`
+- [](/a2/how-to/compare-things.md) {level}`A2`

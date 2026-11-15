@@ -13,7 +13,7 @@ myst:
 :::{note}
 :class: dropdown
 Before reading this article, make sure you are comfortable with:
-- [](/b1/grammar/genitiv.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/genitiv.md) {level}`B1`
 :::
 
 At B2, actions often need to become compact noun phrases. This is called *Nominalisierung* (or *Substantivierung*), and it is what produces a more formal, information-dense style, especially in reports, academic texts, and professional communication.
@@ -209,5 +209,5 @@ A practical strategy: draft in verbal style first, then nominalize only the key 
 - [](/b2/grammar/wortstellung-im-satz.md)
 - [](/b2/grammar/passiv-und-passiversatzformen.md)
 - [](/b2/grammar/negation.md)
-- [](/b1/grammar/genitiv.md) {bdg-secondary-line}`B1`
-- [](/b1/grammar/adjektive-als-nomen.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/genitiv.md) {level}`B1`
+- [](/b1/grammar/adjektive-als-nomen.md) {level}`B1`

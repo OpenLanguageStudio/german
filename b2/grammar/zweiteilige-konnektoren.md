@@ -201,8 +201,8 @@ Use the link below to practice the full topic interactively.
 - [](/b2/grammar/vergleichssaetze.md)
 - [](/b2/grammar/wortstellung-im-satz.md)
 - [](/b2/grammar/negation.md)
-- [](/b1/grammar/zweiteilige-konnektoren.md) {bdg-secondary-line}`B1`
-- [](/b1/grammar/je-desto.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/zweiteilige-konnektoren.md) {level}`B1`
+- [](/b1/grammar/je-desto.md) {level}`B1`
 - [](/b2/grammar/konnektor-waehrend.md)
 - [](/b2/grammar/modalsaetze.md)
 - [](/b2/grammar/infinitivkonnektoren.md)

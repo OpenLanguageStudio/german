@@ -276,7 +276,7 @@ Eine kurze Rückmeldung würde helfen.
 
 ## Related articles
 
-- [](/a2/grammar/verbs/konjunktiv-ii.md) {bdg-secondary-line}`A2`
-- [](/a2/how-to/ask-wish-and-advise-politely.md) {bdg-secondary-line}`A2`
+- [](/a2/grammar/verbs/konjunktiv-ii.md) {level}`A2`
+- [](/a2/how-to/ask-wish-and-advise-politely.md) {level}`A2`
 - [](/b1/how-to/talk-about-imagined-situations.md)
 - [](/b1/grammar/irreale-bedingungssaetze.md)

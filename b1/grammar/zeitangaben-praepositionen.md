@@ -269,6 +269,6 @@ Während der Vorlesung macht sie Notizen.
 
 ## Related articles
 
-- [](/a2/grammar/prepositions/temporale-praepositionen.md) {bdg-secondary-line}`A2`
+- [](/a2/grammar/prepositions/temporale-praepositionen.md) {level}`A2`
 - [](/b1/grammar/genitiv.md)
 - [](/b1/how-to/tell-past-events-in-order.md)

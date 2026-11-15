@@ -279,9 +279,9 @@ Not every verb forms a natural *-bar* adjective. Choose lexicalized, established
 
 ## Related articles
 
-- [](/b1/grammar/passiv.md) {bdg-secondary-line}`B1`
-- [](/b1/grammar/lassen-infinitiv.md) {bdg-secondary-line}`B1`
-- [](/b1/grammar/partizip-als-adjektiv.md) {bdg-secondary-line}`B1`
+- [](/b1/grammar/passiv.md) {level}`B1`
+- [](/b1/grammar/lassen-infinitiv.md) {level}`B1`
+- [](/b1/grammar/partizip-als-adjektiv.md) {level}`B1`
 - [](/b2/grammar/wortstellung-im-satz.md)
 - [](/b2/grammar/partizipien-als-adjektive.md)
 - [](/b2/grammar/nominalisierung.md)

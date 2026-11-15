@@ -203,8 +203,8 @@ Use the link below to practice the full topic interactively.
 
 - [](/b2/grammar/irreale-vergleichssaetze.md)
 - [](/b2/grammar/wortstellung-im-satz.md)
-- [](/b1/grammar/je-desto.md) {bdg-secondary-line}`B1`
-- [](/a2/grammar/adjectives/vergleiche-als-wie.md) {bdg-secondary-line}`A2`
+- [](/b1/grammar/je-desto.md) {level}`B1`
+- [](/a2/grammar/adjectives/vergleiche-als-wie.md) {level}`A2`
 - [](/b2/grammar/konnektor-waehrend.md)
 - [](/b2/grammar/modalsaetze.md)
 - [](/b2/grammar/zweiteilige-konnektoren.md)
