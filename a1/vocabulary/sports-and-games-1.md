@@ -37,6 +37,7 @@ A sporting week: training, the match, the pool, and both possible endings of the
 
 :::{audio-examples}
 :track: a1/vocabulary/sports-and-games-1
+:presenters: emilia
 :title: Sport und Spiele 1
 :title-en: Sports and Games 1
 

@@ -37,6 +37,7 @@ Each verb comes as a pair of sentences in two different persons. The ten pairs c
 
 :::{audio-examples}
 :track: a1/vocabulary/everyday-verbs-1
+:presenters: emilia
 :title: Alltagsverben 1
 :title-en: Everyday Verbs 1
 

@@ -37,9 +37,10 @@ The request stands in the first line, and *seit* says how long the symptoms have
 
 :::{audio-examples}
 :track: a1/writing/email-formal-2
+:presenters: emilia
 :title: Eine E-Mail an die Arztpraxis
 :title-en: Emailing the Doctor's Clinic
-:multiline:
+:mode: passage
 
 Betreff: Termin für nächste Woche.
 Sehr geehrte Damen und Herren,

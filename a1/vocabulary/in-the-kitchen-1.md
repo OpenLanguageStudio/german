@@ -36,6 +36,7 @@ The sentences walk through the kitchen the way an evening does: setting the tabl
 
 :::{audio-examples}
 :track: a1/vocabulary/in-the-kitchen-1
+:presenters: emilia
 :title: In der Küche 1
 :title-en: In the Kitchen 1
 

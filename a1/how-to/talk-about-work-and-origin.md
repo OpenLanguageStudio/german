@@ -75,6 +75,7 @@ Ich lebe seit zwei Jahren in Deutschland.
 
 :::{audio-examples}
 :track: a1/how-to/talk-about-work-and-origin
+:presenters: emilia
 :title: Beruf und Herkunft
 :title-en: Talk about work and origin
 

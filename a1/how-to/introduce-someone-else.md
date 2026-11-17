@@ -77,6 +77,7 @@ Er spricht Englisch und ein bisschen Deutsch.
 
 :::{audio-examples}
 :track: a1/how-to/introduce-someone-else
+:presenters: emilia
 :title: Jemanden vorstellen
 :title-en: Introduce someone else
 

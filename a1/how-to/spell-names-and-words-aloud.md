@@ -81,6 +81,7 @@ If dictation gets too fast, two short phrases save you: *Noch einmal, bitte* and
 
 :::{audio-examples}
 :track: a1/how-to/spell-names-and-words-aloud
+:presenters: emilia
 :title: Buchstabieren und das Alphabet
 :title-en: Spell names and words aloud
 

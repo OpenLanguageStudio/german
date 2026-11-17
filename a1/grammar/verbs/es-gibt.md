@@ -67,6 +67,7 @@ Was gibt es zum Frühstück?
 
 :::{audio-examples}
 :track: a1/grammar/es-gibt
+:presenters: emilia
 :title: es gibt
 :title-en: There is, there are
 

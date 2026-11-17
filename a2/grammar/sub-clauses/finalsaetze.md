@@ -135,6 +135,7 @@ Use the following link to practice this section.
 
 :::{audio-examples}
 :track: a2/grammar/nebensatz-mit-damit
+:presenters: emilia
 :title: Nebensatz mit damit
 :title-en: Subordinate Clauses with damit
 
@@ -231,6 +232,7 @@ Er macht Sport, damit seine Familie stolz ist.
 
 :::{audio-examples}
 :track: a2/grammar/um-zu-konstruktion
+:presenters: emilia
 :title: um...zu-Konstruktion
 :title-en: The um...zu Construction
 

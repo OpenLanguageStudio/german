@@ -84,6 +84,7 @@ Am Sonntag {verb}`habe` ich nichts **gemacht**.
 
 :::{audio-examples}
 :track: a1/how-to/talk-about-the-past
+:presenters: emilia
 :title: Über Vergangenes sprechen
 :title-en: Talk about the past
 

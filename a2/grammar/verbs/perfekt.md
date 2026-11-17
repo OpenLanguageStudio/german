@@ -208,6 +208,7 @@ learn each verb as a set of three: **infinitive → Partizip II → auxiliary**
 
 :::{audio-examples}
 :track: a2/grammar/perfekt-mit-haben
+:presenters: emilia
 :title: Perfekt mit haben
 :title-en: Perfect Tense with haben
 
@@ -304,6 +305,7 @@ Sie haben viel geredet.
 
 :::{audio-examples}
 :track: a2/grammar/perfekt-mit-sein
+:presenters: emilia
 :title: Perfekt mit sein
 :title-en: Perfect Tense with sein
 
@@ -400,6 +402,7 @@ Sie sind zwei Stunden geschwommen.
 
 :::{audio-examples}
 :track: a2/grammar/perfekt-unregelmassige-partizipien
+:presenters: emilia
 :title: Perfekt – Unregelmäßige Partizipien
 :title-en: Perfect Tense: Irregular Past Participles
 

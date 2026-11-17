@@ -69,6 +69,7 @@ Wir {verb}`fahren` nach Wien, und Anna {verb}`fährt` nach Rom.
 
 :::{audio-examples}
 :track: a1/grammar/unregelmaessige-verben
+:presenters: emilia
 :title: Unregelmäßige Verben
 :title-en: Irregular verbs in the present
 

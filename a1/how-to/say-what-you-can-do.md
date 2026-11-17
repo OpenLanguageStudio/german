@@ -82,6 +82,7 @@ Nein, aber ich kann Klavier spielen.
 
 :::{audio-examples}
 :track: a1/how-to/say-what-you-can-do
+:presenters: emilia
 :title: Über Fähigkeiten sprechen
 :title-en: Say what you can do
 

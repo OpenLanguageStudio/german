@@ -159,6 +159,7 @@ Use *gelassen* only when *lassen* is the main verb with no following infinitive 
 
 :::{audio-examples}
 :track: b1/grammar/das-verb-lassen
+:presenters: emilia
 :title: Das verb Lassen
 :title-en: The Verb lassen
 

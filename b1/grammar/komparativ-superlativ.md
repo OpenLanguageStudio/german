@@ -206,6 +206,7 @@ Entschuldigung, wo ist **die nächste** Bushaltestelle?
 
 :::{audio-examples}
 :track: b1/grammar/komparativ-vor-nomen-nominativ
+:presenters: emilia
 :title: Komparativ vor Nomen – Nominativ
 :title-en: Comparative Before Nouns: Nominative
 
@@ -287,6 +288,7 @@ Das ruhigere Viertel ist sicherer.
 
 :::{audio-examples}
 :track: b1/grammar/komparativ-vor-nomen-akkusativ-und-dativ
+:presenters: emilia
 :title: Komparativ vor Nomen – Akkusativ und Dativ
 :title-en: Comparative Before Nouns: Accusative and Dative
 
@@ -362,6 +364,7 @@ Ich suche einen schnelleren Zug.
 
 :::{audio-examples}
 :track: b1/grammar/superlativ-vor-nomen
+:presenters: emilia
 :title: Superlativ vor Nomen
 :title-en: Superlative Before Nouns
 

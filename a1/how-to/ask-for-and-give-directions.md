@@ -86,6 +86,7 @@ Danke für Ihre Hilfe!
 
 :::{audio-examples}
 :track: a1/how-to/ask-for-and-give-directions
+:presenters: emilia
 :title: Nach dem Weg fragen
 :title-en: Ask for and give directions
 

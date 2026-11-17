@@ -83,6 +83,7 @@ Es gibt einen Park in der Nähe.
 
 :::{audio-examples}
 :track: a1/how-to/say-where-things-are
+:presenters: emilia
 :title: Sagen, wo etwas ist
 :title-en: Say where things are
 

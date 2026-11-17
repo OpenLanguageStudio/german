@@ -78,6 +78,7 @@ Meine Frau kommt aus Brasilien.
 
 :::{audio-examples}
 :track: a1/how-to/talk-about-family
+:presenters: emilia
 :title: Über die Familie sprechen
 :title-en: Talk about family
 

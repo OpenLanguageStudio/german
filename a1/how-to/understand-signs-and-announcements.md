@@ -83,6 +83,7 @@ Nächster Halt: Hauptbahnhof.
 
 :::{audio-examples}
 :track: a1/how-to/understand-signs-and-announcements
+:presenters: emilia
 :title: Öffentliche Informationen verstehen
 :title-en: Understand signs and announcements
 

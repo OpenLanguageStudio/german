@@ -75,6 +75,7 @@ Do not let this scare you. At this stage any competent German speaker can tell a
 
 :::{audio-examples}
 :track: a1/how-to/choose-between-du-and-sie
+:presenters: emilia
 :title: Duzen und Siezen
 :title-en: Choose between du and Sie
 

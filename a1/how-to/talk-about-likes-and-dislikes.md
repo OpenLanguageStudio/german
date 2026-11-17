@@ -82,6 +82,7 @@ Ich mag {akk}`keinen Fisch`.
 
 :::{audio-examples}
 :track: a1/how-to/talk-about-likes-and-dislikes
+:presenters: emilia
 :title: Vorlieben ausdrücken
 :title-en: Talk about likes and dislikes
 

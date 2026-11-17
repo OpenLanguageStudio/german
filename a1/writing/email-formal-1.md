@@ -37,9 +37,10 @@ The request comes first, softened with *ich möchte gern*. The middle paragraph 
 
 :::{audio-examples}
 :track: a1/writing/email-formal-1
+:presenters: emilia
 :title: Eine E-Mail an den Chef
 :title-en: Emailing Your Boss
-:multiline:
+:mode: passage
 
 Betreff: Urlaub im August.
 Sehr geehrte Frau Weber,

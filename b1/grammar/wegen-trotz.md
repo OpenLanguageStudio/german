@@ -160,6 +160,7 @@ For **feminine and plural nouns**, the dative and genitive article forms happen 
 
 :::{audio-examples}
 :track: b1/grammar/praposition-wegen
+:presenters: emilia
 :title: Präposition wegen
 :title-en: The Preposition wegen
 
@@ -238,6 +239,7 @@ Wegen ihm müssen wir früher gehen.
 
 :::{audio-examples}
 :track: b1/grammar/praposition-trotz
+:presenters: emilia
 :title: Präposition trotz
 :title-en: The Preposition trotz
 

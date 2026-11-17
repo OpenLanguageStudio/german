@@ -87,6 +87,7 @@ Prices are spoken without a word for "point": *zwölf Euro fünfzig* is 12.50. S
 
 :::{audio-examples}
 :track: a1/how-to/shop-and-pay
+:presenters: emilia
 :title: Einkaufen und Bezahlen
 :title-en: Shop and pay
 

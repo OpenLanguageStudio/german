@@ -173,6 +173,7 @@ Use the following link to practice this section.
 
 :::{audio-examples}
 :track: a2/grammar/konjunktiv-ii-sollte-fur-ratschlage
+:presenters: emilia
 :title: Konjunktiv II - sollte für Ratschläge
 :title-en: Konjunktiv II: sollte for Giving Advice
 
@@ -269,6 +270,7 @@ Ich sollte mehr lesen.
 
 :::{audio-examples}
 :track: a2/grammar/konjunktiv-ii-von-konnen-hofliche-bitten
+:presenters: emilia
 :title: Konjunktiv II von können - höfliche Bitten
 :title-en: Konjunktiv II of können: Polite Requests
 

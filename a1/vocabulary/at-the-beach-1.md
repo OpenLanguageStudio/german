@@ -40,6 +40,7 @@ One beach day from arrival to ice cream, with the holiday postcard vocabulary al
 
 :::{audio-examples}
 :track: a1/vocabulary/at-the-beach-1
+:presenters: emilia
 :title: Am Strand 1
 :title-en: At the Beach 1
 

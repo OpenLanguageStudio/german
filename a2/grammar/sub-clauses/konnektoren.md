@@ -161,6 +161,7 @@ In everyday spoken German, **weil** is more natural and more frequent. **Denn** 
 
 :::{audio-examples}
 :track: a2/grammar/konnektor-denn
+:presenters: emilia
 :title: Konnektor denn
 :title-en: The Connector denn
 
@@ -257,6 +258,7 @@ Wir lernen die Wörter, denn der Test kommt bald.
 
 :::{audio-examples}
 :track: a2/grammar/konnektor-deshalb
+:presenters: emilia
 :title: Konnektor deshalb
 :title-en: The Connector deshalb
 
@@ -353,6 +355,7 @@ Ich bin Vegetarier, deshalb esse ich kein Fleisch.
 
 :::{audio-examples}
 :track: a2/grammar/konnektor-trotzdem
+:presenters: emilia
 :title: Konnektor trotzdem
 :title-en: The Connector trotzdem
 

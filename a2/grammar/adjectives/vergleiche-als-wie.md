@@ -129,6 +129,7 @@ After *nicht so...wie*, the adjective is always in its **positive form**, never 
 
 :::{audio-examples}
 :track: a2/grammar/vergleiche-mit-als-und-wie
+:presenters: emilia
 :title: Vergleiche mit als und wie
 :title-en: Comparisons with als and wie
 

@@ -37,9 +37,10 @@ The greeting *Liebe Lena* fits a woman, and a male friend gets *Lieber Jonas*. T
 
 :::{audio-examples}
 :track: a1/writing/email-informal-1
+:presenters: emilia
 :title: Eine E-Mail an eine Freundin
 :title-en: An Email to a Friend
-:multiline:
+:mode: passage
 
 Betreff: Deine neue Stadt.
 Liebe Lena,

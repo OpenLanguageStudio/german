@@ -79,6 +79,7 @@ Learn nouns as a trio: *der Tisch, die Tische*. Dictionaries and vocabulary list
 
 :::{audio-examples}
 :track: a1/grammar/nomen-genus-plural
+:presenters: emilia
 :title: Genus und Plural
 :title-en: Noun gender and plurals
 

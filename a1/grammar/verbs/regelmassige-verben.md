@@ -76,6 +76,7 @@ Du {verb}`tanzt` gut.
 
 :::{audio-examples}
 :track: a1/grammar/regelmassige-verben
+:presenters: emilia
 :title: Regelmäßige Verben
 :title-en: Regular verbs in the present
 

@@ -71,6 +71,7 @@ Ich gehe ins Bett, {conj}`denn` es ist spät.
 
 :::{audio-examples}
 :track: a1/grammar/konjunktionen
+:presenters: emilia
 :title: Konjunktionen und, oder, aber, denn
 :title-en: Conjunctions und, oder, aber, denn
 

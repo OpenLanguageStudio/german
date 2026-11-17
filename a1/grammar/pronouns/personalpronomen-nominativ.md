@@ -65,6 +65,7 @@ Das Buch ist neu. {pronoun}`Es` ist interessant.
 
 :::{audio-examples}
 :track: a1/grammar/personalpronomen-nominativ
+:presenters: emilia
 :title: Personalpronomen im Nominativ
 :title-en: Personal pronouns in the nominative
 

@@ -96,6 +96,7 @@ Comparisons with *nicht so ... wie* sound more polite than a direct negative com
 
 :::{audio-examples}
 :track: a2/how-to/compare-things
+:presenters: emilia
 :title: Dinge vergleichen
 :title-en: Compare things
 

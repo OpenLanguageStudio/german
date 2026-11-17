@@ -74,6 +74,7 @@ Das Buch? Ich lese {akk}`es` gerade.
 
 :::{audio-examples}
 :track: a1/grammar/personalpronomen-akkusativ
+:presenters: emilia
 :title: Personalpronomen im Akkusativ
 :title-en: Personal pronouns in the accusative
 

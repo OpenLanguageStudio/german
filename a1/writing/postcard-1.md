@@ -33,9 +33,10 @@ Anna is at the seaside in Italy and writes to her grandmother.
 
 :::{audio-examples}
 :track: a1/writing/postcard-1
+:presenters: emilia
 :title: Eine Postkarte aus dem Urlaub
 :title-en: A Postcard from Holiday
-:multiline:
+:mode: passage
 
 Liebe Oma,
 viele Grüße aus Italien! Das Wetter ist super, die Sonne scheint jeden Tag. Wir schwimmen im Meer und essen viel Eis. Das Hotel ist klein, aber sehr schön. Abends gehen wir am Strand spazieren. Gestern waren wir in Rom. Die Stadt ist wunderschön, aber sehr voll.

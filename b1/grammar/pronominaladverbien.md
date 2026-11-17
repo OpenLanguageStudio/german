@@ -121,6 +121,7 @@ A Pronominaladverb can also introduce a **dass-clause** or an **infinitive claus
 
 :::{audio-examples}
 :track: b1/grammar/pronomen-und-prapositionen-uber-personen-sprechen
+:presenters: emilia
 :title: Pronomen und Präpositionen - Über Personen sprechen
 
 An wen denkst du? - Ich denke an meine Schwester.
@@ -177,6 +178,7 @@ Womit hast du dich beschäftigt? - Ich habe mich mit dem Projekt beschäftigt.
 
 :::{audio-examples}
 :track: b1/grammar/pronominaladverbien-uber-dinge-sprechen
+:presenters: emilia
 :title: Pronominaladverbien - Über Dinge sprechen
 
 Denkst du an das Meeting morgen? - Ja, ich denke daran.

@@ -140,6 +140,7 @@ In plural sentences like *Wir treffen uns um acht*, {pronoun}`uns` can mean a tr
 
 :::{audio-examples}
 :track: b1/grammar/reflexivpronomen-akkusativ
+:presenters: emilia
 :title: Reflexivpronomen Akkusativ
 
 Ich freue mich auf das Wochenende.
@@ -232,6 +233,7 @@ Sie erkältet sich oft im Winter.
 
 :::{audio-examples}
 :track: b1/grammar/reflexivpronomen-dativ
+:presenters: emilia
 :title: Reflexivpronomen Dativ
 
 Er kämmt sich die Haare.
