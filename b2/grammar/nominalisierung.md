@@ -34,7 +34,8 @@ Nominalized structures let you package complex ideas in fewer clauses. Instead o
 | verbal | finite verb clause | direct, dynamic |
 | nominal | noun phrase | compact, formal, abstract |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Team **analysiert** die Daten sehr genau.
 : The team analyzes the data very carefully.
 
@@ -68,7 +69,8 @@ German forms nominalizations in different ways. Some are highly productive (espe
 | **-(t)nis** | **das** or **die** | erleben -> das Erlebnis, erkennen -> die Erkenntnis |
 | **-(t)ion** | usually **die** | reagieren -> die Reaktion |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der **Abbau** von Bürokratie spart Zeit.
 : The reduction of bureaucracy saves time.
 
@@ -111,7 +113,8 @@ When you nominalize a sentence, complements often change case marking and connec
 
 A nominative subject in a verbal sentence often becomes a genitive attribute in a nominal phrase.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Körper reagiert auf Musik. -> die **Reaktion des Körpers** auf Musik.
 : The body reacts to music. -> the body's reaction to music.
 
@@ -126,7 +129,8 @@ Das Team reagiert schnell auf neue Daten. -> die schnelle **Reaktion des Teams**
 
 If the accusative object has an article word, nominal style usually uses a genitive construction.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Musik verändert den Blutdruck. -> die **Veränderung des Blutdrucks** durch Musik.
 : Music changes blood pressure. -> the change in blood pressure through music.
 
@@ -141,7 +145,8 @@ Der Kurs erweitert den Wortschatz. -> die **Erweiterung des Wortschatzes** durch
 
 If the accusative object has no article word (especially mass/abstract nouns), nominal style often uses **von + Dativ**.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Musik baut Stress ab. -> der **Abbau von Stress** durch Musik.
 : Music reduces stress. -> the reduction of stress through music.
 
@@ -162,7 +167,8 @@ The agent can still be added with **durch + Akkusativ** (cause/means) or sometim
 
 At B2, the goal is not to nominalize everything. Too many nominal phrases can sound heavy. Choose nominal style where precision and compactness matter, and verbal style where readability and rhythm matter.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Verbal: Der Bericht erklärt, warum die Zahlen sinken.
 : Verbal: The report explains why the numbers are falling.
 

@@ -29,7 +29,8 @@ Before reading this article, make sure you are comfortable with:
 
 The endings follow the definite article: *de**r*** gives diese**r**, *da**s*** gives diese**s**, and in the {term}`accusative <accusative case>` *de**n*** gives diese**n**.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {article}`Dieser` Käse ist sehr gut.
 : This cheese is very good.
 
@@ -44,7 +45,8 @@ Ich nehme {akk}`diesen` Kuchen.
 
 *Dieser* singles out one thing among others, typically while pointing, choosing, or comparing. It comes up constantly when shopping.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Was kostet {article}`diese` Jacke?
 : What does this jacket cost?
 

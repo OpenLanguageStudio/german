@@ -33,7 +33,8 @@ These forms all refer to people, but they do not mean the same thing. At B2, the
 | {stack}`niemand \| no one` | absolute person negation |
 | {stack}`keiner \| no one / none of them` | often contrastive or set-based |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {pronoun}`Man` kann diese Software auch ohne Schulung bedienen.
 : You/people can use this software even without training.
 
@@ -75,7 +76,8 @@ These forms are adverbial, but they function like indefinite location references
 | {stack}`nirgendwo \| nowhere` | negated location |
 | {stack}`nirgends \| nowhere` | stylistic variant of *nirgendwo* |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich hatte mein Ladegerät {adv}`irgendwo` im Büro liegen lassen.
 : I had left my charger somewhere in the office.
 
@@ -112,7 +114,8 @@ These time words help you control how specific or absolute your statement is. At
 | {stack}`nie \| never` | neutral strong negation |
 | {stack}`niemals \| never, absolutely never` | often more emphatic |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir müssen {adv}`irgendwann` entscheiden, welche Option wir finanzieren.
 : At some point we have to decide which option we will fund.
 
@@ -150,7 +153,8 @@ For non-person reference, these forms let you mark existence, vagueness, absence
 | {stack}`nichts \| nothing` | absolute negation for things/concepts |
 | {stack}`keins \| none (of a neuter noun/set)` | contrast to expected item |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wenn dir {pronoun}`etwas` unklar ist, frag bitte sofort nach.
 : If something is unclear to you, please ask immediately.
 
@@ -187,7 +191,8 @@ The forms *einer, eins, eine* can stand alone and replace a previously mentioned
 | Neuter | {pronoun}`eins` | Zwei Konzepte sind interessant, aber {pronoun}`eins` ist realistischer. |
 | Feminine | {pronoun}`eine` | Von den Methoden wirkt {pronoun}`eine` besonders effizient. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Von den drei Kandidaten hat {pronoun}`einer` besonders viel Führungserfahrung.
 : Of the three candidates, one has especially strong leadership experience.
 

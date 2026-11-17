@@ -32,7 +32,8 @@ Before reading this article, make sure you are comfortable with:
 | ihr (you pl.) | **euer** | euer Garten |
 | sie / Sie (they / you formal) | **ihr / Ihr** | ihre Kinder / Ihre Frage |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {article}`Mein` Bruder wohnt in Berlin.
 : My brother lives in Berlin.
 
@@ -56,7 +57,8 @@ The possessive article takes the ein-word endings: no ending for masculine and n
 | Nominative | mein | mein**e** | mein | mein**e** |
 | Accusative | mein**en** | mein**e** | mein | mein**e** |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {article}`Meine` Schwester ist Ärztin.
 : My sister is a doctor. (feminine)
 

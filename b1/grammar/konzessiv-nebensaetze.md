@@ -22,7 +22,8 @@ Like {conj}`weil`, {conj}`obwohl` creates a subordinate clause with verb-final o
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich gehe heute schwimmen, {conj}`obwohl` das Wasser kalt {verb}`ist`.
 : I'm going swimming today, even though the water is cold.
 
@@ -61,7 +62,8 @@ You can place the obwohl-clause after the main clause or before it. If it comes 
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {conj}`Obwohl` sie krank {verb}`ist`, {verb}`geht` sie zur Arbeit.
 : Even though she is sick, she goes to work.
 
@@ -99,7 +101,8 @@ All three forms express contrast, but their grammar is different.
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich bin müde, {conj}`obwohl` ich lange geschlafen {verb}`habe`.
 : I am tired, even though I slept for a long time.
 

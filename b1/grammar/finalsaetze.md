@@ -20,7 +20,8 @@ Use **um...zu** when the subject performing the action and the subject pursuing 
 
 > [Main clause]**, um** + [other elements] + **zu** + Infinitiv
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich spare Geld, {conj}`um` eine neue Jacke **zu kaufen**.
 : I'm saving money in order to buy a new jacket.
 
@@ -57,7 +58,8 @@ Use **damit** when the subject performing the action and the person who benefits
 
 > [Main clause]**, damit** + Subjekt + [other elements] + **conjugated verb** (at end)
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich erkläre es nochmal, {conj}`damit` du es **verstehst**.
 : I'll explain it again so that you understand.
 
@@ -92,7 +94,8 @@ The key question is always: **who is the subject in each part of the sentence?**
 
 **Parallel examples, one context, two different subject situations:**
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich mache das Licht aus, {conj}`um` Strom **zu sparen**.
 : I turn off the light to save electricity. (same subject: ich → ich)
 

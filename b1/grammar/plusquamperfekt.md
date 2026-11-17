@@ -37,7 +37,8 @@ auxiliary to its Präteritum form.
 
 The **Partizip II** comes at the end of the sentence (or clause).
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`hatte` den Film schon {verb}`gesehen`, bevor er im Kino anlief.
 : I had already seen the film before it was released in cinemas.
 
@@ -84,7 +85,8 @@ In a *nachdem* clause the auxiliary (**hatte** or **war**) is always the last wo
 The *Partizip II* comes just before it: *...gegessen hatte*, *...angekommen war*.
 :::
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {conj}`Nachdem` er {verb}`gefrühstückt hatte`, fuhr er zur Arbeit.
 : After he had had breakfast, he drove to work.
 

@@ -57,7 +57,8 @@ After a definite article, the singular ending is always **-e**, never -er or -es
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der **neu**e Zug kommt pünktlich an.
 : The new train arrives on time. (masc, definite)
 
@@ -107,7 +108,8 @@ Only **masculine** changes between Nominativ and Akkusativ, it always takes **-e
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich kaufe den **alt**en Pulli.
 : I'm buying the old sweater. (masc, definite)
 
@@ -157,7 +159,8 @@ A simple rule for Dativ: if there is any article before the adjective, use **-en
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich wohne in einem **klein**en Haus.
 : I live in a small house. (neut, indefinite – **-en**)
 

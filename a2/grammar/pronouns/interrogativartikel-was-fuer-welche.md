@@ -35,7 +35,8 @@ With **plural nouns** and **uncountable nouns** (things you cannot count), drop 
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Was für **ein** {noun}`Auto` hast du?
 : What kind of car do you have?
 
@@ -75,7 +76,8 @@ A quick way to remember the endings: they follow the same pattern as *der, die, 
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Welches** {noun}`Zimmer` ist frei?
 : Which room is free?
 
@@ -117,7 +119,8 @@ In practice, the two words can sometimes overlap. Germans may occasionally use *
 
 ### More contrast examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Was für **einen** Tee möchtest du? (open, you haven't seen the options yet)
 : What kind of tea would you like?
 

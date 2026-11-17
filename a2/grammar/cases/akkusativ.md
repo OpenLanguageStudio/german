@@ -34,7 +34,8 @@ The direct object is the noun that receives the verb's action. To find it, ask *
 
 In German, the noun itself does not change, only the article in front of it may change form.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich kaufe **einen** Pullover.
 : I'm buying a sweater. – Kaufe **was**? → einen Pullover.
 
@@ -81,7 +82,8 @@ Possessive articles (*mein, dein, sein, ihr, unser, euer, Ihr*) follow the same 
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er sieht {akk}`den` Arzt zweimal im Jahr.
 : He sees the doctor twice a year. (maskulin: *der* → *den*)
 
@@ -123,7 +125,8 @@ After these prepositions, the same article rules apply: only masculine changes f
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich gehe jeden Morgen {prep}`durch` {akk}`den` Park.
 : I walk through the park every morning. (maskulin: *den*)
 
@@ -166,7 +169,8 @@ At A2, you often meet accusative and dative close together. Two patterns are esp
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir gehen in {akk}`den` Supermarkt.
 : We're going into the supermarket. (Wohin? movement -> accusative)
 
@@ -216,7 +220,8 @@ Most everyday German verbs take a direct object in the accusative. Here is a lis
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er nimmt {akk}`den` Bus zur Schule.
 : He takes the bus to school.
 

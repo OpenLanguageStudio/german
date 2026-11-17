@@ -27,7 +27,8 @@ The most common order is: je-clause first, desto/umso-clause second. You can als
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **{conj}`Je` {adj}`früher`** wir losfahren, **{conj}`desto` {adj}`schneller`** sind wir am See.
 : The earlier we leave, the faster we are at the lake.
 
@@ -56,7 +57,8 @@ In the je-structure, **desto** and **umso** normally mean the same thing. Many s
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **{conj}`Je` {adj}`ruhiger`** es hier ist, **{conj}`desto` {adj}`besser`** kann ich arbeiten.
 : The quieter it is here, the better I can work.
 

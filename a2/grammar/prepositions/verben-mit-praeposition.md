@@ -26,7 +26,8 @@ A fixed-preposition verb is a verb that regularly combines with one specific pre
 
 For example, English "to wait for" uses *for*, but German uses *auf*: *warten auf*. English "to be interested in" uses *in*, but German uses *für*: *sich interessieren für*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich warte {prep}`auf` den Bus.
 : I am waiting for the bus.
 
@@ -59,7 +60,8 @@ For this topic, the main pattern is:
 | preposition + **Akkusativ** | Most combinations in this lesson |
 | preposition + **Dativ** | A smaller but important group |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir warten {prep}`auf` {akk}`den` Zug.
 : We are waiting for the train.
 
@@ -100,7 +102,8 @@ Below are the most important A2 combinations grouped by preposition.
 | **von + Dat** | träumen von, sprechen von |
 | **bei + Dat** | helfen bei |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir warten {prep}`auf` {akk}`den` Lehrer.
 : We are waiting for the teacher.
 

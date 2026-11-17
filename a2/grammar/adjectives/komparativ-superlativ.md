@@ -42,7 +42,8 @@ Many everyday one-syllable adjectives whose vowel is *a*, *o*, or *u* also add a
 Regular adjectives, whether short or long, simply add *-er* with no vowel change:
 *schnell → schnell**er***, *interessant → interessant**er***, *billig → billig**er***
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Mein Bruder ist **älter** als ich.
 : My brother is older than me.
 
@@ -88,7 +89,8 @@ When the adjective ends in *-t*, *-d*, *-s*, *-ß*, *-z*, or *-sch*, add **-este
 | jung | am jüng**sten** | umlaut, no *-e-* inserted |
 | groß | am größ**ten** | umlaut; no *-e-* despite ending in *-ß* (exception) |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der ICE ist **am schnellsten**.
 : The ICE is the fastest.
 
@@ -117,7 +119,8 @@ When a superlative adjective comes **directly before a noun**, use **der/die/das
 
 > **der/die/das** + adjective + **-(e)ste**
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das ist **der beste** Film des Jahres.
 : That's the best film of the year.
 
@@ -147,7 +150,8 @@ Three very common German words form comparatives and superlatives in a completel
 | {stack}`viel \| much/many` | {stack}`mehr \| more` | {stack}`am meisten \| (the) most` |
 | {stack}`gern \| gladly` | {stack}`lieber \| preferably` | {stack}`am liebsten \| most of all` |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Essen hier schmeckt **besser** als zu Hause.
 : The food here tastes better than at home.
 

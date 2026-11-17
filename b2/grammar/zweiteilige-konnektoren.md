@@ -29,7 +29,8 @@ Both pairs add information, but they do not sound identical. Use **sowohl ... al
 | {conj}`sowohl ... als auch` | two equally relevant elements | balanced, neutral |
 | {conj}`nicht nur ... sondern auch` | second element adds emphasis | stronger, argumentative |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Reform betrifft **sowohl** die Schulen **als auch** die Universitäten.
 : The reform affects both schools and universities.
 
@@ -63,7 +64,8 @@ Use **entweder ... oder** to present two alternatives. Use **weder ... noch** to
 > {conj}`entweder` + option A + {conj}`oder` + option B  
 > {conj}`weder` + option A + {conj}`noch` + option B
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir brauchen **entweder** eine Fristverlängerung **oder** zusätzliche Ressourcen.
 : We need either a deadline extension or additional resources.
 
@@ -99,7 +101,8 @@ These pairs are central for B2 argumentation. **zwar ... aber** concedes one poi
 | {conj}`zwar ... aber` | concession + contrast | spoken argument, quick evaluation |
 | {conj}`einerseits ... andererseits` | two perspectives | formal discussion, essays, reports |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Idee ist **zwar** ambitioniert, **aber** finanziell schwer umsetzbar.
 : The idea is admittedly ambitious, but financially hard to implement.
 
@@ -137,7 +140,8 @@ Use this pattern when one change depends on another change. The first clause wit
 | je ..., desto ... | Je genauer die Daten sind, desto stabiler sind die Prognosen. |
 | je ..., umso ... | Je früher wir reagieren, umso geringer wird der Schaden. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Je klarer** die Zuständigkeiten sind, **desto schneller** werden Entscheidungen getroffen.
 : The clearer responsibilities are, the faster decisions are made.
 

@@ -30,7 +30,8 @@ German often keeps the same preposition across related forms, but there are impo
 | Partial overlap | only two forms match | *Interesse an* / *interessiert an* but *sich interessieren für* |
 | No reliable overlap | each form can differ | must be learned as separate chunks |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir brauchen mehr {noun}`Hilfe` {prep}`bei` {dativ}`der` Planung.
 : We need more help with the planning.
 
@@ -64,7 +65,8 @@ In many high-frequency patterns, all three forms keep the same preposition. Thes
 | Freude {prep}`über` | sich freuen {prep}`über` | erfreut {prep}`über` | Akkusativ |
 | Teilnahme {prep}`an` | teilnehmen {prep}`an` | beteiligt {prep}`an` | Dativ |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Vielen Dank für deine {noun}`Hilfe` {prep}`bei` {dativ}`dem` Bericht.
 : Thanks a lot for your help with the report.
 
@@ -104,7 +106,8 @@ Many pairs match between noun and verb, while an adjective with the same preposi
 | Suche {prep}`nach` + Dat | suchen {prep}`nach` + Dat | often lexical adjective (*auf der Suche nach*) |
 | Warnung {prep}`vor` + Dat | warnen {prep}`vor` + Dat | adjective often differs by meaning (*vorsichtig bei/mit*) |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Unsere {noun}`Bitte` {prep}`um` {akk}`eine` Fristverlängerung wurde angenommen.
 : Our request for an extension was accepted.
 
@@ -144,7 +147,8 @@ Another common B2 pattern is noun and adjective with one preposition, while the 
 | Neugier {prep}`auf` + Akk | neugierig {prep}`auf` + Akk | often different verb expression |
 | Wut {prep}`auf` + Akk | wütend {prep}`auf` + Akk | verbs often use *über* (*sich ärgern über*) |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Es gibt großes {noun}`Interesse` {prep}`an` {dativ}`einer` schnellen Einigung.
 : There is great interest in a quick agreement.
 

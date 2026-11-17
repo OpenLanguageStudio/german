@@ -36,7 +36,8 @@ These prepositions are common in routes and location descriptions and always tak
 
 Use an...vorbei when you pass a place while moving.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich gehe {prep}`an` {dativ}`dem` Park vorbei.
 : I walk past the park.
 
@@ -55,7 +56,8 @@ In everyday German, an dem is usually shortened to am: am Park vorbei.
 
 Use bis zu to show the end point on a route.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Gehen Sie {prep}`bis zu` {dativ}`der` Kreuzung.
 : Go as far as the crossroads.
 
@@ -74,7 +76,8 @@ You will often hear contractions in speech: bis zum Bahnhof, bis zur Kreuzung.
 
 Use gegenüber to describe what is opposite something.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Café ist {prep}`gegenüber` {dativ}`dem` Bahnhof.
 : The café is opposite the station.
 
@@ -116,7 +119,8 @@ These prepositions describe movement routes and always take accusative.
 
 Use durch when you go through an area, gate, tunnel, or street.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir gehen {prep}`durch` {akk}`den` Park.
 : We walk through the park.
 
@@ -131,7 +135,8 @@ Gehen Sie {prep}`durch` {akk}`das` Tor und dann links.
 
 Entlang is special: in everyday German it usually comes after the noun phrase.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Sie geht {akk}`die` Straße {prep}`entlang`.
 : She walks along the street.
 
@@ -150,7 +155,8 @@ At A2 level, keep the everyday order: die Straße entlang. Do not start with ent
 
 Use um...herum for movement around something.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Sie läuft {prep}`um` {akk}`den` See herum.
 : She runs around the lake.
 
@@ -182,7 +188,8 @@ When you give directions, you often combine several local prepositions in one sh
 
 ### Mini route examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Gehen Sie {prep}`an` {dativ}`dem` Museum vorbei und dann {prep}`durch` {akk}`den` Park.
 : Go past the museum and then through the park.
 

@@ -24,7 +24,8 @@ Before reading this article, make sure you are comfortable with:
 
 The direct object answers *wen?* (whom?) or *was?* (what?). Whoever does the action is nominative; whatever the action lands on is accusative.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich sehe {akk}`den Bus`.
 : I see the bus.
 
@@ -46,7 +47,8 @@ Compare the two cases. Everything stays the same except the masculine column:
 
 {term}`Possessive articles <possessive article>` follow along: *mein* becomes **meinen**, *dein* becomes **deinen**, and so on.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich brauche {akk}`einen Stift`.
 : I need a pen.
 
@@ -61,7 +63,8 @@ Er hat {akk}`keinen Hunger`.
 
 Most everyday verbs that act on something take the accusative: *haben, brauchen, kaufen, suchen, finden, sehen, essen, trinken, nehmen, kennen, besuchen*. If you can ask *was?* after the verb, the answer is accusative.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir nehmen {akk}`den Bus`.
 : We take the bus.
 

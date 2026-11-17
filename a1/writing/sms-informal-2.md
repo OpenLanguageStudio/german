@@ -16,30 +16,30 @@ German does this with the *Kannst du ...?* frame, a question with the {term}`mod
 
 ## Example: A pickup from football practice
 
-Hana is stuck at work and needs Max to collect her son.
+Lina is stuck at work, and her daughter Lana has football practice and a broken bike. Lina asks Tobias to collect her.
 
-> **Hana:** Hallo Max, kannst du mir helfen? Ich bin noch bei der Arbeit und mein Sohn ist allein. Kannst du ihn vielleicht vom Fußball abholen? Das Training ist um fünf Uhr fertig.
+> **Lina:** Hallo Tobias, kannst du mir helfen? Ich bin noch bei der Arbeit und Lanas Fahrrad ist kaputt. Kannst du sie vielleicht vom Fußball abholen? Das Training ist um fünf Uhr fertig.
 >
-> **Max:** Klar, kein Problem! Ich hole ihn ab. Soll ich ihn zu euch bringen?
+> **Tobias:** Klar, kein Problem! Ich hole sie ab. Soll ich das Fahrrad auch mitnehmen? Ich repariere es am Wochenende.
 >
-> **Hana:** Ja, super! Vielen Dank, du bist der Beste. Ich bin um sechs zu Hause.
+> **Lina:** Ja, super! Vielen Dank, du bist der Beste. Ich bin um sechs zu Hause.
 
-*Kannst du mir helfen?* flags a favour before the details, and the situation takes one sentence. *Vielleicht* keeps the request soft. The concrete facts let Max say yes without a follow-up question, and his *Soll ich ...?* reply shows the helper's side.
+*Kannst du mir helfen?* flags a favour before the details, and the situation takes one sentence. *Vielleicht* keeps the request soft. The concrete facts let Tobias say yes without a follow-up question, and his *Soll ich ...?* reply shows the helper's side.
 
 ### Hear it in practice
 
 :::{audio-examples}
 :track: a1/writing/sms-informal-2
-:presenters: hana-kim, max
+:presenters: lina, tobias
 :title: Eine Nachricht - Kannst du mir helfen?
 :title-en: Asking a Favour
 :mode: dialogue
 
-hana-kim: Hallo Max, kannst du mir helfen? Ich bin noch bei der Arbeit und mein Sohn ist allein. Kannst du ihn vielleicht vom Fußball abholen? Das Training ist um fünf Uhr fertig.
-: Hi Max, can you help me? I'm still at work and my son is alone. Could you maybe pick him up from football? Training finishes at five o'clock.
-max: Klar, kein Problem! Ich hole ihn ab. Soll ich ihn zu euch bringen?
-: Sure, no problem! I'll pick him up. Should I bring him to your place?
-hana-kim: Ja, super! Vielen Dank, du bist der Beste. Ich bin um sechs zu Hause.
+lina: Hallo Tobias, kannst du mir helfen? Ich bin noch bei der Arbeit und Lanas Fahrrad ist kaputt. Kannst du sie vielleicht vom Fußball abholen? Das Training ist um fünf Uhr fertig.
+: Hi Tobias, can you help me? I'm still at work and Lana's bike is broken. Could you maybe pick her up from football? Training finishes at five o'clock.
+tobias: Klar, kein Problem! Ich hole sie ab. Soll ich das Fahrrad auch mitnehmen? Ich repariere es am Wochenende.
+: Sure, no problem! I'll pick her up. Should I take the bike too? I'll fix it at the weekend.
+lina: Ja, super! Vielen Dank, du bist der Beste. Ich bin um sechs zu Hause.
 : Yes, great! Thanks so much, you're the best. I'll be home at six.
 :::
 
@@ -73,7 +73,7 @@ hana-kim: Ja, super! Vielen Dank, du bist der Beste. Ich bin um sechs zu Hause.
 
 - Details before the ask: start with **Kannst du mir helfen?**, then explain.
 - Missing facts: a favour without time and place triggers a chain of questions.
-- *\*Hol meinen Sohn ab.* as a first message: the bare {term}`imperative` reads as an order; wrap it in **Kannst du ...?**
+- *\*Hol Lana ab.* as a first message: the bare {term}`imperative` reads as an order; wrap it in **Kannst du ...?**
 :::
 
 ## Related articles

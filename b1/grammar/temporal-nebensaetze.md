@@ -33,7 +33,8 @@ Both clauses use the same tense. No tense shift is needed.
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich putze mir die Zähne, {conj}`bevor` ich ins Bett {verb}`gehe`.
 : I brush my teeth before I go to bed.
 
@@ -64,7 +65,8 @@ Ich lese die Bewertungen, {conj}`bevor` ich ein Hotel {verb}`buche`.
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich warte hier, {conj}`bis` du {verb}`zurückkommst`.
 : I'll wait here until you come back.
 
@@ -101,17 +103,20 @@ In the *Nebensatz*, the auxiliary verb (*habe*, *hat*, *hatte*, *war*, etc.) goe
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {conj}`Nachdem` ich geduscht {verb}`habe`, frühstücke ich.
 : After I have showered, I have breakfast.
 :::
   _(Nebensatz: Perfekt – Hauptsatz: Präsens)_
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {conj}`Nachdem` sie die Nachricht gelesen {verb}`hatte`, rief sie sofort an.
 : After she had read the message, she called immediately.
 :::
   _(Nebensatz: Plusquamperfekt – Hauptsatz: Präteritum)_
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er wartete auf dem Bahnsteig, {conj}`nachdem` sein Zug {verb}`abgefahren war`.
 : He waited on the platform after his train had left.
 
@@ -139,7 +144,8 @@ Both clauses use the same tense.
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {conj}`Während` meine Mutter {verb}`kocht`, decke ich den Tisch.
 : While my mother cooks, I set the table.
 
@@ -169,7 +175,8 @@ Ich trinke Kaffee, {conj}`während` ich die Zeitung {verb}`lese`.
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich lerne Deutsch, {conj}`seitdem` ich in Deutschland {verb}`wohne`.
 : I have been learning German since I've been living in Germany.
 

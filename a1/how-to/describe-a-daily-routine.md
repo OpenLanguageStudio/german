@@ -42,7 +42,8 @@ The telling needs a time on each step and the words *zuerst*, *dann* and *danach
 
 String the day together with time phrases and sequence words. Each sentence stays simple; the order does the storytelling.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich stehe um sieben Uhr auf.
 : I get up at seven o'clock.
 
@@ -57,7 +58,8 @@ Abends sehe ich fern.
 
 Several routine verbs come apart in the sentence: *aufstehen* becomes *Ich stehe ... auf*, *einkaufen* becomes *Ich kaufe ... ein*, *fernsehen* becomes *Ich sehe ... fern*. The little {term}`prefix` jumps to the very end. These three work as fixed patterns, and the full rule has its own grammar article.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Nach der Arbeit **kaufe** ich **ein**.
 : After work I do the shopping.
 
@@ -67,7 +69,8 @@ Ich **sehe** abends **fern**.
 
 A sentence can also open with the time. German then swaps subject and verb, so the verb stays in second position: *Um acht fahre ich zur Arbeit.* A whole day of *ich, ich, ich* sounds mechanical, so this is worth using.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Um acht **fahre ich** zur Arbeit.
 : At eight I go to work.
 

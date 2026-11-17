@@ -34,7 +34,8 @@ Use *man* when you mean people in general, not a specific person. English often 
 
 > **man** + verb (3rd person singular) + ...
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Man** sagt, dass dieses Restaurant sehr gut ist.
 : People say that this restaurant is very good.
 
@@ -77,7 +78,8 @@ Both can appear with optional case endings.
 | Akkusativ | jemand / jemanden | niemand / niemanden |
 | Dativ | jemand / jemandem | niemand / niemandem |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Jemand** hat an der Tür geklopft.
 : Someone knocked at the door.
 
@@ -112,7 +114,8 @@ You can use *jemand* and *niemand* as direct and indirect objects. In these role
 | Direct object | Wen? | jemanden, niemanden |
 | Indirect object | Wem? | jemandem, niemandem |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich suche **jemanden** für das Projekt.
 : I'm looking for someone for the project.
 

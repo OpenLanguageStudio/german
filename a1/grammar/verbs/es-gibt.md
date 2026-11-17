@@ -17,7 +17,8 @@ The word *es* is fixed and *gibt* stays the same, whether one thing exists or ma
 
 The *es* is fixed and *gibt* never varies. Whatever exists stands in the accusative: *Es gibt **einen** Park.* {term}`Negation` uses *kein*: *Es gibt **keinen** Aufzug.*
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Es gibt {akk}`einen Park`.
 : There is a park.
 
@@ -32,7 +33,8 @@ In der Stadt gibt es {akk}`ein Kino`.
 
 *Gibt es ...?* asks whether anything exists or is available, and *noch* asks if any is left.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Gibt es hier {akk}`eine Apotheke`?
 : Is there a pharmacy here?
 
@@ -47,7 +49,8 @@ Gibt es noch Fragen?
 
 *Es gibt* also announces food (*Es gibt heute Suppe*) and appears in the question *Was gibt es ...?*: *Was gibt es zum Frühstück? Was gibt es heute im Fernsehen?*
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Zum Mittagessen gibt es Nudeln.
 : For lunch there is pasta.
 

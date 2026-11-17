@@ -31,7 +31,8 @@ Word order pattern:
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Bus hatte Verspätung, **{conj}`deshalb` {verb}`habe` ich** ein Taxi genommen.
 : The bus was delayed, so I took a taxi.
 
@@ -70,7 +71,8 @@ Use these forms when you want to express a result with a subordinate clause.
 
 **sodass** introduces a result directly.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Es hat die ganze Nacht geregnet, **{conj}`sodass`** die Straßen am Morgen leer **{verb}`waren`**.
 : It rained all night, so the streets were empty in the morning.
 
@@ -85,7 +87,8 @@ Wir haben früh gebucht, **{conj}`sodass`** wir günstige Tickets **{verb}`bekom
 
 Use **so + adjective/adverb + dass** when degree is important.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Musik war **so** laut, **{conj}`dass`** ich mich nicht konzentrieren **{verb}`konnte`**.
 : The music was so loud that I could not concentrate.
 
@@ -125,7 +128,8 @@ Learners often know **weil** first. A helpful strategy is to compare direction:
 
 Additional contrasts:
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir hatten keinen Schirm, **deshalb wurden** wir nass.
 : We had no umbrella, so we got wet.
 

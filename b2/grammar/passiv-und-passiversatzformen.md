@@ -29,7 +29,8 @@ The passive puts the process or result in focus, not the person doing it. At B2,
 | Agent optional | von + Dativ | add who did it only when relevant |
 | Formal style | passive common | objective, impersonal tone |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Vertrag **wird** aktuell **geprüft**.
 : The contract is currently being reviewed.
 
@@ -58,7 +59,8 @@ These two forms are the foundation of the *Vorgangspassiv*. Use *Präsens* for c
 | Präsens | **werden** (present) + Partizip II | Die Daten **werden analysiert**. |
 | Präteritum | **wurden/wurde** + Partizip II | Die Daten **wurden analysiert**. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Unterlagen **werden** heute noch **gescannt**.
 : The documents are still being scanned today.
 
@@ -87,7 +89,8 @@ For compound passive tenses, German uses *sein* as the auxiliary. The typical B2
 | Perfekt | **sein** (present) + Partizip II + **worden** | Der Plan **ist angepasst worden**. |
 | Plusquamperfekt | **sein** (präteritum) + Partizip II + **worden** | Der Plan **war angepasst worden**. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Rechnung **ist** bereits **bezahlt worden**.
 : The invoice has already been paid.
 
@@ -121,7 +124,8 @@ With modal verbs, passive meaning and modality combine in one clause. At B2, the
 | possibility | kann ... werden | Die Datei **kann geteilt werden**. |
 | recommendation/expectation | sollte ... werden | Der Fehler **sollte dokumentiert werden**. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Ergebnisse **müssen** bis Freitag **ausgewertet werden**.
 : The results must be evaluated by Friday.
 
@@ -152,7 +156,8 @@ German often avoids full passive forms when a shorter active-looking structure s
 | sich lassen + Infinitiv | practical possibility | neutral, frequent |
 | sein + -bar/-lich adjective | inherent quality | compact, evaluative |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Bericht **wird morgen erstellt**.
 : The report is being prepared tomorrow.
 
@@ -178,7 +183,8 @@ This structure often appears in instructions, regulations, and formal writing. I
 
 > **sein** (conjugated) + zu + Infinitiv
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Antrag **ist bis Ende Mai einzureichen**.
 : The application must be submitted by the end of May.
 
@@ -204,7 +210,8 @@ This form highlights whether something is practically possible and often feels n
 
 > **sich lassen** (conjugated) + Infinitiv
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Problem **lässt sich** schnell **lösen**.
 : The problem can be solved quickly.
 
@@ -235,7 +242,8 @@ Adjectives like *machbar*, *lesbar*, *verständlich* or *nutzbar* package passiv
 | verständlich | kann verstanden werden |
 | umsetzbar | kann umgesetzt werden |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Zeitplan ist unter diesen Bedingungen **machbar**.
 : The timeline is feasible under these conditions.
 

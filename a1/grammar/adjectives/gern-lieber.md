@@ -24,7 +24,8 @@ German has no {term}`verb` for *to like doing*, so these words go with the activ
 
 All three behave like *gern*: they follow the verb and change nothing else in the sentence.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er isst **gern** Pizza.
 : He likes eating pizza.
 
@@ -39,7 +40,8 @@ Sie isst **lieber** Salat.
 
 *Lieber* picks one option over another, and the question with *oder* invites the choice.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Trinkst du **lieber** Kaffee oder Tee?
 : Do you prefer coffee or tea?
 
@@ -54,7 +56,8 @@ Ich bleibe heute **lieber** zu Hause.
 
 *Am liebsten* loves the first position; the verb stays second, as always: *Am liebsten höre ich Musik.*
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Am liebsten** höre ich Musik.
 : Most of all I like listening to music.
 

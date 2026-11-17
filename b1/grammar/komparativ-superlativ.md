@@ -68,7 +68,8 @@ The comparative stem (*adjective + -er*) is treated exactly like a regular adjec
 
 Examples:
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir nehmen den **schnelleren** Zug um 8 Uhr.
 : We're taking the faster train at 8 o'clock.
 
@@ -122,7 +123,8 @@ The superlative stem (*adjective + -st*- or *-est*-) is also declined like a reg
 
 Examples:
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das war **der längste** Tag meines Lebens.
 : That was the longest day of my life.
 
@@ -180,7 +182,8 @@ For preferences before a noun, German also often uses **Lieblings-** in everyday
 
 Examples:
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das ist **der beste** Film des Jahres.
 : That is the best film of the year.
 

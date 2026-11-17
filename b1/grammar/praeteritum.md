@@ -26,7 +26,8 @@ The most important thing to know about *Präteritum* is when to use it. In spoke
 
 The following verbs are so common that their *Präteritum* forms simply feel more natural, even in conversation: *sein → war*, *haben → hatte*, *werden → wurde*, and all six modal verbs.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Buch {verb}`war` spannend, aber ich {verb}`hatte` keine Zeit, es zu lesen.
 : The book was gripping, but I didn't have time to read it.
 
@@ -65,7 +66,8 @@ Most German verbs are weak (regular). To form the Präteritum, add **-te** to th
 If the verb stem ends in **-d** or **-t**, insert an extra **-e-** before the endings to keep the word pronounceable: _arbeiten → arbeit**ete**_, _warten → wart**ete**_, _reden → red**ete**_. The same applies to stems ending in a consonant cluster with **-m** or **-n**, like _atmen → atm**ete**_.
 :::
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`spielte` Gitarre, während sie {verb}`kochte`.
 : I played guitar while she cooked.
 
@@ -122,7 +124,8 @@ The stem vowel change differs for every strong verb, you need to learn each one 
 | treffen | {stack}`traf \| met` |
 | trinken | {stack}`trank \| drank` |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Sie {verb}`schrieb` einen langen Brief an ihre Eltern.
 : She wrote a long letter to her parents.
 
@@ -164,7 +167,8 @@ A small group of verbs, called *gemischte Verben* (mixed verbs), combine feature
 
 The person endings are the same as for weak verbs: -te, -test, -te, -ten, -tet, -ten.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er {verb}`dachte` lange über das Problem nach.
 : He thought about the problem for a long time.
 
@@ -215,7 +219,8 @@ Modal verbs drop the umlaut in *Präteritum* and follow the weak verb endings:
 | dürfen | {stack}`durfte \| was allowed to` |
 | mögen | {stack}`mochte \| liked` |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Gestern {verb}`war` das Wetter wunderschön.
 : Yesterday the weather was wonderful.
 

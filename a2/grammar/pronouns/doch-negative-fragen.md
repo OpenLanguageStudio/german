@@ -265,12 +265,12 @@ Isst du kein Fleisch?
 Doch, manchmal.
 : Yes, sometimes.
 
-Gefiel dir der Film nicht?
+Hat dir der Film nicht gefallen?
 : Didn't you like the film?
 Doch, er war toll.
 : Yes, it was great.
 
-Arbeitest du nicht heute?
+Arbeitest du heute nicht?
 : Aren't you working today?
 Doch, ab zehn Uhr.
 : Yes, from ten o'clock.

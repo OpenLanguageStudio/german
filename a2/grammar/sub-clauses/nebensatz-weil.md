@@ -26,7 +26,8 @@ myst:
 
 > main clause **,** {conj}`weil` + subject + ... + {verb}`conjugated verb`
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich bleibe zu Hause, {conj}`weil` ich krank {verb}`bin`.
 : I am staying home because I am sick.
 
@@ -52,7 +53,8 @@ In standard German, the conjugated verb in the *weil*-clause is always in final 
 
 > main clause **,** {conj}`weil` + subject + other elements + {verb}`conjugated verb`
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich gehe früh ins Bett, {conj}`weil` ich morgen um sechs Uhr aufstehen {verb}`muss`.
 : I am going to bed early because I have to get up at six tomorrow.
 
@@ -83,7 +85,8 @@ You can place the *weil*-clause after the main clause or before it. If the *weil
 | Main clause first | Ich gehe früh ins Bett, {conj}`weil` ich müde {verb}`bin`. |
 | Weil-clause first | {conj}`Weil` ich müde {verb}`bin`, {verb}`gehe` ich früh ins Bett. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich bleibe heute zu Hause, {conj}`weil` ich Kopfschmerzen {verb}`habe`.
 : I am staying home today because I have a headache.
 
@@ -122,7 +125,8 @@ Compared with *weil*, *denn* is a coordinating conjunction. That means the claus
 | Position | can start a sentence | cannot start a sentence |
 | Typical style | very common in speech and writing | common, often slightly more formal in writing |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich komme nicht, {conj}`weil` ich krank {verb}`bin`.
 : I am not coming because I am sick.
 

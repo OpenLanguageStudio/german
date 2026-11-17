@@ -50,7 +50,8 @@ Both pairs keep normal verb position (verb in second position). When they connec
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Sie spricht **sowohl** Deutsch **als auch** Englisch.
 : She speaks both German and English.
 
@@ -95,7 +96,8 @@ Both versions are correct. The clause after **oder** always follows normal word 
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Entweder** bestellst du Pizza, **oder** wir kochen selbst.
 : Either you order pizza, or we cook ourselves.
 
@@ -130,7 +132,8 @@ Use **weder...noch** to say that **neither** of two things is true or possible. 
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er ist **weder** müde **noch** krank.
 : He is neither tired nor ill.
 
@@ -175,7 +178,8 @@ Use **zwar...aber** when you want to **acknowledge something is true**, then imm
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Hotel ist **zwar** teuer, **aber** sehr komfortabel.
 : The hotel is admittedly expensive, but very comfortable.
 
@@ -217,7 +221,8 @@ They can also appear after the subject within the clause, but the clause-initial
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Einerseits** finde ich meinen Job sehr spannend, **andererseits** ist er extrem stressig.
 : On the one hand I find my job very interesting, on the other hand it's extremely stressful.
 

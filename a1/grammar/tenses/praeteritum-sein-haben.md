@@ -31,7 +31,8 @@ Like the {term}`modals <modal verb>`, the *ich* and *er* forms match.
 
 Everything *sein* does in the present, *war* does in the past: places, descriptions, states.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`war` gestern im Kino.
 : I was at the cinema yesterday.
 
@@ -46,7 +47,8 @@ Das Wetter {verb}`war` schön.
 
 *Hatte* covers past possession and all the haben-chunks: *Zeit, Hunger, Fieber, Spaß*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`hatte` keine Zeit.
 : I had no time.
 

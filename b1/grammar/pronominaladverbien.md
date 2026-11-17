@@ -27,7 +27,8 @@ When the noun you are replacing refers to a person, keep the preposition and rep
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Rufen Sie den Personalchef an. {prep}`Mit` {pronoun}`ihm` können Sie einen Termin vereinbaren.
 : Call the HR manager. With him you can arrange an appointment.
 
@@ -85,7 +86,8 @@ Use this mini-list as vocabulary support. The right form depends on the verb's f
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich freue mich auf das Konzert. **Darauf** warte ich schon lange.
 : I'm looking forward to the concert. I've been waiting for it for a long time.
 

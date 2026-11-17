@@ -24,7 +24,8 @@ German has three forms of address where English has one *you*: *du*, *ihr* and *
 
 *Sie* is always capitalised and always takes the *-en* form, whether you address one director or five.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Bist {pronoun}`du` müde?
 : Are you tired? (one friend)
 
@@ -39,7 +40,8 @@ Sind {pronoun}`Sie` Frau Weber?
 
 *Du* is for friends, family, children, and usually fellow students. *Ihr* is simply the plural of *du*. *Sie* is for adults you do not know, officials, shop staff, and anyone at work until offered otherwise. The rule of thumb from introducing yourself still holds: when unsure, start with *Sie*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wie geht es {dativ}`dir`?
 : How are you? (du-person)
 
@@ -54,7 +56,8 @@ Wie geht es {dativ}`Ihnen`?
 
 The move from *Sie* to *du* is usually offered by the older or more senior person: *Wir können du sagen* (we can switch to du). Accepting is easy and pleasant; offering upward yourself is the thing to avoid.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir können du sagen.
 : We can switch to du.
 

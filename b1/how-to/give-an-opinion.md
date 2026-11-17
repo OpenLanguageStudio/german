@@ -26,7 +26,8 @@ Stating a view and reacting to someone else's is the core move of any discussion
 
 ## Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Ich finde, dass** Online-Unterricht praktisch ist.
 : I think online classes are practical.
 

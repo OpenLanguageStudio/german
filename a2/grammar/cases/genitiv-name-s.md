@@ -26,7 +26,8 @@ To express possession, add **-s** to the name and place it before the object. Th
 
 > **Name + s** + noun
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das ist **Toms** Buch.
 : That is Tom's book.
 
@@ -58,7 +59,8 @@ When a name already ends in **-s, -ß, -z**, or **-x**, you cannot add another -
 
 > **Name'** + noun  *(only when the name ends in s / ß / z / x)*
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das ist **Klaus'** Fahrrad.
 : That is Klaus's bicycle.
 
@@ -88,7 +90,8 @@ There is a second way to express possession with names: use **von** followed by 
 | Annas Auto | das Auto von Anna |
 | Klaus' Wohnung | die Wohnung von Klaus |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Buch **von Tom** ist sehr interessant.
 : Tom's book is very interesting.
 
@@ -122,7 +125,8 @@ German and English both place a person name before the noun to show possession, 
 | {stack}`Annas Auto \| Anna's car` | |
 | {stack}`Max' Handy \| Max's phone` | |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 This is **Tom's** bike. -> Das ist **Toms** Fahrrad.
 : The meaning is the same, but German usually has no apostrophe before -s.
 

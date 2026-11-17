@@ -18,7 +18,8 @@ There is no separate word to learn, only a set of situations. Professions and na
 
 When you say what someone is by profession or nationality, German drops the article. English says "I am **a** teacher"; German says only *Ich bin Lehrerin*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich bin **Lehrerin**.
 : I am a teacher.
 
@@ -37,7 +38,8 @@ This also works with *werden* and *als*: *Sie wird Ärztin* (she is becoming a d
 
 General statements about languages, food, drink, and other substances take no article. You talk about the thing in general, not one specific portion of it.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich spreche **Deutsch** und **Englisch**.
 : I speak German and English.
 
@@ -59,7 +61,8 @@ When you mean one specific item, the article comes back: *Der Kaffee ist kalt* (
 | Indefinite | ein Apfel | Äpfel |
 | Indefinite | eine Frage | Fragen |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich kaufe **Äpfel**.
 : I am buying apples.
 
@@ -74,7 +77,8 @@ Wir brauchen **Eier**.
 
 Names of cities and most countries take no article: *in Berlin*, *nach Deutschland*, *aus Österreich*. A few country names do carry an article (*die Schweiz*, *die Türkei*); learn those as exceptions.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich wohne in **Berlin**.
 : I live in Berlin.
 

@@ -18,7 +18,8 @@ English scatters this meaning across *you*, *one*, *people* and *they*, while Ge
 
 *Man* behaves like *er*: the verb takes the third person {term}`singular` form. It never refers to a specific person, and it is not *der Mann*; one n, no article, no capital letter mid-sentence.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 In Deutschland spricht {pronoun}`man` Deutsch.
 : In Germany people speak German.
 
@@ -33,7 +34,8 @@ Das sagt {pronoun}`man` nicht.
 
 Two *man* questions belong to every learner's survival kit: *Wie sagt man ...?* and *Wie schreibt man ...?* Both ask how things are done in general.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wie sagt {pronoun}`man` das auf Deutsch?
 : How do you say that in German?
 
@@ -45,7 +47,8 @@ Wie macht {pronoun}`man` das?
 
 *Man* pairs naturally with {term}`modals <modal verb>` for rules and possibilities: what one can, must, and may do in a place.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Hier darf {pronoun}`man` nicht rauchen.
 : Smoking is not allowed here.
 

@@ -23,7 +23,8 @@ A {term}`pronoun` is a short word that stands in for a {term}`noun`. One rule ca
 | {stack}`er / sie / es \| he / she / it` | {stack}`sie \| they` |
 |  | {stack}`Sie \| you (formal)` |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {pronoun}`Wir` lernen zusammen Deutsch.
 : We are learning German together.
 
@@ -38,7 +39,8 @@ A {term}`pronoun` is a short word that stands in for a {term}`noun`. One rule ca
 
 A pronoun replaces a noun already mentioned, and it copies that noun's grammatical gender. *Der Bus* becomes *er*, *die Suppe* becomes *sie*, *das Buch* becomes *es*, whether or not the thing is alive.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wo ist der Bus? {pronoun}`Er` kommt gleich.
 : Where is the bus? It is coming soon.
 

@@ -45,7 +45,8 @@ Three small words pin an event to a point in time: *um* for a clock time, *am* f
 
 One form needs special care: **halb vier** means half past THREE, not half past four. German looks ahead to the coming hour.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Es ist Viertel nach acht.
 : It is quarter past eight.
 
@@ -64,7 +65,8 @@ The days: *Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag*. T
 
 Three prepositions place events in time, each locked to its own kind of time word: **um** + clock time, **am** + day, **im** + month.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Am Montag arbeite ich.
 : On Monday I work.
 

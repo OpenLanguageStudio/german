@@ -30,7 +30,8 @@ These prefixes often appear in formal or academic vocabulary. They can express a
 | **dis-** | separation, mismatch, loss of validity | disqualifizieren, diskontinuierlich |
 | **miss-** | wrong execution or harmful use | missverstehen, missbrauchen |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Nach dem Nachtflug war ich völlig **des**orientiert.
 : After the night flight, I was completely disoriented.
 
@@ -71,7 +72,8 @@ These forms are very common at B2 because they appear in abstract adjectives and
 | **a-** | mostly in learned/technical words | asymmetrisch, atypisch |
 | **non-** | explicit classificatory negation | nonverbal, Nonstopflug |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die neue Regel ist für viele Mitarbeitende **un**klar.
 : The new rule is unclear for many employees.
 
@@ -115,7 +117,8 @@ German also creates negative meaning through suffixes and compounds. This is ver
 | {stack}`-leer \| empty of, lacking content/substance` | sinnleer, inhaltsleer |
 | {stack}`Nicht- + Nomen \| explicit category negation` | Nichtmitglied, Nichtzahlung |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Nach der Kündigung war er mehrere Monate arbeits**los**.
 : After the dismissal, he was unemployed for several months.
 
@@ -162,7 +165,8 @@ At B2, you need to control what exactly is negated. A practical core rule is: **
 | Adjective/adverb | before adjective/adverb | Das ist **nicht** sinnvoll. |
 | Prepositional phrase | before the phrase | Wir treffen uns **nicht** im Büro. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich kann heute leider **nicht** kommen.
 : Unfortunately, I cannot come today.
 

@@ -28,7 +28,8 @@ These three connectors let you join two statements and signal a logical relation
 
 A comma always comes before **denn**. Because it is a coordinator, **denn** can never start a sentence.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich bleibe zu Hause, {conj}`denn` ich {verb}`bin` krank.
 : I'm staying home because I'm sick.
 
@@ -62,7 +63,8 @@ When one of these words begins a clause, it fills **position 1**. Because the ve
 
 > [Cause]. {conj}`Deshalb` + {verb}`verb` + subject + rest of clause
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich bin krank. {conj}`Deshalb` {verb}`bleibe` ich zu Hause.
 : I'm sick. That's why I'm staying home.
 
@@ -96,7 +98,8 @@ Like **deshalb**, **trotzdem** takes position 1 and causes the same inversion: t
 
 > [First fact]. {conj}`Trotzdem` + {verb}`verb` + subject + rest of clause
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Es regnet. {conj}`Trotzdem` {verb}`gehen` wir spazieren.
 : It's raining. We're going for a walk anyway.
 
@@ -133,7 +136,8 @@ Both **denn** and **weil** mean "because" and introduce a reason. The only diffe
 | Can start a sentence? | No | Yes |
 | Register | Slightly more written/formal | Common in speech and writing |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich bleibe zu Hause, {conj}`denn` ich {verb}`bin` krank.
 : I'm staying home because I'm sick. (verb stays in position 2)
 
@@ -143,7 +147,8 @@ Ich bleibe zu Hause, {conj}`weil` ich krank {verb}`bin`.
 
 Both sentences carry the same meaning. The difference is purely structural.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er schläft nicht gut, {conj}`denn` er {verb}`hat` viel Stress.
 : He doesn't sleep well because he has a lot of stress. (denn, verb position 2)
 
@@ -177,7 +182,7 @@ Wir gehen nicht spazieren, denn es regnet.
 Sie ist müde, denn sie hat schlecht geschlafen.
 : She's tired because she slept badly.
 
-Ich esse kein Fleisch, denn ich bin Vegetarier.
+Ich esse kein Fleisch, denn ich bin Vegetarierin.
 : I don't eat meat because I'm vegetarian.
 
 Er ist glücklich, denn er hat eine neue Arbeit gefunden.
@@ -349,7 +354,7 @@ Wir möchten Geld sparen, deshalb kochen wir zu Hause.
 Sie hat die Prüfung nicht bestanden, deshalb ist sie traurig.
 : She didn't pass the exam, therefore she's sad.
 
-Ich bin Vegetarier, deshalb esse ich kein Fleisch.
+Ich bin Vegetarierin, deshalb esse ich kein Fleisch.
 : I'm vegetarian, therefore I don't eat meat.
 :::
 

@@ -29,7 +29,8 @@ A Modalsatz adds information about method, procedure, or manner. In many context
 | Method / strategy | Wie? Auf welche Weise? | {conj}`indem` |
 | Process-based explanation | Wodurch? Auf welche Art? | {conj}`dadurch ... dass` |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Team hat den Konflikt gelöst, {conj}`indem` es frühzeitig moderierte.
 : The team solved the conflict by moderating early.
 
@@ -63,7 +64,8 @@ You can also place the clause first:
 
 > {conj}`Dadurch`, {conj}`dass` + subordinate clause, main clause
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Viele Kinder verlieren die Familiensprache {conj}`dadurch`, {conj}`dass` zu Hause fast nur Deutsch gesprochen wird.
 : Many children lose the family language because mostly German is spoken at home.
 
@@ -100,7 +102,8 @@ or
 
 > {conj}`Indem` + subordinate clause, main clause
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Sie hat ihr Hörverstehen verbessert, {conj}`indem` sie täglich Nachrichtenausschnitte analysiert hat.
 : She improved her listening comprehension by analyzing news clips every day.
 

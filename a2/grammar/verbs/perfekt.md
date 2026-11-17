@@ -49,7 +49,8 @@ The **-e-** before the final **-t** is added whenever the stem already ends in
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`habe` ein Buch {verb}`gekauft`.
 : I bought a book.
 
@@ -105,7 +106,8 @@ verbs also take *sein*: *bleiben*, *sein* itself, and *passieren*.
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`bin` gestern in die Stadt {verb}`gefahren`.
 : I drove into town yesterday.
 
@@ -175,7 +177,8 @@ Verbs that start with an **inseparable prefix** (such as *be-*, *ver-*, *er-*, *
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`habe` das Buch schon {verb}`gelesen`.
 : I have already read the book.
 

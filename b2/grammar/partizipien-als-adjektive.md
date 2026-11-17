@@ -32,7 +32,8 @@ Use *Partizip I* when the noun is actively doing something or when you want to s
 | wachsen | wachsend | ein wachsender Markt |
 | fehlen | fehlend | die fehlenden Daten |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir haben gestern einen {adj}`spannenden` Film gesehen.
 : We watched an exciting film yesterday.
 
@@ -63,7 +64,8 @@ Use *Partizip II* as an adjective when you describe a completed action or result
 | reparieren | repariert | die reparierte Maschine |
 | veröffentlichen | veröffentlicht | der veröffentlichte Bericht |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Sonntags gibt es hier nur einen {adj}`geschlossenen` Laden in der Straße.
 : On Sundays there is only a closed shop on this street.
 
@@ -93,7 +95,8 @@ When a participle stands directly before a noun, it declines exactly like any ad
 | Indefinite article | ein + Partizip + ending | ein geschlossener Laden |
 | No article (plural) | Partizip + -e/-en | geschlossene Läden |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der {adj}`lachende` Junge begrüßte uns zuerst.
 : The laughing boy greeted us first.
 
@@ -123,7 +126,8 @@ At B2, participial adjectives are especially useful for concise style. You can o
 | die Mitarbeitenden, die gerade verhandeln | die gerade verhandelnden Mitarbeitenden |
 | ein Problem, das schon gelöst ist | ein bereits gelöstes Problem |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir analysieren die gestern {adj}`veröffentlichten` Zahlen sehr genau.
 : We are analyzing the figures published yesterday very closely.
 

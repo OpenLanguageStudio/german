@@ -40,7 +40,8 @@ Compare the Perfekt of a modal verb with the preferred Präteritum:
 | *Wir haben lange warten müssen.* | *Wir mussten lange warten.* |
 | *Sie hat nicht bleiben dürfen.* | *Sie durfte nicht bleiben.* |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Gestern {verb}`konnte` ich nicht schlafen.
 : Yesterday I couldn't sleep.
 
@@ -82,7 +83,8 @@ Full conjugation for all five modals:
 | ihr | konn**tet** | muss**tet** | woll**tet** | durf**tet** | soll**tet** |
 | sie / Sie | konn**ten** | muss**ten** | woll**ten** | durf**ten** | soll**ten** |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {verb}`Konntest` du die Aufgabe lösen?
 : Were you able to solve the task?
 
@@ -116,7 +118,8 @@ Each modal has a distinct meaning in the past. Here are all five with natural, e
 
 Use **konnte** to talk about ability or possibility in the past.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`konnte` kein Wort auf Deutsch verstehen.
 : I couldn't understand a single word of German.
 
@@ -131,7 +134,8 @@ Wir {verb}`konnten` das Restaurant nicht finden.
 
 Use **musste** when someone was required or needed to do something.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Sie {verb}`musste` zum Arzt gehen.
 : She had to go to the doctor.
 
@@ -146,7 +150,8 @@ Wir {verb}`mussten` den ganzen Tag im Büro bleiben.
 
 Use **durfte** for permission or the absence of it in the past.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir {verb}`durften` als Kinder im Garten spielen.
 : We were allowed to play in the garden as children.
 
@@ -161,7 +166,8 @@ Sie {verb}`durften` das Zimmer nicht betreten.
 
 Use **wollte** for wishes or intentions in the past.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Kind {verb}`wollte` nicht schlafen.
 : The child didn't want to sleep.
 
@@ -176,7 +182,8 @@ Wir {verb}`wollten` ins Kino gehen, aber der Film war ausverkauft.
 
 Use **sollte** when someone had an obligation set by another person or prior arrangement.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`sollte` um 8 Uhr am Bahnhof sein.
 : I was supposed to be at the station at 8 o'clock.
 
@@ -210,7 +217,8 @@ The key difference: Konjunktiv II **adds the umlaut back**; Präteritum **has no
 - *Ich sollte mehr lernen.*, past fact ("I was supposed to study more") or Konjunktiv II advice ("I should study more").
 :::
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`konnte` gestern nicht schlafen. *(Präteritum, past fact)*
 : I couldn't sleep yesterday.
 

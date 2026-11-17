@@ -31,7 +31,8 @@ All four connectors in this article use the same base structure: connector + inf
 | **anstatt ... zu** + Infinitiv | alternative (more formal) | anstatt nur **zu kritisieren** |
 | **statt ... zu** + Infinitiv | alternative (neutral/shorter) | statt passiv **zu warten** |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Sie öffnete die Datei, **um** die Zahlen sofort **zu prüfen**.
 : She opened the file to check the numbers immediately.
 
@@ -61,7 +62,8 @@ Use **um ... zu** when you want to show intention or purpose. The action in the 
 
 > **um** + (optional objects/adverbials) + **zu + Infinitiv**
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir haben die Sitzung vorgezogen, **um** schneller eine Entscheidung **zu treffen**.
 : We moved the meeting earlier to make a decision faster.
 
@@ -94,7 +96,8 @@ Use **ohne ... zu** to show that a second action did not happen while the first 
 | missing parallel action | without doing ... |
 | implicit criticism/limitation | without even ... |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er hat den Bericht veröffentlicht, **ohne** ihn vorher gründlich **zu prüfen**.
 : He published the report without checking it thoroughly first.
 
@@ -127,7 +130,8 @@ Both **anstatt ... zu** and **statt ... zu** introduce an alternative: one path 
 | {stack}`anstatt ... zu \| instead of doing ...` | slightly more formal/explicit |
 | {stack}`statt ... zu \| instead of doing ...` | shorter, very common in speech |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Anstatt** neue Schuldige **zu suchen**, sollten wir den Prozess verbessern.
 : Instead of looking for new people to blame, we should improve the process.
 

@@ -38,7 +38,8 @@ Two observations carry most of the weight: the accusative only changes the {term
 2. **What does the action land on?** The direct object, found with *wen oder was?*, is accusative.
 3. **Is there a dative preposition in front?** After *aus, bei, mit, nach, von, zu, seit*, it is dative, always.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {subj}`Der Mann` kauft {akk}`einen Apfel`.
 : The man buys an apple. (subject nominative, object accusative)
 

@@ -27,7 +27,8 @@ myst:
 
 *Sein* connects a person or thing to a description: a noun (*Er ist Lehrer*), an adjective (*Ich bin müde*), an age, a place.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`bin` müde.
 : I am tired.
 
@@ -51,7 +52,8 @@ Wir {verb}`sind` zu Hause.
 
 *Haben* takes a direct object in the accusative: *Ich habe **einen** Bruder.* It also carries a family of feeling-chunks where English uses "to be": *Hunger haben, Durst haben, Zeit haben, Recht haben*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {verb}`Hast` du Hunger?
 : Are you hungry?
 

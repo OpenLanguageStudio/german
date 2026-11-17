@@ -43,7 +43,8 @@ The price question has two forms: *Was kostet ...?* for one thing and *Was koste
 
 *Was kostet ...?* asks the price of one thing, *Was kosten ...?* of several. When choosing, the shop assistant asks with *welchen* and the answer uses *diesen*. Both are accusative forms.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Was kostet {subj}`der Käse`?
 : How much is the cheese?
 
@@ -56,7 +57,8 @@ Ich nehme {akk}`diesen Käse`.
 
 Quantities come before the noun, with no word for "of": *ein Kilo Tomaten*, *eine Flasche Wasser*, *zweihundert Gramm Käse*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ein Kilo Tomaten, bitte.
 : A kilo of tomatoes, please.
 
@@ -68,7 +70,8 @@ Eine Flasche Wasser, bitte.
 
 At the till you hear the total with *Das macht ...*, then the question of how you pay. Cash is *bar*, card is *mit Karte*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das macht zusammen zwölf Euro fünfzig.
 : That comes to twelve euros fifty altogether.
 

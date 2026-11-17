@@ -37,7 +37,8 @@ You often use it after these common verbs:
 | {stack}`wissen \| to know` | Ich weiß, dass ... |
 | {stack}`meinen \| to mean/think` | Ich meine, dass ... |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich denke, {conj}`dass` der Bus heute pünktlich ist.
 : I think that the bus is on time today.
 
@@ -73,7 +74,8 @@ In a *dass* clause, the conjugated verb goes to the end of the subordinate claus
 
 > **Main clause**, {conj}`dass` + subject + other words + **{verb}`conjugated verb`**
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich finde, {conj}`dass` der Film sehr spannend {verb}`ist`.
 : I think that the movie is very exciting.
 
@@ -112,7 +114,8 @@ A comma always separates the main clause and the *dass* clause. In A2 writing, k
 | Main clause + dass clause | Ich glaube, **dass** er heute kommt. |
 | Dass clause first + main clause | **Dass** er heute kommt, freut mich. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich denke, {conj}`dass` wir heute zu Hause bleiben.
 : I think that we are staying at home today.
 
@@ -148,7 +151,8 @@ You can also use *dass* after adjectives and expressions, not only after verbs.
 | {stack}`Ich bin froh, dass ... \| I am glad that ...` | |
 | {stack}`Ich bin sicher, dass ... \| I am sure that ...` | |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Es ist wichtig, {conj}`dass` du genug Wasser trinkst.
 : It is important that you drink enough water.
 
@@ -180,7 +184,8 @@ A *dass* clause can come first for emphasis. Then the main clause starts with th
 
 > {conj}`Dass` + ... + {verb}`verb`, **{verb}`verb`** + subject + ...
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {conj}`Dass` du heute da bist, {verb}`freut` mich sehr.
 : That you are here today makes me very happy.
 
@@ -216,7 +221,8 @@ These two words sound the same, so learners often mix them up.
 | **dass** | conjunction (introduces a clause) | You cannot replace it with *dieses*. |
 | **das** | article or pronoun | You can often replace it with *dieses* or *jenes*. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich weiß, **dass** du **das** Buch heute brauchst.
 : I know that you need the book today.
 

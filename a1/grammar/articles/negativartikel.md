@@ -28,7 +28,8 @@ Before reading this article, make sure you are comfortable with:
 
 The endings mirror *ein/eine*, but unlike *ein*, kein has a plural: *keine*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das ist {article}`kein` Bahnhof.
 : That is not a train station.
 
@@ -48,7 +49,8 @@ The same {term}`accusative <accusative case>` pattern as *ein*: only the masculi
 | Nominative | kein | keine | kein | keine |
 | Accusative | **keinen** | keine | kein | keine |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich habe {akk}`keinen` Hunger.
 : I'm not hungry. (literally: I have no hunger)
 
@@ -67,7 +69,8 @@ Some very common chunks with accusative *kein*: *keinen Hunger*, *keinen Durst*,
 
 **Kein** negates nouns (wherever you could say *ein*, or where there is no article at all). **Nicht** negates everything else: verbs, adjectives, and specific known things.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich habe {article}`kein` Auto.
 : I don't have a car. (noun, so kein)
 

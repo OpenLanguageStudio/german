@@ -42,7 +42,8 @@ The other forms follow the regular pattern.
 | ihr | **werdet** |
 | sie / Sie | **werden** |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`werde` heute schnell müde.
 : I get tired quickly today.
 
@@ -73,7 +74,8 @@ As a main verb, *werden* usually means **to become**, **to get/grow**, or **to t
 
 Use *werden* for jobs and roles.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Mein Bruder {verb}`wird` Lehrer.
 : My brother is becoming a teacher.
 
@@ -88,7 +90,8 @@ Was möchtest du {verb}`werden`?
 
 German says you *become* an age.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er {verb}`wird` nächsten Monat 25.
 : He turns 25 next month.
 
@@ -100,7 +103,8 @@ Wann {verb}`wirst` du achtzehn?
 
 Use *werden* when conditions change.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Es {verb}`wird` kalt.
 : It's getting cold.
 
@@ -115,7 +119,8 @@ Das Wetter {verb}`wird` besser.
 
 Use *werden* when someone changes state or feeling.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`werde` nervös.
 : I'm getting nervous.
 
@@ -128,7 +133,8 @@ Wir {verb}`werden` nach dem Sport hungrig.
 
 **Colors and visible changes (to turn)**
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Blätter {verb}`werden` gelb.
 : The leaves turn yellow.
 
@@ -163,7 +169,8 @@ At A2, these are especially useful for simple storytelling and past events.
 | ihr | **wurdet** |
 | sie / Sie | **wurden** |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`wurde` krank.
 : I got sick.
 
@@ -180,7 +187,8 @@ The Perfekt is built with **sein + geworden**.
 
 Because *werden* describes a change of state, it takes **sein** as auxiliary.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er {verb}`ist` Ingenieur {verb}`geworden`.
 : He has become an engineer.
 
@@ -208,7 +216,7 @@ Do not confuse:
 :title: Das Verb werden
 :title-en: The Verb werden
 
-Ich werde Lehrer.
+Ich werde Lehrerin.
 : I'm becoming a teacher.
 
 Sie wird 25 Jahre alt.

@@ -45,7 +45,8 @@ Irregular verbs take *ge-* and *-en*, often changing the stem vowel on the way. 
 
 Verbs ending in **-ieren** skip the *ge-* entirely: *telefonieren* → *telefoniert*. {term}`Separable verbs <separable verb>` tuck the *ge-* between {term}`prefix` and stem: *einkaufen* → *ein**ge**kauft*, *anrufen* → *an**ge**rufen*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er hat lange **telefoniert**.
 : He was on the phone a long time.
 

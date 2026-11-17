@@ -29,7 +29,8 @@ Removing *-en* from the infinitive gives the stem (*lernen* → *lern-*). The en
 
 *Wir* and *sie/Sie* simply reuse the infinitive. That leaves only four forms to actually learn.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`lerne` Deutsch.
 : I am learning German.
 
@@ -44,7 +45,8 @@ Die Kinder {verb}`spielen` im Park.
 
 If the stem ends in *-t* or *-d* (*arbeiten*, *warten*, *finden*), German inserts an **-e-** before *-st* and *-t*. The ending then stays audible: *du arbeitest, er arbeitet, ihr wartet*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Du {verb}`arbeitest` zu viel.
 : You work too much.
 
@@ -56,7 +58,8 @@ Du {verb}`arbeitest` zu viel.
 
 If the stem already ends in an s-sound (*heißen*, *tanzen*), the *du* form adds only **-t** instead of -st: *du heißt*, *du tanzt*. The du and er forms then look identical.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Du {verb}`heißt` Paul, oder?
 : Your name is Paul, right?
 

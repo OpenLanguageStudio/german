@@ -32,7 +32,8 @@ German uses two groups of verbs here:
 | Move / put to a place | *Wohin?* | transitive placement verb | accusative |
 | Be in a place | *Wo?* | intransitive position verb | dative |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`stelle` die Flasche {prep}`auf` {akk}`den` Tisch.
 : I put the bottle on the table.
 
@@ -74,7 +75,8 @@ These are the most important A2 position verb pairs.
 
 Use this pair for things with a "standing" position: bottles, cups, vases, books in a shelf.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Sie {verb}`stellt` die Tassen {prep}`in` {akk}`den` Schrank.
 : She puts the cups in the cupboard.
 
@@ -86,7 +88,8 @@ Die Tassen {verb}`stehen` {prep}`in` {dativ}`dem` Schrank.
 
 Use this pair for things lying flat: papers, blankets, books on a table.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`lege` die Decke {prep}`auf` {akk}`das` Sofa.
 : I put the blanket on the sofa.
 
@@ -101,7 +104,8 @@ Same infinitive, different meaning:
 - transitive: hang something somewhere (*Wohin?* + accusative)
 - intransitive: be hanging somewhere (*Wo?* + dative)
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir {verb}`hängen` das Bild {prep}`an` {akk}`die` Wand.
 : We hang the picture on the wall.
 
@@ -113,7 +117,8 @@ Das Bild {verb}`hängt` {prep}`an` {dativ}`der` Wand.
 
 Use this pair for people and animals.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Junge {verb}`setzt` sich {prep}`auf` {akk}`den` Stuhl.
 : The boy sits down on the chair.
 
@@ -125,7 +130,8 @@ Der Junge {verb}`sitzt` {prep}`auf` {dativ}`dem` Stuhl.
 
 Use *stecken* for putting something into a narrow opening or inside something (for example a pocket, a bag, a lock).
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Sie {verb}`steckt` den Schlüssel {prep}`ins` Schloss.
 : She puts the key into the lock.
 
@@ -161,7 +167,8 @@ With two-way prepositions (*an, auf, hinter, in, neben, über, unter, vor, zwisc
 | Er hängt die Jacke **an den** Haken. | movement to location (*Wohin?*) |
 | Die Jacke hängt **an dem** Haken / **am** Haken. | location (*Wo?*) |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`setze` mich {prep}`zwischen` {akk}`die` Kinder.
 : I sit down between the children.
 

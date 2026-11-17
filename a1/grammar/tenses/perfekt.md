@@ -25,7 +25,8 @@ Before reading this article, make sure you are comfortable with:
 
 Most verbs build the Perfekt with *haben*: {term}`conjugate <conjugation>` it as usual, park the participle last.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`habe` eine Pizza **gegessen**.
 : I ate a pizza.
 
@@ -40,7 +41,8 @@ Wir {verb}`haben` am Samstag **eingekauft**.
 
 Verbs of movement from A to B (*gehen, fahren, kommen*) and change of state (*aufstehen*) use *sein* instead: *Ich **bin** gegangen.* At A1 this is a short list; learn it with the verb.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`bin` nach Hause **gegangen**.
 : I went home.
 
@@ -55,7 +57,8 @@ Wir {verb}`sind` spät **aufgestanden**.
 
 The bracket behaves exactly as with the {term}`modals <modal verb>`: the helper moves for questions, *nicht* and *noch nicht* stand before the participle.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {verb}`Hast` du schon **gegessen**?
 : Have you eaten yet?
 

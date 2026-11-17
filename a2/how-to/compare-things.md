@@ -38,7 +38,8 @@ Comparing things in German comes down to two small words and one ending. *So ...
 
 *So* + adjective + *wie* compares two equal things. The adjective keeps its base form. With *nicht*, the sentence says that the first thing falls short, which often sounds softer than a direct "worse".
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Mein Zimmer ist {adj}`so groß` {conj}`wie` dein Zimmer.
 : My room is as big as your room.
 
@@ -53,7 +54,8 @@ Die Wohnung ist {adj}`nicht so teuer` {conj}`wie` das Haus.
 
 The comparative adds **-er** to the adjective, and *als* introduces the second thing. Many short adjectives also take an umlaut: *alt, älter*; *groß, größer*; *warm, wärmer*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Berlin ist {adj}`größer` {conj}`als` München.
 : Berlin is bigger than Munich.
 
@@ -68,7 +70,8 @@ Meine Schwester ist {adj}`älter` {conj}`als` ich.
 
 *Am* + adjective + **-sten** names the top of a group. Three common words change completely: *gut, besser, am besten*; *gern, lieber, am liebsten*; *viel, mehr, am meisten*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Im Sommer ist es hier {adj}`am wärmsten`.
 : It is warmest here in summer.
 

@@ -34,7 +34,8 @@ Once you have the Partizip II, just add adjective endings to place it before a n
 
 ### Partizip II before a noun
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das {adj}`gekaufte` Buch liegt auf dem Tisch.
 : The purchased book is on the table.
 
@@ -65,7 +66,8 @@ Verbs with inseparable prefixes (ver-, be-, er-, emp-, ent-, ge-, miss-) and ver
 
 When the participle follows *sein* or *bleiben*, it describes the current state of the subject. No adjective ending is used in this position.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Tür ist {adj}`abgeschlossen`.
 : The door is locked.
 
@@ -99,7 +101,8 @@ The formula works for all verbs without exception, just add **-d** to the infini
 
 ### Partizip I before a noun
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das {adj}`weinende` Kind braucht Hilfe.
 : The crying child needs help.
 

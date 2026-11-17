@@ -48,7 +48,8 @@ German splits the job between two structures, each with a negative of its own. *
 
 German has no verb for "to like doing". Instead, take the activity verb and drop *gern* after it: *Ich koche gern*, literally "I cook gladly". The negative puts *nicht* before *gern*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich spiele **gern** Fußball.
 : I like playing football.
 
@@ -63,7 +64,8 @@ Ich arbeite **nicht gern** am Wochenende.
 
 For {term}`nouns <noun>`, use *mögen*: *Ich mag Kaffee*. The everyday forms: *ich mag, du magst, er/sie mag, Sie mögen*. The negative uses *kein*: *Ich mag keinen Fisch*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich mag {akk}`den Sommer`.
 : I like summer.
 

@@ -31,7 +31,8 @@ With {conj}`als` in unreal comparisons, German usually uses a condensed clause w
 | als + verb-first clause | Er tut so, als {verb}`wäre` er der Chef. |
 | als + perfect Konjunktiv II | Sie sah mich an, als {verb}`hätte` ich sie belogen. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Chef behandelt uns, als {verb}`wären` wir gleichberechtigte Partner.
 : The boss treats us as if we were equal partners.
 
@@ -69,7 +70,8 @@ Use the following link to practice this section:
 | als ob | subordinate clause (verb at end) | Sie tut so, als ob sie alles {verb}`wüsste`. |
 | als wenn | subordinate clause (verb at end) | Es klingt, als wenn er nicht kommen {verb}`könnte`. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Kollegen tun immer so, als ob sie alle perfekt {verb}`wären`.
 : The colleagues always act as if they were all perfect.
 
@@ -109,7 +111,8 @@ At B2 level, an important restriction is: this comparison clause is normally **n
 | sich fühlen | Ich fühlte mich, als wäre ich in einem falschen Film. |
 | aussehen | Es sieht so aus, als wenn ein Sturm kommen {verb}`würde`. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Es wirkt, als ob das Team ohne klaren Plan arbeiten {verb}`würde`.
 : It seems as if the team were working without a clear plan.
 

@@ -51,7 +51,8 @@ After a range of common German verbs, you attach a *zu + Infinitiv* phrase to de
 | {stack}`versuchen \| to try` | |
 | {stack}`vorhaben \| to intend / plan` | |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich **versuche**, mehr Wasser zu **trinken**.
 : I'm trying to drink more water.
 
@@ -85,7 +86,8 @@ You can describe whether an activity is easy, difficult, important, or enjoyable
 > **Es ist** + Adjektiv **,** + **zu** + Infinitiv  
 > **Ich finde es** + Adjektiv **,** + **zu** + Infinitiv
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Es **ist** wichtig, pünktlich zu **sein**.
 : It is important to be on time.
 
@@ -123,7 +125,8 @@ Certain noun expressions in German also introduce a *zu + Infinitiv* phrase. The
 | {stack}`Lust haben \| to feel like doing something` | |
 | {stack}`Spaß machen \| to be fun` | |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er **hat die Absicht**, nächsten Monat um**zu**ziehen.
 : He intends to move next month.
 

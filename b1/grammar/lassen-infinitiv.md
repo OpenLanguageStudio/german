@@ -29,7 +29,8 @@ You use the causative when you are not doing an action yourself but arranging fo
 
 > {verb}`lassen` (conjugated) + object + infinitive
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich **lasse** das Auto {verb}`reparieren`.
 : I'm having the car repaired.
 
@@ -58,7 +59,8 @@ When you allow or permit someone else to do something, the structure looks exact
 
 > {verb}`lassen` (conjugated) + person + infinitive
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Lehrerin **lässt** die Kinder früher {verb}`gehen`.
 : The teacher lets the children leave early.
 
@@ -96,7 +98,8 @@ This is equivalent to *kann + Partizip II werden* (can be done):
 | Das lässt sich machen. | Das kann gemacht werden. |
 | Das lässt sich nicht ändern. | Das kann nicht geändert werden. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das **lässt sich** leicht {verb}`erklären`.
 : That can easily be explained.
 
@@ -125,7 +128,8 @@ In the Perfekt, *lassen* behaves exactly like a modal verb. When it is combined 
 
 > **haben** (conjugated) + ... + infinitive + **lassen**
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich habe das Auto reparieren **lassen**.
 : I had the car repaired.
 

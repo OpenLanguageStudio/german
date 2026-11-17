@@ -30,7 +30,8 @@ All three change their vowel in the singular and drop the endings for *ich* and 
 
 *Können* covers ability and possibility, *müssen* necessity, *wollen* firm intention. In each case the main verb waits at the end.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`kann` gut **schwimmen**.
 : I can swim well.
 
@@ -45,7 +46,8 @@ Ich {verb}`will` Deutsch **lernen**.
 
 Questions put the modal first; the infinitive still ends the sentence. *Nicht* slots in before the infinitive.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {verb}`Kannst` du morgen **kommen**?
 : Can you come tomorrow?
 

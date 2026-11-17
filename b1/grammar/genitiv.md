@@ -31,7 +31,8 @@ The genitive has its own article forms. The most important change is for **mascu
 *der* in the genitive (feminine/plural) looks the same as the masculine nominative *der*. Context and the noun's ending help you tell them apart.
 :::
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das ist das Auto {article}`des` Lehrers.
 : That is the teacher's car.
 
@@ -67,7 +68,8 @@ In the genitive case, **masculine and neuter nouns** receive a special ending, e
 - After polysyllabic nouns: *der Lehrer → des Lehrer**s***, *das Konzert → des Konzert**s***
 - After nouns ending in a vowel: *der Opa → des Opa**s***
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Auto {article}`des` Lehrer**s** steht vor der Schule.
 : The teacher's car is parked in front of the school.
 
@@ -106,7 +108,8 @@ After **any article**, definite or indefinite, adjectives in the genitive always
 The **-en** ending on genitive adjectives is completely consistent after all articles, no exceptions. Once you recognise a genitive article (*des*, *der*, *eines*, *meiner*…), you know the adjective that follows will end in **-en**.
 :::
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das ist die Meinung eines erfahren**en** Arztes.
 : That is the opinion of an experienced doctor.
 
@@ -149,7 +152,8 @@ If a name already ends in **-s, -ß, -x**, or **-z**, add an apostrophe instead 
 > **Klaus'** Auto – Klaus's car  
 > **Max'** Idee – Max's idea
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das ist **Sarahs** neues Apartment.
 : That is Sarah's new apartment.
 

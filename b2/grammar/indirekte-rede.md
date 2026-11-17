@@ -30,7 +30,8 @@ In formal German, *Konjunktiv I* marks distance from the content: you show that 
 | Scientific text | Konjunktiv I | clear source distance |
 | Everyday conversation | often Indikativ | more direct, less formal |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Ministerin erklärt, die Lage {verb}`sei` stabil.
 : The minister explains that the situation is stable.
 
@@ -64,7 +65,8 @@ You can report statements with *dass* clauses or without *dass*. Without *dass*,
 | without *dass* | reporting verb + comma + Konjunktiv I clause | Er sagt, er komme morgen. |
 | yes/no question | reporting verb + ob + ... + Verb (usually Konjunktiv) at the end | Sie fragt, ob er schon angekommen sei. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Sprecher sagt, dass die Verhandlungen morgen {verb}`beginnen`.
 : The spokesperson says that the negotiations begin tomorrow.
 
@@ -97,7 +99,8 @@ Some *Konjunktiv I* forms are identical to *Indikativ* (especially with *ich*, *
 | K I = Indikativ | use Konjunktiv II | Er sagt, sie hätten keine Zeit. |
 | K II also unclear/stiff | use würde + Infinitiv | Er sagt, sie würden später kommen. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Zeugin sagte, sie {verb}`hätten` den Fahrer nicht erkannt.
 : The witness said they had not recognized the driver.
 
@@ -130,7 +133,8 @@ In everyday spoken German, many speakers report statements in *Indikativ*, espec
 | formal written (news/science) | mostly Konjunktiv I | Er sagte, die Methode sei zuverlässig. |
 | informal spoken | often Indikativ | Er hat gesagt, dass die Methode zuverlässig ist. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Formal: Der Autor schreibt, das Ergebnis {verb}`sei` reproduzierbar.
 : Formal: The author writes that the result is reproducible.
 

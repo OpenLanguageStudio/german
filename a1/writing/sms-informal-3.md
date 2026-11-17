@@ -16,17 +16,17 @@ The exchange has a rhythm: propose, ask back, settle the details, confirm. The o
 
 ## Example: A Saturday at the pool
 
-Hana is organising a swimming trip and pulls Lina in.
+Nina is organising a swimming trip and pulls Lina in.
 
-> **Hana:** Hallo Lina! Was machst du am Samstag? Wir wollen ins Schwimmbad gehen. Kommst du mit?
+> **Nina:** Hallo Lina! Was machst du am Samstag? Wir wollen ins Schwimmbad gehen. Kommst du mit?
 >
-> **Lina:** Gute Idee! Um wie viel Uhr trefft ihr euch?
+> **Lina:** Gute Idee, ich schwimme gern! Um wie viel Uhr trefft ihr euch?
 >
-> **Hana:** Um elf am Eingang. Danach essen wir ein Eis in der Stadt.
+> **Nina:** Um elf am Eingang. Danach essen wir ein Eis in der Stadt.
 >
 > **Lina:** Perfekt, ich komme mit! Soll ich etwas mitbringen?
 >
-> **Hana:** Nein, du brauchst nur Badesachen. Max und seine Freundin kommen auch. Bis Samstag!
+> **Nina:** Nein, du brauchst nur Badesachen. Max und seine Freundin kommen auch. Bis Samstag!
 
 The opener checks availability before proposing anything. The plan comes with an invitation (*Kommst du mit?*). The details land as short facts (*Um elf am Eingang*), and the confirmation is clear (*{term}`Perfekt`, ich komme mit!*).
 
@@ -34,20 +34,20 @@ The opener checks availability before proposing anything. The plan comes with an
 
 :::{audio-examples}
 :track: a1/writing/sms-informal-3
-:presenters: hana-kim, lina
+:presenters: emilia, lina
 :title: Eine Nachricht - Was machst du am Samstag?
 :title-en: Making Plans
 :mode: dialogue
 
-hana-kim: Hallo Lina! Was machst du am Samstag? Wir wollen ins Schwimmbad gehen. Kommst du mit?
+emilia: Hallo Lina! Was machst du am Samstag? Wir wollen ins Schwimmbad gehen. Kommst du mit?
 : Hi Lina! What are you doing on Saturday? We want to go to the swimming pool. Are you coming along?
-lina: Gute Idee! Um wie viel Uhr trefft ihr euch?
-: Good idea! What time are you meeting?
-hana-kim: Um elf am Eingang. Danach essen wir ein Eis in der Stadt.
+lina: Gute Idee, ich schwimme gern! Um wie viel Uhr trefft ihr euch?
+: Good idea, I like swimming! What time are you meeting?
+emilia: Um elf am Eingang. Danach essen wir ein Eis in der Stadt.
 : At eleven at the entrance. Afterwards we're having an ice cream in town.
 lina: Perfekt, ich komme mit! Soll ich etwas mitbringen?
 : Perfect, I'm in! Should I bring anything?
-hana-kim: Nein, du brauchst nur Badesachen. Max und seine Freundin kommen auch. Bis Samstag!
+emilia: Nein, du brauchst nur Badesachen. Max und seine Freundin kommen auch. Bis Samstag!
 : No, you only need swimming things. Max and his girlfriend are coming too. See you Saturday!
 :::
 
