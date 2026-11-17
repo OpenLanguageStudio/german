@@ -40,7 +40,8 @@ When no article is present, the adjective takes on the job of the article, it ca
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Schwarzer** Kaffee schmeckt mir am besten.
 : Black coffee tastes best to me. (Nominative masculine)
 
@@ -78,7 +79,8 @@ This happens most often:
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Sie hat viel **freie** Zeit am Wochenende.
 : She has a lot of free time at the weekend. (Nominative feminine after *viel*)
 

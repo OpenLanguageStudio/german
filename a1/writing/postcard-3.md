@@ -35,9 +35,10 @@ The thanks come first and say what they are for (*für das schöne Wochenende*).
 
 :::{audio-examples}
 :track: a1/writing/postcard-3
+:presenters: emilia
 :title: Eine Dankeskarte
 :title-en: A Thank-You Note
-:multiline:
+:mode: passage
 
 Liebe Tante Petra,
 vielen Dank für das schöne Wochenende bei dir! Das Essen war lecker, und der Ausflug an den See war super. Ich habe viel gelacht und sehr gut geschlafen.

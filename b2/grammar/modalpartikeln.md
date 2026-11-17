@@ -31,7 +31,8 @@ In statements, modal particles usually appear in the middle field, often after t
 | Stress | Usually unstressed; stress can change meaning |
 | Position | Often in the middle field, commonly after the finite verb |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das **ist ja** wirklich unerwartet.
 : That really is unexpected, you know.
 
@@ -65,7 +66,8 @@ These particles are common in statements and exclamations where you react emotio
 | **doch** | counters an assumption, reminds insistently, or reinforces |
 | **aber** | expresses surprise or strong reaction in exclamations |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das **ist ja** interessant!
 : Well, that is interesting!
 
@@ -106,7 +108,8 @@ Use the following link to practice this section.
 | Questions | often sounds less formal, more friendly/curious |
 | Statements | can suggest a quick, casual action |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Schau **mal**!
 : Look! / Have a look!
 
@@ -146,7 +149,8 @@ In questions, **denn** often shows interest, surprise, impatience, or emotional 
 | Yes/no questions | can sound more engaged or slightly pressing |
 | Follow-up questions | links to previous context naturally |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Was machst du **denn** hier?
 : What are you doing here then?
 

@@ -26,7 +26,8 @@ To say that an action does not or did not happen at all, put *nicht* near the **
 | Separable prefix | before the prefix | Ich rufe **nicht** an. |
 | Predicate adjective | before the adjective | Das ist **nicht** richtig. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich verstehe das {adv}`nicht`.
 : I don't understand that.
 
@@ -56,7 +57,8 @@ A useful way to think about it: the finite verb stays fixed at position 2. *Nich
 
 Sometimes you want to say that one particular detail, not the whole action, is untrue. Place *nicht* directly before the element you are correcting. This is almost always followed by *sondern* to give the right alternative.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich war {adv}`nicht` heute im Museum, {conj}`sondern` gestern.
 : I wasn't at the museum today, but yesterday.
 
@@ -98,7 +100,8 @@ German has two main negation words, and the choice depends on what grammatical r
 | Noun + indefinite article | kein | Ich habe **keinen** Hunger. |
 | Noun without article | kein | Er hat **kein** Geld. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Sie hat {adv}`nicht` zugehört.
 : She wasn't listening.
 
@@ -128,7 +131,8 @@ A very common mistake: *"Ich habe nicht Zeit."* Whenever you negate a noun with 
 
 The *nicht … sondern* construction does more than contrast two ideas. It *replaces* a false element with the true one. Unlike *aber* (which simply adds a contradicting fact), *sondern* says: "no, the actual truth is this." Use it whenever you are correcting something explicitly.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das ist {adv}`nicht` Zucker, {conj}`sondern` Salz.
 : That isn't sugar, it's salt.
 

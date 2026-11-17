@@ -37,9 +37,10 @@ The address comes first, because a landlord with many flats needs to know which 
 
 :::{audio-examples}
 :track: a1/writing/email-formal-3
+:presenters: emilia
 :title: Eine E-Mail an den Vermieter
 :title-en: Emailing Your Landlord
-:multiline:
+:mode: passage
 
 Betreff: Die Heizung ist kaputt.
 Sehr geehrter Herr Braun,

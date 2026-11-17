@@ -32,7 +32,8 @@ The key B2 rule: the case in the first clause and the case in the second clause 
 | Direct object in first clause | {pronoun}`Wen` | der / den / dem | Wen ..., der/den/dem ... |
 | Indirect object in first clause | {pronoun}`Wem` | der / den / dem | Wem ..., der/den/dem ... |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Wer** offen kommuniziert, **der** löst viele Konflikte schneller.
 : Whoever communicates openly solves many conflicts faster.
 
@@ -62,7 +63,8 @@ Use this pattern when the free relative pronoun is the subject in the first clau
 
 > {pronoun}`Wer` + ... + verb, {pronoun}`der` + ...
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Wer** regelmäßig Feedback einholt, **der** entwickelt sich schneller.
 : Whoever gets feedback regularly develops faster.
 
@@ -93,7 +95,8 @@ In B2 usage, accusative often appears because the person from the first clause b
 > {pronoun}`Wer` + ... , {pronoun}`den` + subject + ...
 > {pronoun}`Wen` + subject + ... , {pronoun}`der` + ...
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Wer** zu spät absagt, **den** berücksichtigen wir beim nächsten Termin später.
 : Whoever cancels late, we consider later for the next appointment.
 
@@ -126,7 +129,8 @@ This pattern appears when the first clause needs dative, often with verbs like *
 
 > {pronoun}`Wem` + ... , {pronoun}`der` + ...
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Wem** man früh Verantwortung überträgt, **der** wächst oft schnell in die Rolle hinein.
 : Whoever you give responsibility to early often grows into the role quickly.
 

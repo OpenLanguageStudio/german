@@ -35,7 +35,8 @@ Masculines and neuters add **-s** (or **-es** for single-syllable nouns) to the 
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {prep}`Wegen` {article}`des` Regens mussten wir den Ausflug absagen.
 : Because of the rain, we had to cancel the trip.
 
@@ -75,7 +76,8 @@ The genitive article forms are the same as for **wegen** (see table above).
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {prep}`Trotz` {article}`des` Regens gingen wir spazieren.
 : Despite the rain, we went for a walk.
 
@@ -114,7 +116,8 @@ Both sentences mean the same thing. Use **wegen** when you have a noun phrase; u
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich bleibe zu Hause {prep}`wegen` meiner Erkältung.
 : I'm staying home because of my cold.
 
@@ -160,6 +163,7 @@ For **feminine and plural nouns**, the dative and genitive article forms happen 
 
 :::{audio-examples}
 :track: b1/grammar/praposition-wegen
+:presenters: emilia
 :title: Präposition wegen
 :title-en: The Preposition wegen
 
@@ -238,6 +242,7 @@ Wegen ihm müssen wir früher gehen.
 
 :::{audio-examples}
 :track: b1/grammar/praposition-trotz
+:presenters: emilia
 :title: Präposition trotz
 :title-en: The Preposition trotz
 

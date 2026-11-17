@@ -28,7 +28,8 @@ myst:
 
 A relative clause adds detail to a noun from the main clause. Instead of two short sentences, you can connect them into one smoother sentence.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das ist der Mann, **der** nebenan wohnt.
 : That is the man who lives next door.
 
@@ -55,7 +56,8 @@ The forms are almost the same as the definite article. At A2, the key difference
 
 The pronoun's gender and number match the noun it refers to, but the case is chosen by what happens inside the relative clause.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Mann, **den** ich kenne, ist freundlich.
 : The man whom I know is friendly.
 
@@ -78,7 +80,8 @@ Use nominative relative pronouns when the relative pronoun does the action in th
 
 > noun + comma + **der/die/das/die** + ... + verb at the end
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Mann, **der** dort steht, wartet auf den Bus.
 : The man who is standing there is waiting for the bus.
 
@@ -104,7 +107,8 @@ Use accusative relative pronouns when the relative pronoun receives the action (
 
 > noun + comma + **den/die/das/die** + ... + verb at the end
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Mann, **den** ich kenne, kommt aus Wien.
 : The man whom I know comes from Vienna.
 
@@ -130,7 +134,8 @@ Relative clauses are subordinate clauses. That means you always put a comma befo
 
 If the relative clause is in the middle of a sentence, it is enclosed by two commas.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Film, den wir heute Abend **sehen**, ist neu.
 : The film that we are watching this evening is new.
 
@@ -159,7 +164,8 @@ Use this quick check inside the relative clause:
 | Who does the action? | Nominative | der/die/das/die |
 | Whom/what does the subject act on? | Accusative | den/die/das/die |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das ist der Mann, **den** ich jeden Tag sehe.
 : That is the man whom I see every day.
 
@@ -183,6 +189,7 @@ Dative and genitive relative clauses (for example with *dem/der/dessen/deren*) a
 
 :::{audio-examples}
 :track: a2/grammar/relativsatze-im-nominativ
+:presenters: emilia
 :title: Relativsätze im Nominativ
 :title-en: Relative Clauses in the Nominative
 
@@ -279,6 +286,7 @@ Das Zimmer, das hell ist, gefällt mir besser.
 
 :::{audio-examples}
 :track: a2/grammar/relativsatze-im-akkusativ
+:presenters: emilia
 :title: Relativsätze im Akkusativ
 :title-en: Relative Clauses in the Accusative
 

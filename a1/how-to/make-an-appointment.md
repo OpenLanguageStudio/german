@@ -43,7 +43,8 @@ Making appointments in German follows a short pattern. A day and a time go on th
 
 Two openers do most of the work: *Hast du ... Zeit?* with a day, and *Wollen wir ...?* with a plan. At an office, lead with *Ich möchte einen Termin machen.*
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Hast du am Freitag Zeit?
 : Do you have time on Friday?
 
@@ -58,7 +59,8 @@ Können Sie am Montag kommen?
 
 *Passt dir ...?* and *Geht es um ...?* check a specific slot. Accept with *Das passt gut*, decline with *leider* and a reason, then offer an alternative.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Passt {dativ}`Ihnen` vierzehn Uhr?
 : Does two o'clock suit you?
 
@@ -71,7 +73,8 @@ Ich kann erst am Abend.
 
 Repeat the slot, agree on a place, and close with a *bis* phrase: the appointment is made.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Termin ist am Donnerstag um neun.
 : The appointment is on Thursday at nine.
 
@@ -86,6 +89,7 @@ Bis Freitag dann!
 
 :::{audio-examples}
 :track: a1/how-to/make-an-appointment
+:presenters: emilia
 :title: Termine machen
 :title-en: Make an appointment
 

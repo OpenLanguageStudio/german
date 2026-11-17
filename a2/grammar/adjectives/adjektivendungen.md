@@ -57,7 +57,8 @@ After a definite article, the singular ending is always **-e**, never -er or -es
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der **neu**e Zug kommt pünktlich an.
 : The new train arrives on time. (masc, definite)
 
@@ -107,7 +108,8 @@ Only **masculine** changes between Nominativ and Akkusativ, it always takes **-e
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich kaufe den **alt**en Pulli.
 : I'm buying the old sweater. (masc, definite)
 
@@ -157,7 +159,8 @@ A simple rule for Dativ: if there is any article before the adjective, use **-en
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich wohne in einem **klein**en Haus.
 : I live in a small house. (neut, indefinite – **-en**)
 
@@ -183,6 +186,7 @@ Sie trinkt den Kaffee mit **warm**er Milch.
 
 :::{audio-examples}
 :track: a2/grammar/adjektivendungen-nominativ
+:presenters: emilia
 :title: Adjektivendungen – Nominativ
 :title-en: Adjective Endings: Nominative
 
@@ -279,6 +283,7 @@ Heiße Schokolade schmeckt lecker.
 
 :::{audio-examples}
 :track: a2/grammar/adjektivendungen-akkusativ
+:presenters: emilia
 :title: Adjektivendungen – Akkusativ
 :title-en: Adjective Endings: Accusative
 
@@ -375,6 +380,7 @@ Ich trinke heiße Schokolade.
 
 :::{audio-examples}
 :track: a2/grammar/adjektivendungen-dativ
+:presenters: emilia
 :title: Adjektivendungen – Dativ
 :title-en: Adjective Endings: Dative
 

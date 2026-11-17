@@ -51,7 +51,8 @@ After a range of common German verbs, you attach a *zu + Infinitiv* phrase to de
 | {stack}`versuchen \| to try` | |
 | {stack}`vorhaben \| to intend / plan` | |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich **versuche**, mehr Wasser zu **trinken**.
 : I'm trying to drink more water.
 
@@ -85,7 +86,8 @@ You can describe whether an activity is easy, difficult, important, or enjoyable
 > **Es ist** + Adjektiv **,** + **zu** + Infinitiv  
 > **Ich finde es** + Adjektiv **,** + **zu** + Infinitiv
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Es **ist** wichtig, pünktlich zu **sein**.
 : It is important to be on time.
 
@@ -123,7 +125,8 @@ Certain noun expressions in German also introduce a *zu + Infinitiv* phrase. The
 | {stack}`Lust haben \| to feel like doing something` | |
 | {stack}`Spaß machen \| to be fun` | |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er **hat die Absicht**, nächsten Monat um**zu**ziehen.
 : He intends to move next month.
 
@@ -158,6 +161,7 @@ Both are correct. The noun version is common in writing and formal speech.
 
 :::{audio-examples}
 :track: b1/grammar/infinitiv-mit-zu-nach-bestimmten-verben
+:presenters: emilia
 :title: Infinitiv mit zu - nach bestimmten Verben
 :title-en: Infinitive with zu: After Certain Verbs
 
@@ -233,6 +237,7 @@ Wir planen, früher zu starten.
 
 :::{audio-examples}
 :track: b1/grammar/infinitiv-mit-zu-nach-adjektiven
+:presenters: emilia
 :title: Infinitiv mit zu - nach Adjektiven
 :title-en: Infinitive with zu: After Adjectives
 
@@ -308,6 +313,7 @@ Wir finden es praktisch, ein Auto zu besitzen.
 
 :::{audio-examples}
 :track: b1/grammar/infinitiv-mit-zu-nach-nomen
+:presenters: emilia
 :title: Infinitiv mit zu - nach Nomen
 :title-en: Infinitive with zu: After Nouns
 

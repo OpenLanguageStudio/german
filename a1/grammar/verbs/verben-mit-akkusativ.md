@@ -35,7 +35,8 @@ Before reading this article, make sure you are comfortable with:
 | {stack}`kennen \| to know (people, places)` | *Kennst du meinen Bruder?* |
 | {stack}`besuchen \| to visit` | *Wir besuchen unsere Großeltern.* |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich brauche {akk}`einen Regenschirm`.
 : I need an umbrella.
 
@@ -50,7 +51,8 @@ Kennst du {akk}`meinen Bruder`?
 
 After each of these verbs the question *wen?* or *was?* works, and whatever answers it is accusative. *Sein* is not on this list. After *sein* both sides stay nominative: *Das ist der Bahnhof*, never *den Bahnhof*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich sehe {akk}`den Turm`.
 : I see the tower. (wen oder was sehe ich? den Turm)
 
@@ -70,6 +72,7 @@ Das ist {subj}`der Turm`.
 
 :::{audio-examples}
 :track: a1/grammar/verben-mit-akkusativ
+:presenters: emilia
 :title: Verben mit Akkusativ
 :title-en: Verbs with the accusative
 

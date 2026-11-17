@@ -42,7 +42,8 @@ German weather sentences have no real {term}`subject`, so *es* stands in: *Es re
 
 German weather sentences have no real subject, so *es* stands in: *Es regnet*, *Es ist kalt*. Degrees, oddly, take *sind*: *Es sind dreißig Grad.*
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Es regnet.
 : It is raining.
 
@@ -57,7 +58,8 @@ Es sind nur fünf Grad.
 
 The present tense covers the forecast too; *morgen* alone pushes it into the future. No new {term}`verb` forms are needed.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Wetter ist heute schlecht.
 : The weather is bad today.
 
@@ -70,7 +72,8 @@ Nimm eine Jacke mit!
 
 *Der Frühling, der Sommer, der Herbst, der Winter*; each takes *im*: *im Sommer ist es warm*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Im Winter schneit es oft.
 : In winter it often snows.
 
@@ -82,6 +85,7 @@ Im Herbst ist es oft windig.
 
 :::{audio-examples}
 :track: a1/how-to/talk-about-the-weather
+:presenters: emilia
 :title: Über das Wetter sprechen
 :title-en: Talk about the weather
 

@@ -37,7 +37,8 @@ Before reading this article, make sure you are comfortable with:
 
 *Darf ich ...?* is the standard way to ask permission. The negative *darf nicht* means something is forbidden, which is stronger than English "may not" suggests.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {verb}`Darf` ich hier **parken**?
 : May I park here?
 
@@ -52,7 +53,8 @@ Die Kinder {verb}`dürfen` heute Abend **fernsehen**.
 
 *Sollen* reports an instruction or expectation from outside: the doctor, the boss, your grandmother. As a question, *Soll ich ...?* offers help.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Arzt sagt, ich {verb}`soll` viel **schlafen**.
 : The doctor says I should sleep a lot.
 
@@ -79,6 +81,7 @@ Wir {verb}`sollen` um acht Uhr da **sein**.
 
 :::{audio-examples}
 :track: a1/grammar/duerfen-sollen
+:presenters: emilia
 :title: Modalverben dürfen und sollen
 :title-en: Modal verbs dürfen and sollen
 

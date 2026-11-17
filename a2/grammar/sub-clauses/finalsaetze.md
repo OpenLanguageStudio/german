@@ -35,7 +35,8 @@ Use {conj}`damit` when the person in the main clause is **not** the same as the 
 
 The {conj}`damit` clause is a subordinate clause, so the finite verb goes to the end.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich spreche langsam, {conj}`damit` du mich **verstehst**.
 : I speak slowly so that you understand me.
 
@@ -68,7 +69,8 @@ Use {conj}`um` ... {verb}`zu` when the subject is the **same** in both parts.
 
 This is an infinitive construction, so there is no conjugated verb inside the purpose part.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich lerne jeden Abend, {conj}`um` die Prüfung {verb}`zu` bestehen.
 : I study every evening in order to pass the exam.
 
@@ -107,7 +109,8 @@ Use this rule every time:
 
 **More contrasts:**
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich rufe früh an, {conj}`um` einen Termin {verb}`zu` bekommen.
 : I call early in order to get an appointment.
 
@@ -135,6 +138,7 @@ Use the following link to practice this section.
 
 :::{audio-examples}
 :track: a2/grammar/nebensatz-mit-damit
+:presenters: emilia
 :title: Nebensatz mit damit
 :title-en: Subordinate Clauses with damit
 
@@ -231,6 +235,7 @@ Er macht Sport, damit seine Familie stolz ist.
 
 :::{audio-examples}
 :track: a2/grammar/um-zu-konstruktion
+:presenters: emilia
 :title: um...zu-Konstruktion
 :title-en: The um...zu Construction
 

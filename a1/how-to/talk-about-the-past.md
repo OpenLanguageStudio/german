@@ -42,7 +42,8 @@ myst:
 
 The past of *sein* and *haben* comes in single words: *ich war* (I was), *ich hatte* (I had). These two cover most of a weekend.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`war` gestern im Kino.
 : I was at the cinema yesterday.
 
@@ -57,7 +58,8 @@ Das Essen {verb}`war` lecker.
 
 Actions use a two-part pattern: *haben* in position 2, a *ge-* form at the end. These five work as whole chunks: *gemacht* (did), *gesehen* (watched), *gegessen* (ate), *gekauft* (bought), *gespielt* (played). {term}`Modal verbs <modal verb>` have the same two-part shape.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`habe` Fußball **gespielt**.
 : I played football.
 
@@ -72,7 +74,8 @@ The system behind these forms has its own grammar article.
 
 *Gestern* (yesterday), *letzte Woche* (last week), *letztes Jahr* (last year), *am Samstag*: put one of these first and the {term}`verb` stays second, as always.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Letzte Woche {verb}`war` ich krank.
 : Last week I was ill.
 
@@ -84,6 +87,7 @@ Am Sonntag {verb}`habe` ich nichts **gemacht**.
 
 :::{audio-examples}
 :track: a1/how-to/talk-about-the-past
+:presenters: emilia
 :title: Über Vergangenes sprechen
 :title-en: Talk about the past
 

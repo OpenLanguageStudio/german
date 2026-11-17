@@ -26,7 +26,8 @@ Use {conj}`als` for one specific event or one finished time period in the past. 
 
 > **{conj}`als`** + subject + ... + **{verb}`conjugated verb (past)`**
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {conj}`Als` ich in Berlin {verb}`war`, besuchte ich den Fernsehturm.
 : When I was in Berlin, I visited the TV tower.
 
@@ -55,7 +56,8 @@ Use {conj}`wenn` when something happens repeatedly, usually, or under a conditio
 
 > **{conj}`wenn`** + subject + ... + **{verb}`conjugated verb`**
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {conj}`Wenn` ich früher in Berlin {verb}`war`, besuchte ich immer meinen Onkel.
 : Whenever I was in Berlin before, I always visited my uncle.
 
@@ -93,7 +95,8 @@ Use this table as a quick decision guide.
 
 Minimal pairs help you see the contrast in the same situation:
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {conj}`Als` ich in Berlin {verb}`war`, besuchte ich den Fernsehturm.
 : When I was in Berlin (one trip), I visited the TV tower.
 
@@ -117,6 +120,7 @@ This article covers only temporal {conj}`als` (= "when" in one-time past context
 
 :::{audio-examples}
 :track: a2/grammar/nebensatze-mit-als-und-wenn
+:presenters: emilia
 :title: Nebensätze mit als und wenn
 :title-en: Subordinate Clauses with als and wenn
 

@@ -22,7 +22,8 @@ Use **da** when you assume your listener already knows the reason, or when the r
 
 The da-clause can also come second, but at B1 you will most often see or use it first.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {conj}`Da` der Zug heute nicht fährt, nehme ich das Fahrrad.
 : Since the train is not running today, I am taking the bike.
 
@@ -55,7 +56,8 @@ You can also start with the weil-clause:
 
 > {conj}`Weil` + subject + other elements + {verb}`finite verb`, main clause with inversion
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich bleibe heute zu Hause, {conj}`weil` ich Fieber {verb}`habe`.
 : I am staying home today because I have a fever.
 
@@ -89,7 +91,8 @@ In very informal speech, you may hear "weil" followed by main-clause word order.
 - **weil**: subordinate clause, verb at the end, can start the sentence.
 - **denn**: coordinate clause link, normal main-clause order, cannot start this sentence pattern.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich gehe früher nach Hause, {conj}`denn` ich bin sehr müde.
 : I am going home earlier, because I am very tired.
 

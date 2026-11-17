@@ -28,7 +28,8 @@ Use this form when you focus on what is currently happening or what regularly ha
 | --- | --- | --- |
 | Action in progress | *werden* (Präsens) + Partizip II | Der Vertrag **wird unterschrieben**. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die E-Mails **werden** heute Nachmittag **beantwortet**.
 : The emails are being answered this afternoon.
 
@@ -60,7 +61,8 @@ Use this form when you describe a process in the past, especially in reports, ne
 | --- | --- | --- |
 | Past process | *wurde/wurden* + Partizip II | Der Antrag **wurde geprüft**. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Antrag **wurde** gestern endgültig **genehmigt**.
 : The application was approved yesterday.
 
@@ -92,7 +94,8 @@ Use this form when you describe the current condition after an action has alread
 | --- | --- | --- |
 | Present state/result | *sein* (Präsens) + Partizip II | Die Tür **ist geschlossen**. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Konferenzraum **ist bereits reserviert**.
 : The conference room is already reserved.
 
@@ -124,7 +127,8 @@ Use this form for a state that existed at a point in the past. You are not narra
 | --- | --- | --- |
 | Past state/result | *war/waren* + Partizip II | Die Tür **war geschlossen**. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Als wir ankamen, **war** der Saal schon **vorbereitet**.
 : When we arrived, the hall was already prepared.
 

@@ -43,7 +43,8 @@ The main change is the ending of the {term}`verb`. *Ich komme* becomes *er kommt
 
 Every introduction starts with *Das ist ...* plus a name or a role. The *das* never changes, no matter who you introduce; for several people it becomes *Das sind ...*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das ist mein Freund Tom.
 : This is my friend Tom.
 
@@ -58,7 +59,8 @@ Das sind meine Eltern.
 
 After the opener, switch to *er* or *sie* and reuse the verbs of a self-introduction: *heißen, kommen, wohnen, sein, sprechen*. In the third person they end in **-t**: *er kommt, sie wohnt, er spricht*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er kommt aus England und wohnt in Frankfurt.
 : He comes from England and lives in Frankfurt.
 
@@ -77,6 +79,7 @@ Er spricht Englisch und ein bisschen Deutsch.
 
 :::{audio-examples}
 :track: a1/how-to/introduce-someone-else
+:presenters: emilia
 :title: Jemanden vorstellen
 :title-en: Introduce someone else
 

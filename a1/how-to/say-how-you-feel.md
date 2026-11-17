@@ -43,7 +43,8 @@ Each kind of feeling has its own pattern. Moods use *sein* plus an {term}`adject
 
 Feelings take *sein* plus an adjective: *müde, krank, glücklich, traurig, nervös, zufrieden*. Soften with *ein bisschen*, strengthen with *sehr*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich bin ein bisschen nervös.
 : I am a little nervous.
 
@@ -58,7 +59,8 @@ Wir sind sehr zufrieden.
 
 Pains come in two patterns: *haben* with a *-schmerzen* noun, or a body part with *wehtun*. Being ill has its own words: *krank*, *erkältet*, *Fieber haben*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich habe Kopfschmerzen.
 : I have a headache.
 
@@ -73,7 +75,8 @@ When someone else is ill, the fixed response is *Gute Besserung!*
 
 *Was ist los?* asks what is wrong; *Alles in Ordnung?* checks that things are fine. The reassuring answer: *Alles ist in Ordnung.*
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Was ist los?
 : What's the matter?
 
@@ -85,6 +88,7 @@ Alles ist in Ordnung.
 
 :::{audio-examples}
 :track: a1/how-to/say-how-you-feel
+:presenters: emilia
 :title: Gefühle ausdrücken
 :title-en: Say how you feel
 

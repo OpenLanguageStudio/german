@@ -43,7 +43,8 @@ The vocabulary is small, so the hard part is catching the instructions at speed.
 
 Open with *Entschuldigung*, then either *Wo ist ...?* or *Wie komme ich zum/zur ...?* The contraction follows gender: *zum Bahnhof*, *zur Post*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Entschuldigung, wo ist der Bahnhof?
 : Excuse me, where is the station?
 
@@ -58,7 +59,8 @@ Ich suche die Goethestraße.
 
 Answers arrive in the formal imperative: *Gehen Sie ..., Nehmen Sie ...*. Combined with *geradeaus*, *links*, *rechts*, and a landmark or two, that is the entire grammar of directions.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Gehen Sie geradeaus und dann links.
 : Go straight ahead and then left.
 
@@ -71,7 +73,8 @@ Sie müssen den Bus nehmen.
 
 *Ist das weit von hier?* checks the distance; answers usually come in minutes on foot. Close with thanks and expect *Gern geschehen*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ist das weit von hier?
 : Is that far from here?
 
@@ -86,6 +89,7 @@ Danke für Ihre Hilfe!
 
 :::{audio-examples}
 :track: a1/how-to/ask-for-and-give-directions
+:presenters: emilia
 :title: Nach dem Weg fragen
 :title-en: Ask for and give directions
 

@@ -34,7 +34,8 @@ Before reading this article, make sure you are comfortable with:
 
 *Nehmen* changes its consonants as well; learn *nimmst / nimmt* as their own little words. Also in the e → i group: *geben (gibt)* and *helfen (hilft)*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Du {verb}`fährst` zu schnell.
 : You are driving too fast.
 
@@ -49,7 +50,8 @@ Sie {verb}`liest` die Zeitung.
 
 The vowel change never touches *ich*, *wir*, *ihr*, or *sie/Sie*: *ich fahre, wir fahren, ihr fahrt*. Every other form follows the regular pattern.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`spreche` Englisch, und er {verb}`spricht` Spanisch.
 : I speak English, and he speaks Spanish.
 
@@ -69,6 +71,7 @@ Wir {verb}`fahren` nach Wien, und Anna {verb}`fährt` nach Rom.
 
 :::{audio-examples}
 :track: a1/grammar/unregelmaessige-verben
+:presenters: emilia
 :title: Unregelmäßige Verben
 :title-en: Irregular verbs in the present
 

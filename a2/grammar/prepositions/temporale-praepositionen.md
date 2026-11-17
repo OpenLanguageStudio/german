@@ -42,7 +42,8 @@ These three prepositions are always followed by the accusative case. Before bare
 
 *bis* marks the end point in time: when something stops, or the latest moment to do something.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Café ist {prep}`bis` 22 Uhr geöffnet.
 : The café is open until 10 pm.
 
@@ -70,7 +71,8 @@ Before a noun with a definite article, *bis* pairs with *zu*: **bis zum** (bis z
 
 *um* is used for precise times on the clock. It answers the question *Um wie viel Uhr?* (At what time?).
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Zug fährt {prep}`um` 9 Uhr ab.
 : The train departs at 9.
 
@@ -98,7 +100,8 @@ Wir treffen uns {prep}`um` Mitternacht.
 
 *über* describes a duration that exceeds a certain length – "more than" or "over".
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir haben {prep}`über` {akk}`eine` Stunde gewartet.
 : We waited for over an hour.
 
@@ -134,7 +137,8 @@ The most important contraction to remember:
 
 *ab* marks when something begins and continues from that point onwards.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {prep}`Ab` {dativ}`dem` ersten Mai beginnt der neue Kurs.
 : From the first of May the new course begins.
 
@@ -156,7 +160,8 @@ The most important contraction to remember:
 
 *an* is used before days of the week, specific dates, and parts of the day. It almost always contracts: **an + dem = am**.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich habe {prep}`am` Montag einen Termin.
 : I have an appointment on Monday.
 
@@ -187,7 +192,8 @@ Wir essen {prep}`am` Abend zusammen.
 - *He has been living here since 2020.* (still living here)
 - *She has been working there for six months.* (still working)
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich lerne {prep}`seit` {dativ}`einem` Jahr Deutsch.
 : I have been learning German for a year.
 
@@ -219,7 +225,8 @@ English says "I *have been* learning for a year" – German says "Ich *lerne* se
 
 *vor* points backward in time. It tells you how long ago something happened, or that something comes before a given event.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er hat {prep}`vor` {dativ}`einer` Woche angerufen.
 : He called a week ago.
 
@@ -237,7 +244,8 @@ Ich war {prep}`vor` {dativ}`einem` Jahr in München.
 
 *nach* tells you that something happens after another event or point in time.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {prep}`Nach` {dativ}`dem` Unterricht gehen wir ins Café.
 : After class we go to the café.
 
@@ -270,7 +278,8 @@ In daily life, these prepositions organise the day and place events before or af
 | Appointments and routines | **an/am**, **nach**, **vor** | *am Montag*, *nach dem Essen*, *vor dem Termin* |
 | Past vs. ongoing vs. future | **vor**, **seit**, **ab** | *vor einem Jahr*, *seit einem Jahr*, *ab nächster Woche* |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir haben {prep}`am` Montag {prep}`um` 10 Uhr einen Arzttermin.
 : We have a doctor’s appointment on Monday at 10.
 
@@ -306,6 +315,7 @@ If you learn these as fixed phrases, speaking about time becomes much faster.
 
 :::{audio-examples}
 :track: a2/grammar/temporale-prapositionen
+:presenters: emilia
 :title: Temporale Präpositionen
 :title-en: Temporal Prepositions
 

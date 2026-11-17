@@ -37,7 +37,8 @@ In many situations, German uses three short answer words:
 
 ### Example Set: Three-way System
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Kommst du morgen? - {adv}`Ja`, ich komme morgen.
 : Are you coming tomorrow? - Yes, I am coming tomorrow.
 
@@ -82,7 +83,8 @@ Common negative markers in these questions or statements:
 
 ### Example Set: Negative Markers
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Hast du heute {adv}`nicht` Zeit? - {adv}`Doch`, ich habe heute Zeit.
 : Don't you have time today? - Yes, I do have time today.
 
@@ -122,7 +124,8 @@ A short **Doch!** can already be enough. But in real conversation, it is often c
 
 ### Example Set: Pattern in Use
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Du kommst nicht mit. - {adv}`Doch`, ich komme mit.
 : You're not coming along. - Yes, I am coming along.
 
@@ -163,7 +166,8 @@ You use **doch** not only for questions, but also to disagree with a negative st
 
 ### Example Set: Correcting Assumptions
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das stimmt nicht. - {adv}`Doch`, das stimmt.
 : That's not true. - Yes, it is true.
 
@@ -211,71 +215,115 @@ Use the following link to practice this section.
 
 :::{audio-examples}
 :track: a2/grammar/doch-nach-ja-nein-fragen
+:mode: pairs
+:presenters: deniz, lina
 :title: Doch nach Ja-Nein-Fragen
 :title-en: doch in Response to Yes-No Questions
 
-Kommst du nicht? - Doch, ich komme.
-: Aren't you coming? - Yes, I am coming.
+Kommst du nicht?
+: Aren't you coming?
+Doch, ich komme.
+: Yes, I am coming.
 
-Hast du keine Zeit? - Doch, ich habe Zeit.
-: Don't you have time? - Yes, I do have time.
+Hast du keine Zeit?
+: Don't you have time?
+Doch, ich habe Zeit.
+: Yes, I do have time.
 
-Magst du keinen Kaffee? - Doch, ich mag Kaffee.
-: Don't you like coffee? - Yes, I do like coffee.
+Magst du keinen Kaffee?
+: Don't you like coffee?
+Doch, ich mag Kaffee.
+: Yes, I do like coffee.
 
-Sprichst du kein Deutsch? - Doch, ich spreche Deutsch.
-: Don't you speak German? - Yes, I do speak German.
+Sprichst du kein Deutsch?
+: Don't you speak German?
+Doch, ich spreche Deutsch.
+: Yes, I do speak German.
 
-War das nicht gut? - Doch, das war sehr gut.
-: Wasn't that good? - Yes, it was very good.
+War das nicht gut?
+: Wasn't that good?
+Doch, das war sehr gut.
+: Yes, it was very good.
 
-Kennst du sie nicht? - Doch, ich kenne sie gut.
-: Don't you know her? - Yes, I know her well.
+Kennst du sie nicht?
+: Don't you know her?
+Doch, ich kenne sie gut.
+: Yes, I know her well.
 
-Willst du nicht mitkommen? - Doch, ich komme gern mit.
-: Don't you want to come along? - Yes, I'd like to come along.
+Willst du nicht mitkommen?
+: Don't you want to come along?
+Doch, ich komme gern mit.
+: Yes, I'd like to come along.
 
-Hast du das nicht gewusst? - Doch, natürlich!
-: Didn't you know that? - Yes, of course!
+Hast du das nicht gewusst?
+: Didn't you know that?
+Doch, natürlich!
+: Yes, of course!
 
-Isst du kein Fleisch? - Doch, manchmal.
-: Don't you eat meat? - Yes, sometimes.
+Isst du kein Fleisch?
+: Don't you eat meat?
+Doch, manchmal.
+: Yes, sometimes.
 
-Gefiel dir der Film nicht? - Doch, er war toll.
-: Didn't you like the film? - Yes, it was great.
+Hat dir der Film nicht gefallen?
+: Didn't you like the film?
+Doch, er war toll.
+: Yes, it was great.
 
-Arbeitest du nicht heute? - Doch, ab zehn Uhr.
-: Aren't you working today? - Yes, from ten o'clock.
+Arbeitest du heute nicht?
+: Aren't you working today?
+Doch, ab zehn Uhr.
+: Yes, from ten o'clock.
 
-Kannst du nicht schwimmen? - Doch, ich kann gut schwimmen.
-: Can't you swim? - Yes, I can swim well.
+Kannst du nicht schwimmen?
+: Can't you swim?
+Doch, ich kann gut schwimmen.
+: Yes, I can swim well.
 
-Hast du keine Geschwister? - Doch, ich habe einen Bruder.
-: Don't you have siblings? - Yes, I have a brother.
+Hast du keine Geschwister?
+: Don't you have siblings?
+Doch, ich habe einen Bruder.
+: Yes, I have a brother.
 
-Möchtest du nicht essen? - Doch, ich habe Hunger.
-: Don't you want to eat? - Yes, I'm hungry.
+Möchtest du nicht essen?
+: Don't you want to eat?
+Doch, ich habe Hunger.
+: Yes, I'm hungry.
 
-War niemand da? - Doch, viele Leute waren da.
-: Wasn't anyone there? - Yes, many people were there.
+War niemand da?
+: Wasn't anyone there?
+Doch, viele Leute waren da.
+: Yes, many people were there.
 
-Verstehst du das nicht? - Doch, ich verstehe es jetzt.
-: Don't you understand that? - Yes, I understand it now.
+Verstehst du das nicht?
+: Don't you understand that?
+Doch, ich verstehe es jetzt.
+: Yes, I understand it now.
 
-Hast du nicht angerufen? - Doch, aber niemand war da.
-: Didn't you call? - Yes, but nobody was there.
+Hast du nicht angerufen?
+: Didn't you call?
+Doch, aber niemand war da.
+: Yes, but nobody was there.
 
-Trinkst du keinen Alkohol? - Doch, aber selten.
-: Don't you drink alcohol? - Yes, but rarely.
+Trinkst du keinen Alkohol?
+: Don't you drink alcohol?
+Doch, aber selten.
+: Yes, but rarely.
 
-Spielst du nicht gern Fußball? - Doch, sehr gern sogar.
-: Don't you like playing soccer? - Yes, I like it a lot actually.
+Spielst du nicht gern Fußball?
+: Don't you like playing soccer?
+Doch, sehr gern sogar.
+: Yes, I like it a lot actually.
 
-War das nicht deine Idee? - Doch, das war meine Idee.
-: Wasn't that your idea? - Yes, that was my idea.
+War das nicht deine Idee?
+: Wasn't that your idea?
+Doch, das war meine Idee.
+: Yes, that was my idea.
 
-Hast du kein Auto? - Doch, es steht draußen.
-: Don't you have a car? - Yes, it's outside.
+Hast du kein Auto?
+: Don't you have a car?
+Doch, es steht draußen.
+: Yes, it's outside.
 :::
 
 ---

@@ -43,7 +43,8 @@ The script combines two {term}`verbs <verb>` with one point of grammar. *Ich mö
 
 *Ich möchte* and *Ich nehme* carry every order; the dish stands in the accusative. In a group, *Für mich ...* keeps track of who ordered what.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich möchte {akk}`eine Pizza`, bitte.
 : I would like a pizza, please.
 
@@ -56,7 +57,8 @@ Für mich einen Kaffee, bitte.
 
 *Kein* states what someone avoids, and *empfehlen* (to recommend) asks the staff for help.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich esse {article}`kein` Fleisch.
 : I don't eat meat.
 
@@ -71,7 +73,8 @@ Was können Sie empfehlen?
 
 *Die Rechnung, bitte* or *Ich möchte bezahlen, bitte* brings the bill. Expect the question *Zusammen oder getrennt?*; German restaurants split bills without blinking.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Rechnung, bitte.
 : The bill, please.
 
@@ -83,6 +86,7 @@ Zusammen oder getrennt? Zusammen, bitte.
 
 :::{audio-examples}
 :track: a1/how-to/order-food-and-drink
+:presenters: emilia
 :title: Essen und Trinken bestellen
 :title-en: Order food and drink
 
@@ -151,6 +155,45 @@ Zusammen, bitte.
 
 Das Essen war sehr gut.
 : The food was very good.
+:::
+
+:::{audio-examples}
+:track: a1/how-to/im-cafe-bestellen
+:mode: dialogue
+:presenters: lina, roman
+:title: Im Café bestellen
+:title-en: Ordering in a Café
+
+lina: Guten Morgen! Ist hier noch frei?
+: Good morning! Is this seat free?
+roman: Ja, natürlich. Bitte schön.
+: Yes, of course. Here you are.
+lina: Danke.
+: Thanks.
+
+roman: Was möchten Sie trinken?
+: What would you like to drink?
+lina: Einen Kaffee mit Milch, bitte.
+: A coffee with milk, please.
+roman: Und zu essen?
+: And to eat?
+lina: Haben Sie Kuchen?
+: Do you have cake?
+roman: Ja, wir haben Apfelkuchen und Käsekuchen.
+: Yes, we have apple cake and cheesecake.
+lina: Dann nehme ich ein Stück Apfelkuchen.
+: Then I'll have a piece of apple cake.
+
+lina: Die Rechnung, bitte.
+: The bill, please.
+roman: Das macht sechs Euro zwanzig.
+: That comes to six euros twenty.
+lina: Sieben Euro, bitte. Stimmt so.
+: Seven euros, please. Keep the change.
+roman: Danke. Einen schönen Tag noch!
+: Thanks. Have a nice day!
+lina: Danke, Ihnen auch.
+: Thanks, you too.
 :::
 
 ## Summary

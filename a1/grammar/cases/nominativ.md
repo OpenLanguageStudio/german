@@ -18,7 +18,8 @@ A case is the form a {term}`noun` and its article take to show their job in the 
 
 The subject answers the question *wer?* (who?) or *was?* (what?). It usually stands at the front, but German {term}`word order` is flexible; the case marking, not the position, shows who is acting.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {subj}`Der Mann` arbeitet in Hamburg.
 : The man works in Hamburg.
 
@@ -33,7 +34,8 @@ The subject answers the question *wer?* (who?) or *was?* (what?). It usually sta
 
 With *sein* (to be) and *heißen* (to be called), both sides of the sentence stay in the nominative. Nothing is acted upon; the two halves describe the same person or thing.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das ist {subj}`der Bahnhof`.
 : That is the train station.
 
@@ -68,6 +70,7 @@ The nominative forms are the familiar ones from the article system:
 
 :::{audio-examples}
 :track: a1/grammar/nominativ
+:presenters: emilia
 :title: Der Nominativ
 :title-en: The nominative case
 

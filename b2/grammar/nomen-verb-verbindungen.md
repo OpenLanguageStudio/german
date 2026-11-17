@@ -30,7 +30,8 @@ In these combinations, the noun usually carries the main lexical meaning, while 
 | Simple full verb | often shorter and more direct | entscheiden |
 | Fixed idiomatic chunk | meaning cannot be guessed from single words | in Frage kommen |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Leitung hat gestern eine klare Entscheidung **getroffen**.
 : Management made a clear decision yesterday.
 
@@ -64,7 +65,8 @@ In this group, you can usually paraphrase the combination with a single verb wit
 | eine Verbesserung vornehmen | verbessern | often used in technical or official contexts |
 | eine Erklärung abgeben | erklären | often used for official statements |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir müssen bis Freitag eine Entscheidung **treffen**.
 : We have to make a decision by Friday.
 
@@ -104,7 +106,8 @@ In this group, you cannot reliably derive the meaning from the noun alone. Learn
 | {stack}`in Frage kommen \| to be possible/to be considered` | to come into question |
 | {stack}`zur Verfügung stehen \| to be available` | to stand to disposal |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Team steht vor dem Launch stark **unter Druck**.
 : The team is under strong pressure before the launch.
 
@@ -144,7 +147,8 @@ To sound natural, you should not only recognize these combinations but also comb
 | Set limits | nicht in Frage kommen | Diese Option kommt **nicht in Frage**. |
 | Formal service tone | zur Verfügung stehen + dative pronoun | Ich stehe Ihnen gern zur Verfügung. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Nach langer Diskussion haben wir eine **endgültige** Entscheidung **getroffen**.
 : After a long discussion, we made a final decision.
 

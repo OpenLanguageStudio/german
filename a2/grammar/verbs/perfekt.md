@@ -49,7 +49,8 @@ The **-e-** before the final **-t** is added whenever the stem already ends in
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`habe` ein Buch {verb}`gekauft`.
 : I bought a book.
 
@@ -105,7 +106,8 @@ verbs also take *sein*: *bleiben*, *sein* itself, and *passieren*.
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`bin` gestern in die Stadt {verb}`gefahren`.
 : I drove into town yesterday.
 
@@ -175,7 +177,8 @@ Verbs that start with an **inseparable prefix** (such as *be-*, *ver-*, *er-*, *
 
 ### Examples
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`habe` das Buch schon {verb}`gelesen`.
 : I have already read the book.
 
@@ -208,6 +211,7 @@ learn each verb as a set of three: **infinitive → Partizip II → auxiliary**
 
 :::{audio-examples}
 :track: a2/grammar/perfekt-mit-haben
+:presenters: emilia
 :title: Perfekt mit haben
 :title-en: Perfect Tense with haben
 
@@ -304,6 +308,7 @@ Sie haben viel geredet.
 
 :::{audio-examples}
 :track: a2/grammar/perfekt-mit-sein
+:presenters: emilia
 :title: Perfekt mit sein
 :title-en: Perfect Tense with sein
 
@@ -400,6 +405,7 @@ Sie sind zwei Stunden geschwommen.
 
 :::{audio-examples}
 :track: a2/grammar/perfekt-unregelmassige-partizipien
+:presenters: emilia
 :title: Perfekt – Unregelmäßige Partizipien
 :title-en: Perfect Tense: Irregular Past Participles
 

@@ -62,7 +62,8 @@ German adds four letters of its own: **ä, ö, ü** (the umlauts) and **ß** (ca
 
 The letters go one by one. For clarity, Germans often anchor them to first names: *A wie Anton, B wie Berta*, a habit that turns up on the phone constantly.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich buchstabiere: A, N, N, A.
 : I'll spell it: A, N, N, A.
 
@@ -81,6 +82,7 @@ If dictation gets too fast, two short phrases save you: *Noch einmal, bitte* and
 
 :::{audio-examples}
 :track: a1/how-to/spell-names-and-words-aloud
+:presenters: emilia
 :title: Buchstabieren und das Alphabet
 :title-en: Spell names and words aloud
 

@@ -43,7 +43,8 @@ The usual polite request is a question with *können*, a {term}`modal verb` that
 
 The polite workhorse is a question with *können*: name the person, then what you want, with the action verb at the very end. Add *bitte* anywhere in the middle and the request cannot sound harsh.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Kannst du das Fenster öffnen?
 : Can you open the window?
 
@@ -56,7 +57,8 @@ Kann ich eine Frage stellen?
 
 Short commands are fine in German when *bitte* rides along, especially for small everyday things. The full {term}`imperative` has its own grammar article, and at A1 these work best as fixed patterns.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Einen Moment, bitte.
 : One moment, please.
 
@@ -71,7 +73,8 @@ Hilf mir bitte!
 
 Accepting is short: *Ja, gern. Natürlich. Kein Problem.* Declining pairs an apology with a reason: *Tut mir leid, ich habe keine Zeit.* A reason, even a small one, keeps the no friendly.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das mache ich gern.
 : I'll gladly do that.
 
@@ -86,6 +89,7 @@ Leider geht das nicht.
 
 :::{audio-examples}
 :track: a1/how-to/make-and-answer-requests
+:presenters: emilia
 :title: Bitten und Antworten
 :title-en: Make and answer requests
 

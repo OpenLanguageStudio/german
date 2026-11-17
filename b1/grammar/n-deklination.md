@@ -27,7 +27,8 @@ Declension overview (all four cases):
 
 Many masculine nouns ending in **-e** follow *N-Deklination*. This is one of the easiest groups to recognize.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Der Junge** wartet schon vor der Schule.
 : The boy is already waiting in front of the school.
 
@@ -63,7 +64,8 @@ With this group, genitive is the common trap. Some nouns take **-ns** in genitiv
 
 *N-Deklination* often appears with nouns for people, professions, and animals. This is why the pattern comes up so often in real conversations.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Jeder **Mensch** braucht Pausen im Alltag.
 : Every person needs breaks in daily life.
 
@@ -102,7 +104,8 @@ Many international masculine nouns also use *N-Deklination*. Recognizing these e
 | -ist | der Polizist, der Journalist |
 | -oge | der Biologe, der Psychologe |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich kenne den Student**en** aus dem Sprachkurs.
 : I know the student from the language course.
 
@@ -132,6 +135,7 @@ Not every masculine profession noun is *N-Deklination*. For example, **der Autor
 
 :::{audio-examples}
 :track: b1/grammar/n-deklination
+:presenters: emilia
 :title: N-Deklination
 :title-en: N-Declension
 

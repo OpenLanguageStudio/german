@@ -18,7 +18,8 @@ A predicate adjective comes after the {term}`verb`, and in that position it take
 
 Singular or plural, masculine or feminine: the adjective after *sein* never changes.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Haus ist {adj}`groß`.
 : The house is big.
 
@@ -35,7 +36,8 @@ The A1 core comes in opposite pairs, which makes them easy to drill: *groß/klei
 
 Three little words scale any adjective: *sehr* (very), *zu* (too, a complaint), *nicht* (not).
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das Essen ist **sehr** {adj}`gut`.
 : The food is very good.
 
@@ -50,7 +52,8 @@ Das ist **nicht** {adj}`schlecht`.
 
 *Finden* + {term}`accusative <accusative case>` + adjective states an opinion: *Ich finde den Film super.* Same endingless adjective, new flavour.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich finde das {adj}`gut`.
 : I think that is good.
 
@@ -74,6 +77,7 @@ Adjectives BEFORE a noun (*ein großes Haus*) take endings, and that system is A
 
 :::{audio-examples}
 :track: a1/grammar/praedikative-adjektive
+:presenters: emilia
 :title: Adjektive mit sein
 :title-en: Predicate adjectives
 

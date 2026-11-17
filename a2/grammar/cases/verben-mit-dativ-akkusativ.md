@@ -53,7 +53,8 @@ Many common verbs can take two objects at the same time. Ask *Wem?* for the dati
 | {stack}`anbieten \| to offer` | jemandem etwas anbieten |
 | {stack}`empfehlen \| to recommend` | jemandem etwas empfehlen |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich gebe {dativ}`meiner Schwester` {akk}`das Buch`.
 : I give my sister the book.
 
@@ -89,7 +90,8 @@ With two noun phrases, German usually puts the dative object before the accusati
 | Accusative pronoun + dative noun | accusative pronoun first | Ich gebe es dem Kind. |
 | Accusative pronoun + dative pronoun | accusative first, then dative | Ich gebe es ihm. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich gebe {dativ}`dem Kind` {akk}`das Buch`.
 : I give the child the book.
 
@@ -124,7 +126,8 @@ You can ask for each object separately. Ask *Wem?* for the dative person and *Wa
 | Dative object (person) | Wem + verb + subject + accusative object? | Wem gibst du das Buch? |
 | Accusative object (thing) | Was + verb + subject + dative object? | Was gibst du dem Kind? |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Wem** gibst du das Buch?
 : Who are you giving the book to?
 
@@ -154,6 +157,7 @@ In answers, keep the same logic: dative answers *Wem?*, accusative answers *Was?
 
 :::{audio-examples}
 :track: a2/grammar/verben-mit-dativ-und-akkusativ
+:presenters: emilia
 :title: Verben mit Dativ und Akkusativ
 :title-en: Verbs with Dative and Accusative
 

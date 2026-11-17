@@ -37,7 +37,8 @@ When one thing is more (or less) of something than another, use the **comparativ
 | [comparative] + **als** | **größer als**, **billiger als** |
 | Subject + verb + [comparative] + **als** + reference | Mein Bruder ist **größer als** ich. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Mein Bruder ist **größer als** ich.
 : My brother is taller than me.
 
@@ -72,7 +73,8 @@ When two things are the same in some way, use **(genau) so + [positive adjective
 | **(genau) so** + [positive] + **wie** | **so groß wie**, **genauso gut wie** |
 | Subject + verb + **(genau) so** + [positive] + **wie** + reference | Er ist **so groß wie** sein Vater. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er ist **so groß wie** sein Vater.
 : He is as tall as his father.
 
@@ -102,7 +104,8 @@ Du bist **genau so alt wie** mein Bruder.
 
 To say that something is *less than* something else, or simply *not equal*, use **nicht so + [positive adjective] + wie**. As with *so...wie*, the adjective stays in its positive form, never the comparative. Think of it as a negated equality: "not as ... as".
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Dresden ist **nicht so teuer wie** Berlin.
 : Dresden is not as expensive as Berlin.
 
@@ -129,6 +132,7 @@ After *nicht so...wie*, the adjective is always in its **positive form**, never 
 
 :::{audio-examples}
 :track: a2/grammar/vergleiche-mit-als-und-wie
+:presenters: emilia
 :title: Vergleiche mit als und wie
 :title-en: Comparisons with als and wie
 

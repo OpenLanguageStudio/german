@@ -34,9 +34,10 @@ Two formulas open the card: *Alles Gute zum Geburtstag* and *Ich wünsche dir ..
 
 :::{audio-examples}
 :track: a1/writing/postcard-2
+:presenters: emilia
 :title: Eine Karte zum Geburtstag
 :title-en: A Birthday Greeting
-:multiline:
+:mode: passage
 
 Lieber Opa,
 alles Gute zum Geburtstag! Ich wünsche dir Gesundheit und viel Glück.

@@ -31,7 +31,8 @@ Most prepositions in this lesson are followed by a genitive noun phrase in stand
 | Feminine | der | {prep}`trotz` **der** Kritik |
 | Plural | der | {prep}`innerhalb` **der** Fristen |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {prep}`Wegen` **des** Streik**s** kam es zu Verspätungen.
 : Because of the strike, there were delays.
 
@@ -65,7 +66,8 @@ These prepositions let you define temporal windows and spatial limits very clear
 | {stack}`innerhalb \| within` | inside a time limit or area |
 | {stack}`außerhalb \| outside of` | outside a time frame or area |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {prep}`Während` **des** Umzug**s** arbeitete das Team im Homeoffice.
 : During the move, the team worked from home.
 
@@ -106,7 +108,8 @@ These prepositions are useful when you want compact, noun-based cause statements
 | {stack}`infolge \| as a result of` | formal, written |
 | {stack}`aufgrund \| due to / on the basis of` | formal, written |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {prep}`Wegen` **des** Serverproblem**s** wurde die Anmeldung unterbrochen.
 : Because of the server problem, registration was interrupted.
 
@@ -139,7 +142,8 @@ Use the following link to practice this section.
 
 > {prep}`Trotz` + genitive noun phrase, main statement
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {prep}`Trotz` **des** Widerstand**s** setzte die Stadt den Plan um.
 : Despite the resistance, the city implemented the plan.
 

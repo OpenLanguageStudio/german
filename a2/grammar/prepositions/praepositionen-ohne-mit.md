@@ -29,7 +29,8 @@ The preposition *ohne* always takes the accusative case. This does not change wi
 | ohne + accusative noun phrase | ohne den Kaffee, ohne meine Tasche |
 | ohne + accusative pronoun | ohne mich, ohne dich, ohne ihn |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich trinke Tee {prep}`ohne` Zucker.
 : I drink tea without sugar.
 
@@ -65,7 +66,8 @@ The preposition *mit* always takes the dative case. This is also a fixed rule in
 | mit + dative noun phrase | mit dem Bus, mit meiner Freundin |
 | mit + dative pronoun | mit mir, mit dir, mit ihm |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich fahre {prep}`mit` {dativ}`dem` Bus zur Arbeit.
 : I go to work by bus.
 
@@ -102,7 +104,8 @@ At A2 level, *mit* appears very often in three common situations.
 | Accompaniment | mit + person | mit meiner Freundin, mit den Kollegen |
 | Instrument / means | mit + tool | mit einem Messer, mit der Hand |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir fahren morgen {prep}`mit` {dativ}`dem` Zug nach Köln.
 : Tomorrow we're going to Cologne by train.
 
@@ -143,7 +146,8 @@ These two prepositions are natural opposites in meaning and very useful as a pai
 | {stack}`mit einem Regenschirm / ohne einen Regenschirm \| with/without an umbrella` | mit + dative / ohne + accusative |
 | {stack}`mit mir / ohne mich \| with/without me` | mit + dative / ohne + accusative |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich fahre {prep}`mit` {dativ}`dem` Auto, aber heute gehe ich {prep}`ohne` {akk}`das` Auto zu Fuß.
 : I usually go by car, but today I'm going on foot without the car.
 
@@ -171,6 +175,7 @@ Use the following link to practice this section.
 
 :::{audio-examples}
 :track: a2/grammar/prapositionen-ohne-und-mit
+:presenters: emilia
 :title: Präpositionen ohne und mit
 :title-en: Prepositions ohne and mit
 

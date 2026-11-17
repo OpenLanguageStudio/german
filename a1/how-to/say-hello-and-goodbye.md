@@ -44,7 +44,8 @@ The right greeting depends on the time of day and on whether the relationship is
 
 *Hallo* works with anyone you would call *du*. In formal settings, pick the greeting that matches the time of day. Adding the person's name makes any greeting warmer.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Guten Morgen, Frau Weber.
 : Good morning, Mrs Weber.
 
@@ -61,7 +62,8 @@ A short *Wie geht's?* (how are you?) often follows the greeting. The standard re
 
 *Tschüss* is the everyday farewell; *Auf Wiedersehen* is its formal counterpart. The *bis* phrases promise a next time, and a good wish on top is common and always well received.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Tschüss, bis morgen!
 : Bye, see you tomorrow!
 
@@ -80,6 +82,7 @@ Regional greetings are everywhere in Germany: *Moin* in the north, *Grüß Gott*
 
 :::{audio-examples}
 :track: a1/how-to/say-hello-and-goodbye
+:presenters: emilia
 :title: Begrüßung und Abschied
 :title-en: Say hello and goodbye
 

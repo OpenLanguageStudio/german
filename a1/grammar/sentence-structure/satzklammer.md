@@ -30,7 +30,8 @@ With a modal, the bracket opens with the modal and closes with the infinitive. E
 | Ich **muss** | heute lange | **arbeiten**. |
 | Wir **können** | später einkaufen | **gehen**. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`möchte` einen Kaffee **trinken**.
 : I would like to drink a coffee.
 
@@ -42,7 +43,8 @@ Ich {verb}`kann` dich morgen **abholen**.
 
 A separable prefix is simply the closing half of a bracket: *Ich **stehe** um sieben Uhr **auf**.* One verb, two parts, same shape.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich {verb}`stehe` um sieben Uhr {verb}`auf`.
 : I get up at seven o'clock.
 
@@ -54,7 +56,8 @@ Der Kurs {verb}`fängt` um neun Uhr {verb}`an`.
 
 Questions rearrange the front of the sentence, never the end. The closing part keeps its place: *Kannst du morgen **kommen**? Wann stehst du am Sonntag **auf**?*
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {verb}`Kannst` du morgen **kommen**?
 : Can you come tomorrow?
 
@@ -78,6 +81,7 @@ The bracket returns in the {term}`past tense`: *Ich habe Pizza gegessen* frames 
 
 :::{audio-examples}
 :track: a1/grammar/satzklammer
+:presenters: emilia
 :title: Die Satzklammer
 :title-en: The sentence bracket
 

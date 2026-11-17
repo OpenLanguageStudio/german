@@ -16,30 +16,31 @@ A chat has no *Betreff* and no formal greeting, and it goes straight to the poin
 
 ## Example: Calling off a cinema evening
 
-Anna is ill and has to cancel tonight's cinema plan with Lena.
+Nina is ill and has to cancel tonight's cinema plan with Lina.
 
-> **Anna:** Hallo Lena, es tut mir leid, aber ich kann heute Abend nicht kommen. Ich bin krank und habe Fieber. Gehen wir nächste Woche ins Kino?
+> **Nina:** Hallo Lina, es tut mir leid, aber ich kann heute Abend nicht kommen. Ich bin krank und habe Fieber. Gehen wir nächste Woche ins Kino?
 >
-> **Lena:** Oh nein, gute Besserung! Kein Problem, wir gehen nächste Woche. Bleib im Bett und trink viel Tee! Brauchst du etwas aus der Apotheke?
+> **Lina:** Oh nein, gute Besserung! Kein Problem, wir gehen nächste Woche. Bleib im Bett und trink viel Tee! Brauchst du etwas aus der Apotheke?
 >
-> **Anna:** Nein danke, ich habe alles. Ich schreibe dir morgen. Viel Spaß heute!
+> **Nina:** Nein danke, ich habe alles. Ich schreibe dir morgen. Viel Spaß heute!
 
-*Es tut mir leid, aber ...* opens the cancellation before the excuse. The reason is one short sentence, and the counter-offer shows that the friendship matters more than the evening. Lena's reply shows the other side: sympathy, acceptance and a warm imperative.
+*Es tut mir leid, aber ...* opens the cancellation before the excuse. The reason is one short sentence, and the counter-offer shows that the friendship matters more than the evening. Lina's reply shows the other side: sympathy, acceptance and a warm imperative.
 
 ### Hear it in practice
 
 :::{audio-examples}
 :track: a1/writing/sms-informal-1
+:presenters: emilia, lina
 :title: Eine Nachricht - Ich kann nicht kommen
 :title-en: Cancelling Plans
-:multiline:
+:mode: dialogue
 
-Anna: Hallo Lena, es tut mir leid, aber ich kann heute Abend nicht kommen. Ich bin krank und habe Fieber. Gehen wir nächste Woche ins Kino?
-Lena: Oh nein, gute Besserung! Kein Problem, wir gehen nächste Woche. Bleib im Bett und trink viel Tee! Brauchst du etwas aus der Apotheke?
-Anna: Nein danke, ich habe alles. Ich schreibe dir morgen. Viel Spaß heute!
-: Anna: Hi Lena, I'm sorry, but I can't come tonight. I'm ill and have a fever. Shall we go to the cinema next week?
-: Lena: Oh no, get well soon! No problem, we'll go next week. Stay in bed and drink lots of tea! Do you need anything from the pharmacy?
-: Anna: No thanks, I have everything. I'll text you tomorrow. Have fun tonight!
+emilia: Hallo Lina, es tut mir leid, aber ich kann heute Abend nicht kommen. Ich bin krank und habe Fieber. Gehen wir nächste Woche ins Kino?
+: Hi Lina, I'm sorry, but I can't come tonight. I'm ill and have a fever. Shall we go to the cinema next week?
+lina: Oh nein, gute Besserung! Kein Problem, wir gehen nächste Woche. Bleib im Bett und trink viel Tee! Brauchst du etwas aus der Apotheke?
+: Oh no, get well soon! No problem, we'll go next week. Stay in bed and drink lots of tea! Do you need anything from the pharmacy?
+emilia: Nein danke, ich habe alles. Ich schreibe dir morgen. Viel Spaß heute!
+: No thanks, I have everything. I'll text you tomorrow. Have fun tonight!
 :::
 
 ## Building blocks

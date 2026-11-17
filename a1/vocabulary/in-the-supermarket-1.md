@@ -38,6 +38,7 @@ One shopping trip, shelf by shelf, ending where every trip ends: at the *Kasse*,
 
 :::{audio-examples}
 :track: a1/vocabulary/in-the-supermarket-1
+:presenters: emilia
 :title: Im Supermarkt 1
 :title-en: In the Supermarket 1
 

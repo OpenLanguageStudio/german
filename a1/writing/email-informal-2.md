@@ -37,9 +37,10 @@ The *Betreff* already asks the question, and the occasion and plan come together
 
 :::{audio-examples}
 :track: a1/writing/email-informal-2
+:presenters: emilia
 :title: Eine Einladung zum Geburtstag
 :title-en: Inviting a Friend Over
-:multiline:
+:mode: passage
 
 Betreff: Kommst du am Samstag?
 Lieber Jonas,

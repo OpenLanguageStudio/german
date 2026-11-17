@@ -43,15 +43,16 @@ Both topics run on a few short patterns. Work uses *Ich bin*, *Ich arbeite als* 
 
 Three patterns cover nearly every answer: *Ich bin* + job, *Ich arbeite als* + job, and *Ich arbeite bei* + employer. Jobs take no article, and most have a female form in *-in*: *Lehrer/Lehrerin*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: tobias
 Ich bin Ingenieur.
 : I am an engineer.
 
 Sie arbeitet bei einer Bank.
 : She works at a bank.
 
-Ich arbeite als Kellner.
-: I work as a waiter.
+Ich arbeite als Ingenieur bei einer Solarfirma.
+: I work as an engineer at a solar company.
 :::
 
 Not working right now also has simple answers: *Ich studiere* (I study), *Ich suche Arbeit* (I am looking for work), *Ich arbeite nicht*.
@@ -60,7 +61,8 @@ Not working right now also has simple answers: *Ich studiere* (I study), *Ich su
 
 *Woher kommst du?* asks for origin; the answer uses *aus* plus a country or city. A few country names carry an article and keep it after *aus*: *aus der Schweiz, aus der Türkei*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich komme aus Italien.
 : I come from Italy.
 
@@ -75,74 +77,45 @@ Ich lebe seit zwei Jahren in Deutschland.
 
 :::{audio-examples}
 :track: a1/how-to/talk-about-work-and-origin
+:mode: dialogue
+:presenters: lina, roman, tobias, deniz
 :title: Beruf und Herkunft
 :title-en: Talk about work and origin
 
-Was machst du beruflich?
-: What do you do for a living?
-
-Was sind Sie von Beruf?
-: What is your profession?
-
-Ich bin Ingenieur.
-: I am an engineer.
-
-Ich bin Krankenschwester.
-: I am a nurse.
-
-Ich arbeite als Kellner.
-: I work as a waiter.
-
-Sie arbeitet bei einer Bank.
-: She works at a bank.
-
-Er arbeitet in einem Büro.
-: He works in an office.
-
-Ich studiere Medizin.
-: I study medicine.
-
-Ich bin noch Schülerin.
-: I am still at school.
-
-Ich arbeite nicht.
-: I don't work.
-
-Ich suche Arbeit.
-: I am looking for work.
-
-Wo arbeitest du?
-: Where do you work?
-
-Die Arbeit macht Spaß.
-: The work is fun.
-
-Woher kommen Sie?
+roman: Guten Abend! Ich bin Roman.
+: Good evening! I'm Roman.
+lina: Hallo, ich bin Lina. Was sind Sie von Beruf?
+: Hello, I'm Lina. What do you do for a living?
+roman: Ich bin Fotograf. Und Sie?
+: I'm a photographer. And you?
+lina: Ich bin Krankenschwester.
+: I'm a nurse.
+roman: Woher kommen Sie?
 : Where are you from?
+lina: Ich komme aus Syrien, aus Damaskus. Und Sie?
+: I come from Syria, from Damascus. And you?
+roman: Ich komme aus der Ukraine. Ich lebe seit zehn Jahren in Berlin.
+: I come from Ukraine. I have been living in Berlin for ten years.
 
-Ich komme aus Italien.
-: I come from Italy.
+tobias: Was machst du beruflich, Deniz?
+: What do you do for a living, Deniz?
+deniz: Ich arbeite als Barista, in einem Café in Kreuzberg.
+: I work as a barista, in a café in Kreuzberg.
+tobias: Macht die Arbeit Spaß?
+: Is the work fun?
+deniz: Ja, sehr! Und wo arbeitest du?
+: Yes, very! And where do you work?
+tobias: Ich bin Ingenieur. Ich arbeite bei einer Solarfirma.
+: I'm an engineer. I work at a solar company.
+deniz: Kommst du aus Berlin?
+: Are you from Berlin?
+tobias: Nein, ich komme aus Leipzig.
+: No, I come from Leipzig.
 
-Er ist Spanier.
-: He is Spanish.
-
-Sie ist Französin.
-: She is French.
-
-Meine Familie kommt aus der Ukraine.
-: My family comes from Ukraine.
-
-Ich lebe seit zwei Jahren in Deutschland.
-: I have been living in Germany for two years.
-
-Und was machen Sie beruflich?
-: And what do you do for a living?
-
-Der Beruf ist interessant.
-: The job is interesting.
-
-Mein Mann ist Bäcker.
-: My husband is a baker.
+lina: Und deine Familie, Deniz? Kommt sie auch aus Berlin?
+: And your family, Deniz? Is it from Berlin too?
+deniz: Ja, aber meine Großeltern kommen aus der Türkei.
+: Yes, but my grandparents come from Turkey.
 :::
 
 ## Summary

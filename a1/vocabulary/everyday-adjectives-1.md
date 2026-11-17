@@ -47,6 +47,7 @@ Each pair comes as two neighbouring sentences, so the contrast does the teaching
 
 :::{audio-examples}
 :track: a1/vocabulary/everyday-adjectives-1
+:presenters: emilia
 :title: Alltagsadjektive 1
 :title-en: Everyday Adjectives 1
 

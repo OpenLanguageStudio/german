@@ -28,7 +28,8 @@ Use *alles* when you mean the whole set of things or the full situation. In ever
 
 A useful signal: with *alles*, the verb is usually singular in simple sentences.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {pronoun}`Alles` ist bereit.
 : Everything is ready.
 
@@ -68,7 +69,8 @@ At A2, learn both uses early, because they appear in questions, requests, and sm
 | Pronoun | something | Hast du etwas gehört? |
 | Quantity word | a little / some | Ich brauche etwas Wasser. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Hast du {pronoun}`etwas` gehört?
 : Did you hear something?
 
@@ -98,7 +100,8 @@ In everyday spoken German, you will also hear the shorter form *was* for *etwas*
 
 Use *nichts* to say that no thing is there, happens, or is known. In simple terms, it is the negative partner of *etwas*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich sehe {pronoun}`nichts`.
 : I see nothing / I don't see anything.
 
@@ -139,7 +142,8 @@ You will often see this at A2 in short everyday expressions.
 | nichts + adjective | often -es | nichts Besonderes |
 | alles + adjective | often set phrase form | alles Gute |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich suche {pronoun}`etwas` {adj}`Neues`.
 : I'm looking for something new.
 
@@ -175,7 +179,8 @@ This article's pronouns are for things and ideas. For people, German uses differ
 | Negative | nichts | niemand |
 | General totality | alles | man (general "one/people") |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Gibt es {pronoun}`etwas` zu essen?
 : Is there something to eat? (thing)
 
@@ -209,6 +214,7 @@ In Deutschland sagt {pronoun}`man` oft „Alles klar?“.
 
 :::{audio-examples}
 :track: a2/grammar/pronomen-alles-etwas-und-nichts
+:presenters: emilia
 :title: Pronomen - alles, etwas und nichts
 :title-en: Pronouns: alles, etwas, and nichts
 

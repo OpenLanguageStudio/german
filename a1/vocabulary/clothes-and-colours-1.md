@@ -37,6 +37,7 @@ Colours ride along with the clothes in most sentences, so both sets settle in to
 
 :::{audio-examples}
 :track: a1/vocabulary/clothes-and-colours-1
+:presenters: emilia
 :title: Kleidung und Farben 1
 :title-en: Clothes and Colours 1
 

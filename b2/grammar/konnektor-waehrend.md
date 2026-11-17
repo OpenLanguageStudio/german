@@ -28,7 +28,8 @@ In temporal use, {conj}`während` answers the question "when?" You use it when o
 >
 > Main clause, {conj}`während` + subject + ... + {verb}`finite verb` (at the end).
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {conj}`Während` ich den Bericht {verb}`schrieb`, hat das Team schon mit der Auswertung begonnen.
 : While I was writing the report, the team had already started the analysis.
 
@@ -64,7 +65,8 @@ In concessive/contrastive use, {conj}`während` means "whereas" or "while" in th
 | Temporal | Wann? | at the same time |
 | Concessive/contrastive | Wie stehen die Aussagen zueinander? | opposition or contrast |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {conj}`Während` viele Mitarbeitende Flexibilität fordern, wünschen sich andere klare Präsenzregeln.
 : While many employees demand flexibility, others want clear on-site rules.
 
@@ -95,7 +97,8 @@ Use the following link to practice this section.
 
 The form is the same in both uses, so meaning comes from context. Look at the kind of information in both clauses: time flow usually signals temporal meaning, opposing evaluations usually signal concessive meaning.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 {conj}`Während` ich den Vertrag {verb}`las`, machte sie sich Notizen.
 : While I was reading the contract, she took notes.
 

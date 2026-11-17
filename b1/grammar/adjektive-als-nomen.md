@@ -35,7 +35,8 @@ Here are some of the most common nominalized adjectives you will encounter at B1
 | arbeitslos | {stack}`der/die Arbeitslose \| the unemployed person` |
 | jugendlich | {stack}`der/die Jugendliche \| the young person / teenager` |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Das ist **meine Bekannte**, sie wohnt im selben Haus wie ich.
 : This is my acquaintance, she lives in the same building as me.
 
@@ -82,7 +83,8 @@ Nominalized adjectives decline exactly like regular adjectives placed before a n
 
 Examples:
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 **Der Bekannte** meiner Mutter ist Zahnarzt.
 : My mother's acquaintance is a dentist. (Nom., masculine, after _der_)
 
@@ -132,7 +134,8 @@ At B1 level, this matters in two main contexts:
 
 Examples:
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Hast du **etwas Gutes** zum Abendessen mitgebracht?
 : Did you bring something good for dinner? (neuter Akk., after _etwas_ → -es)
 

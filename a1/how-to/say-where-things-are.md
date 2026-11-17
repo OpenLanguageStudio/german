@@ -43,7 +43,8 @@ A chunk is a short group of words learned as one piece. Each chunk here pairs a 
 
 These work as whole chunks, each with a preposition and the dative article.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Schlüssel ist auf dem Tisch.
 : The key is on the table.
 
@@ -56,7 +57,8 @@ Die Katze ist unter dem Tisch.
 
 The same pattern says where someone is: *im Büro, in der Küche, im Supermarkt*.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Er ist im Büro.
 : He is in the office.
 
@@ -68,7 +70,8 @@ Wir sind in der Küche.
 
 For places in town, add the direction words and two useful distance phrases: *in der Nähe* (nearby) and *nicht weit* (not far).
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Toilette ist links.
 : The toilet is on the left.
 
@@ -83,6 +86,7 @@ Es gibt einen Park in der Nähe.
 
 :::{audio-examples}
 :track: a1/how-to/say-where-things-are
+:presenters: emilia
 :title: Sagen, wo etwas ist
 :title-en: Say where things are
 

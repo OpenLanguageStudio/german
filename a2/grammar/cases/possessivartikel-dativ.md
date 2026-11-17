@@ -47,7 +47,8 @@ The next table gives the same forms in full mini-phrases so you can see gender a
 | ihr | mit **eurem Bruder** | mit **eurer Schwester** | mit **eurem Kind** | mit **euren Eltern** |
 | Sie (formal) | mit **Ihrem Bruder** | mit **Ihrer Schwester** | mit **Ihrem Kind** | mit **Ihren Eltern** |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich spreche oft mit **{dativ}`meiner`** Nachbarin.
 : I often talk with my neighbour.
 
@@ -88,7 +89,8 @@ These eight prepositions always take dative. That means your possessive article 
 | {stack}`seit \| since/for` | seit **meinem** Kurs |
 | {stack}`gegenüber \| opposite/across from` | gegenüber **eurem** Haus |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich gehe heute nicht joggen, weil ich seit **{dativ}`meinem`** Termin müde bin.
 : I'm not going jogging today because I've been tired since my appointment.
 
@@ -131,7 +133,8 @@ You can use this grammar in very normal daily conversations. Below are common co
 | Hobbies | mit + possessive + hobby object | mit **deinem Schläger** |
 | Meetings | nach/seit + possessive + meeting word | nach **ihrem Termin** |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Am Sonntag essen wir bei **{dativ}`meinen`** Eltern.
 : On Sunday we eat at my parents' place.
 
@@ -161,6 +164,7 @@ In spoken German, contractions are very common: *bei dem* → *beim*, *von dem* 
 
 :::{audio-examples}
 :track: a2/grammar/possessivartikel-im-dativ
+:presenters: emilia
 :title: Possessivartikel im Dativ
 :title-en: Possessive Articles in the Dative
 

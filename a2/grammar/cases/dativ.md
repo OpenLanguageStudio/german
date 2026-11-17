@@ -34,7 +34,8 @@ A typical sentence has three parts:
 
 So the full sentence is: *Ich gebe **meiner Schwester** ein Buch.* (I give my sister a book.)
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich schicke {dativ}`meinem` Vater eine Nachricht.
 : I'm sending my father a message.
 
@@ -68,7 +69,8 @@ In the dative case, **all four article types change their endings**. This is dif
 > **Plural rule:** In the dative, plural nouns add a final **-n** if their plural form does not already end in *-n* or *-s*.
 > *die Kinder → mit den Kinder**n***, *die Autos → mit den Autos*
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich gebe {dativ}`dem` Kind einen Apfel.
 : I give the child an apple. (neuter → dem)
 
@@ -109,7 +111,8 @@ Some prepositions **always** require the dative case. You never need to decide, 
 | {stack}`zu \| to (people, buildings)` | Ich gehe **zu meinem** Arzt. |
 | {stack}`gegenüber \| opposite, across from` | Das Hotel liegt **gegenüber dem** Bahnhof. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich komme {prep}`aus` {dativ}`der` Türkei.
 : I come from Turkey.
 
@@ -152,7 +155,8 @@ Certain German verbs take a **dative object** instead of an accusative one. In E
 *Gefallen* works differently from English *to like*. The thing you like is the subject, and you are in the dative: *Das Lied **gefällt mir*** = "The song pleases me" → "I like the song." The subject (*das Lied*) is singular, so the verb is singular (*gefällt*).
 :::
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Ich helfe {dativ}`meinem` Bruder mit den Hausaufgaben.
 : I help my brother with the homework.
 
@@ -178,6 +182,7 @@ Er hat {dativ}`mir` für das Geschenk gedankt.
 
 :::{audio-examples}
 :track: a2/grammar/dativ-grundlagen
+:presenters: emilia
 :title: Dativ – Grundlagen
 
 Ich helfe meiner Mutter in der Küche.

@@ -32,7 +32,8 @@ For everything else, the article has to be learned with the noun. *Der Tisch*, n
 
 German capitalises every noun, everywhere in the sentence, not only names. This is useful when reading: any capitalised word in the middle of a sentence is a noun.
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der {noun}`Mann` kauft {noun}`Brot` und {noun}`Käse`.
 : The man buys bread and cheese.
 
@@ -52,7 +53,8 @@ The plural article is always **die**. The noun itself changes in one of a handfu
 | -s | das Auto | die Autos |
 | no ending (often with umlaut) | das Zimmer, der Apfel | die Zimmer, die Äpfel |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Der Apfel ist rot. Die **Äpfel** sind rot.
 : The apple is red. The apples are red.
 
@@ -79,6 +81,7 @@ Learn nouns as a trio: *der Tisch, die Tische*. Dictionaries and vocabulary list
 
 :::{audio-examples}
 :track: a1/grammar/nomen-genus-plural
+:presenters: emilia
 :title: Genus und Plural
 :title-en: Noun gender and plurals
 

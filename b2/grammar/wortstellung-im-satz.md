@@ -31,7 +31,8 @@ TeKaMoLo (Temporal, Kausal, Modal, Lokal) is a strong default pattern for many n
 | {mo}`Mo` | Wie? | manner phrase |
 | {lo}`Lo` | Wo? / Wohin? | place phrase |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir haben {te}`gestern` {ka}`wegen eines Serverfehlers` {mo}`nur kurz` {lo}`im Büro` gesprochen.
 : Yesterday, we spoke only briefly in the office because of a server error.
 
@@ -68,7 +69,8 @@ With two objects, German often places the dative object before the accusative ob
 | Dative pronoun + noun | Dative pronoun often before accusative noun | Ich erkläre {dativ}`ihm` {akk}`den Ablauf`. |
 | Two pronouns | Often accusative pronoun before dative pronoun | Ich erkläre {akk}`es` {dativ}`ihm`. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Die Assistentin hat {dativ}`dem Kunden` {akk}`den Entwurf` noch am selben Tag geschickt.
 : The assistant sent the client the draft the same day.
 
@@ -104,7 +106,8 @@ Prepositional phrases can have different functions, and this affects placement. 
 | Optional adverbial PP | More flexible in the middle field | Wir haben gestern {prep}`über` das Budget gesprochen. |
 | Heavy/long PP | Often later for readability | Ich habe im Meeting lange über die Auswirkungen auf internationale Partner gesprochen. |
 
-:::{div} ol-examples
+:::{ol-examples}
+:presenters: emilia
 Wir haben gestern lange {prep}`über` die neue Preisstrategie gesprochen.
 : We talked for a long time yesterday about the new pricing strategy.
 
