@@ -33,18 +33,13 @@ Hana is ill and has to cancel tonight's cinema plan with Lina.
 :presenters: hana-kim, lina
 :title: Eine Nachricht - Ich kann nicht kommen
 :title-en: Cancelling Plans
-:mode: correspondence
+:mode: dialogue
 
-hana-kim:
-Hallo Lina, es tut mir leid, aber ich kann heute Abend nicht kommen. Ich bin krank und habe Fieber. Gehen wir nächste Woche ins Kino?
+hana-kim: Hallo Lina, es tut mir leid, aber ich kann heute Abend nicht kommen. Ich bin krank und habe Fieber. Gehen wir nächste Woche ins Kino?
 : Hi Lina, I'm sorry, but I can't come tonight. I'm ill and have a fever. Shall we go to the cinema next week?
-
-lina:
-Oh nein, gute Besserung! Kein Problem, wir gehen nächste Woche. Bleib im Bett und trink viel Tee! Brauchst du etwas aus der Apotheke?
+lina: Oh nein, gute Besserung! Kein Problem, wir gehen nächste Woche. Bleib im Bett und trink viel Tee! Brauchst du etwas aus der Apotheke?
 : Oh no, get well soon! No problem, we'll go next week. Stay in bed and drink lots of tea! Do you need anything from the pharmacy?
-
-hana-kim:
-Nein danke, ich habe alles. Ich schreibe dir morgen. Viel Spaß heute!
+hana-kim: Nein danke, ich habe alles. Ich schreibe dir morgen. Viel Spaß heute!
 : No thanks, I have everything. I'll text you tomorrow. Have fun tonight!
 :::
 

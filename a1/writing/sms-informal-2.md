@@ -33,18 +33,13 @@ Hana is stuck at work and needs Max to collect her son.
 :presenters: hana-kim, max
 :title: Eine Nachricht - Kannst du mir helfen?
 :title-en: Asking a Favour
-:mode: correspondence
+:mode: dialogue
 
-hana-kim:
-Hallo Max, kannst du mir helfen? Ich bin noch bei der Arbeit und mein Sohn ist allein. Kannst du ihn vielleicht vom Fußball abholen? Das Training ist um fünf Uhr fertig.
+hana-kim: Hallo Max, kannst du mir helfen? Ich bin noch bei der Arbeit und mein Sohn ist allein. Kannst du ihn vielleicht vom Fußball abholen? Das Training ist um fünf Uhr fertig.
 : Hi Max, can you help me? I'm still at work and my son is alone. Could you maybe pick him up from football? Training finishes at five o'clock.
-
-max:
-Klar, kein Problem! Ich hole ihn ab. Soll ich ihn zu euch bringen?
+max: Klar, kein Problem! Ich hole ihn ab. Soll ich ihn zu euch bringen?
 : Sure, no problem! I'll pick him up. Should I bring him to your place?
-
-hana-kim:
-Ja, super! Vielen Dank, du bist der Beste. Ich bin um sechs zu Hause.
+hana-kim: Ja, super! Vielen Dank, du bist der Beste. Ich bin um sechs zu Hause.
 : Yes, great! Thanks so much, you're the best. I'll be home at six.
 :::
 

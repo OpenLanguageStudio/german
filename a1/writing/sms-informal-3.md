@@ -37,26 +37,17 @@ The opener checks availability before proposing anything. The plan comes with an
 :presenters: hana-kim, lina
 :title: Eine Nachricht - Was machst du am Samstag?
 :title-en: Making Plans
-:mode: correspondence
+:mode: dialogue
 
-hana-kim:
-Hallo Lina! Was machst du am Samstag? Wir wollen ins Schwimmbad gehen. Kommst du mit?
+hana-kim: Hallo Lina! Was machst du am Samstag? Wir wollen ins Schwimmbad gehen. Kommst du mit?
 : Hi Lina! What are you doing on Saturday? We want to go to the swimming pool. Are you coming along?
-
-lina:
-Gute Idee! Um wie viel Uhr trefft ihr euch?
+lina: Gute Idee! Um wie viel Uhr trefft ihr euch?
 : Good idea! What time are you meeting?
-
-hana-kim:
-Um elf am Eingang. Danach essen wir ein Eis in der Stadt.
+hana-kim: Um elf am Eingang. Danach essen wir ein Eis in der Stadt.
 : At eleven at the entrance. Afterwards we're having an ice cream in town.
-
-lina:
-Perfekt, ich komme mit! Soll ich etwas mitbringen?
+lina: Perfekt, ich komme mit! Soll ich etwas mitbringen?
 : Perfect, I'm in! Should I bring anything?
-
-hana-kim:
-Nein, du brauchst nur Badesachen. Max und seine Freundin kommen auch. Bis Samstag!
+hana-kim: Nein, du brauchst nur Badesachen. Max und seine Freundin kommen auch. Bis Samstag!
 : No, you only need swimming things. Max and his girlfriend are coming too. See you Saturday!
 :::
 
