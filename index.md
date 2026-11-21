@@ -10,13 +10,6 @@ myst:
 
 Open Language - German is a free, open coursebook for adults learning German, written in English. It explains how the language works one topic at a time, in plain words, with short example sentences. Anyone can read it, report a problem or suggest a change.
 
-```{button-ref} a1/index
-:ref-type: doc
-:color: primary
-
-Start with A1
-```
-
 ## How the course works
 
 The pages are not a sequence. Each one stands on its own, so any page can be read first, and the menu is there to jump to what is needed. Every article ends with sentences to listen to, which is the part to repeat aloud.
