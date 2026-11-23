@@ -29,6 +29,7 @@ A1 is the first CEFR level, for learners starting German from nothing. It covers
 :hidden:
 
 how-to/index
+situations/index
 grammar/index
 writing/index
 vocabulary/index
@@ -44,6 +45,13 @@ vocabulary/index
 :link-type: doc
 
 Everyday tasks, one per page, such as greeting someone or asking the way.
+:::
+
+:::{grid-item-card} Situations
+:link: situations/index
+:link-type: doc
+
+Everyday scenes to listen to, such as meeting someone at a party.
 :::
 
 :::{grid-item-card} Grammar
