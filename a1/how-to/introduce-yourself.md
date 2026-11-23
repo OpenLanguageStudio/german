@@ -14,11 +14,8 @@ Introducing yourself in German rests on four sentences: name, origin, where home
 
 Each of the four sentences starts with *ich* and a {term}`verb`: *Ich heiße*, *Ich komme aus*, *Ich wohne in* and *Ich bin*. The questions use the same verbs with a different ending, so one set of words covers both sides of the conversation. Age is the one surprise, because German says it with *sein* (to be) and never with *haben* (to have). Turning a question around takes only *Und du?* or *Und Sie?*
 
-## When to use it
-
-- Meeting someone for the first time (course, work, neighbours)
-- Checking in somewhere and giving your details
-- Answering the most common first questions people ask a learner
+:::{situations}
+:::
 
 ## Key phrases
 

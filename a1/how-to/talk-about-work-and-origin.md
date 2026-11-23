@@ -14,11 +14,8 @@ Talking about profession and origin fills the second half of a typical first con
 
 Both topics run on a few short patterns. Work uses *Ich bin*, *Ich arbeite als* or *Ich arbeite bei*. A job takes no article, so German has no word for *a* in *Ich bin Lehrerin*. Origin uses *aus* plus a country or a city. The question then comes back the other way with *Und du?* or *Und Sie?*, so one answer usually leads to the next.
 
-## When to use it
-
-- The natural follow-up questions after names are exchanged
-- Job-related small talk at courses, work, or with neighbours
-- Explaining your background as a newcomer
+:::{situations}
+:::
 
 ## Key phrases
 

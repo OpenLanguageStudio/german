@@ -64,6 +64,13 @@ Every level is divided into the same categories. A level holds only the categori
 One everyday task per page, such as greeting someone or ordering food.
 :::
 
+:::{grid-item-card} Situations
+:link: a1/situations/index
+:link-type: doc
+
+Everyday scenes to listen to, with the how-to pages behind each one.
+:::
+
 :::{grid-item-card} Grammar
 :link: a1/grammar/index
 :link-type: doc
