@@ -20,7 +20,7 @@ Small talk at work fills the gaps between tasks: the queue at the coffee machine
 | {stack}`die Auslastung \| workload / capacity usage` | |
 | {stack}`die Besprechung \| meeting` | |
 | {stack}`der Betriebsrat \| works council` | |
-| {stack}`die Chef, der / Chefin \| boss` | |
+| {stack}`der Chef / die Chefin \| boss` | |
 | {stack}`die Dienstreise \| business trip` | |
 | {stack}`der Feierabend \| end of the workday` | |
 | {stack}`die Kaffeemaschine \| coffee machine` | |
