@@ -26,6 +26,7 @@ Sam has come to Nina's birthday party with her brother Lukas, who works with him
 :title-en: At a Party
 :mode: dialogue
 :presenters: sam, roman
+:tags: introductions, work
 
 roman: Hallo! Ich bin Roman.
 : Hi! I'm Roman.
