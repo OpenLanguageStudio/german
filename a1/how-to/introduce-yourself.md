@@ -17,9 +17,6 @@ Introducing yourself in German rests on four sentences: name, origin, where home
 
 German calls it *sich vorstellen*. Each of the four sentences starts with *ich* and a {term}`verb`: *Ich heiße*, *Ich komme aus*, *Ich wohne in* and *Ich bin*. The questions use the same verbs with a different ending, as in *Wie heißt du?* and *Woher kommst du?* Age is the one surprise, because German says it with *sein* (to be) and never with *haben* (to have). Turning a question around takes only *Und du?* or *Und Sie?*
 
-:::{situations}
-:::
-
 ## Key phrases
 
 ### Name, origin, home and age
@@ -227,10 +224,3 @@ Mich auch!
 - *\*Wo kommst du?* → **Woher** kommst du? (origin asks "where from")
 - *\*Ich komme aus Türkei.* → Ich komme aus **der** Türkei. (a few countries take an article)
 :::
-
-## Related articles
-
-- [](/a1/grammar/verbs/sein-und-haben.md)
-- [](/a1/grammar/pronouns/personalpronomen-nominativ.md)
-- [](/a1/grammar/question-words/fragewoerter-umstaende.md)
-- [](/a1/how-to/choose-between-du-and-sie.md)

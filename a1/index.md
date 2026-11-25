@@ -43,20 +43,13 @@ A1 is the first CEFR level, for learners starting German from nothing. It covers
 
 ## What learners know
 
-- Nouns, their gender and plural, and the articles that go with them.
-- The nominative, accusative and dative, with their pronouns and prepositions.
-- Verbs in the present tense, and the perfect tense for past events.
-- Statements, questions and negatives, with the verb second.
-- Words for numbers, time, family, home, food and shopping.
+:::{skills} know
+:::
 
 ## What learners can do
 
-- Greet people, introduce themselves and others, and give personal details.
-- Talk about family, work, home, likes, feelings and the day.
-- Order food and drink, shop and pay, and book a room.
-- Ask the way, use buses and trains, and understand public signs.
-- Tell the time, make appointments and plans, and say what happened.
-- Make requests and ask for help, in person, by phone or in writing.
+:::{skills} can
+:::
 
 ```{toctree}
 :maxdepth: 2
