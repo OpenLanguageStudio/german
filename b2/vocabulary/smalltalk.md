@@ -39,7 +39,7 @@ Small talk keeps a conversation going with someone not yet known well, at a netw
 | {stack}`anbaggern \| to hit on (someone)` | |
 | {stack}`beschnuppern \| to size (someone) up` | |
 | {stack}`ins Gespräch kommen \| to start a conversation` | |
-| {stack}`laestern \| to gossip` | |
+| {stack}`lästern \| to gossip` | |
 | {stack}`plaudern \| to chat` | |
 | {stack}`sich unterhalten \| to converse / have a conversation` | |
 | {stack}`nachfragen \| to ask further / follow up` | |
