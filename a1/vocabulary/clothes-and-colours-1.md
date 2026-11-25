@@ -40,6 +40,7 @@ Colours ride along with the clothes in most sentences, so both sets settle in to
 :presenters: emilia
 :title: Kleidung und Farben 1
 :title-en: Clothes and Colours 1
+:tags: clothes, adjective
 
 Die Hose ist blau.
 : The trousers are blue.

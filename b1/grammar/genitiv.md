@@ -186,6 +186,7 @@ In everyday spoken German, *von + Dativ* is widely used instead of the genitive:
 :presenters: emilia
 :title: Genitiv
 :title-en: The Genitive Case
+:tags: genitive case
 
 Das ist das Auto meines Vaters.
 : That's my father's car.

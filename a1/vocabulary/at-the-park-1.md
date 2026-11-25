@@ -40,6 +40,7 @@ One green afternoon in seventeen sentences: trees and flowers, the playground, a
 :presenters: emilia
 :title: Im Park 1
 :title-en: At the Park 1
+:tags: leisure, nature
 
 Der Park ist heute voll.
 : The park is crowded today.

@@ -159,6 +159,7 @@ When a sentence has a modal verb (like *müssen*, *können*, *wollen*), the conj
 :presenters: emilia
 :title: Reflexive Verben
 :title-en: Reflexive Verbs
+:tags: reflexive verb, reflexive pronoun
 
 Ich freue mich auf das Wochenende.
 : I'm looking forward to the weekend.

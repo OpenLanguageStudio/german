@@ -82,6 +82,7 @@ Er spricht Englisch und ein bisschen Deutsch.
 :presenters: emilia
 :title: Jemanden vorstellen
 :title-en: Introduce someone else
+:tags: introductions, family
 
 Das ist mein Freund Tom.
 : This is my friend Tom.

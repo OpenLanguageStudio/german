@@ -90,6 +90,7 @@ This only applies after *sein/werden* with professions and nationalities. Everyw
 :presenters: emilia
 :title: Der unbestimmte Artikel
 :title-en: The indefinite article
+:tags: indefinite article, gender
 
 Das ist ein Hafen.
 : That is a harbour.

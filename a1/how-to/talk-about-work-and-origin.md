@@ -78,6 +78,7 @@ Ich lebe seit zwei Jahren in Deutschland.
 :presenters: lina, roman, tobias, deniz
 :title: Beruf und Herkunft
 :title-en: Talk about work and origin
+:tags: work, personal details
 
 roman: Guten Abend! Ich bin Roman.
 : Good evening! I'm Roman.

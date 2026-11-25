@@ -219,6 +219,7 @@ Use the following link to practice this section.
 :presenters: deniz, lina
 :title: Doch nach Ja-Nein-Fragen
 :title-en: doch in Response to Yes-No Questions
+:tags: negation
 
 Kommst du nicht?
 : Aren't you coming?

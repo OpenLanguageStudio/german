@@ -40,6 +40,7 @@ Each verb comes as a pair of sentences in two different persons. The ten pairs c
 :presenters: emilia
 :title: Alltagsverben 1
 :title-en: Everyday Verbs 1
+:tags: regular verb, daily routine
 
 Was machst du heute?
 : What are you doing today?

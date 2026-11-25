@@ -178,6 +178,7 @@ Use the following link to practice this section.
 :presenters: emilia
 :title: Präpositionen ohne und mit
 :title-en: Prepositions ohne and mit
+:tags: preposition, accusative case, dative case
 
 Ich trinke Kaffee ohne Zucker.
 : I drink coffee without sugar.

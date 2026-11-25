@@ -135,6 +135,7 @@ After *nicht so...wie*, the adjective is always in its **positive form**, never 
 :presenters: emilia
 :title: Vergleiche mit als und wie
 :title-en: Comparisons with als and wie
+:tags: comparative, comparing
 
 Sie ist größer als ich.
 : She's taller than me.

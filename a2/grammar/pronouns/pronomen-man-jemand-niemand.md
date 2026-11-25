@@ -152,6 +152,7 @@ Do not use *man* as an object.
 :presenters: emilia
 :title: Pronomen - man, jemand und niemand
 :title-en: Pronouns: man, jemand, and niemand
+:tags: pronoun, negation
 
 Man kann hier gut essen.
 : You can eat well here.

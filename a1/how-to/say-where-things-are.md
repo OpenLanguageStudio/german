@@ -89,6 +89,7 @@ Es gibt einen Park in der Nähe.
 :presenters: emilia
 :title: Sagen, wo etwas ist
 :title-en: Say where things are
+:tags: two-way preposition, dative case, home
 
 Wo ist mein Schlüssel?
 : Where is my key?

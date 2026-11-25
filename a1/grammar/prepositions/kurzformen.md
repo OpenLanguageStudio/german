@@ -80,6 +80,7 @@ The full form (*in dem Kino*) is not wrong, but it sounds emphatic, as if pointi
 :presenters: emilia
 :title: Kurzformen im, ins, zum und zur
 :title-en: Contracted prepositions
+:tags: contraction, preposition
 
 Ich gehe ins Kino.
 : I am going to the cinema.

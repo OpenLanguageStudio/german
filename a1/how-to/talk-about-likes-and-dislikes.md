@@ -87,6 +87,7 @@ Ich mag {akk}`keinen Fisch`.
 :presenters: emilia
 :title: Vorlieben ausdrücken
 :title-en: Talk about likes and dislikes
+:tags: likes and dislikes
 
 Ich koche gern.
 : I like cooking.

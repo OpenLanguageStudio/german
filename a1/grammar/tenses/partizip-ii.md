@@ -72,6 +72,7 @@ Ich habe meine Oma **angerufen**.
 :presenters: emilia
 :title: Das Partizip II
 :title-en: The past participle
+:tags: past participle, Perfekt
 
 machen, gemacht
 : to do, done

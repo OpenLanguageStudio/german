@@ -75,6 +75,7 @@ Das ist {subj}`der Turm`.
 :presenters: emilia
 :title: Verben mit Akkusativ
 :title-en: Verbs with the accusative
+:tags: accusative case
 
 Ich habe einen Hund.
 : I have a dog.

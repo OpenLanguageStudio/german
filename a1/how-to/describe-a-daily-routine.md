@@ -85,6 +85,7 @@ Am Samstag **stehe ich** spät auf.
 :presenters: emilia
 :title: Der Tagesablauf
 :title-en: Describe a daily routine
+:tags: daily routine, separable verb, time and dates
 
 Ich stehe um sieben Uhr auf.
 : I get up at seven o'clock.

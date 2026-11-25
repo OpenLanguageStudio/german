@@ -188,6 +188,7 @@ Diese Woche haben wir **am meisten** Hausaufgaben.
 :presenters: emilia
 :title: Adjektive - Komparativ und Superlativ
 :title-en: Adjectives: Comparative and Superlative
+:tags: comparative, superlative, comparing
 
 Mein Auto ist schneller als dein Auto.
 : My car is faster than your car.

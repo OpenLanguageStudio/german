@@ -73,6 +73,7 @@ German has more dative verbs, and using them freely with all {term}`pronouns <pr
 :presenters: emilia
 :title: Verben mit Dativ
 :title-en: Verbs with the dative
+:tags: dative case
 
 Kannst du mir helfen?
 : Can you help me?

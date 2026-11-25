@@ -138,6 +138,7 @@ Not every masculine profession noun is *N-Deklination*. For example, **der Autor
 :presenters: emilia
 :title: N-Deklination
 :title-en: N-Declension
+:tags: declension
 
 Siehst du den Studenten dort?
 : Do you see the student there?

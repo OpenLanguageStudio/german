@@ -104,6 +104,7 @@ Kommst du aus **Österreich**?
 :presenters: emilia
 :title: Der Nullartikel
 :title-en: The zero article
+:tags: definite article, indefinite article
 
 Ich bin Lehrerin.
 : I am a teacher.

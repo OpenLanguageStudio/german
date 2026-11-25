@@ -215,6 +215,7 @@ Do not confuse:
 :presenters: emilia
 :title: Das Verb werden
 :title-en: The Verb werden
+:tags: irregular verb, future tense
 
 Ich werde Lehrerin.
 : I'm becoming a teacher.

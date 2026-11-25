@@ -73,6 +73,7 @@ Was gibt es zum Frühstück?
 :presenters: emilia
 :title: es gibt
 :title-en: There is, there are
+:tags: accusative case
 
 Es gibt einen Park.
 : There is a park.

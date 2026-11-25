@@ -74,6 +74,7 @@ Wir {verb}`fahren` nach Wien, und Anna {verb}`fährt` nach Rom.
 :presenters: emilia
 :title: Unregelmäßige Verben
 :title-en: Irregular verbs in the present
+:tags: irregular verb, present tense
 
 ich fahre, du fährst, er fährt
 : I drive, you drive, he drives

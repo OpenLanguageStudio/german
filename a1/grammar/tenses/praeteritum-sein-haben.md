@@ -78,6 +78,7 @@ Division of labour in the spoken past: actions → Perfekt (*Ich habe gespielt*)
 :presenters: emilia
 :title: war und hatte
 :title-en: The simple past of sein and haben
+:tags: Präteritum, the past
 
 ich war, du warst, er war
 : I was, you were, he was

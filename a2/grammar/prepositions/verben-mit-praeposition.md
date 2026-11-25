@@ -173,6 +173,7 @@ Questions about the prepositional object often use **wo(r)-** forms for things, 
 :presenters: emilia
 :title: Verben mit Präposition
 :title-en: Verbs with Prepositions
+:tags: preposition
 
 Ich freue mich auf das Wochenende.
 : I'm looking forward to the weekend.

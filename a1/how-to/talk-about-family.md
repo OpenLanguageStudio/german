@@ -83,6 +83,7 @@ Meine Frau kommt aus Brasilien.
 :presenters: emilia
 :title: Über die Familie sprechen
 :title-en: Talk about family
+:tags: family, possessive article
 
 Das ist meine Familie.
 : This is my family.

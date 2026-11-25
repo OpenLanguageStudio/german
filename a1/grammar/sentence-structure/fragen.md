@@ -65,6 +65,7 @@ Both patterns keep the {term}`sentence bracket` intact: *Wann fängt der Film **
 :presenters: emilia
 :title: Ja-Nein-Fragen und W-Fragen
 :title-en: Yes/no questions and W-questions
+:tags: question word, word order
 
 Kommst du aus Spanien?
 : Do you come from Spain?

@@ -68,6 +68,7 @@ Starting with time or place is not fancy German; it is normal German. *Heute fah
 :presenters: emilia
 :title: Das Verb auf Position 2
 :title-en: The verb in second position
+:tags: word order, main clause
 
 Ich fahre heute nach Berlin.
 : I am going to Berlin today.

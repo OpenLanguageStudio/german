@@ -164,6 +164,7 @@ Both are correct. The noun version is common in writing and formal speech.
 :presenters: emilia
 :title: Infinitiv mit zu - nach bestimmten Verben
 :title-en: Infinitive with zu: After Certain Verbs
+:tags: infinitive
 
 Ich versuche, jeden Tag Deutsch zu lernen.
 : I try to learn German every day.
@@ -240,6 +241,7 @@ Wir planen, früher zu starten.
 :presenters: emilia
 :title: Infinitiv mit zu - nach Adjektiven
 :title-en: Infinitive with zu: After Adjectives
+:tags: infinitive, adjective
 
 Es ist wichtig, pünktlich zu sein.
 : It is important to be on time.
@@ -316,6 +318,7 @@ Wir finden es praktisch, ein Auto zu besitzen.
 :presenters: emilia
 :title: Infinitiv mit zu - nach Nomen
 :title-en: Infinitive with zu: After Nouns
+:tags: infinitive
 
 Er hat die Absicht, Deutsch zu lernen.
 : He has the intention to learn German.

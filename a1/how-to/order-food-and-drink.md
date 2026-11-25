@@ -89,6 +89,7 @@ Zusammen oder getrennt? Zusammen, bitte.
 :presenters: emilia
 :title: Essen und Trinken bestellen
 :title-en: Order food and drink
+:tags: food and drink, politeness
 
 Die Speisekarte, bitte.
 : The menu, please.
@@ -163,6 +164,7 @@ Das Essen war sehr gut.
 :presenters: lina, roman
 :title: Im Café bestellen
 :title-en: Ordering in a Café
+:tags: food and drink, politeness
 
 lina: Guten Morgen! Ist hier noch frei?
 : Good morning! Is this seat free?

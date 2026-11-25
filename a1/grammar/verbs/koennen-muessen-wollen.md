@@ -77,6 +77,7 @@ Er {verb}`kann` heute nicht **arbeiten**.
 :presenters: emilia
 :title: Modalverben können, müssen und wollen
 :title-en: Modal verbs können, müssen, wollen
+:tags: modal verb
 
 ich kann, du kannst, er kann
 : I can, you can, he can

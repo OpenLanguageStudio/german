@@ -166,6 +166,7 @@ Use *gelassen* only when *lassen* is the main verb with no following infinitive 
 :presenters: emilia
 :title: Das verb Lassen
 :title-en: The Verb lassen
+:tags: infinitive
 
 Ich lasse mein Auto reparieren.
 : I'm having my car repaired.

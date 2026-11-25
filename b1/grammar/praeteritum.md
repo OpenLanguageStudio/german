@@ -247,6 +247,7 @@ Er {verb}`wollte` die Stelle, aber er {verb}`durfte` sich nicht bewerben.
 :presenters: emilia
 :title: Präteritum
 :title-en: The Simple Past
+:tags: Präteritum, the past
 
 Ich war gestern zu müde.
 : I was too tired yesterday.

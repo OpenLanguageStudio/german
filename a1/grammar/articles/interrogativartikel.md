@@ -75,6 +75,7 @@ Before reading this article, make sure you are comfortable with:
 :presenters: emilia
 :title: Interrogativartikel
 :title-en: Interrogative articles
+:tags: question word
 
 Welcher Bus fährt zum Bahnhof?
 : Which bus goes to the station?

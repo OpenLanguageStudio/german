@@ -96,6 +96,7 @@ Sie liest {akk}`das` Buch.
 :presenters: emilia
 :title: Der bestimmte Artikel
 :title-en: The definite article
+:tags: definite article, gender
 
 Der Hafen ist groß.
 : The harbour is big.

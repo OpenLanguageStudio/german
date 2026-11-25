@@ -89,6 +89,7 @@ Er sucht {akk}`seine` Brille.
 :presenters: emilia
 :title: Possessivartikel
 :title-en: Possessive articles
+:tags: possessive article, family
 
 Mein Bruder wohnt in Berlin.
 : My brother lives in Berlin.

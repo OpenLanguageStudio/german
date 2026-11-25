@@ -84,6 +84,7 @@ Wir {verb}`sollen` um acht Uhr da **sein**.
 :presenters: emilia
 :title: Modalverben dürfen und sollen
 :title-en: Modal verbs dürfen and sollen
+:tags: modal verb
 
 ich darf, du darfst, er darf
 : I may, you may, he may

@@ -80,6 +80,7 @@ Sagen wir du?
 :presenters: emilia
 :title: du, ihr oder Sie
 :title-en: Forms of address
+:tags: personal pronoun, formal, informal
 
 Wie heißt du?
 : What is your name? (informal)

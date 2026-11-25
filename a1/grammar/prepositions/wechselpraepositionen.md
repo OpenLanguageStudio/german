@@ -73,6 +73,7 @@ These same {term}`prepositions <preposition>` can also express direction (*ins K
 :presenters: emilia
 :title: Wechselpräpositionen
 :title-en: Two-way prepositions
+:tags: two-way preposition, accusative case, dative case
 
 Der Schlüssel ist auf dem Tisch.
 : The key is on the table.

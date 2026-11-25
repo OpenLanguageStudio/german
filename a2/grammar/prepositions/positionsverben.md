@@ -195,6 +195,7 @@ A common A2 mistake is mixing cases: *Ich stelle die Flasche auf dem Tisch.* Thi
 :presenters: emilia
 :title: Positionsverben
 :title-en: Position Verbs
+:tags: two-way preposition, dative case, accusative case
 
 Ich stelle die Flasche auf den Tisch.
 : I'm putting the bottle on the table.

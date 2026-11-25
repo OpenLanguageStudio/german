@@ -98,6 +98,7 @@ Ich bin einunddreißig Jahre alt.
 :presenters: emilia
 :title: Zahlen und persönliche Daten
 :title-en: Give your personal details
+:tags: personal details, numbers
 
 null, eins, zwei, drei
 : zero, one, two, three

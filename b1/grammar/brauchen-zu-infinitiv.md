@@ -103,6 +103,7 @@ Sentences with **nur brauchen + zu + Inf.** often carry a reassuring tone, you'r
 :presenters: emilia
 :title: Brauchen + zu + Infinitiv
 :title-en: Brauchen + zu + Infinitive
+:tags: infinitive, negation
 
 Du brauchst das nicht zu machen.
 : You don't need to do that.
