@@ -173,8 +173,8 @@ Ja, ich arbeite bei einer kleinen Firma.
 Was macht die Firma?
 : What does the company do?
 
-Eine App für Fußballplätze.
-: An app for football pitches.
+Eine App für Fußball.
+: An app for football.
 Cool!
 : Cool!
 
