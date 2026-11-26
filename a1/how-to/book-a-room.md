@@ -128,7 +128,7 @@ Auf Wiederhören!
 
 ## At the reception desk
 
-At the desk the guest speaks first, with the booking and the name. Floors are counted from the ground floor, so *im zweiten Stock* is two floors up, as in British English. Here Julia Berger checks in at the same hotel.
+At the desk the guest speaks first, with the booking and the name. Floors are counted up from the ground floor, *das Erdgeschoss*, so *im zweiten Stock* is two floors above it. Here Julia Berger checks in at the same hotel.
 
 :::{audio-examples}
 :track: a1/how-to/book-a-room-check-in
@@ -143,8 +143,8 @@ Guten Abend! Ich habe ein Zimmer reserviert.
 Guten Abend! Auf welchen Namen?
 : Good evening! Under what name?
 
-Auf den Namen Berger.
-: Under the name Berger.
+Auf den Namen Petrenko.
+: Under the name Petrenko.
 Ja, Frau Berger. Ein Einzelzimmer für zwei Nächte.
 : Yes, Ms Berger. A single room for two nights.
 
