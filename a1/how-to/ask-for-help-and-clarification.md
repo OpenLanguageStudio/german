@@ -157,10 +157,15 @@ Between friends the questions get shorter, and *noch mal* (again) replaces *noch
 :title-en: Ask a friend what they mean
 :tags: asking for help, informal
 
-Wie bitte? Ich verstehe dich nicht.
-: Sorry? I can't understand you.
+Guten Morgen, Max! Was darf es sein?
+: Morning, Max! What can I get you?
 Einen Cappuccino und ein Weckle, bitte.
 : A cappuccino and a Weckle, please.
+
+Wie bitte? Ich verstehe dich nicht.
+: Sorry? I can't understand you.
+Ein Weckle, bitte.
+: A Weckle, please.
 
 Was bedeutet Weckle?
 : What does Weckle mean?
