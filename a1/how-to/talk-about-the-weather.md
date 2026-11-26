@@ -157,8 +157,8 @@ Morgen regnet es den ganzen Tag.
 Am Samstag ist es sonnig.
 : On Saturday it's going to be sunny.
 
-Am Sonntag gibt es Gewitter.
-: On Sunday there are going to be storms.
+Am Sonntag ist es kalt.
+: On Sunday it's going to be cold.
 
 Hoffentlich regnet es morgen nicht.
 : Hopefully it won't rain tomorrow.
