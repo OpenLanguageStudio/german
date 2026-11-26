@@ -16,7 +16,7 @@ myst:
 
 An invitation in German is usually a question, *Hast du Lust?* or *Kommst du mit?* The reply is a quick *Gerne!*, or *leider* with a reason and often another day.
 
-A yes can be one word. A no has three parts: *leider* (unfortunately), a reason, and ideally another date. A bare *Nein* sounds as abrupt in German as it does in English. The ways to say no politely in German are short, so they are worth learning as whole sentences.
+A yes can be one word. A no has three parts: *leider* (unfortunately), a reason, and ideally another date. A bare *Nein* sounds as abrupt in German as it does in English. The reason can be short: *Ich muss arbeiten.* A yes or a no needs no long speech.
 
 ## When to use it
 
