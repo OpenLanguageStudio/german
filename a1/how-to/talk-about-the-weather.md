@@ -1,157 +1,197 @@
 ---
+target-title: Über das Wetter sprechen
+related: [/a1/grammar/pronouns/personalpronomen-nominativ, /a1/grammar/sentence-structure/verb-position-2, tell-the-time-and-day]
+tags: [weather, nature]
+skills: [a1-talk-about-life]
 myst:
   html_meta:
-    description: "A1 how-to: talk about the weather. The impersonal es, the core weather verbs and adjectives, degrees, and the four seasons."
-    keywords: "german, a1, how to, weather, wetter, es regnet, sonne, grad, jahreszeiten, seasons"
+    description: "How to talk about the weather in German: Wie ist das Wetter?, Es regnet, Es ist kalt and Es sind zwanzig Grad, with forecasts and seasons."
+    keywords: "weather in german, wie ist das wetter, es regnet, es ist kalt, es sind zwanzig grad, seasons in german"
     "property=og:title": "Talk about the weather"
-    "property=og:description": "A1 how-to: talk about the weather. The impersonal es, the core weather verbs and adjectives, degrees, and the four seasons."
+    "property=og:description": "How to talk about the weather in German: Wie ist das Wetter?, Es regnet, Es ist kalt and Es sind zwanzig Grad, with forecasts and seasons."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Talk about the weather
 
-Talking about the weather opens a hundred German conversations a day and takes a handful of descriptions, a simple forecast, and one small word: *es*.
-
-German weather sentences have no real {term}`subject`, so *es* stands in: *Es regnet*, *Es ist kalt*. Degrees take the {term}`plural` *sind*: *Es sind dreißig Grad*. The forecast needs no new grammar, because the {term}`present tense` covers the future once *morgen* is in the sentence. The four seasons all take *im*: *im Sommer*, *im Winter*.
+Talking about the weather in German turns on one small word, *es*: *Es regnet*, *Es ist kalt*. A question, a few descriptions and the temperature cover most small talk at a bus stop or by a lake.
 
 ## When to use it
 
-- Weather small talk, the universal opener
-- Understanding forecasts and deciding what to wear
-- Talking about seasons and what they are like
+- Chatting with a neighbour on the stairs
+- Checking the forecast before cycling to work
+- Telling family abroad what the weather is like at home
+- Deciding whether to take a jacket or an umbrella
 
 ## Key phrases
 
-### Asking and describing
+### Describing the weather
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Wie ist das Wetter? \| What is the weather like?` | |
-| {stack}`Es regnet. / Es schneit. \| It is raining. / snowing.` | weather verbs |
-| {stack}`Es ist heiß / kalt / windig. \| It is hot / cold / windy.` | es + sein |
-| {stack}`Die Sonne scheint. \| The sun is shining.` | |
+| {stack}`Wie ist das Wetter? \| What's the weather like?` | the usual question |
+| {stack}`Es regnet. / Es schneit. \| It's raining. / It's snowing.` | a weather verb with *es* |
+| {stack}`Es ist kalt. / Es ist warm. \| It's cold. / It's warm.` | *es ist* and a describing word |
+| {stack}`Die Sonne scheint. \| The sun is shining.` | the sun does the shining, so no *es* |
+| {stack}`Es sind zwanzig Grad. \| It's twenty degrees.` | *sind*, not *ist* |
 
-### Degrees and seasons
+### Seasons
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Es sind dreißig Grad. \| It is thirty degrees.` | |
-| {stack}`im Sommer / im Winter \| in summer / in winter` | seasons take im |
+| {stack}`im Frühling, im Sommer \| in spring, in summer` | all four seasons take *im* |
+| {stack}`im Herbst, im Winter \| in autumn, in winter` | all four are *der* words |
 
 ## The weather runs on *es*
 
-German weather sentences have no real subject, so *es* stands in: *Es regnet*, *Es ist kalt*. Degrees, oddly, take *sind*: *Es sind dreißig Grad.*
+Weather verbs such as *regnen* (to rain) and *schneien* (to snow) need *es* in front, just as English needs *it*. The same goes for *Es ist kalt*. [Personal pronouns: nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md) covers *es* and the other pronouns.
+
+German has no *-ing* form, so *It's raining* is *Es regnet*, one word for the weather. Degrees take *sind*, where English says *it is*: *Es sind zwanzig Grad*.
 
 :::{ol-examples}
-:presenters: emilia
-Es regnet.
-: It is raining.
+:presenters: roman
+Ja, es ist sehr kalt.
+: Yes, it's very cold.
 
-Es ist heiß.
-: It is hot.
+Es sind zwanzig Grad.
+: It's twenty degrees.
 
-Es sind nur fünf Grad.
-: It is only five degrees.
+Nein, aber es ist bewölkt.
+: No, but it's cloudy.
+:::
+
+:::{audio-examples}
+:track: a1/how-to/talk-about-the-weather
+:mode: pairs
+:presenters: tobias, roman
+:title: Wie ist das Wetter?
+:title-en: What's the weather like?
+:tags: weather, informal
+
+Wie ist das Wetter heute?
+: What's the weather like today?
+Schön. Die Sonne scheint.
+: Nice. The sun is shining.
+
+Ist es kalt?
+: Is it cold?
+Ja, es ist sehr kalt.
+: Yes, it's very cold.
+
+Wie warm ist es?
+: How warm is it?
+Es sind zwanzig Grad.
+: It's twenty degrees.
+
+Regnet es?
+: Is it raining?
+Nein, aber es ist bewölkt.
+: No, but it's cloudy.
+
+Ist es am See windig?
+: Is it windy at the lake?
+Ja, sehr windig.
+: Yes, very windy.
+
+Schneit es?
+: Is it snowing?
+Ja, es schneit!
+: Yes, it's snowing!
+
+Ist es heute heiß?
+: Is it hot today?
+Ja, es sind dreißig Grad.
+: Yes, it's thirty degrees.
+
+Brauche ich eine Jacke?
+: Do I need a jacket?
+Ja, es ist kalt.
+: Yes, it's cold.
+
+Und das Licht?
+: And the light?
+Das Licht ist heute sehr schön.
+: The light is very nice today.
+
+Wie ist das Wetter morgen?
+: What's the weather like tomorrow?
+Morgen regnet es.
+: Tomorrow it's going to rain.
 :::
 
 ## Forecasts and seasons
 
-The present tense covers the forecast too; *morgen* alone pushes it into the future. No new {term}`verb` forms are needed.
+A forecast needs no new grammar. The present tense and a time word such as *morgen* carry it, as they carry any plan: [Talk about your plans](talk-about-your-plans.md) shows more. The verb stays in second place, so *morgen* comes first and *regnet es* follows. [The verb in second position](/a1/grammar/sentence-structure/verb-position-2.md) explains the order.
+
+The seasons in German are *der Frühling*, *der Sommer*, *der Herbst* and *der Winter*, and all four take *im*.
 
 :::{ol-examples}
-:presenters: emilia
-Das Wetter ist heute schlecht.
-: The weather is bad today.
-
+:presenters: deniz
 Morgen scheint die Sonne.
-: Tomorrow the sun will shine.
+: Tomorrow the sun is going to shine.
 
-Nimm eine Jacke mit!
-: Take a jacket with you!
+Bei Regen fahre ich kein Skateboard.
+: When it rains, I don't skate.
+
+Im Winter schneit es manchmal.
+: In winter it sometimes snows.
 :::
 
-*Der Frühling, der Sommer, der Herbst, der Winter*; each takes *im*: *im Sommer ist es warm*.
-
-:::{ol-examples}
-:presenters: emilia
-Im Winter schneit es oft.
-: In winter it often snows.
-
-Im Herbst ist es oft windig.
-: In autumn it is often windy.
+:::{culture-note}
+Weather in April can change from sun to rain to hail within an hour, and Germans call it *Aprilwetter*. A short saying sums it up: *April, April, der macht, was er will* (April does what it wants).
 :::
-
-## Hear it in practice
 
 :::{audio-examples}
-:track: a1/how-to/talk-about-the-weather
-:presenters: emilia
-:title: Über das Wetter sprechen
-:title-en: Talk about the weather
-:tags: weather
-
-Wie ist das Wetter heute?
-: What is the weather like today?
-
-Das Wetter ist schön.
-: The weather is nice.
-
-Die Sonne scheint.
-: The sun is shining.
-
-Es regnet.
-: It is raining.
-
-Es schneit.
-: It is snowing.
-
-Es ist heiß.
-: It is hot.
-
-Es ist kalt heute.
-: It is cold today.
-
-Es ist windig.
-: It is windy.
-
-Es ist bewölkt.
-: It is cloudy.
-
-Es sind heute dreißig Grad.
-: It is thirty degrees today.
-
-Es sind nur fünf Grad.
-: It is only five degrees.
-
-Morgen regnet es.
-: Tomorrow it will rain.
+:track: a1/how-to/talk-about-the-weather-seasons
+:presenters: deniz
+:title: Wetter und Jahreszeiten
+:title-en: Weather and seasons
+:tags: weather, nature
 
 Morgen scheint die Sonne.
-: Tomorrow the sun will shine.
+: Tomorrow the sun is going to shine.
 
-Im Sommer ist es warm.
-: In summer it is warm.
+Morgen regnet es den ganzen Tag.
+: Tomorrow it's going to rain all day.
 
-Im Winter schneit es oft.
-: In winter it often snows.
+Am Samstag ist es sonnig.
+: On Saturday it's going to be sunny.
 
-Der Frühling ist meine Lieblingsjahreszeit.
-: Spring is my favourite season.
+Am Sonntag gibt es Gewitter.
+: On Sunday there are going to be storms.
+
+Hoffentlich regnet es morgen nicht.
+: Hopefully it won't rain tomorrow.
+
+Bei Regen fahre ich kein Skateboard.
+: When it rains, I don't skate.
+
+Heute ist es grau und kalt.
+: Today it's grey and cold.
+
+Ich brauche heute eine Jacke.
+: I need a jacket today.
+
+Nimm einen Regenschirm mit!
+: Take an umbrella with you!
+
+Es sind minus drei Grad.
+: It's minus three degrees.
+
+Im Frühling ist es oft schön.
+: In spring it's often nice.
+
+Im Sommer ist es in Berlin oft heiß.
+: In summer it's often hot in Berlin.
+
+Im Sommer sind es manchmal fünfunddreißig Grad.
+: In summer it's sometimes thirty-five degrees.
 
 Im Herbst ist es oft windig.
-: In autumn it is often windy.
+: In autumn it's often windy.
 
-Ich brauche einen Regenschirm.
-: I need an umbrella.
-
-Nimm eine Jacke mit!
-: Take a jacket with you!
-
-Das Wetter ist heute schlecht.
-: The weather is bad today.
-
-Hoffentlich scheint morgen die Sonne.
-: Hopefully the sun will shine tomorrow.
+Im Winter schneit es manchmal.
+: In winter it sometimes snows.
 :::
 
 ## Summary
@@ -159,20 +199,16 @@ Hoffentlich scheint morgen die Sonne.
 :::{admonition} Key points
 :class: note
 
-- Weather sentences start with *es*: *Es regnet, Es ist kalt.*
-- Degrees take *sind*: *Es sind dreißig Grad.*
-- *Morgen* plus present tense is the whole forecast grammar.
-- Seasons take *im*: *im Sommer, im Winter*.
+- Weather sentences start with *es*: *Es regnet*, *Es ist kalt*.
+- Degrees take *sind*: *Es sind zwanzig Grad*.
+- A forecast is the present tense with a time word: *Morgen regnet es*.
+- The seasons take *im*: *im Sommer*, *im Winter*.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Das Wetter regnet.* → **Es** regnet. (the verb needs es, not Wetter)
-- *\*Es ist dreißig Grad.* → Es **sind** dreißig Grad. (plural degrees)
-- *\*in Sommer* → **im** Sommer. (seasons contract with im)
+- *\*Es ist regnen.* → Es **regnet**. (German has no *-ing* form)
+- *\*Es ist zwanzig Grad.* → Es **sind** zwanzig Grad. (degrees count as more than one)
+- *\*Ich bin kalt.* for feeling cold → **Mir ist** kalt. (learn more in [Say how you feel](say-how-you-feel.md))
 :::
-
-## Related articles
-
-- [](/a1/grammar/pronouns/personalpronomen-nominativ.md)
