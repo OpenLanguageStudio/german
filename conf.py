@@ -113,6 +113,7 @@ exclude_patterns = [
     ".github",
     "README.md",
     "AGENTS.md",
+    "standards",
 ]
 
 # The reST default role (used for this markup: `text`) to use for all documents.
