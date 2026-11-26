@@ -26,9 +26,9 @@ Three patterns carry the whole description. *Haben* counts the rooms, as in *Mei
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Meine Wohnung hat ... Zimmer. \| My flat has ... rooms.` | |
-| {stack}`Es gibt auch einen Balkon. \| There is also a balcony.` | |
-| {stack}`Wir haben keinen Garten. \| We don't have a garden.` | |
+| {stack}`Meine Wohnung hat ... Zimmer. \| My flat has ... rooms.` | kitchen and bathroom are not counted |
+| {stack}`Es gibt auch einen Balkon. \| There is also a balcony.` | *es gibt* takes the accusative: *einen* |
+| {stack}`Wir haben keinen Garten. \| We don't have a garden.` | *kein* says something is missing |
 
 ### Describing the flat
 

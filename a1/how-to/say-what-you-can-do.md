@@ -35,8 +35,8 @@ Talking about abilities in German needs one {term}`modal verb`, *können*, and a
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Kannst du ...? \| Can you ...?` | |
-| {stack}`Was kannst du gut? \| What are you good at?` | |
+| {stack}`Kannst du ...? \| Can you ...?` | the skill goes at the end: *Kannst du kochen?* |
+| {stack}`Was kannst du gut? \| What are you good at?` | answered with *Ich kann gut ...* |
 
 ## Stating a skill
 
