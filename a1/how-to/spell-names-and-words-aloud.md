@@ -59,7 +59,7 @@ Most consonants sound close to English. The vowels do not: German *E* sounds lik
 The four extra letters are *ä*, *ö* and *ü*, each a vowel with an umlaut, and *ß*, called *Eszett* (a sharp *s*).
 
 :::{culture-note}
-On the phone, Germans tie letters to first names: *A wie Anton*, *B wie Berta*, *S wie Samuel*. An official list from 2022 uses cities instead, such as *A wie Aachen* and *B wie Berlin*. Both are understood, and the old names are still the ones most people use.
+On the phone, Germans tie letters to first names: *A wie Anton*, *B wie Berta*, *S wie Samuel*. A newer standard (DIN 5009, revised in 2022) uses cities instead, such as *A wie Aachen* and *B wie Berlin*. Both are understood, and many people still use the old names.
 :::
 
 :::{audio-examples}
