@@ -1,6 +1,6 @@
 ---
 target-title: Über Vergangenes sprechen
-related: [/a1/grammar/tenses/praeteritum-sein-haben, /a1/grammar/tenses/perfekt, describe-a-daily-routine]
+related: [/a1/grammar/tenses/praeteritum-sein-haben, /a1/grammar/tenses/perfekt]
 tags: [the past, Perfekt, leisure]
 skills: [a1-time-and-plans]
 myst:

@@ -1,6 +1,6 @@
 ---
 target-title: Persönliche Angaben machen
-related: [count-and-give-numbers, /a1/grammar/other/ordinalzahlen-datum, /a1/grammar/articles/possessivartikel]
+related: [/a1/grammar/other/ordinalzahlen-datum, /a1/grammar/articles/possessivartikel]
 tags: [personal details, numbers, formal]
 skills: [a1-meet-people]
 myst:

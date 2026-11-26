@@ -1,6 +1,6 @@
 ---
 target-title: Seine Meinung sagen
-related: [talk-about-likes-and-dislikes, /a1/grammar/pronouns/personalpronomen-akkusativ]
+related: [/a1/grammar/pronouns/personalpronomen-akkusativ]
 tags: [opinions, likes and dislikes]
 skills: [a1-talk-about-life]
 myst:

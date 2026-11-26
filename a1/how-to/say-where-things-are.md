@@ -1,6 +1,6 @@
 ---
 target-title: Sagen, wo etwas ist
-related: [/a1/grammar/prepositions/wechselpraepositionen, /a1/grammar/verbs/es-gibt, describe-your-home]
+related: [/a1/grammar/prepositions/wechselpraepositionen, /a1/grammar/verbs/es-gibt]
 tags: [home, directions]
 skills: [a1-get-around, a1-cases]
 myst:

@@ -1,6 +1,6 @@
 ---
 target-title: Telefonieren
-related: [spell-names-and-words-aloud, make-an-appointment, /a1/grammar/verbs/trennbare-verben]
+related: [spell-names-and-words-aloud, /a1/grammar/verbs/trennbare-verben]
 tags: [phone calls]
 skills: [a1-get-things-done]
 myst:

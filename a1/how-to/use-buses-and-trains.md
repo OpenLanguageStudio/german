@@ -1,6 +1,6 @@
 ---
 target-title: Bus und Bahn fahren
-related: [/a1/grammar/prepositions/mit-dativ, ask-for-and-give-directions, understand-signs-and-announcements]
+related: [/a1/grammar/prepositions/mit-dativ, understand-signs-and-announcements]
 tags: [travel, directions]
 skills: [a1-get-around]
 myst:

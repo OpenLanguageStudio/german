@@ -1,6 +1,6 @@
 ---
 target-title: Begrüßen und verabschieden
-related: [say-how-you-feel, say-thank-you-and-sorry, /a1/grammar/pronouns/anredeformen]
+related: [say-how-you-feel, /a1/grammar/pronouns/anredeformen]
 tags: [greetings, politeness]
 skills: [a1-meet-people]
 myst:

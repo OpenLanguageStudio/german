@@ -1,6 +1,6 @@
 ---
 target-title: Nachfragen
-related: [make-and-answer-requests, spell-names-and-words-aloud, /a1/grammar/sentence-structure/negation]
+related: [spell-names-and-words-aloud, /a1/grammar/sentence-structure/negation]
 tags: [asking for help, politeness]
 skills: [a1-get-things-done]
 myst:
