@@ -16,11 +16,11 @@ myst:
 
 German numbers up to a hundred come from about twenty words and one pattern. Ages, phone numbers, prices, bus numbers and years all use them.
 
-From thirteen on, German puts the smaller part first. *Dreizehn* is "three-ten", as English *thirteen* is. Above twenty, English changes the order and German does not: *dreiundzwanzig* is "three-and-twenty", where English says *twenty-three*. To count in German past twenty, then, the unit comes first and the ten comes last.
+The teens are built as in English: *dreizehn* is "three-ten", like *thirteen*. From 21, English puts the ten first and German does not: *dreiundzwanzig* is "three-and-twenty", where English says *twenty-three*. So past twenty, the unit comes first and the ten comes last.
 
 ## When to use it
 
-- Giving a mobile number to a doctor's receptionist on the phone
+- Giving a phone number to a doctor's receptionist
 - Telling a waiter how many people are coming
 - Checking the number of a bus at a stop
 - Saying how long someone has lived in a city
@@ -85,7 +85,7 @@ siebenundvierzig
 
 ## Counting to a hundred and beyond
 
-Above a hundred, the same parts join up: *hundertzwanzig* (120), *zweihundert* (200), *tausend* (1,000). A German speaker writes 1.000 with a point and 12,50 with a comma.
+Above a hundred, the same parts join up: *hundertzwanzig* (120), *zweihundert* (200), *tausend* (1,000). German writes 1.000 with a point and 12,50 with a comma, the reverse of English.
 
 :::{audio-examples}
 :track: a1/how-to/count-and-give-numbers
@@ -151,7 +151,7 @@ tausend
 
 ## Years and phone numbers
 
-A year before 2000 is said in hundreds, as in English: 1993 is *neunzehnhundertdreiundneunzig*. From 2000 on, it is a thousand plus the rest: 2015 is *zweitausendfünfzehn*. Phone numbers are read digit by digit or in pairs. On the phone, *zwo* often replaces *zwei*, so that it does not sound like *drei*. More on giving a number is in [Give your personal details](give-your-personal-details.md).
+A year before 2000 is said in hundreds: 1993 is *neunzehnhundertdreiundneunzig* (nineteen hundred and ninety-three), where English says "nineteen ninety-three". From 2000 on, it is a thousand plus the rest: 2015 is *zweitausendfünfzehn*. Phone numbers are read digit by digit or in pairs. On the phone, *zwo* often replaces *zwei*, because *zwei* and *drei* sound alike. More on giving a number is in [Give your personal details](give-your-personal-details.md).
 
 :::{audio-examples}
 :track: a1/how-to/count-and-give-numbers-in-use
@@ -191,15 +191,15 @@ Wie viele Leute kommen am Samstag?
 Zwölf!
 : Twelve!
 
-Wie ist deine Handynummer?
-: What's your mobile number?
-Null, eins, sieben, sechs, null, vier, sechs, neun, null, zwo, drei.
-: Zero, one, seven, six, zero, four, six, nine, zero, two, three.
+Wie ist deine Telefonnummer?
+: What's your phone number?
+Null, drei, null, zwo, drei, eins, zwo, fünf, null, zwo, drei.
+: Zero, three, zero, two, three, one, two, five, zero, two, three.
 
 Noch einmal, bitte.
 : Once more, please.
-Null, eins, sieben, sechs, null, sechsundvierzig, neunzig, dreiundzwanzig.
-: Zero, one, seven, six, zero, forty-six, ninety, twenty-three.
+Null, drei, null, dreiundzwanzig, zwölf, fünfzig, dreiundzwanzig.
+: Zero, three, zero, twenty-three, twelve, fifty, twenty-three.
 :::
 
 ## Summary
