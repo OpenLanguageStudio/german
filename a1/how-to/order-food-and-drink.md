@@ -16,7 +16,7 @@ myst:
 
 Ordering food in German, in a café or a restaurant, needs only a few phrases. *Ich nehme …* or *Ich hätte gern …* give the order, and *Die Rechnung, bitte* ends the visit.
 
-The staff ask the questions, so most of ordering is answering them. The questions come in a fixed order: something to drink, something to eat, whether it tastes good, whether anything else is wanted. Restaurants use *Sie*. In many cafés, above all with regulars and young people, staff say *du*, and the questions change only in their endings.
+The staff ask the questions, so most of ordering is answering them. The questions usually come in the same order: something to drink, something to eat, whether it tastes good, whether anything else is wanted. Restaurants use *Sie*. In many cafés, above all with regulars and young people, staff say *du*, and the questions change only in their endings.
 
 ## When to use it
 
@@ -34,7 +34,7 @@ The staff ask the questions, so most of ordering is answering them. The question
 | {stack}`Ich nehme … \| I'll have …` | the most common way to order |
 | {stack}`Ich hätte gern … \| I'd like …` | just as common, a little softer |
 | {stack}`Für mich …, bitte. \| … for me, please.` | ordering at a table of several |
-| {stack}`Die Speisekarte, bitte. \| The menu, please.` | *das Menü* is a set meal, not the menu |
+| {stack}`Die Speisekarte, bitte. \| The menu, please.` | *das Menü* usually means a set meal |
 | {stack}`Zum Mitnehmen. \| To take away.` | in cafés and bakeries |
 
 ### Paying
@@ -42,7 +42,7 @@ The staff ask the questions, so most of ordering is answering them. The question
 | Phrase | Notes |
 |---|---|
 | {stack}`Die Rechnung, bitte. \| The bill, please.` | *Zahlen, bitte!* is just as common |
-| {stack}`Zusammen oder getrennt? \| Together or separately?` | asked at almost any table of two or more |
+| {stack}`Zusammen oder getrennt? \| Together or separately?` | often asked at a table of two or more |
 | {stack}`Stimmt so. \| Keep the change.` | the tip, said while handing over the money |
 
 ### The staff's questions
@@ -83,10 +83,9 @@ Möchtest du noch etwas?
 
 ## In a restaurant
 
-The dish ordered takes the [accusative](/a1/grammar/cases/akkusativ.md), the form for the thing someone takes: *Ich nehme den Fisch*, *einen Salat*. [*Möchten*](/a1/grammar/verbs/moechten.md) is the polite verb behind *Was möchten Sie?* In a restaurant the staff usually come back to the table, so nobody calls out to them.
-
+The dish ordered takes the [accusative](/a1/grammar/cases/akkusativ.md), the form for the thing someone takes: *Ich nehme den Fisch*, *einen Salat*. [*Möchten*](/a1/grammar/verbs/moechten.md) is the polite verb behind *Was möchten Sie?*
 :::{culture-note}
-In Germany the bill usually comes only when someone asks for it, so a long evening is never rushed. A tip of about five to ten percent is usual. People say the total they want to pay as they hand over the money, such as *Fünfundvierzig, bitte*, or say *Stimmt so*.
+In Germany the bill usually comes only when someone asks for it, so a long evening is rarely rushed. A tip of about five to ten percent is common. People say the total they want to pay as they hand over the money, such as *Fünfundvierzig, bitte*, or say *Stimmt so*.
 :::
 
 Here Lina Haddad has dinner with her husband, and Roman Petrenko serves them.
@@ -234,6 +233,6 @@ Super, ich sitze in der Ecke.
 
 - *\*Ich will eine Pizza.* → Ich **nehme** eine Pizza. / Ich **hätte gern** eine Pizza. (*will* sounds like a demand; learn more in [*möchten*](/a1/grammar/verbs/moechten.md))
 - *\*Ich nehme der Fisch.* → Ich nehme **den** Fisch. (the dish is in the accusative; learn more in [The accusative case](/a1/grammar/cases/akkusativ.md))
-- *\*Ich bin voll.* → Ich bin **satt**. (*voll* here means drunk)
-- *\*Das Menü, bitte.* → **Die Speisekarte**, bitte. (*das Menü* is a set meal)
+- *\*Ich bin voll.* → Ich bin **satt**. (*voll* is heard for "stuffed", but it can also mean drunk, so *satt* is the safe word)
+- *\*Das Menü, bitte.* → **Die Speisekarte**, bitte. (*das Menü* usually means a set meal)
 :::
