@@ -29,7 +29,7 @@ At a counter the conversation keeps the same order almost every time. The person
 
 ### At the counter
 
-*Fahrkarte* and *Ticket* are both everyday German, and *Fahrschein* appears on machines.
+*Fahrkarte* and *Ticket* are both everyday German, and *Fahrschein* is a word on many machines.
 
 | Phrase | Notes |
 |---|---|
@@ -61,15 +61,15 @@ Gern. Am Fenster oder am Gang?
 | Phrase | Notes |
 |---|---|
 | {stack}`ein Einzelfahrschein \| a single ticket` | one journey in one direction |
-| {stack}`eine Tageskarte \| a day ticket` | for all buses and trains, all day |
-| {stack}`das Deutschlandticket \| the Germany ticket` | a monthly ticket for local transport across the country |
+| {stack}`eine Tageskarte \| a day ticket` | rides for one day in a set area, which differs by city |
+| {stack}`das Deutschlandticket \| the Germany ticket` | a monthly subscription for local and regional transport; price and terms can change, so check the current offer |
 
 ## Buying a train ticket
 
 At the counter, the customer gives the destination and the person selling asks the rest. Here a mother buys tickets for herself and her daughter.
 
 :::{culture-note}
-In many cities, a paper ticket bought in advance has to be stamped (*entwerten*) in a small box on the platform or in the bus. Tickets on a phone need no stamp. Inspectors check at random, and an unstamped ticket counts as no ticket at all.
+In some cities, a paper ticket has to be stamped (*entwerten*) in a small machine on the platform or in the bus before the trip. Tickets from a machine or a phone are often valid at once. The ticket or the machine says which applies, and an unstamped ticket that needed a stamp can count as no ticket.
 :::
 
 :::{audio-examples}
@@ -90,15 +90,15 @@ Hin und zurück, bitte.
 Wann möchten Sie fahren?
 : When would you like to travel?
 
-Am Samstag, am Morgen.
-: On Saturday, in the morning.
+Am Samstagmorgen.
+: On Saturday morning.
 Es gibt einen Zug um acht Uhr.
 : There's a train at eight.
 
 Meine Tochter ist sechzehn. Zahlt sie weniger?
 : My daughter is sixteen. Does she pay less?
-Nein, leider nicht. Sie zahlt den normalen Preis.
-: No, I'm afraid not. She pays the full price.
+Einen Moment, bitte. Nein, leider nicht.
+: Just a moment, please. No, I'm afraid not.
 
 Was kostet das?
 : How much is that?
@@ -120,10 +120,10 @@ Kann ich mit Karte zahlen?
 Ja, natürlich.
 : Yes, of course.
 
-Und eine Tageskarte für Berlin?
-: And a day ticket for Berlin?
-Die gibt es am Automaten, dort drüben.
-: You can get those from the machine over there.
+Gibt es auch Tageskarten?
+: Are there day tickets as well?
+Ja, die gibt es am Automaten, dort drüben.
+: Yes, you can get those from the machine over there.
 
 Vielen Dank.
 : Thank you very much.
