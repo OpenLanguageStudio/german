@@ -48,10 +48,10 @@ Two {term}`verbs <verb>` do the judging. *Passen* says whether the size is right
 
 ## Asking for a size
 
-A size is something someone has, not something they are: *Ich habe Größe L*. *Anprobieren* (to try on) is a [separable verb](/a1/grammar/verbs/trennbare-verben.md), but after *kann ich* it stays in one piece at the end.
+An assistant asks *Welche Größe brauchen Sie?*, and *Ich habe Größe L* answers it. When the size is wrong, *zu groß* and *zu klein* say why. *Anprobieren* (to try on) is a [separable verb](/a1/grammar/verbs/trennbare-verben.md), but after *kann ich* it stays in one piece at the end. Clothes that don't work can often go back with *umtauschen* (to exchange).
 
 :::{culture-note}
-German shops use their own sizes for women's clothes, such as 36 or 38, and letters such as M or L for many other things. Most shops let customers exchange clothes for a few weeks, with the receipt.
+German shops often use numbers such as 36 or 38 for women's clothes, and letters such as M or L for many other things. Many shops let customers exchange clothes within a few weeks if they bring the receipt, but each shop sets its own rules.
 :::
 
 :::{ol-examples}
@@ -193,13 +193,12 @@ Super, aber nicht so lange!
 - *Haben Sie das auch in …?* asks for another colour or size.
 - *Kann ich das anprobieren?* asks to try it on, and *Wo ist die Kabine?* finds the changing room.
 - *Passen* is about the size, *stehen* about the look: *Das passt gut*, *Das steht dir gut*.
-- A size is something someone has: *Ich habe Größe L*.
+- *Ich habe Größe L* gives a size, and *zu groß* or *zu klein* says it is wrong.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Ich bin Größe L.* → Ich **habe** Größe L. (a size is had, not been)
 - *\*Das steht dich gut.* → Das steht **dir** gut. (*stehen* and *passen* take the dative; learn more in [Verbs with the dative](/a1/grammar/verbs/verben-mit-dativ.md))
 - *\*Ich probiere an die Jacke.* → Ich probiere die Jacke **an**. (the *an* goes to the end; learn more in [Separable verbs](/a1/grammar/verbs/trennbare-verben.md))
 :::
