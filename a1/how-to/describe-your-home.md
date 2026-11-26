@@ -1,157 +1,136 @@
 ---
+target-title: Die Wohnung beschreiben
+related: [/a1/grammar/verbs/es-gibt, /a1/grammar/adjectives/praedikative-adjektive, say-where-things-are]
+tags: [home]
+skills: [a1-talk-about-life]
 myst:
   html_meta:
-    description: "A1 how-to: describe your home. Name the rooms, say what your flat has and lacks, and describe it with simple adjectives."
-    keywords: "german, a1, how to, home, wohnung, zimmer, küche, balkon, describing flat"
+    description: "How to describe your home in German: Meine Wohnung hat zwei Zimmer, Es gibt einen Balkon, Die Küche ist klein, and how German counts rooms."
+    keywords: "describing a flat in german, meine wohnung hat, wie viele zimmer, es gibt einen balkon, im ersten stock, zweizimmerwohnung"
     "property=og:title": "Describe your home"
-    "property=og:description": "A1 how-to: describe your home. Name the rooms, say what your flat has and lacks, and describe it with simple adjectives."
+    "property=og:description": "How to describe your home in German: Meine Wohnung hat zwei Zimmer, Es gibt einen Balkon, Die Küche ist klein, and how German counts rooms."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Describe your home
 
-Describing your home in German takes little new grammar. It covers how many rooms there are, what the place has and lacks, and what each room is like.
-
-Three patterns carry the whole description. *Haben* counts the rooms, as in *Meine Wohnung hat drei Zimmer*. *Es gibt* (there is) announces the extras, and a form of *kein* says what is missing. *Sein* plus an {term}`adjective` describes each room: *Das Wohnzimmer ist hell*. Furniture is placed with the same location chunks used for keys and cups.
+Describing a flat in German takes three verbs. *Haben* counts the rooms, *es gibt* (there is) names what is there, and *sein* says what each room is like.
 
 ## When to use it
 
-- Telling someone about your flat or house
-- Understanding flat descriptions and small-ads vocabulary
-- Comparing homes: rooms, floors, balcony, garden
+- Telling a new colleague where and how someone lives
+- Describing a flat to a friend who might move in
+- Showing a visitor round for the first time
+- Reading a flat advert aloud with a flatmate
 
 ## Key phrases
 
-### Rooms and extras
+### Rooms and floors
+
+Most words for rooms are plain: *die Küche* (kitchen), *das Wohnzimmer* (living room), *das Schlafzimmer* (bedroom), *der Flur* (hall). The ones below need a note. [Rooms and furniture](/a1/vocabulary/rooms-and-furniture-1.md) has the full set.
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Meine Wohnung hat ... Zimmer. \| My flat has ... rooms.` | kitchen and bathroom are not counted |
-| {stack}`Es gibt auch einen Balkon. \| There is also a balcony.` | *es gibt* takes the accusative: *einen* |
-| {stack}`Wir haben keinen Garten. \| We don't have a garden.` | *kein* says something is missing |
+| {stack}`das Zimmer \| room` | counts the living room and bedrooms, usually not the kitchen or bathroom |
+| {stack}`das Bad \| bathroom` | the toilet is often a room of its own, *das WC* |
+| {stack}`im Erdgeschoss \| on the ground floor` | the floor at street level |
+| {stack}`im ersten Stock \| on the first floor` | one floor above street level: British *first floor*, American *second floor* |
+| {stack}`die WG \| shared flat` | short for *Wohngemeinschaft* |
+| {stack}`die Miete \| rent` | *Die Miete ist nicht so teuer.* |
 
-### Describing the flat
+A flat with a living room and one bedroom is a *Zweizimmerwohnung*, a two-room flat. *Wie viele Zimmer hat deine Wohnung?* asks the size.
 
-| Phrase | Notes |
-|---|---|
-| {stack}`Das Wohnzimmer ist hell. \| The living room is bright.` | sein + adjective |
-| {stack}`im dritten Stock \| on the third floor` | chunk |
-| {stack}`die Miete \| the rent` | |
+### What the flat has
 
-## The rooms
-
-The core vocabulary: *das Zimmer, das Wohnzimmer, das Schlafzimmer, die Küche, das Bad, der Balkon, der Garten, der Flur*. Count rooms with *haben*, announce extras with *es gibt*, deny them with *kein*.
+*Meine Wohnung hat zwei Zimmer* counts the rooms with *haben*. *Es gibt* names what is there and works like *haben*: *ein* becomes *einen* for a *der* word, as in *Es gibt einen Balkon*. [Es gibt](/a1/grammar/verbs/es-gibt.md) shows why. A form of *kein* says what is missing.
 
 :::{ol-examples}
-:presenters: emilia
-Meine Wohnung hat drei Zimmer.
-: My flat has three rooms.
+:presenters: roman
+Meine Wohnung hat zwei Zimmer.
+: My flat has two rooms.
 
-Es gibt auch {akk}`einen Balkon`.
-: There is also a balcony.
+Es gibt auch einen Balkon.
+: There's a balcony too.
 
-Wir haben {akk}`keinen Garten`.
-: We don't have a garden.
+Ich habe keinen Garten.
+: I don't have a garden.
 :::
 
-## Rooms, floors and rent
+### What each room is like
 
-Describe each room with *sein* and a plain adjective: *hell, klein, groß, neu, teuer*. Where the furniture stands, the usual location chunks carry over.
+*Sein* with an adjective describes a room: *hell* (bright), *dunkel* (dark), *klein*, *groß*, *ruhig* (quiet), *teuer*. [Predicate adjectives](/a1/grammar/adjectives/praedikative-adjektive.md) explains why the adjective keeps its plain form here.
 
 :::{ol-examples}
-:presenters: emilia
+:presenters: roman
+Die Küche ist klein.
+: The kitchen is small.
+
 Das Wohnzimmer ist hell.
 : The living room is bright.
 
-Im Wohnzimmer steht ein Sofa.
-: There is a sofa in the living room.
-
-Der Tisch steht am Fenster.
-: The table stands by the window.
+Die Miete ist nicht so teuer.
+: The rent isn't too expensive.
 :::
 
-Floors use the chunk *im ... Stock*, the rent is *die Miete*, and the overall verdict uses *gefallen*.
-
-:::{ol-examples}
-:presenters: emilia
-Die Wohnung ist im dritten Stock.
-: The flat is on the third floor.
-
-Die Miete ist nicht teuer.
-: The rent is not expensive.
-
-Die Wohnung gefällt {dativ}`mir` sehr.
-: I like the flat a lot.
+:::{culture-note}
+Many students and young workers in German cities live in a *WG*, sharing the kitchen and bathroom and having a room each. Flat adverts give the size in square metres and count the rooms without the kitchen.
 :::
 
-## Hear it in practice
+## Describing a whole flat
+
+A full description moves from the size to the rooms, then to what stands where. Furniture takes *steht* (stands), as in *Im Wohnzimmer steht ein Sofa*, and [Say where things are](say-where-things-are.md) covers the place words.
 
 :::{audio-examples}
 :track: a1/how-to/describe-your-home
-:presenters: emilia
-:title: Die Wohnung beschreiben
-:title-en: Describe your home
+:presenters: roman
+:title: Meine Wohnung
+:title-en: My flat
 :tags: home, adjective
 
-Meine Wohnung hat drei Zimmer.
-: My flat has three rooms.
+Ich wohne in Lichtenberg.
+: I live in Lichtenberg.
 
-Ich wohne in einer Wohnung im Zentrum.
-: I live in a flat in the centre.
+Meine Wohnung ist klein.
+: My flat is small.
 
-Die Küche ist groß.
-: The kitchen is big.
+Meine Wohnung hat zwei Zimmer.
+: My flat has two rooms.
+
+Es gibt eine Küche und ein Bad.
+: There's a kitchen and a bathroom.
+
+Die Küche ist klein.
+: The kitchen is small.
 
 Das Wohnzimmer ist hell.
 : The living room is bright.
 
-Das Schlafzimmer ist klein.
-: The bedroom is small.
-
 Es gibt auch einen Balkon.
-: There is also a balcony.
+: There's a balcony too.
 
-Wir haben keinen Garten.
-: We don't have a garden.
+Ich habe keinen Garten.
+: I don't have a garden.
 
-Das Bad ist neben der Küche.
-: The bathroom is next to the kitchen.
-
-Ich habe einen Schreibtisch und ein Bett.
-: I have a desk and a bed.
-
-Im Wohnzimmer steht ein Sofa.
-: There is a sofa in the living room.
-
-Der Tisch steht am Fenster.
-: The table stands by the window.
-
-Die Wohnung ist im dritten Stock.
-: The flat is on the third floor.
+Die Wohnung ist im vierten Stock.
+: The flat is on the fourth floor.
 
 Es gibt keinen Aufzug.
-: There is no lift.
+: There's no lift.
 
-Die Miete ist nicht teuer.
-: The rent is not expensive.
+Im Wohnzimmer steht ein Sofa.
+: There's a sofa in the living room.
 
-Wie viele Zimmer hat deine Wohnung?
-: How many rooms does your flat have?
+Mein Schreibtisch steht am Fenster.
+: My desk is by the window.
 
-Wohnst du in einem Haus oder in einer Wohnung?
-: Do you live in a house or a flat?
+Das Schlafzimmer ist ruhig.
+: The bedroom is quiet.
 
-Wir wohnen seit einem Jahr hier.
-: We have lived here for a year.
+Die Miete ist nicht so teuer.
+: The rent isn't too expensive.
 
-Mein Lieblingszimmer ist die Küche.
-: My favourite room is the kitchen.
-
-Die Fenster sind groß.
-: The windows are big.
-
-Vom Balkon sieht man den Park.
-: From the balcony you can see the park.
+Meine Mutter wohnt zwei Straßen weiter.
+: My mother lives two streets away.
 
 Die Wohnung gefällt mir sehr.
 : I like the flat a lot.
@@ -162,22 +141,16 @@ Die Wohnung gefällt mir sehr.
 :::{admonition} Key points
 :class: note
 
-- Rooms are counted with *haben*, extras announced with *es gibt*, gaps denied with *kein*.
-- Describe rooms with *sein* + adjective: *Das Bad ist klein.*
-- Furniture positions reuse the location chunks: *am Fenster, im Wohnzimmer*.
-- *Im dritten Stock*, *die Miete*, and *gefallen* round out flat-talk.
+- *Haben* counts the rooms: *Meine Wohnung hat zwei Zimmer.* The kitchen and bathroom are usually not counted.
+- *Es gibt* names what is there, with *einen* for a *der* word: *Es gibt einen Balkon.*
+- *Sein* with an adjective describes a room: *Das Wohnzimmer ist hell.*
+- *Im ersten Stock* is one floor above street level, and the ground floor is *das Erdgeschoss*.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Es gibt ein Balkon.* → Es gibt **einen** Balkon. (es gibt takes the {term}`accusative <accusative case>`)
-- *\*Wir haben nicht einen Garten.* → Wir haben **keinen** Garten. (kein, not nicht ein)
-- *\*Die Wohnung ist auf dem dritten Stock.* → **im** dritten Stock. (fixed chunk)
+- *\*Es gibt ein Balkon.* → Es gibt **einen** Balkon. (learn more in [Es gibt](/a1/grammar/verbs/es-gibt.md))
+- *\*Ich habe nicht einen Garten.* → Ich habe **keinen** Garten. (learn more in [The negative article](/a1/grammar/articles/negativartikel.md))
+- *\*Die Wohnung ist auf dem vierten Stock.* → Die Wohnung ist **im** vierten Stock.
 :::
-
-## Related articles
-
-- [](/a1/grammar/verbs/es-gibt.md)
-- [](/a1/grammar/articles/negativartikel.md)
-- [](/a1/grammar/adjectives/praedikative-adjektive.md)
