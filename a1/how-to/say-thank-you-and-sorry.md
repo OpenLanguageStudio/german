@@ -1,6 +1,6 @@
 ---
 target-title: Sich bedanken und entschuldigen
-related: [say-hello-and-goodbye, make-and-answer-requests]
+related: [make-and-answer-requests]
 tags: [politeness]
 skills: [a1-meet-people, a1-get-things-done]
 myst:

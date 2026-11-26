@@ -1,6 +1,6 @@
 ---
 target-title: Die Wohnung beschreiben
-related: [/a1/grammar/verbs/es-gibt, /a1/grammar/adjectives/praedikative-adjektive, say-where-things-are]
+related: [/a1/grammar/verbs/es-gibt, /a1/grammar/adjectives/praedikative-adjektive]
 tags: [home]
 skills: [a1-talk-about-life]
 myst:

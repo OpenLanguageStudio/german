@@ -1,6 +1,6 @@
 ---
 target-title: Über Vorlieben sprechen
-related: [/a1/grammar/adjectives/gern-lieber, /a1/grammar/articles/negativartikel, say-what-you-think]
+related: [/a1/grammar/adjectives/gern-lieber, /a1/grammar/articles/negativartikel]
 tags: [likes and dislikes, leisure, food and drink]
 skills: [a1-talk-about-life]
 myst:

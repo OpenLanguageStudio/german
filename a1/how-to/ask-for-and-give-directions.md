@@ -1,6 +1,6 @@
 ---
 target-title: Nach dem Weg fragen
-related: [/a1/grammar/verbs/imperativ, /a1/grammar/prepositions/kurzformen, use-buses-and-trains]
+related: [/a1/grammar/verbs/imperativ, /a1/grammar/prepositions/kurzformen]
 tags: [directions]
 skills: [a1-get-around]
 myst:

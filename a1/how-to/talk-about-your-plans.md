@@ -1,6 +1,6 @@
 ---
 target-title: Über Pläne sprechen
-related: [/a1/grammar/verbs/koennen-muessen-wollen, /a1/grammar/sentence-structure/verb-position-2, make-an-appointment]
+related: [/a1/grammar/verbs/koennen-muessen-wollen, /a1/grammar/sentence-structure/verb-position-2]
 tags: [plans and invitations, time and dates, leisure]
 skills: [a1-time-and-plans]
 myst:

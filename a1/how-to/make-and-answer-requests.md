@@ -1,6 +1,6 @@
 ---
 target-title: Bitten und antworten
-related: [/a1/grammar/verbs/koennen-muessen-wollen, ask-for-help-and-clarification, choose-between-du-and-sie]
+related: [/a1/grammar/verbs/koennen-muessen-wollen, choose-between-du-and-sie]
 tags: [politeness, asking for help]
 skills: [a1-get-things-done]
 myst:

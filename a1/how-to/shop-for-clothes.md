@@ -1,6 +1,6 @@
 ---
 target-title: Kleidung kaufen
-related: [/a1/vocabulary/clothes-and-colours-1, /a1/grammar/verbs/verben-mit-dativ, shop-and-pay]
+related: [/a1/vocabulary/clothes-and-colours-1, /a1/grammar/verbs/verben-mit-dativ]
 tags: [clothes, shopping]
 skills: [a1-shops-and-services]
 myst:
