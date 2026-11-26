@@ -1,165 +1,200 @@
 ---
+target-title: Einkaufen und bezahlen
+related: [/a1/vocabulary/in-the-supermarket-1, /a1/grammar/cases/akkusativ, ask-about-opening-times]
+tags: [shopping, numbers]
+skills: [a1-shops-and-services, a1-everyday-words]
 myst:
   html_meta:
-    description: "A1 how-to: shop and pay. Ask prices, order quantities, choose between items, and pay cash or by card in German shops."
-    keywords: "german, a1, how to, shopping, einkaufen, was kostet, bezahlen, kasse, prices, quantities"
+    description: "How to shop and pay in German: ask prices with Was kostet …?, order with Ich hätte gern … and answer Bar oder mit Karte? at the till."
+    keywords: "shopping in german, was kostet, ich hätte gern, sonst noch etwas, bar oder mit karte"
     "property=og:title": "Shop and pay"
-    "property=og:description": "A1 how-to: shop and pay. Ask prices, order quantities, choose between items, and pay cash or by card in German shops."
+    "property=og:description": "How to shop and pay in German: ask prices with Was kostet …?, order with Ich hätte gern … and answer Bar oder mit Karte? at the till."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Shop and pay
 
-Shopping and paying in a German shop or market follows a fixed rhythm: what things cost, how much is wanted, which item, and payment.
+Shopping in German comes down to a short exchange: what something costs, how much is wanted, and how to pay. It sounds much the same at a market stall, a bakery or a supermarket till.
 
-The price question has two forms: *Was kostet ...?* for one thing and *Was kosten ...?* for several. Quantities come straight before the {term}`noun` with no word for *of*, as in *ein Kilo Tomaten*. Choosing brings in the {term}`accusative <accusative case>`, the form for the thing someone takes: *Ich nehme diesen Käse*. Paying ends the visit, with *bar* for cash and *mit Karte* for a card.
+Two people share the work, and who leads changes along the way. At the counter the customer asks about prices and orders, with *Ich hätte gern …* or *Ich nehme …*. At the till the staff ask the questions. The customer only has to answer them, mostly with a word or two.
 
 ## When to use it
 
-- At the bakery, market stall, or supermarket counter
-- Asking prices and understanding the total at the till
-- Choosing between items and stating quantities
+- Buying apples and cheese at a weekly market stall
+- Ordering rolls and cake at the bakery counter
+- Paying at the supermarket till and saying no to a bag
+- Finding out that a market stall takes cash only
 
 ## Key phrases
 
-### Prices and choosing
+### At the counter
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Was kostet das? \| How much is that?` | |
-| {stack}`Ich möchte ..., bitte. \| I'd like ..., please.` | ordering |
-| {stack}`Ich nehme ... \| I'll take ...` | deciding |
+| {stack}`Was kostet …? \| How much is …?` | for one thing |
+| {stack}`Was kosten …? \| How much are …?` | for more than one |
+| {stack}`Ich hätte gern … \| I'd like …` | the usual way to order at a counter |
+| {stack}`Ich nehme … \| I'll take …` | once the choice is made |
+| {stack}`Haben Sie …? \| Do you have …?` | for something not on display |
 
 ### At the till
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Das macht ... Euro. \| That comes to ... euros.` | the total at the till |
-| {stack}`Sonst noch etwas? \| Anything else?` | you will be asked this |
-| {stack}`Das ist alles. \| That's all.` | the answer |
-| {stack}`Kann ich mit Karte zahlen? \| Can I pay by card?` | |
+| {stack}`Sonst noch etwas? \| Anything else?` | the staff's question at every counter |
+| {stack}`Das ist alles. \| That's all.` | the answer when nothing else is needed |
+| {stack}`Das macht … \| That comes to …` | the total |
+| {stack}`Bar oder mit Karte? \| Cash or card?` | answered with *Bar* or *Mit Karte* |
+| {stack}`Brauchen Sie eine Tüte? \| Do you need a bag?` | bags usually cost a few cents |
 
-## Prices, choices and quantities
+## At the market stall
 
-*Was kostet ...?* asks the price of one thing, *Was kosten ...?* of several. When choosing, the shop assistant asks with *welchen* and the answer uses *diesen*. Both are accusative forms.
-
-:::{ol-examples}
-:presenters: emilia
-Was kostet {subj}`der Käse`?
-: How much is the cheese?
-
-Welchen Käse möchten Sie?
-: Which cheese would you like?
-
-Ich nehme {akk}`diesen Käse`.
-: I'll take this cheese.
-:::
-
-Quantities come before the noun, with no word for "of": *ein Kilo Tomaten*, *eine Flasche Wasser*, *zweihundert Gramm Käse*.
+The price question changes with the number of things: *Was kostet der Käse?* for one, *Was kosten die Äpfel?* for several. Quantities come straight before the thing, with no word for "of": *ein Kilo Äpfel*, *zweihundert Gramm Käse*. The cheese chosen takes the [accusative](/a1/grammar/cases/akkusativ.md), the form for the thing someone takes, as in *Ich nehme diesen Käse*.
 
 :::{ol-examples}
-:presenters: emilia
-Ein Kilo Tomaten, bitte.
-: A kilo of tomatoes, please.
-
-Eine Flasche Wasser, bitte.
-: A bottle of water, please.
-:::
-
-## Paying
-
-At the till you hear the total with *Das macht ...*, then the question of how you pay. Cash is *bar*, card is *mit Karte*.
-
-:::{ol-examples}
-:presenters: emilia
-Das macht zusammen zwölf Euro fünfzig.
-: That comes to twelve euros fifty altogether.
-
-Zahlen Sie bar oder mit Karte?
-: Are you paying cash or by card?
-
-Ich zahle bar.
-: I'll pay cash.
-:::
-
-:::{note}
-Prices are spoken without a word for "point": *zwölf Euro fünfzig* is 12.50. Small shops and bakeries in Germany still sometimes take cash only; having a few euros on you is never wrong.
-:::
-
-## Hear it in practice
-
-:::{audio-examples}
-:track: a1/how-to/shop-and-pay
-:presenters: emilia
-:title: Einkaufen und Bezahlen
-:title-en: Shop and pay
-:tags: shopping, numbers
-
-Was kostet das?
-: How much is that?
+:presenters: maria
+Was kosten die Äpfel?
+: How much are the apples?
 
 Was kostet der Käse?
 : How much is the cheese?
 
-Das kostet drei Euro.
-: That costs three euros.
+Ich nehme {akk}`diesen Käse`, zweihundert Gramm.
+: I'll take this cheese, two hundred grams.
+:::
+
+Here Maria Berger buys apples for a cake at a market stall, and Tobias Schmitt serves her.
+
+:::{audio-examples}
+:track: a1/how-to/shop-and-pay
+:mode: pairs
+:presenters: maria, tobias
+:title: Einkaufen und bezahlen
+:title-en: Shop and pay
+:tags: shopping, numbers, formal
+
+Guten Morgen!
+: Good morning!
+Guten Morgen! Was darf es sein?
+: Good morning! What can I get you?
 
 Was kosten die Äpfel?
 : How much are the apples?
+Zwei Euro das Kilo.
+: Two euros a kilo.
 
-Das macht zusammen zwölf Euro fünfzig.
-: That comes to twelve euros fifty altogether.
+Ich hätte gern ein Kilo Äpfel. Ich backe einen Apfelkuchen.
+: I'd like a kilo of apples. I'm baking an apple cake.
+Sehr gut. Sonst noch etwas?
+: Very good. Anything else?
 
-Ich möchte zwei Brötchen, bitte.
-: I'd like two rolls, please.
+Haben Sie Eier?
+: Do you have eggs?
+Ja. Sechs oder zehn?
+: Yes. Six or ten?
 
-Ich nehme diesen Käse.
-: I'll take this cheese.
+Zehn, bitte.
+: Ten, please.
+Gern.
+: Sure.
 
-Welchen Käse möchten Sie?
-: Which cheese would you like?
+Was kostet der Käse?
+: How much is the cheese?
+Hundert Gramm kosten zwei Euro.
+: A hundred grams cost two euros.
 
-Haben Sie Brot?
-: Do you have bread?
+Ich nehme diesen Käse, zweihundert Gramm.
+: I'll take this cheese, two hundred grams.
+Darf es etwas mehr sein?
+: Is a little more all right?
 
-Gibt es noch Milch?
-: Is there still milk?
-
-Ein Kilo Tomaten, bitte.
-: A kilo of tomatoes, please.
-
-Zweihundert Gramm Käse, bitte.
-: Two hundred grams of cheese, please.
-
-Eine Flasche Wasser, bitte.
-: A bottle of water, please.
-
+Ja, kein Problem.
+: Yes, no problem.
 Sonst noch etwas?
 : Anything else?
 
 Nein, danke. Das ist alles.
 : No, thanks. That's all.
-
-Wo ist die Kasse?
-: Where is the till?
+Das macht neun Euro neunzig.
+: That comes to nine euros ninety.
 
 Kann ich mit Karte zahlen?
 : Can I pay by card?
+Nein, leider nur bar.
+: No, sorry, cash only.
+:::
 
-Zahlen Sie bar oder mit Karte?
-: Are you paying cash or by card?
+## At the till
 
-Ich zahle bar.
-: I'll pay cash.
+At the till the staff speak first. Their questions come in much the same order everywhere: anything else, the total, cash or card, a bag. *Das macht …* gives the total, and a price is read as *sechs Euro zehn*, much as English reads "six ten". [Numbers](/a1/vocabulary/numbers-1.md) has the words for prices.
 
-Ich brauche eine Tüte.
-: I need a bag.
+:::{culture-note}
+Many shops in Germany now take cards, but some bakeries and market stalls still take cash only, or cards only above a few euros. Bags usually cost extra, so many people bring their own.
+:::
 
-Das Angebot ist gut.
-: The offer is good.
+The answers can be very short.
 
-Danke, auf Wiedersehen!
-: Thank you, goodbye!
+:::{ol-examples}
+:presenters: tobias
+Mit Karte, bitte.
+: By card, please.
+
+Nein, danke. Ich habe eine.
+: No, thanks. I have one.
+
+Ja, das ist alles.
+: Yes, that's everything.
+:::
+
+Here Maria serves at a bakery till, and Tobias is the customer.
+
+:::{audio-examples}
+:track: a1/how-to/shop-and-pay-at-the-till
+:mode: pairs
+:presenters: maria, tobias
+:title: In der Bäckerei
+:title-en: At the bakery
+:tags: shopping, numbers, formal
+
+Guten Morgen! Was darf es sein?
+: Good morning! What can I get you?
+Vier Brötchen, bitte.
+: Four rolls, please.
+
+Sonst noch etwas?
+: Anything else?
+Ja, ein Stück Kuchen.
+: Yes, a piece of cake.
+
+Welchen Kuchen möchten Sie?
+: Which cake would you like?
+Den Apfelkuchen, bitte.
+: The apple cake, please.
+
+Ist das alles?
+: Is that everything?
+Ja, das ist alles.
+: Yes, that's everything.
+
+Das macht sechs Euro zehn. Bar oder mit Karte?
+: That comes to six euros ten. Cash or card?
+Mit Karte, bitte.
+: By card, please.
+
+Brauchen Sie eine Tüte?
+: Do you need a bag?
+Nein, danke. Ich habe eine.
+: No, thanks. I have one.
+
+Möchten Sie den Kassenbon?
+: Would you like the receipt?
+Nein, danke.
+: No, thanks.
+
+Schönen Tag noch!
+: Have a nice day!
+Danke, Ihnen auch!
+: Thanks, you too!
 :::
 
 ## Summary
@@ -167,22 +202,17 @@ Danke, auf Wiedersehen!
 :::{admonition} Key points
 :class: note
 
-- *Was kostet das?* asks the price; *Das macht ...* announces the total.
-- Order with *Ich möchte ..., bitte* and decide with *Ich nehme ...*
-- Quantities drop "of": *ein Kilo Tomaten, eine Flasche Wasser*.
-- *Bar* or *mit Karte*: know both before you reach the till.
+- *Was kostet …?* asks the price of one thing, *Was kosten …?* of several.
+- *Ich hätte gern …* orders at a counter, and *Ich nehme …* makes the choice.
+- Quantities take no word for "of": *ein Kilo Äpfel*, *zweihundert Gramm Käse*.
+- At the till, *Sonst noch etwas?* and *Bar oder mit Karte?* are the questions to expect.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Was kostet die Äpfel?* → Was **kosten** die Äpfel? ({term}`plural` {term}`subject`, plural {term}`verb`)
-- *\*ein Kilo von Tomaten* → ein Kilo **Tomaten**. (no "of" in quantities)
-- *\*Ich zahle mit bar.* → Ich zahle **bar**. (bar takes no {term}`preposition`)
+- *\*Was kostet die Äpfel?* → Was **kosten** die Äpfel? (several things take *kosten*)
+- *\*ein Kilo von Äpfeln* → ein Kilo **Äpfel** (no word for "of" in quantities)
+- *\*Ich nehme der Käse.* → Ich nehme **den** Käse. (the thing taken is in the accusative; learn more in [The accusative case](/a1/grammar/cases/akkusativ.md))
+- *\*Kann ich haben vier Brötchen?* → Kann ich vier Brötchen **haben**? (the second verb goes to the end; learn more in [Modal verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md))
 :::
-
-## Related articles
-
-- [](/a1/grammar/cases/akkusativ.md)
-- [](/a1/grammar/articles/demonstrativartikel.md)
-- [](/a1/how-to/give-your-personal-details.md)
