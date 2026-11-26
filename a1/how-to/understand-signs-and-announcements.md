@@ -1,104 +1,84 @@
 ---
+target-title: Schilder und Durchsagen verstehen
+related: [ask-about-opening-times, ask-for-and-give-directions, /a1/grammar/verbs/trennbare-verben]
+tags: [signs and announcements, travel]
+skills: [a1-get-around]
 myst:
   html_meta:
-    description: "A1 how-to: understand signs and announcements. Signs, opening hours, station announcements, and the short official phrases you meet every day."
-    keywords: "german, a1, how to, signs, schilder, geöffnet, geschlossen, verboten, announcements, gleis"
+    description: "How to understand signs and announcements in German: geöffnet, Bitte drücken, Rauchen verboten, Gleis, Verspätung and Der Zug fällt aus."
+    keywords: "german signs, bitte drücken, rauchen verboten, gleis, verspätung, zug fällt aus"
     "property=og:title": "Understand signs and announcements"
-    "property=og:description": "A1 how-to: understand signs and announcements. Signs, opening hours, station announcements, and the short official phrases you meet every day."
+    "property=og:description": "How to understand signs and announcements in German: geöffnet, Bitte drücken, Rauchen verboten, Gleis, Verspätung and Der Zug fällt aus."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Understand signs and announcements
 
-Signs, notices and loudspeaker announcements fill German public space: shop hours, station platforms, and short instructions on almost every door.
+German signs and announcements say very little: a word or two on a door, one fixed sentence on a station platform. Understanding them means catching a few key words.
 
-This is a reading and listening skill, so the goal is catching these phrases more than producing them. Signs compress language to a few words, often with no {term}`verb`: *geöffnet*, *Rauchen verboten*. Official requests use *Bitte* plus an {term}`infinitive`, as in *Bitte hier warten*. Station announcements repeat the same few patterns with different numbers, so the words to catch are *Gleis*, *Verspätung* and *Halt*.
+These phrases are for reading and listening, not for saying. Nobody expects a learner to produce *Zurückbleiben, bitte!*, only to step back when they hear it. The useful skill is spotting the one word that matters, such as the platform number or *verboten* (not allowed). The rest can go by.
 
 ## When to use it
 
-- Reading signs on shops, doors, and machines
-- Catching announcements at stations and on trains
-- Understanding notices about hours, closures, and prohibitions
+- Finding the right door into a shop or an office
+- Reading opening hours on a closed shop door
+- Hearing a platform change at the station
+- Catching the next stop on the bus or underground
 
 ## Key phrases
 
-### Doors and signs
+### On doors and in shops
 
 | Phrase | Notes |
 |---|---|
-| {stack}`geöffnet / geschlossen \| open / closed` | shop doors |
-| {stack}`Eingang / Ausgang \| entrance / exit` | |
-| {stack}`drücken / ziehen \| push / pull` | on doors |
-| {stack}`... verboten \| ... prohibited` | Rauchen verboten |
-| {stack}`Achtung! / Vorsicht! \| Attention! / Careful!` | |
+| {stack}`geöffnet / geschlossen \| open / closed` | in speech also *auf* and *zu* |
+| {stack}`drücken / ziehen \| push / pull` | on doors, often with *Bitte* |
+| {stack}`Eingang / Ausgang \| entrance / exit` | *Notausgang* is the emergency exit |
+| {stack}`… verboten \| no …` | *Rauchen verboten*, no smoking |
+| {stack}`außer Betrieb \| out of order` | on lifts and machines |
 
 ### At the station
 
 | Phrase | Notes |
 |---|---|
-| {stack}`das Gleis \| the platform` | stations |
-| {stack}`die Verspätung \| the delay` | |
+| {stack}`das Gleis \| the platform` | *Gleis fünf* is platform five |
+| {stack}`die Verspätung \| the delay` | *zehn Minuten Verspätung*, ten minutes late |
+| {stack}`fällt aus \| is cancelled` | *Der Zug fällt aus* |
+| {stack}`Nächster Halt \| Next stop` | on trains and buses |
+| {stack}`Zurückbleiben, bitte! \| Stand back, please!` | the doors are about to close |
 
-## Doors, signs and official requests
+## On doors and in shops
 
-Signs compress language to its bones: no articles, no full sentences. Opening hours run *von ... bis ...*, prohibitions end in *verboten*.
-
-:::{ol-examples}
-:presenters: emilia
-Geöffnet von neun bis achtzehn Uhr.
-: Open from nine to six.
-
-Heute geschlossen.
-: Closed today.
-
-Rauchen verboten.
-: Smoking prohibited.
-:::
-
-*Bitte* plus an infinitive is the polite official voice: *Bitte hier warten. Bitte drücken.* It appears on machines, counters and doors everywhere.
+Signs leave out the articles and often the verb. An instruction is *Bitte* with the verb at the end, in its {term}`infinitive` (the form in the dictionary), as in *Bitte hier warten*. Opening hours run *von … bis …*, and [Ask about opening times](ask-about-opening-times.md) covers them in full.
 
 :::{ol-examples}
-:presenters: emilia
+:presenters: roman
+Bitte drücken.
+: Please push.
+
 Bitte hier warten.
 : Please wait here.
 
-Der Aufzug ist kaputt.
-: The lift is out of order.
+Rauchen verboten.
+: No smoking.
 :::
-
-## At the station
-
-Announcements recycle the same handful of patterns with different numbers. The words to catch are the platform (*Gleis*), the delay (*Verspätung*) and the stop (*Halt*).
-
-:::{ol-examples}
-:presenters: emilia
-Der Zug nach München fährt von Gleis fünf.
-: The train to Munich leaves from platform five.
-
-Der Zug hat zehn Minuten Verspätung.
-: The train is ten minutes late.
-
-Nächster Halt: Hauptbahnhof.
-: Next stop: main station.
-:::
-
-## Hear it in practice
 
 :::{audio-examples}
 :track: a1/how-to/understand-signs-and-announcements
-:presenters: emilia
-:title: Öffentliche Informationen verstehen
-:title-en: Understand signs and announcements
-:tags: signs and announcements, imperative
+:mode: examples
+:presenters: roman
+:title: Schilder verstehen
+:title-en: Understand signs
+:tags: signs and announcements, infinitive
 
-Geöffnet von neun bis achtzehn Uhr.
-: Open from nine to six.
+Geöffnet.
+: Open.
 
 Heute geschlossen.
 : Closed today.
 
-Eingang und Ausgang
-: entrance and exit
+Montag bis Freitag von neun bis achtzehn Uhr geöffnet.
+: Open Monday to Friday from nine to six.
 
 Bitte drücken.
 : Please push.
@@ -106,32 +86,20 @@ Bitte drücken.
 Bitte ziehen.
 : Please pull.
 
+Eingang.
+: Entrance.
+
+Ausgang.
+: Exit.
+
+Notausgang.
+: Emergency exit.
+
+Bitte hier warten.
+: Please wait here.
+
 Rauchen verboten.
-: Smoking prohibited.
-
-Achtung!
-: Attention!
-
-Vorsicht, Stufe!
-: Careful, step!
-
-Der Zug nach München fährt von Gleis fünf.
-: The train to Munich leaves from platform five.
-
-Der Zug hat zehn Minuten Verspätung.
-: The train is ten minutes late.
-
-Nächster Halt: Hauptbahnhof.
-: Next stop: main station.
-
-Bitte alle aussteigen.
-: Everyone please get off.
-
-Die Kasse ist im Erdgeschoss.
-: The till is on the ground floor.
-
-Notausgang
-: emergency exit
+: No smoking.
 
 Parken verboten.
 : No parking.
@@ -139,20 +107,93 @@ Parken verboten.
 Kein Trinkwasser.
 : Not drinking water.
 
-Heute im Angebot: Äpfel, ein Kilo für zwei Euro.
-: On offer today: apples, one kilo for two euros.
-
-Die Praxis ist am Freitag geschlossen.
-: The practice is closed on Friday.
-
-Bitte hier warten.
-: Please wait here.
-
-Der Aufzug ist kaputt.
+Der Aufzug ist außer Betrieb.
 : The lift is out of order.
 
-Öffnungszeiten: Montag bis Samstag.
-: Opening hours: Monday to Saturday.
+Achtung, Stufe!
+: Mind the step!
+
+Vorsicht, frisch gestrichen!
+: Careful, wet paint!
+
+Nur für Personal.
+: Staff only.
+
+Toiletten im ersten Stock.
+: Toilets on the first floor.
+
+Heute im Angebot: Äpfel, ein Kilo für zwei Euro.
+: On offer today: apples, two euros a kilo.
+:::
+
+## At the station
+
+Station announcements repeat one pattern with new numbers. The words to catch are the place, *Gleis* with its number, and *Verspätung* with its minutes. *Der Zug fällt aus* means the train is cancelled: *ausfallen* is a [separable verb](/a1/grammar/verbs/trennbare-verben.md), and its *aus* comes at the end.
+
+:::{ol-examples}
+:presenters: emilia
+Der Zug nach München fährt heute von Gleis fünf.
+: The train to Munich leaves from platform five today.
+
+Der Zug nach Hamburg hat etwa zehn Minuten Verspätung.
+: The train to Hamburg is about ten minutes late.
+
+Der Zug nach Leipzig fällt heute aus.
+: The train to Leipzig is cancelled today.
+:::
+
+:::{audio-examples}
+:track: a1/how-to/understand-signs-and-announcements-station
+:mode: examples
+:presenters: emilia
+:title: Durchsagen am Bahnhof
+:title-en: Announcements at the station
+:tags: signs and announcements, travel, numbers
+
+Der Zug nach München fährt heute von Gleis fünf.
+: The train to Munich leaves from platform five today.
+
+Der Zug fährt heute von Gleis sieben, nicht von Gleis vier.
+: Today the train leaves from platform seven, not platform four.
+
+Der Zug nach Hamburg hat etwa zehn Minuten Verspätung.
+: The train to Hamburg is about ten minutes late.
+
+Der Zug nach Leipzig fällt heute aus.
+: The train to Leipzig is cancelled today.
+
+Vorsicht an Gleis drei. Ein Zug fährt durch.
+: Caution at platform three. A train is passing through.
+
+Abfahrt neun Uhr zwölf.
+: Departure nine twelve.
+
+Ankunft zehn Uhr dreißig.
+: Arrival ten thirty.
+
+Der Zug hält nicht in Potsdam.
+: The train does not stop in Potsdam.
+
+Der Aufzug zu Gleis zwei ist außer Betrieb.
+: The lift to platform two is out of order.
+
+Bitte einsteigen.
+: Please get on.
+
+Zurückbleiben, bitte!
+: Stand back, please!
+
+Nächster Halt: Hauptbahnhof.
+: Next stop: main station.
+
+Nächste Station: Alexanderplatz.
+: Next station: Alexanderplatz.
+
+Der Bus kommt in drei Minuten.
+: The bus is coming in three minutes.
+
+Endstation. Bitte alle aussteigen.
+: Last stop. Everyone off, please.
 :::
 
 ## Summary
@@ -160,21 +201,14 @@ Der Aufzug ist kaputt.
 :::{admonition} Key points
 :class: note
 
-- Signs drop articles and verbs: *geöffnet, geschlossen, Eingang, Ausgang*.
-- *von ... bis ...* frames opening hours; *verboten* ends prohibitions.
-- Station survival: *Gleis*, *Verspätung*, *Nächster Halt*.
-- *Bitte* + infinitive is the official request form: *Bitte drücken.*
+- Signs drop the articles and often the verb: *geöffnet*, *Eingang*, *Rauchen verboten*.
+- An instruction on a sign is *Bitte* with the verb at the end: *Bitte drücken*.
+- At the station, catch *Gleis* with its number and *Verspätung* with its minutes.
+- *Der Zug fällt aus* means the train is cancelled, and *Zurückbleiben, bitte!* means stand back.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- Confusing *drücken* (push) and *ziehen* (pull): the daily door lottery; learn the pair.
-- Hearing *Gleis fünf* but running to platform four: numbers under pressure need the drill from the numbers track.
-- *Kein Trinkwasser* means the water is NOT drinkable; *kein* on a sign usually warns.
+- Reading *Der Zug fällt aus* word by word as "the train falls out". → The train is **cancelled**. (learn more in [Separable verbs](/a1/grammar/verbs/trennbare-verben.md))
 :::
-
-## Related articles
-
-- [](/a1/how-to/give-your-personal-details.md)
-- [](/a1/how-to/tell-the-time-and-day.md)

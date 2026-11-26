@@ -1,154 +1,178 @@
 ---
+target-title: Jemanden vorstellen
+related: [talk-about-family, /a1/grammar/verbs/regelmassige-verben, /a1/grammar/articles/possessivartikel]
+tags: [introductions, family, work]
+skills: [a1-meet-people]
 myst:
   html_meta:
-    description: "A1 how-to: introduce someone else. Present a friend, colleague, or family member in German: name, origin, job, and languages."
-    keywords: "german, a1, how to, introducing someone, das ist, er heißt, sie kommt aus, third person"
+    description: "How to introduce someone else in German: Das ist …, Er heißt …, Sie kommt aus …, for colleagues, family and friends."
+    keywords: "introduce someone in german, das ist, das sind, wer ist das, er heißt, sie kommt aus"
     "property=og:title": "Introduce someone else"
-    "property=og:description": "A1 how-to: introduce someone else. Present a friend, colleague, or family member in German: name, origin, job, and languages."
+    "property=og:description": "How to introduce someone else in German: Das ist …, Er heißt …, Sie kommt aus …, for colleagues, family and friends."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Introduce someone else
 
-Introducing someone else uses the same building blocks as a self-introduction, shifted to *er* and *sie*. The pattern opens with *Das ist ...* and then adds a name, an origin, a job, and the languages that person speaks.
+Two words introduce someone in German: *Das ist …*, followed by a name. A sentence or two with *er* (he) or *sie* (she) then says where the person comes from and what they do.
 
-The main change is the ending of the {term}`verb`. *Ich komme* becomes *er kommt*, and *ich wohne* becomes *sie wohnt*, because these verbs end in *-t* after *er* and *sie*. The opener stays the same for everyone: *das* never changes, whether the person is a man, a woman or a child. For several people, *Das ist* becomes *Das sind*. Two verbs to watch are *sein* and *sprechen*, which give *er ist* and *sie spricht*.
+The sentences of a self-introduction carry over with one change. After *er* and *sie*, the verb ends in *-t*: *ich komme* becomes *sie kommt*, and *ich wohne* becomes *er wohnt*. *Das ist* stays the same for a man, a woman or a child. For two or more people it becomes *Das sind*.
 
 ## When to use it
 
-- Bringing a friend or partner along to a meeting or a party
-- Presenting a colleague or a visitor
-- Answering *Wer ist das?* about someone in a photo or across the room
+- Introducing a new colleague to the team
+- Introducing a partner to a boss at a work party
+- Showing family photos on a phone to a friend
+- Bringing a friend along to a birthday party
 
 ## Key phrases
 
-### Presenting someone
+### Pointing someone out
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Das ist ... \| This is ...` | works for anyone |
-| {stack}`Wer ist das? \| Who is that?` | the question to expect |
+| {stack}`Das ist … \| This is …` | one person, a man, a woman or a child |
+| {stack}`Das sind … \| These are …` | two or more people |
+| {stack}`Wer ist das? \| Who is that?` | the question an introduction answers |
+| {stack}`Darf ich vorstellen? \| May I introduce …?` | {bdg-light}`formal`, said just before the name |
 
 ### Saying more about them
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Er heißt ... / Sie heißt ... \| His / her name is ...` | |
-| {stack}`Er kommt aus ... \| He comes from ...` | country or city |
-| {stack}`Sie wohnt in ... \| She lives in ...` | |
-| {stack}`Er ist Lehrer. \| He is a teacher.` | no article before the job |
-| {stack}`Sie spricht Englisch. \| She speaks English.` | |
+| {stack}`Er heißt … / Sie heißt … \| His name is … / Her name is …` | the same form as *du heißt* |
+| {stack}`Er kommt aus … \| He's from …` | a country or a city |
+| {stack}`Sie wohnt in … \| She lives in …` | a city or a district |
+| {stack}`Sie ist Krankenschwester. \| She's a nurse.` | no *ein* or *eine* before a job |
+| {stack}`Er spricht Englisch. \| He speaks English.` | *sprechen* changes its vowel: *er spricht* |
 
-## Pointing someone out
+## Introducing someone at work
 
-Every introduction starts with *Das ist ...* plus a name or a role. The *das* never changes, no matter who you introduce; for several people it becomes *Das sind ...*.
-
-:::{ol-examples}
-:presenters: emilia
-Das ist mein Freund Tom.
-: This is my friend Tom.
-
-Das ist Frau Schmidt.
-: This is Mrs Schmidt.
-
-Das sind meine Eltern.
-: These are my parents.
-:::
-
-## Saying more about them
-
-After the opener, switch to *er* or *sie* and reuse the verbs of a self-introduction: *heißen, kommen, wohnen, sein, sprechen*. In the third person they end in **-t**: *er kommt, sie wohnt, er spricht*.
+At work, an introduction names the person with *Herr* or *Frau* and often gives their role: *mein Chef* (my boss), *meine Kollegin* (my colleague). *Mein* turns into *meine* for a woman, as [Possessive articles](/a1/grammar/articles/possessivartikel.md) explains. Here Tobias introduces his boss and his family at a work party.
 
 :::{ol-examples}
-:presenters: emilia
-Er kommt aus England und wohnt in Frankfurt.
-: He comes from England and lives in Frankfurt.
+:presenters: tobias
+Lina, das ist Herr Mehta, mein Chef.
+: Lina, this is Mr Mehta, my boss.
 
-Sie ist Ärztin.
-: She is a doctor.
+Er kommt aus Indien, aus Pune.
+: He's from India, from Pune.
 
-Er spricht Englisch und ein bisschen Deutsch.
-: He speaks English and a little German.
+Meine Frau ist Krankenschwester.
+: My wife is a nurse.
 :::
-
-:::{note}
-*Freund/Freundin* can mean friend or partner. *Mein Freund Tom* (with a name) usually reads as "my friend Tom"; *mein Freund* alone often means "my boyfriend". Adding the name keeps it unambiguous.
-:::
-
-## Hear it in practice
 
 :::{audio-examples}
 :track: a1/how-to/introduce-someone-else
-:presenters: emilia
+:presenters: tobias
 :title: Jemanden vorstellen
 :title-en: Introduce someone else
-:tags: introductions, family
+:tags: introductions, work, formal
 
-Das ist mein Freund Tom.
-: This is my friend Tom.
+Darf ich vorstellen? Das ist meine Frau, Lina Haddad.
+: May I introduce my wife, Lina Haddad?
 
-Das ist meine Freundin Lisa.
-: This is my friend Lisa.
+Lina, das ist Herr Mehta, mein Chef.
+: Lina, this is Mr Mehta, my boss.
 
-Das ist Herr Weber.
-: This is Mr Weber.
+Er kommt aus Indien, aus Pune.
+: He's from India, from Pune.
 
-Das ist Frau Schmidt.
-: This is Mrs Schmidt.
+Er ist Ingenieur, wie ich.
+: He's an engineer, like me.
 
-Er heißt Tom.
-: His name is Tom.
+Er lernt Deutsch.
+: He's learning German.
 
-Sie heißt Lisa.
-: Her name is Lisa.
+Meine Frau ist Krankenschwester.
+: My wife is a nurse.
 
-Er kommt aus England.
-: He comes from England.
+Sie arbeitet in einer Praxis in Steglitz.
+: She works at a practice in Steglitz.
 
-Sie kommt aus Polen.
-: She comes from Poland.
+Sie kommt aus Syrien.
+: She's from Syria.
 
-Er wohnt in Frankfurt.
-: He lives in Frankfurt.
+Sie spricht Arabisch, Englisch und Deutsch.
+: She speaks Arabic, English and German.
 
-Sie wohnt auch in Frankfurt.
-: She also lives in Frankfurt.
+Und das ist Lana, unsere Tochter.
+: And this is Lana, our daughter.
 
-Er ist Lehrer.
-: He is a teacher.
+Sie ist sechzehn.
+: She's sixteen.
 
-Sie ist Ärztin.
-: She is a doctor.
+Das sind meine Kollegen.
+: These are my colleagues.
 
-Er spricht Englisch und Deutsch.
-: He speaks English and German.
+Das ist Roman, ein Freund.
+: This is Roman, a friend.
 
-Sie spricht drei Sprachen.
-: She speaks three languages.
+Er ist Fotograf.
+: He's a photographer.
 
-Er ist mein Kollege.
-: He is my colleague.
+Er wohnt in Lichtenberg.
+: He lives in Lichtenberg.
 
-Sie ist meine Nachbarin.
-: She is my neighbour.
+Wir sind oft zusammen am See.
+: We often go to the lake together.
+:::
 
-Kennst du Tom?
-: Do you know Tom?
+## Talking about family and friends
 
-Kennen Sie Frau Schmidt?
-: Do you know Mrs Schmidt?
+Among friends, first names are enough. *Wer ist das?* asks about someone in a photo or across the room. [Talk about family](talk-about-family.md) has the words for parents, brothers and sisters.
+
+:::{note}
+*Mein Freund* on its own often means "my boyfriend", and *meine Freundin* "my girlfriend". *Ein Freund* or *eine Freundin* means just "a friend".
+:::
+
+:::{audio-examples}
+:track: a1/how-to/introduce-someone-else-informally
+:mode: pairs
+:presenters: max, deniz
+:title: Wer ist das?
+:title-en: Who is that?
+:tags: introductions, family, informal
 
 Wer ist das?
-: Who is that?
+: Who's that?
+Das ist meine Schwester Elif.
+: That's my sister Elif.
 
+Was macht sie?
+: What does she do?
+Sie studiert Jura.
+: She's studying law.
+
+Und wer ist das?
+: And who's that?
 Das sind meine Eltern.
-: These are my parents.
+: Those are my parents.
 
-Sie ist dreißig Jahre alt.
-: She is thirty years old.
+Wo wohnen sie?
+: Where do they live?
+In Kreuzberg, wie ich.
+: In Kreuzberg, like me.
 
-Freut mich!
-: Nice to meet you!
+Was macht dein Vater?
+: What does your father do?
+Er repariert Handys.
+: He repairs mobile phones.
+
+Und deine Mutter?
+: And your mother?
+Sie arbeitet im Bürgeramt.
+: She works at the citizens' office.
+
+Und wer ist das hier?
+: And who's this?
+Das ist Lukas, ein Freund.
+: That's Lukas, a friend.
+
+Was macht er?
+: What does he do?
+Er studiert Informatik.
+: He's studying computer science.
 :::
 
 ## Summary
@@ -156,20 +180,16 @@ Freut mich!
 :::{admonition} Key points
 :class: note
 
-- Open with *Das ist ...* (one person) or *Das sind ...* (several).
-- Then describe with *er/sie* + verb ending in -t: *sie kommt, er wohnt*.
-- Jobs and nationalities take no article: *Er ist Lehrer.*
+- *Das ist …* introduces one person, *Das sind …* two or more.
+- After *er* and *sie*, the verb ends in *-t*: *er kommt*, *sie wohnt*. *Sprechen* gives *er spricht*.
+- A job comes without *ein* or *eine*: *Er ist Fotograf.*
 - *Wer ist das?* is the question all of this answers.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Er ist ein Lehrer.* → Er ist **Lehrer**. (no article before professions)
-- *\*Sie kommt aus in Polen.* → Sie kommt **aus** Polen. (one {term}`preposition`, not two)
-- *\*Das ist meine Eltern.* → Das **sind** meine Eltern. ({term}`plural` needs sind)
+- *\*Er ist ein Ingenieur.* → Er ist **Ingenieur**. (a job takes no article; learn more in [The zero article](/a1/grammar/articles/nullartikel.md))
+- *\*Das ist meine Eltern.* → Das **sind** meine Eltern. (two people take *sind*)
+- *\*Er sprecht Englisch.* → Er **spricht** Englisch. (the vowel changes; learn more in [Irregular verbs in the present](/a1/grammar/verbs/unregelmaessige-verben.md))
 :::
-
-## Related articles
-
-- [](/a1/grammar/verbs/sein-und-haben.md)
