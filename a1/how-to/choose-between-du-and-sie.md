@@ -70,7 +70,7 @@ Ist das dein Fahrrad?
 |---|---|
 | {stack}`Wollen wir uns duzen? \| Shall we say du?` | the usual offer, often from the older or more senior person |
 | {stack}`Sag ruhig du. \| Feel free to say du.` | said to someone who is still saying *Sie* |
-| {stack}`Ja, gern! \| Yes, gladly!` | the usual answer; a no is rare and sounds cold |
+| {stack}`Ja, gern! \| Yes, gladly!` | the usual answer; a refusal is rare |
 
 ## How the verb changes
 
@@ -137,10 +137,10 @@ Kommen Sie bitte!
 
 ## Switching to du
 
-The usual offer is *Wollen wir uns duzen?* (shall we say *du*?). Once *du* is agreed, first names replace *Herr* and *Frau*, and every verb changes with it. Here Maria, a teacher, offers *du* to Lina, who was once in her evening course.
+The usual offer is *Wollen wir uns duzen?* (shall we say *du*?). Once *du* is agreed, first names replace *Herr* and *Frau*, and every verb changes with it. Here Maria, a teacher, offers *du* to Lina, a student in her evening course.
 
 :::{culture-note}
-Some workplaces, such as many Berlin start-ups, use *du* with everyone from the first day. In banks, offices and with older people, *Sie* is still the norm. Among students and young people, *du* comes straight away.
+Some workplaces, such as many Berlin start-ups, use *du* with everyone from the first day. In banks, offices and with older people, *Sie* is still the norm. Among students and young people, *du* is usual from the start.
 :::
 
 :::{audio-examples}
