@@ -77,8 +77,8 @@ Der Urlaub war super.
 Am ersten Tag war mein Pass weg.
 : On the first day my passport was gone.
 
-Ich hatte keinen Plan.
-: I had no plan.
+Ich hatte viel Glück.
+: I had a lot of luck.
 
 Das Wetter war schön.
 : The weather was nice.
