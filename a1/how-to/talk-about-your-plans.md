@@ -55,8 +55,8 @@ When the time word comes first, the verb stays in second place: *Morgen arbeite 
 Heute Abend schreibe ich einen Artikel.
 : Tonight I'm writing an article.
 
-Dann esse ich bei meiner Mutter.
-: Then I'm having lunch at my mother's.
+Am Sonntag gehe ich auf den Flohmarkt.
+: On Sunday I'm going to the flea market.
 
 Ich weiß noch nicht. Vielleicht lese ich.
 : I don't know yet. Maybe I'll read.
@@ -116,7 +116,7 @@ Vielleicht nach Wien.
 : Maybe to Vienna.
 
 Was willst du später machen?
-: What do you want to do one day?
+: What do you want to do later on?
 Ich will ein Buch über Nachtzüge schreiben.
 : I want to write a book about night trains.
 :::
