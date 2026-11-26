@@ -6,7 +6,7 @@ skills: [a1-shops-and-services, a1-time-and-plans]
 myst:
   html_meta:
     description: "How to ask about opening times in German: Wann haben Sie geöffnet?, Wann machen Sie auf?, and answers such as von neun bis achtzehn Uhr."
-    keywords: "opening times in german, wann haben sie geöffnet, wann machen sie auf, am sonntag geschlossen, späti"
+    keywords: "opening times in german, wann haben sie geöffnet, wann machen sie auf, wann machen sie zu, späti"
     "property=og:title": "Ask about opening times"
     "property=og:description": "How to ask about opening times in German: Wann haben Sie geöffnet?, Wann machen Sie auf?, and answers such as von neun bis achtzehn Uhr."
     "property=og:type": "article"
@@ -14,7 +14,7 @@ myst:
 ---
 # Ask about opening times
 
-Asking about opening times in German takes one short question, in a shop, at a pharmacy or to a friend. The answer is almost always a clock time, or the news that everything is closed on Sunday.
+Asking about opening times in German takes one short question, in a shop, at a pharmacy or to a friend. The answer is almost always a clock time, or the news that a shop is closed on Sunday.
 
 There are two ways to ask. *Wann haben Sie geöffnet?* asks about the hours. *Wann machen Sie auf?* asks about the moment the doors open, and *Wann machen Sie zu?* about the moment they close. Both work everywhere, and the answers use *von … bis …* (from … to …) or *um* (at).
 
@@ -103,26 +103,26 @@ Um halb neun.
 
 Haben Sie am Feiertag geöffnet?
 : Are you open on the public holiday?
-Nein, an Feiertagen ist alles zu.
-: No, everything is closed on public holidays.
+Nein, an Feiertagen ist geschlossen.
+: No, we're closed on public holidays.
 
 Ist die Apotheke im Bahnhof länger offen?
 : Is the pharmacy in the station open longer?
 Ja, die hat bis zweiundzwanzig Uhr geöffnet.
 : Yes, it's open until ten at night.
 
-Danke für die Information!
-: Thanks for the information!
+Alles klar, vielen Dank!
+: Great, thank you very much!
 Gern. Auf Wiedersehen!
 : You're welcome. Goodbye!
 :::
 
 ## Asking a friend
 
-Between friends the questions use *du* or name the place: *Wann macht dein Café auf?* *Offen* and *zu* are more common in speech than *geöffnet* and *geschlossen*.
+Between friends the questions use *du* or name the place: *Wann macht euer Café auf?* *Offen* and *zu* are more common in speech than *geöffnet* and *geschlossen*.
 
 :::{culture-note}
-Most shops in Germany close on Sundays and public holidays, by law. Shops in large stations, petrol stations and many bakeries open anyway, at least for some hours. In Berlin the *Späti*, a small late-night shop, sells drinks and basics in the evening and often on Sunday too.
+Shops in Germany are generally not allowed to open on Sundays and public holidays, though the exceptions differ from state to state. Shops in large stations, petrol stations and many bakeries often open for some hours anyway. In Berlin the *Späti*, a small late-night shop, sells drinks and basics in the evening, and many are open on Sunday too.
 :::
 
 Here Lukas Berger asks his friend Deniz Kaya, who works in a café.
@@ -135,7 +135,7 @@ Here Lukas Berger asks his friend Deniz Kaya, who works in a café.
 :title-en: Ask a friend about opening times
 :tags: time and dates, shopping, informal
 
-Wann macht dein Café morgens auf?
+Wann macht euer Café morgens auf?
 : When does your café open in the morning?
 Um acht. Am Wochenende um neun.
 : At eight. At nine at the weekend.
@@ -165,11 +165,6 @@ Wie lange hat der Späti offen?
 Bis spät in die Nacht.
 : Until late at night.
 
-Hat die Post am Samstag offen?
-: Is the post office open on Saturday?
-Ja, aber nur bis zwölf.
-: Yes, but only until twelve.
-
 Super. Ich brauche nur Nudeln.
 : Great. I only need pasta.
 Nudeln, wie immer!
@@ -184,7 +179,7 @@ Nudeln, wie immer!
 - *Wann haben Sie geöffnet?* asks for the hours, and *Wann machen Sie auf?* or *zu?* for the moment.
 - Answers come as *von … bis …* or *um*, with *halb neun* meaning half past eight.
 - *Offen* and *zu* are the everyday words, *geöffnet* and *geschlossen* the ones on signs.
-- Most shops are closed on Sunday, so it is the day to ask about.
+- Many shops are closed on Sunday, so it is the day to ask about.
 :::
 
 :::{admonition} Common mistakes
