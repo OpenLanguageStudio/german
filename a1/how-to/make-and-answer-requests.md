@@ -110,10 +110,10 @@ Haben Sie einen Stift für mich?
 Ja, hier, bitte.
 : Yes, here you are.
 
-Können Sie mir zehn Euro wechseln?
-: Can you change ten euros for me?
-Tut mir leid, ich habe kein Kleingeld.
-: I'm sorry, I don't have any change.
+Können Sie mir bitte die Zeitung geben?
+: Could you pass me the newspaper, please?
+Tut mir leid, ich lese sie noch.
+: I'm sorry, I'm still reading it.
 
 Können Sie bitte ein Foto von mir machen?
 : Could you take a photo of me, please?
@@ -173,10 +173,10 @@ Kommst du am Sonntag mit zum Flohmarkt?
 Tut mir leid, am Sonntag spiele ich Fußball.
 : Sorry, on Sunday I'm playing football.
 
-Kannst du deine Wäsche mal selbst waschen?
-: Could you wash your own laundry for once?
-Leider nicht. Ich habe keine Waschmaschine.
-: I'm afraid not. I don't have a washing machine.
+Kannst du mir bitte zehn Euro geben?
+: Can you give me ten euros, please?
+Leider nicht. Ich habe nur fünf.
+: I'm afraid not. I only have five.
 
 Wartest du bitte auf mich?
 : Will you wait for me, please?
