@@ -36,4 +36,7 @@ talk-about-the-weather
 talk-about-the-past
 understand-signs-and-announcements
 ask-for-help-and-clarification
+shop-for-clothes
+book-a-room
+ask-about-opening-times
 ```
