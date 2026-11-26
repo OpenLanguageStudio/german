@@ -1,170 +1,137 @@
 ---
+target-title: Persönliche Angaben machen
+related: [count-and-give-numbers, /a1/grammar/other/ordinalzahlen-datum, /a1/grammar/articles/possessivartikel]
+tags: [personal details, numbers, formal]
+skills: [a1-meet-people]
 myst:
   html_meta:
-    description: "A1 how-to: give your personal details. Count to a hundred, understand einundzwanzig, and give your phone number, age, and address in German."
-    keywords: "german, a1, how to, numbers, zahlen, phone number, age, address, personal data, einundzwanzig"
+    description: "How to give your personal details in German: name, address, phone number and date of birth, with Wie ist Ihre Adresse? and Wann sind Sie geboren?"
+    keywords: "personal details in german, wie ist ihre adresse, wie ist ihre telefonnummer, wann sind sie geboren, postleitzahl, ledig"
     "property=og:title": "Give your personal details"
-    "property=og:description": "A1 how-to: give your personal details. Count to a hundred, understand einundzwanzig, and give your phone number, age, and address in German."
+    "property=og:description": "How to give your personal details in German: name, address, phone number and date of birth, with Wie ist Ihre Adresse? and Wann sind Sie geboren?"
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Give your personal details
 
-Numbers show up in nearly every A1 situation, from a phone number and an age to a street address and a postcode.
+Doctors, language schools and the citizens' office ask for the same personal details in German: name, address, phone number and date of birth. Most of the questions start with *Wie ist Ihr …?* or *Wie ist Ihre …?*
 
-German numbers follow a small set of patterns, and up to twelve each number is its own word. From thirteen to nineteen the unit comes first and *zehn* follows, and from twenty-one the unit comes before the ten, joined by *und*. Counting is the easy half. The harder half is catching numbers at speed and giving personal details, because phone numbers and postcodes are read digit by digit.
+These questions come from staff and officials, so they use *Sie*. *Ihr* (your) goes with a *der* or *das* word, as in *Ihr Name*, and *Ihre* with a *die* word, as in *Ihre Adresse*. [Possessive articles](/a1/grammar/articles/possessivartikel.md) explains the endings. The answers can be short: the detail alone is enough.
 
 ## When to use it
 
-- Giving your phone number or address at a desk or on a form
-- Saying and understanding ages, house numbers, and postcodes
-- Following prices and times later on (both build on these numbers)
+- Registering as a new patient at a doctor's practice
+- Signing up for a German course at the school's front desk
+- Registering a new flat at the citizens' office
+- Opening a membership at a gym
 
 ## Key phrases
 
-### Phone and address
+### The questions
+
+*Wie ist Ihre Adresse?* and *Wie ist Ihre Telefonnummer?* come up at almost every desk. *Wann sind Sie geboren?* asks for the date of birth.
+
+:::{ol-examples}
+:presenters: lina
+Wie ist Ihr Name?
+: What's your name?
+
+Wie ist Ihre Adresse?
+: What's your address?
+
+Wie ist Ihre Telefonnummer?
+: What's your phone number?
+
+Wann sind Sie geboren?
+: When were you born?
+:::
+
+### The answers
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Wie ist Ihre Telefonnummer? \| What is your phone number?` | formal |
-| {stack}`Meine Nummer ist ... \| My number is ...` | digits read one by one |
-| {stack}`Meine Adresse ist ... \| My address is ...` | street + house number |
-| {stack}`die Postleitzahl \| postcode` | often read digit by digit |
+| {stack}`Mein Vorname ist … \| My first name is …` | forms say *Vorname* and *Nachname* (surname) |
+| {stack}`Ich wohne in der Weserstraße 12. \| I live at Weserstraße 12.` | *in der* before the street; the number comes after it |
+| {stack}`die Postleitzahl \| the postcode` | five digits, before the town: *12045 Berlin* |
+| {stack}`Ich bin am 4. März 1996 geboren. \| I was born on 4 March 1996.` | *am* and an ordinal number, as in [Ordinal numbers and dates](/a1/grammar/other/ordinalzahlen-datum.md) |
+| {stack}`Ich bin ledig. / Ich bin verheiratet. \| I'm single. / I'm married.` | the answers to *Familienstand* (marital status) |
+| {stack}`Punkt / at \| dot / at` | in an email address; *at* is said as in English |
 
-### Age
+## At the reception desk
 
-| Phrase | Notes |
-|---|---|
-| {stack}`Wie alt sind Sie? / bist du? \| How old are you?` | formal / informal |
-| {stack}`Ich bin ... Jahre alt. \| I am ... years old.` | with a number |
+At a practice or an office, the staff fill in the form and ask the questions one by one. The phone number and the *Postleitzahl* (postcode) are read digit by digit, as [Count and give numbers](count-and-give-numbers.md) shows. A name often has to be spelled. The form may also ask for the *Familienstand*: *ledig* (single) or *verheiratet* (married). Here Lina, a nurse, registers Max as a new patient.
 
-## Counting to a hundred
-
-The numbers up to twelve are their own words; from thirteen, the pattern is unit + *zehn*.
-
-| 0 to 6 | 7 to 13 | 14 to 20 |
-|---|---|---|
-| 0 null | 7 sieben | 14 vierzehn |
-| 1 eins | 8 acht | 15 fünfzehn |
-| 2 zwei | 9 neun | 16 sechzehn |
-| 3 drei | 10 zehn | 17 siebzehn |
-| 4 vier | 11 elf | 18 achtzehn |
-| 5 fünf | 12 zwölf | 19 neunzehn |
-| 6 sechs | 13 dreizehn | 20 zwanzig |
-
-Note the two irregular teens: *sechzehn* (not sechszehn) and *siebzehn* (not siebenzehn).
-
-From 21 upwards, German says the unit first, then the ten, joined by *und*: 21 is *einundzwanzig*, literally "one and twenty". English speakers hear this as backwards at first.
-
-| 20 to 50 | 60 to 90 |
-|---|---|
-| 20 zwanzig | 60 sechzig |
-| 30 dreißig | 70 siebzig |
-| 40 vierzig | 80 achtzig |
-| 50 fünfzig | 90 neunzig |
-
-:::{ol-examples}
-:presenters: emilia
-einundzwanzig
-: twenty-one (one-and-twenty)
-
-fünfundvierzig
-: forty-five (five-and-forty)
-
-neunundneunzig
-: ninety-nine
+:::{culture-note}
+Anyone who moves into a flat in Germany has to register the new address at the citizens' office, the *Bürgeramt*, within two weeks. The form asks for exactly these details. In big cities, the appointment is often booked online, weeks ahead.
 :::
-
-## Phone numbers and addresses
-
-Phone numbers are read digit by digit. Addresses put the house number after the street name, and the postcode before the city.
-
-:::{ol-examples}
-:presenters: emilia
-Meine Nummer ist null, eins, sieben, zwei.
-: My number is zero, one, seven, two.
-
-Ich wohne in der Bahnhofstraße zwölf.
-: I live at Bahnhofstraße 12.
-
-Ich bin einunddreißig Jahre alt.
-: I am thirty-one years old.
-:::
-
-## Hear it in practice
 
 :::{audio-examples}
 :track: a1/how-to/give-your-personal-details
-:presenters: emilia
-:title: Zahlen und persönliche Daten
+:mode: pairs
+:presenters: lina, max
+:title: Persönliche Angaben
 :title-en: Give your personal details
-:tags: personal details, numbers
+:tags: personal details, numbers, formal
 
-null, eins, zwei, drei
-: zero, one, two, three
+Guten Tag! Sind Sie neu hier?
+: Hello! Are you new here?
+Ja, ich bin neu.
+: Yes, I'm new.
 
-vier, fünf, sechs, sieben
-: four, five, six, seven
+Wie ist Ihr Name?
+: What's your name?
+Max Lehmann.
+: Max Lehmann.
 
-acht, neun, zehn
-: eight, nine, ten
+Wie schreibt man Lehmann?
+: How do you spell Lehmann?
+L, E, H, M, A, N, N.
+: L, E, H, M, A, N, N.
 
-elf, zwölf
-: eleven, twelve
+Wie ist Ihre Adresse?
+: What's your address?
+Weserstraße zwölf, in Neukölln.
+: Weserstraße 12, in Neukölln.
 
-dreizehn, vierzehn, fünfzehn
-: thirteen, fourteen, fifteen
-
-sechzehn, siebzehn, achtzehn, neunzehn
-: sixteen, seventeen, eighteen, nineteen
-
-zwanzig, dreißig, vierzig
-: twenty, thirty, forty
-
-fünfzig, sechzig, siebzig
-: fifty, sixty, seventy
-
-achtzig, neunzig, hundert
-: eighty, ninety, one hundred
-
-einundzwanzig
-: twenty-one
-
-zweiunddreißig
-: thirty-two
-
-fünfundvierzig
-: forty-five
-
-neunundneunzig
-: ninety-nine
+Und die Postleitzahl?
+: And the postcode?
+Eins, zwei, null, vier, fünf.
+: One, two, zero, four, five.
 
 Wie ist Ihre Telefonnummer?
-: What is your phone number?
+: What's your phone number?
+Null, eins, sieben, sechs, null, vier, sechs, neun, null, fünf, sieben.
+: Zero, one, seven, six, zero, four, six, nine, zero, five, seven.
 
-Meine Nummer ist null, eins, sieben, zwei.
-: My number is zero, one, seven, two.
+Haben Sie eine E-Mail-Adresse?
+: Do you have an email address?
+Ja: max Punkt lehmann at beispiel Punkt de.
+: Yes: max dot lehmann at beispiel dot de.
 
-Wie ist deine Handynummer?
-: What is your mobile number?
+Wann sind Sie geboren?
+: When were you born?
+Am vierten März neunzehnhundertsechsundneunzig.
+: On the fourth of March 1996.
 
-Wie alt bist du?
-: How old are you?
+Wo sind Sie geboren?
+: Where were you born?
+In Stuttgart.
+: In Stuttgart.
 
-Ich bin einunddreißig Jahre alt.
-: I am thirty-one years old.
+Was sind Sie von Beruf?
+: What do you do for a living?
+Ich bin Grafikdesigner.
+: I'm a graphic designer.
 
-Meine Adresse ist Gartenstraße acht.
-: My address is Gartenstraße 8.
+Sind Sie verheiratet?
+: Are you married?
+Nein, ich bin ledig.
+: No, I'm single.
 
-Ich wohne in der Bahnhofstraße zwölf.
-: I live at Bahnhofstraße 12.
-
-Welche Hausnummer haben Sie?
-: What is your house number?
-
-Hausnummer sechsundzwanzig.
-: Number twenty-six.
+Danke, Herr Lehmann. Nehmen Sie bitte Platz.
+: Thank you, Mr Lehmann. Please take a seat.
+Danke!
+: Thanks!
 :::
 
 ## Summary
@@ -172,20 +139,16 @@ Hausnummer sechsundzwanzig.
 :::{admonition} Key points
 :class: note
 
-- Learn 0-12 as words, 13-19 as unit + *zehn*, tens up to *hundert*.
-- From 21: unit first, then ten: *einundzwanzig*.
-- Phone numbers and postcodes are read digit by digit.
-- Age uses *sein*: *Ich bin 30 Jahre alt.*
+- The questions start with *Wie ist Ihr …?* or *Wie ist Ihre …?*, and *Wann sind Sie geboren?* asks for the birthday.
+- An address is the street, then the number: *Weserstraße 12*. The postcode comes before the town.
+- A date of birth takes *am* and an ordinal: *am vierten März*.
+- *Ledig* means single and *verheiratet* married.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*zwanzigeins* → **einundzwanzig**. (unit before ten, joined with und)
-- *\*sechszehn / siebenzehn* → **sechzehn / siebzehn**. (the s and en drop)
-- *\*Ich habe 30 Jahre.* → Ich **bin** 30 Jahre alt. (age uses sein)
+- *\*Ich wohne in Weserstraße.* → Ich wohne **in der** Weserstraße. (a street takes *in der*; learn more in [Local prepositions with dative](/a1/grammar/prepositions/lokale-praepositionen-dativ.md))
+- *\*Ich bin geboren in 1996.* → Ich bin **1996** geboren. (a bare year takes no *in*, and *geboren* goes to the end)
+- *\*Wie ist Ihr Adresse?* → Wie ist **Ihre** Adresse? (*die Adresse* takes *Ihre*; learn more in [Possessive articles](/a1/grammar/articles/possessivartikel.md))
 :::
-
-## Related articles
-
-- [](/a1/how-to/tell-the-time-and-day.md)
