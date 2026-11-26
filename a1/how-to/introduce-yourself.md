@@ -62,6 +62,9 @@ Wie alt sind Sie?
 ::::{tab-item} Informal (du)
 :::{ol-examples}
 :presenters: emilia
+Wie heißt du?
+: What's your name?
+
 Woher kommst du?
 : Where are you from?
 
@@ -141,10 +144,15 @@ Between people of the same age, at a party or in a course, *du* comes straight a
 :title-en: Introduce yourself informally
 :tags: introductions, personal details, informal
 
-Hallo! Ich bin Julia. Und du?
-: Hi! I'm Julia. And you?
-Ich bin Deniz.
-: I'm Deniz.
+Hallo! Wie heißt du?
+: Hi! What's your name?
+Ich bin Deniz. Und du?
+: I'm Deniz. And you?
+
+Ich bin Julia. Freut mich!
+: I'm Julia. Nice to meet you!
+Mich auch!
+: Me too!
 
 Woher kommst du?
 : Where are you from?
@@ -171,10 +179,6 @@ Sprichst du Türkisch?
 Ja, Türkisch und Deutsch.
 : Yes, Turkish and German.
 
-Freut mich, Deniz!
-: Nice to meet you, Deniz!
-Mich auch!
-: Me too!
 :::
 
 ## Summary

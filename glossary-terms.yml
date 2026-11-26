@@ -8,18 +8,14 @@
 
 terms:
   # Parts of speech
-  - noun
   - pronoun
   - personal pronoun
   - reflexive pronoun
   - relative pronoun
-  - verb
-  - adjective
   - adverb
   - preposition
   - two-way preposition
   - conjunction
-  - question word
   - compound noun
   - contraction
 
@@ -77,10 +73,6 @@ terms:
     forms: [passive, passives]
 
   # Tenses and moods
-  - tense
-  - present tense
-  - past tense
-  - future tense
   - term: Perfekt
     forms: [perfect tense]
   - Präteritum
@@ -101,7 +93,6 @@ terms:
   - main clause
   - subordinate clause
   - relative clause
-  - word order
   - sentence bracket
   - term: negation
     forms: [negate, negates, negated, negating]
