@@ -1,24 +1,27 @@
 ---
+target-title: Uhrzeit und Tag sagen
+related: [/a1/grammar/prepositions/temporale-praepositionen, /a1/grammar/other/ordinalzahlen-datum, make-an-appointment]
+tags: [time and dates, numbers]
+skills: [a1-time-and-plans]
 myst:
   html_meta:
-    description: "A1 how-to: time and days. Ask and tell the time, name the days of the week and months, and use um, am, and im correctly."
-    keywords: "german, a1, how to, time, uhrzeit, wie spät, days of the week, wochentage, months, halb vier"
+    description: "How to tell the time and day in German: Wie spät ist es?, Es ist halb vier, um sieben, am Montag and im Juli, with the days and months."
+    keywords: "telling the time in german, wie spät ist es, halb vier, days of the week in german, months in german, am montag"
     "property=og:title": "Tell the time and day"
-    "property=og:description": "A1 how-to: time and days. Ask and tell the time, name the days of the week and months, and use um, am, and im correctly."
+    "property=og:description": "How to tell the time and day in German: Wie spät ist es?, Es ist halb vier, um sieben, am Montag and im Juli, with the days and months."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Tell the time and day
 
-Telling the time in German takes the numbers plus a few words for the clock, the days of the week, and the months.
-
-Three small words pin an event to a point in time: *um* for a clock time, *am* for a day, and *im* for a month. These are {term}`prepositions <preposition>`, small words that show place or time. The one real trap is *halb*: *halb vier* means half past three, because German looks ahead to the coming hour. Transport, television and opening hours use the 24-hour clock, so *zwanzig Uhr* is 8 pm.
+Telling the time in German starts with one question, *Wie spät ist es?*, and an answer that begins with *Es ist*. The days and months then put a plan on the calendar.
 
 ## When to use it
 
-- Asking or giving the time
-- Arranging when something happens: appointments, opening hours, train times
-- Talking about your week and your plans
+- Asking someone at a bus stop what time it is
+- Checking when a film or a train starts
+- Saying which days of the week someone works
+- Agreeing on the time of a family lunch
 
 ## Key phrases
 
@@ -26,110 +29,153 @@ Three small words pin an event to a point in time: *um* for a clock time, *am* f
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Wie spät ist es? \| What time is it?` | |
-| {stack}`Es ist drei Uhr. \| It is three o'clock.` | |
-| {stack}`Es ist halb vier. \| It is half past THREE.` | see below |
-| {stack}`um sieben (Uhr) \| at seven (o'clock)` | clock times |
+| {stack}`Wie spät ist es? \| What time is it?` | the usual question; *Wie viel Uhr ist es?* is just as common |
+| {stack}`Es ist drei Uhr. \| It's three o'clock.` | *Uhr* only on the full hour |
+| {stack}`Es ist Viertel nach acht. \| It's quarter past eight.` | *nach* means past |
+| {stack}`Es ist zehn vor sechs. \| It's ten to six.` | *vor* means to |
+| {stack}`Es ist halb vier. \| It's half past three.` | half an hour before four |
+| {stack}`um sieben \| at seven` | *um* comes before a clock time |
 
-### Days and months
+### On the calendar
 
 | Phrase | Notes |
 |---|---|
-| {stack}`am Montag \| on Monday` | days |
-| {stack}`im Juli \| in July` | months |
-| {stack}`heute, morgen \| today, tomorrow` | |
+| {stack}`am Montag \| on Monday` | *am* comes before a day, and in *am Wochenende* |
+| {stack}`im Juli \| in July` | *im* comes before a month or a season |
+| {stack}`heute, morgen \| today, tomorrow` | they need no small word in front |
 
 ## Asking and telling the time
 
-*Wie spät ist es?* asks the time; the answer starts with *Es ist ...*. Full hours use *Uhr*: *Es ist drei Uhr*. Minutes work with *nach* (past) and *vor* (to): *zehn nach sechs*, *Viertel vor neun*.
+*Wie spät ist es?* asks the time, and the answer starts with *Es ist*. Minutes count with *nach* (past) and *vor* (to), as they do in English: *zehn nach sechs*, *Viertel vor neun*.
 
-One form needs special care: **halb vier** means half past THREE, not half past four. German looks ahead to the coming hour.
+*Halb* counts towards the coming hour. *Halb vier* is half an hour before four, so 3:30. English counts from the hour just gone: *half past four* is 4:30, and British speakers shorten it to *half four*. That makes *halb vier* easy to get wrong.
 
-:::{ol-examples}
-:presenters: emilia
-Es ist Viertel nach acht.
-: It is quarter past eight.
-
-Es ist halb vier.
-: It is half past three.
-
-Der Film beginnt um zwanzig Uhr.
-: The film starts at eight in the evening.
-:::
-
-Official times (transport, TV, opening hours) use the 24-hour clock: *zwanzig Uhr* is 8 pm.
-
-## Days, months, and the three little words
-
-The days: *Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag*. The months: *Januar* through *Dezember*, close cousins of their English names.
-
-Three prepositions place events in time, each locked to its own kind of time word: **um** + clock time, **am** + day, **im** + month.
+Timetables, cinemas and shops use the 24-hour clock, so a film starts *um zwanzig Uhr*. In conversation most people say *um acht*.
 
 :::{ol-examples}
 :presenters: emilia
-Am Montag arbeite ich.
-: On Monday I work.
+Nein, es ist halb vier.
+: No, it's half past three.
 
-Im Juli habe ich Urlaub.
-: In July I am on holiday.
+Nein, es ist zehn vor sechs.
+: No, it's ten to six.
 
-Ich komme um sieben.
-: I am coming at seven.
+Um zwanzig Uhr.
+: At eight in the evening.
 :::
 
-## Hear it in practice
+:::{culture-note}
+In parts of eastern and southern Germany, and in Austria, *viertel neun* means quarter past eight and *dreiviertel neun* means quarter to nine. Like *halb*, both count towards the coming hour. *Viertel nach acht* is understood everywhere, so it is the safe choice, but a visitor from Leipzig or Munich may well say *viertel neun*.
+:::
 
 :::{audio-examples}
 :track: a1/how-to/tell-the-time-and-day
-:presenters: emilia
-:title: Uhrzeit und Wochentage
-:title-en: Tell the time and day
-:tags: time and dates, numbers
+:mode: pairs
+:presenters: lukas, emilia
+:title: Wie spät ist es?
+:title-en: What time is it?
+:tags: time and dates, numbers, informal
 
 Wie spät ist es?
 : What time is it?
-
 Es ist drei Uhr.
-: It is three o'clock.
+: It's three o'clock.
 
-Es ist halb vier.
-: It is half past three.
-
+Wie viel Uhr ist es jetzt?
+: What time is it now?
 Es ist Viertel nach acht.
-: It is quarter past eight.
+: It's quarter past eight.
 
-Es ist Viertel vor neun.
-: It is quarter to nine.
+Ist es schon vier?
+: Is it four already?
+Nein, es ist halb vier.
+: No, it's half past three.
 
-Es ist zehn nach sechs.
-: It is ten past six.
+Ist es schon sechs?
+: Is it six already?
+Nein, es ist zehn vor sechs.
+: No, it's ten to six.
 
-Es ist kurz vor zwölf.
-: It is just before twelve.
+Und jetzt?
+: And now?
+Jetzt ist es Viertel vor neun.
+: Now it's quarter to nine.
 
-Der Film beginnt um zwanzig Uhr.
-: The film starts at eight in the evening.
+Wann beginnt der Film?
+: When does the film start?
+Um zwanzig Uhr.
+: At eight in the evening.
 
-Um wie viel Uhr kommst du?
-: At what time are you coming?
+Wann fährt dein Zug?
+: When does your train leave?
+Um zweiundzwanzig Uhr zehn.
+: At ten past ten at night.
 
-Ich komme um sieben.
-: I am coming at seven.
+Um wie viel Uhr kommst du am Sonntag?
+: What time are you coming on Sunday?
+Um eins, zum Mittagessen.
+: At one, for lunch.
+
+Wann machst du Yoga?
+: When do you do yoga?
+Um sieben, vor der Arbeit.
+: At seven, before work.
+:::
+
+## Days and months with *am* and *im*
+
+The days of the week in German all end in *-tag*, except *Mittwoch* (Wednesday). The months in German are close to their English names: *Januar*, *März*, *Juli*, *Dezember*.
+
+Each kind of time takes its own small word, one of the [temporal prepositions](/a1/grammar/prepositions/temporale-praepositionen.md). *Um* goes with a clock time, *am* with a day and *im* with a month or a season. A date such as *am dritten Mai* needs the ordinal numbers, which [Ordinal numbers and dates](/a1/grammar/other/ordinalzahlen-datum.md) covers.
+
+:::{ol-examples}
+:presenters: lina
+Am Montag arbeite ich.
+: On Monday I work.
+
+Lana hat am Samstag Fußball.
+: Lana has football on Saturday.
+
+Im April laufe ich in Berlin einen Halbmarathon.
+: In April I run a half marathon in Berlin.
+:::
+
+:::{audio-examples}
+:track: a1/how-to/tell-the-time-and-day-days
+:presenters: lina
+:title: Tage und Monate
+:title-en: Days and months
+:tags: time and dates
+
+Am Montag arbeite ich.
+: On Monday I work.
+
+Ich arbeite von Montag bis Freitag.
+: I work from Monday to Friday.
+
+Um acht bin ich in der Praxis.
+: At eight I'm at the practice.
 
 Montag, Dienstag, Mittwoch
 : Monday, Tuesday, Wednesday
 
-Donnerstag, Freitag
-: Thursday, Friday
+Donnerstag, Freitag, Samstag, Sonntag
+: Thursday, Friday, Saturday, Sunday
 
 Samstag und Sonntag sind das Wochenende.
 : Saturday and Sunday are the weekend.
 
-Am Montag arbeite ich.
-: On Monday I work.
-
 Am Wochenende habe ich frei.
-: At the weekend I am off.
+: At the weekend I'm off.
+
+Lana hat am Samstag Fußball.
+: Lana has football on Saturday.
+
+Am Sonntag rufen meine Eltern an.
+: On Sunday my parents call.
+
+Am Sonntag bringe ich Maria Essen.
+: On Sunday I bring Maria some food.
 
 Welcher Tag ist heute?
 : What day is it today?
@@ -141,16 +187,16 @@ Morgen ist Donnerstag.
 : Tomorrow is Thursday.
 
 Im Januar ist es kalt.
-: In January it is cold.
+: In January it's cold.
 
-Im Juli habe ich Urlaub.
-: In July I am on holiday.
+Im April laufe ich in Berlin einen Halbmarathon.
+: In April I run a half marathon in Berlin.
 
-Mein Geburtstag ist im Mai.
-: My birthday is in May.
+Im Sommer ist es in Damaskus sehr heiß.
+: In summer it's very hot in Damascus.
 
 Bis Montag!
-: See you Monday!
+: See you on Monday!
 :::
 
 ## Summary
@@ -158,21 +204,16 @@ Bis Montag!
 :::{admonition} Key points
 :class: note
 
-- *Wie spät ist es? Es ist ...* handles the time; *nach* is past, *vor* is to.
-- *Halb vier* = 3:30. German names the hour that is coming.
-- *um* + clock time, *am* + day, *im* + month.
-- Official Germany runs on the 24-hour clock.
+- *Wie spät ist es?* asks the time, and *Es ist …* answers. *Nach* is past and *vor* is to.
+- *Halb vier* is 3:30: *halb* counts towards the coming hour.
+- Timetables use the 24-hour clock. Conversation mostly doesn't.
+- *Um* goes with a clock time, *am* with a day, *im* with a month or a season.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- Hearing *halb vier* as 4:30 → it is **3:30**. (the most common time mistake there is)
-- *\*in Montag / an Juli* → **am** Montag, **im** Juli. (each time word has its preposition)
-- *\*Ich komme am sieben Uhr.* → Ich komme **um** sieben Uhr. (clock times take um)
+- *\*Was ist die Zeit?* → **Wie spät** ist es? (German asks "how late is it")
+- *\*Es ist halb vier* for 4:30 → Es ist **halb fünf**. (*halb* names the coming hour)
+- *\*in Juli* → **im** Juli. (months take *im*; learn more in [Temporal prepositions](/a1/grammar/prepositions/temporale-praepositionen.md))
 :::
-
-## Related articles
-
-- [](/a1/how-to/give-your-personal-details.md)
-- [](/a1/grammar/prepositions/temporale-praepositionen.md)

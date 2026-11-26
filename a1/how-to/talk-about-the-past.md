@@ -1,24 +1,29 @@
 ---
+target-title: Über Vergangenes sprechen
+related: [/a1/grammar/tenses/praeteritum-sein-haben, /a1/grammar/tenses/perfekt, describe-a-daily-routine]
+tags: [the past, Perfekt, leisure]
+skills: [a1-time-and-plans]
 myst:
   html_meta:
-    description: "A1 how-to: talk about the past. War and hatte, a starter set of Perfekt chunks, and the time words gestern and letzte Woche."
-    keywords: "german, a1, how to, past, gestern, war, hatte, perfekt, wochenende, ich habe gemacht"
+    description: "How to talk about the past in German: Wie war dein Wochenende?, Ich war im Kino, Ich hatte frei and Ich habe Fußball gespielt."
+    keywords: "past tense in german, wie war dein wochenende, ich war, ich hatte, was hast du gemacht, perfekt"
     "property=og:title": "Talk about the past"
-    "property=og:description": "A1 how-to: talk about the past. War and hatte, a starter set of Perfekt chunks, and the time words gestern and letzte Woche."
+    "property=og:description": "How to talk about the past in German: Wie war dein Wochenende?, Ich war im Kino, Ich hatte frei and Ich habe Fußball gespielt."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Talk about the past
 
-*Wie war dein Wochenende?* turns up long before the {term}`past tense` is properly learned. The way through is *war* and *hatte*, plus a starter set of past forms treated as ready-made chunks.
+*Wie war dein Wochenende?* comes up every Monday, long before the past tense in German is fully learned. Two short words, *war* and *hatte*, and a handful of ready-made phrases cover the answer.
 
-*War* and *hatte* are the single-word past forms of *sein* and *haben*, and they already describe most of a weekend. Actions need two parts: *haben* in second place and a *ge-* form at the end, as in *Ich habe Fußball gespielt*. That *ge-* form is called the {term}`past participle`, and the two-part form is the {term}`Perfekt`. At A1, five past participles work as fixed chunks.
+How something was takes one word: *Es war schön*, *Ich hatte frei*. What someone did takes two. A form of *haben* comes second, and a {term}`past participle`, the *ge-* form, comes at the end: *Ich habe Fußball gespielt*. That two-part form is the [Perfekt](/a1/grammar/tenses/perfekt.md).
 
 ## When to use it
 
-- Monday small talk about the weekend
-- Saying where you were and what you did
-- Describing how something was: nice, boring, delicious
+- Answering a colleague's *Wie war dein Wochenende?* on Monday morning
+- Telling a friend about a holiday
+- Explaining a missed class with *Ich war krank*
+- Catching up with family on the phone
 
 ## Key phrases
 
@@ -26,134 +31,169 @@ myst:
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Wie war dein Wochenende? \| How was your weekend?` | THE Monday question |
-| {stack}`Ich war im Kino. \| I was at the cinema.` | war = was |
-| {stack}`Ich hatte viel Arbeit. \| I had a lot of work.` | hatte = had |
+| {stack}`Wie war dein Wochenende? \| How was your weekend?` | the Monday question; *Ihr Wochenende* with *Sie* |
+| {stack}`Es war schön. \| It was nice.` | *war* is the past of *ist* |
+| {stack}`Ich war im Kino. \| I was at the cinema.` | *war* also says where someone was |
+| {stack}`Ich hatte frei. \| I had the day off.` | *hatte* is the past of *habe* |
 
 ### What happened
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Was hast du gestern gemacht? \| What did you do yesterday?` | |
-| {stack}`Ich habe ... gemacht / gesehen / gegessen. \| I did / watched / ate ...` | Perfekt chunks |
-| {stack}`gestern, letzte Woche \| yesterday, last week` | time words |
+| {stack}`Was hast du gemacht? \| What did you do?` | the question for actions |
+| {stack}`Ich habe … gemacht. \| I did …` | *habe* second, *gemacht* last |
+| {stack}`Ich bin … gefahren. \| I went …` | verbs of going take *bin* |
+| {stack}`gestern, letzte Woche \| yesterday, last week` | the verb still comes second after them |
 
-## Two single words: *war* and *hatte*
+## How it was: *war* and *hatte*
 
-The past of *sein* and *haben* comes in single words: *ich war* (I was), *ich hatte* (I had). These two cover most of a weekend.
-
-:::{ol-examples}
-:presenters: emilia
-Ich {verb}`war` gestern im Kino.
-: I was at the cinema yesterday.
-
-Wir {verb}`hatten` gestern Besuch.
-: We had visitors yesterday.
-
-Das Essen {verb}`war` lecker.
-: The food was delicious.
-:::
-
-## Actions in the past: Perfekt chunks
-
-Actions use a two-part pattern: *haben* in position 2, a *ge-* form at the end. These five work as whole chunks: *gemacht* (did), *gesehen* (watched), *gegessen* (ate), *gekauft* (bought), *gespielt* (played). {term}`Modal verbs <modal verb>` have the same two-part shape.
+*War* (was) and *hatte* (had) are the past of *sein* and *haben*. German uses them where English uses *was* and *had*: *Es war schön*, *Ich hatte viel Arbeit*. [*war* and *hatte*](/a1/grammar/tenses/praeteritum-sein-haben.md) has all their forms.
 
 :::{ol-examples}
-:presenters: emilia
-Ich {verb}`habe` Fußball **gespielt**.
-: I played football.
+:presenters: max
+Letztes Jahr war ich in Portugal.
+: Last year I was in Portugal.
 
-Wir {verb}`haben` einen Film **gesehen**.
-: We watched a film.
+Am ersten Tag war mein Pass weg.
+: On the first day my passport was gone.
 
-Was {verb}`hast` du gestern **gemacht**?
-: What did you do yesterday?
+Letzte Woche hatte ich viel Arbeit.
+: Last week I had a lot of work.
 :::
-
-The system behind these forms has its own grammar article.
-
-*Gestern* (yesterday), *letzte Woche* (last week), *letztes Jahr* (last year), *am Samstag*: put one of these first and the {term}`verb` stays second, as always.
-
-:::{ol-examples}
-:presenters: emilia
-Letzte Woche {verb}`war` ich krank.
-: Last week I was ill.
-
-Am Sonntag {verb}`habe` ich nichts **gemacht**.
-: On Sunday I did nothing.
-:::
-
-## Hear it in practice
 
 :::{audio-examples}
-:track: a1/how-to/talk-about-the-past
-:presenters: emilia
-:title: Über Vergangenes sprechen
-:title-en: Talk about the past
-:tags: the past, Perfekt
+:track: a1/how-to/talk-about-the-past-war-hatte
+:presenters: max
+:title: Wie war es?
+:title-en: How was it?
+:tags: the past, Präteritum, travel
+
+Letztes Jahr war ich in Portugal.
+: Last year I was in Portugal.
+
+Der Urlaub war super.
+: The holiday was great.
+
+Am ersten Tag war mein Pass weg.
+: On the first day my passport was gone.
+
+Ich hatte viel Glück.
+: I had a lot of luck.
+
+Das Wetter war schön.
+: The weather was nice.
+
+Zu Weihnachten war ich in Stuttgart.
+: At Christmas I was in Stuttgart.
+
+Meine Eltern waren sehr froh.
+: My parents were very happy.
+
+Gestern war ich bei Deniz im Café.
+: Yesterday I was at Deniz's café.
+
+Der Kaffee war sehr gut.
+: The coffee was very good.
+
+Am Freitag waren wir bei Freunden.
+: On Friday we were at friends'.
+
+Wir hatten viel Spaß.
+: We had a lot of fun.
+
+Letzte Woche hatte ich viel Arbeit.
+: Last week I had a lot of work.
+
+Ich war sehr müde.
+: I was very tired.
 
 Wie war dein Wochenende?
 : How was your weekend?
 
-Es war sehr schön.
-: It was very nice.
+Hattest du ein schönes Wochenende?
+: Did you have a nice weekend?
 
-Ich war gestern im Kino.
-: I was at the cinema yesterday.
+Warst du schon mal in Portugal?
+: Have you ever been to Portugal?
+:::
 
-Wir waren am Samstag im Park.
-: We were in the park on Saturday.
+## What happened: the Perfekt
 
-Warst du schon in Berlin?
-: Have you been to Berlin?
+The question for actions is *Was hast du gemacht?* An action takes two parts. *Habe* or *hast* stands second, and the *ge-* form goes to the end: *Ich habe einen Kuchen gebacken*. [The past participle](/a1/grammar/tenses/partizip-ii.md) shows how these forms are built.
 
-Ja, ich war letztes Jahr dort.
-: Yes, I was there last year.
+Verbs of going somewhere, such as *gehen* and *fahren*, take *bin* or *bist* instead of *habe*: *Ich bin in den Garten gegangen*. [The Perfekt tense](/a1/grammar/tenses/perfekt.md) explains which verbs do.
 
-Ich hatte viel Arbeit.
-: I had a lot of work.
+In conversation, the Perfekt is the usual past for actions. The one-word past, as in *ich spielte*, is mostly written, apart from *war*, *hatte* and a few others.
 
-Wir hatten gestern Besuch.
-: We had visitors yesterday.
+:::{ol-examples}
+:presenters: maria
+Ich habe im Garten gearbeitet.
+: I worked in the garden.
 
-Das Essen war lecker.
-: The food was delicious.
+Ich habe einen Apfelkuchen gebacken.
+: I baked an apple cake.
 
-Der Film war langweilig.
-: The film was boring.
+Nein, es hat geregnet.
+: No, it rained.
+:::
 
-Was hast du gestern gemacht?
-: What did you do yesterday?
+:::{audio-examples}
+:track: a1/how-to/talk-about-the-past
+:mode: pairs
+:presenters: lina, maria
+:title: Wie war dein Wochenende?
+:title-en: How was your weekend?
+:tags: the past, Perfekt, informal
 
-Ich habe Fußball gespielt.
-: I played football.
+Wie war dein Wochenende?
+: How was your weekend?
+Sehr schön, danke.
+: Very nice, thanks.
 
-Ich habe eine Pizza gegessen.
-: I ate a pizza.
+Was hast du am Samstag gemacht?
+: What did you do on Saturday?
+Ich habe im Garten gearbeitet.
+: I worked in the garden.
 
-Wir haben einen Film gesehen.
-: We watched a film.
+Und am Sonntag?
+: And on Sunday?
+Ich habe einen Apfelkuchen gebacken.
+: I baked an apple cake.
 
-Ich habe Brot gekauft.
-: I bought bread.
+Waren Julia und Lukas da?
+: Were Julia and Lukas there?
+Ja, wir haben zusammen gegessen.
+: Yes, we ate together.
 
-Ich habe lange geschlafen.
-: I slept late.
+Hat Lukas wieder seine Wäsche mitgebracht?
+: Did Lukas bring his laundry again?
+Ja, natürlich!
+: Yes, of course!
 
-Am Sonntag habe ich nichts gemacht.
-: On Sunday I did nothing.
+Was hast du gestern Abend gemacht?
+: What did you do last night?
+Ich habe ein Buch gelesen.
+: I read a book.
 
-Gestern hat es geregnet.
-: Yesterday it rained.
+Wie war der Buchclub?
+: How was the book club?
+Gut. Wir haben viel gesprochen.
+: Good. We talked a lot.
 
-Letzte Woche war ich krank.
-: Last week I was ill.
+Bist du gestern in den Garten gegangen?
+: Did you go to the garden yesterday?
+Nein, es hat geregnet.
+: No, it rained.
 
-Es war ein guter Tag.
-: It was a good day.
+Wo warst du zu Ostern?
+: Where were you at Easter?
+Ich war in Polen, bei meiner Schwester.
+: I was in Poland, at my sister's.
 
-Wo warst du gestern?
-: Where were you yesterday?
+Hast du am Montag gearbeitet?
+: Did you work on Monday?
+Ja, ich hatte viel Unterricht.
+: Yes, I had a lot of lessons.
 :::
 
 ## Summary
@@ -161,21 +201,16 @@ Wo warst du gestern?
 :::{admonition} Key points
 :class: note
 
-- *war* and *hatte* are single words; use them freely now.
-- Five Perfekt chunks to start: *gemacht, gesehen, gegessen, gekauft, gespielt*.
-- The pattern is a {term}`sentence bracket`: *habe* in position 2, the ge-form at the end.
-- Time words first, verb second: *Gestern war ich ...*
+- *War* and *hatte* say how something was: *Es war schön*, *Ich hatte frei*.
+- An action takes the Perfekt: *habe* second, the *ge-* form last.
+- Verbs of going take *bin*: *Ich bin nach Hause gefahren*.
+- A time word first keeps the verb second: *Gestern war ich im Kino*.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Ich habe gemacht meine Hausaufgaben.* → Ich habe meine Hausaufgaben **gemacht**. (ge-form last)
-- *\*Ich war gemacht ...* → Ich **habe** ... gemacht. (war stands alone; actions take haben)
-- *\*Das Essen hat lecker.* → Das Essen **war** lecker. (descriptions use war)
+- *\*Ich habe gespielt Fußball.* → Ich habe Fußball **gespielt**. (the *ge-* form goes last; learn more in [The sentence bracket](/a1/grammar/sentence-structure/satzklammer.md))
+- *\*Ich habe nach Hause gefahren.* → Ich **bin** nach Hause gefahren. (learn more in [The Perfekt tense](/a1/grammar/tenses/perfekt.md))
+- *\*Ich habe in Berlin gewesen.* → Ich **war** in Berlin. (*sein* forms its past with *war*; *Ich bin in Berlin gewesen* is also right)
 :::
-
-## Related articles
-
-- [](/a1/grammar/tenses/praeteritum-sein-haben.md)
-- [](/a1/grammar/tenses/perfekt.md)

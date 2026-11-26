@@ -45,4 +45,8 @@ ask-about-opening-times
 use-buses-and-trains
 buy-a-ticket
 make-a-phone-call
+talk-about-your-plans
+invite-someone-and-reply
+suggest-something-to-do
+give-good-wishes
 ```
