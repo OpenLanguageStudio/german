@@ -4,6 +4,9 @@ title: "Open Language - German"
 description: "Learn German with Open Language. Free, open-source, and community-driven language learning resources for all levels."
 author: "Open Language Team"
 
+# The tab labels of the two registers, formal first (DE-W1).
+register_tabs: ["Formal (Sie)", "Informal (du)"]
+
 # The cast. Every voice is a person with a backstory and at least one
 # relationship to someone else in the cast, all living in and around Freiburg
 # im Breisgau. Example sentences are written around these people.

@@ -5,7 +5,7 @@ description = "Open Language - German"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "open-language[render] @ git+https://github.com/OpenLanguageStudio/open-language@v0.18.0",
+    "open-language[render] @ git+https://github.com/OpenLanguageStudio/open-language@72c4964c219959643cf284b2ae153511c4d61cfc",
 ]
 
 [project.urls]
