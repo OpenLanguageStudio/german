@@ -1,161 +1,190 @@
 ---
+target-title: Einen Termin machen
+related: [tell-the-time-and-day, /a1/grammar/prepositions/temporale-praepositionen, /a1/grammar/pronouns/personalpronomen-dativ]
+tags: [appointments, time and dates]
+skills: [a1-time-and-plans]
 myst:
   html_meta:
-    description: "A1 how-to: make an appointment. Propose a time, check availability with Hast du Zeit and Passt dir, accept, decline, and confirm."
-    keywords: "german, a1, how to, appointments, termin, hast du zeit, passt dir, treffen, availability"
+    description: "How to make an appointment in German: Ich möchte einen Termin machen and Passt Ihnen …? with a practice, Hast du Zeit? with a friend."
+    keywords: "making an appointment in german, ich möchte einen termin machen, hast du zeit, passt dir, auf wiederhören"
     "property=og:title": "Make an appointment"
-    "property=og:description": "A1 how-to: make an appointment. Propose a time, check availability with Hast du Zeit and Passt dir, accept, decline, and confirm."
+    "property=og:description": "How to make an appointment in German: Ich möchte einen Termin machen and Passt Ihnen …? with a practice, Hast du Zeit? with a friend."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Make an appointment
 
-Making appointments in German follows a short pattern. A day and a time go on the table, the other person accepts or declines, and a set phrase closes it.
+Making an appointment in German takes a day, a time and a yes. Someone suggests a slot, the other person accepts it or offers another, and both repeat it at the end.
 
-*Hast du ... Zeit?* opens with a day, and *Wollen wir ...?* opens with a plan. An office gets *Ich möchte einen Termin machen*. *Passt dir ...?* then checks a slot, and the person asked stands in the {term}`dative <dative case>`, so the word is *dir* or *Ihnen*. A refusal adds *leider* and usually another time.
+Who the appointment is with decides the words. A doctor's practice or an office gets *Ich möchte einen Termin machen* (I'd like to make an appointment) and *Sie*. A friend gets *Hast du Zeit?* and *Wollen wir …?*, with no need for *Termin*. The days and times stay the same either way.
 
 ## When to use it
 
-- Booking a *Termin* at a doctor's office or agency
-- Arranging to meet friends
-- Accepting, declining, and rescheduling politely
+- Phoning a doctor's practice for an appointment
+- Booking a time at the hairdresser's
+- Arranging to meet a friend at the weekend
+- Moving a meeting because the first time doesn't work
 
 ## Key phrases
 
-### Proposing a time
+### Finding a time
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Hast du am Freitag Zeit? \| Do you have time on Friday?` | informal |
-| {stack}`Haben Sie morgen Zeit? \| Do you have time tomorrow?` | formal |
-| {stack}`Ich möchte einen Termin machen. \| I would like to make an appointment.` | |
+| {stack}`Ich möchte einen Termin machen. \| I'd like to make an appointment.` | for a practice, an office or a hairdresser |
+| {stack}`… kann ich leider nicht. \| I can't do … , unfortunately.` | *leider* makes a no polite |
+| {stack}`Geht es auch …? \| Would … work too?` | offering another day or time |
+| {stack}`Das passt gut. \| That suits me.` | the yes |
+| {stack}`halb neun \| half past eight` | *halb* counts towards the next hour |
+| {stack}`Auf Wiederhören! \| Goodbye!` | formal, on the phone |
 
-### Checking and answering
+### Asking about a time
 
-| Phrase | Notes |
-|---|---|
-| {stack}`Passt dir / Ihnen ...? \| Does ... suit you?` | |
-| {stack}`Das passt gut. \| That works well.` | accepting |
-| {stack}`Das passt leider nicht. \| Unfortunately that doesn't work.` | declining |
-| {stack}`Geht es um zehn Uhr? \| Does ten o'clock work?` | |
+*Passt Ihnen …?* and *Passt dir …?* both mean "Does … suit you?". The person asked is in the {term}`dative <dative case>`, so the words are *Ihnen* and *dir*. [Personal pronouns: dative](/a1/grammar/pronouns/personalpronomen-dativ.md) has the full set.
 
-## Proposing a time
+:::::{tab-set}
 
-Two openers do most of the work: *Hast du ... Zeit?* with a day, and *Wollen wir ...?* with a plan. At an office, lead with *Ich möchte einen Termin machen.*
-
+::::{tab-item} Formal (Sie)
 :::{ol-examples}
-:presenters: emilia
-Hast du am Freitag Zeit?
-: Do you have time on Friday?
+:presenters: lina
+Wann haben Sie Zeit?
+: When are you free?
 
-Wollen wir am Samstag ins Kino gehen?
-: Shall we go to the cinema on Saturday?
+Geht es am Dienstag um zehn?
+: Would Tuesday at ten work?
 
-Können Sie am Montag kommen?
-: Can you come on Monday?
+Passt Ihnen Mittwoch um halb neun?
+: Does Wednesday at half past eight suit you?
 :::
+::::
 
-## Checking, answering and confirming
-
-*Passt dir ...?* and *Geht es um ...?* check a specific slot. Accept with *Das passt gut*, decline with *leider* and a reason, then offer an alternative.
-
+::::{tab-item} Informal (du)
 :::{ol-examples}
-:presenters: emilia
-Passt {dativ}`Ihnen` vierzehn Uhr?
-: Does two o'clock suit you?
+:presenters: lukas
+Hast du am Samstag Zeit?
+: Are you free on Saturday?
 
-Ja, das passt gut.
-: Yes, that works well.
+Wollen wir skaten gehen?
+: Shall we go skating?
 
-Ich kann erst am Abend.
-: I can only make it in the evening.
+Passt dir drei Uhr?
+: Does three o'clock suit you?
 :::
+::::
 
-Repeat the slot, agree on a place, and close with a *bis* phrase: the appointment is made.
+:::::
 
-:::{ol-examples}
-:presenters: emilia
-Der Termin ist am Donnerstag um neun.
-: The appointment is on Thursday at nine.
+## At the doctor's practice
 
-Wo treffen wir uns?
-: Where shall we meet?
+Days take *am* and clock times take *um*: *am Dienstag um zehn*. [Temporal prepositions](/a1/grammar/prepositions/temporale-praepositionen.md) covers both. Repeating the day and time at the end makes sure both sides wrote down the same slot. A formal phone call ends with *Auf Wiederhören*, "until we hear each other again".
 
-Bis Freitag dann!
-: See you Friday then!
-:::
-
-## Hear it in practice
+Here Max Lehmann phones the practice where Lina Haddad works.
 
 :::{audio-examples}
 :track: a1/how-to/make-an-appointment
-:presenters: emilia
-:title: Termine machen
+:mode: pairs
+:presenters: lina, max
+:title: Einen Termin machen
 :title-en: Make an appointment
-:tags: appointments, time and dates
+:tags: appointments, time and dates, formal
 
-Hast du am Freitag Zeit?
-: Do you have time on Friday?
-
-Haben Sie morgen Zeit?
-: Do you have time tomorrow?
-
-Ich habe leider keine Zeit.
-: Unfortunately I have no time.
-
-Passt dir Montag?
-: Does Monday suit you?
-
-Passt Ihnen vierzehn Uhr?
-: Does two o'clock suit you?
-
-Ja, das passt gut.
-: Yes, that works well.
-
-Nein, das passt leider nicht.
-: No, unfortunately that doesn't work.
-
-Können wir uns am Dienstag treffen?
-: Can we meet on Tuesday?
-
-Wollen wir am Samstag ins Kino gehen?
-: Shall we go to the cinema on Saturday?
-
-Ich möchte einen Termin machen.
-: I would like to make an appointment.
+Praxis Neumann, Haddad, guten Tag.
+: Neumann practice, Haddad speaking, hello.
+Guten Tag, hier ist Max Lehmann. Ich möchte einen Termin machen.
+: Hello, this is Max Lehmann. I'd like to make an appointment.
 
 Wann haben Sie Zeit?
-: When do you have time?
+: When are you free?
+Am Montag oder am Dienstag.
+: On Monday or on Tuesday.
 
-Geht es um zehn Uhr?
-: Does ten o'clock work?
+Geht es am Dienstag um zehn?
+: Would Tuesday at ten work?
+Um zehn kann ich leider nicht. Ich muss arbeiten.
+: I can't do ten, unfortunately. I have to work.
 
-Ja, zehn Uhr geht.
-: Yes, ten works.
+Am Dienstag ist sonst leider alles voll.
+: Otherwise Tuesday is fully booked, unfortunately.
+Und am Mittwoch?
+: And on Wednesday?
 
-Ich kann erst am Abend.
-: I can only make it in the evening.
+Passt Ihnen Mittwoch um halb neun?
+: Does Wednesday at half past eight suit you?
+Ja, das passt gut.
+: Yes, that suits me.
 
-Ich muss am Vormittag arbeiten.
-: I have to work in the morning.
+Wie schreibt man Lehmann?
+: How do you spell Lehmann?
+Lehmann mit h und zwei n.
+: Lehmann with an h and two n's.
 
-Treffen wir uns um sieben?
-: Shall we meet at seven?
+Gut, Herr Lehmann. Mittwoch um halb neun.
+: Fine, Mr Lehmann. Wednesday at half past eight.
+Mittwoch um halb neun. Vielen Dank!
+: Wednesday at half past eight. Thank you very much!
 
-Wo treffen wir uns?
-: Where shall we meet?
+Bitte bringen Sie Ihre Krankenkassenkarte mit.
+: Please bring your health insurance card.
+Ja, natürlich.
+: Yes, of course.
 
-Bis Freitag dann!
-: See you Friday then!
+Auf Wiederhören, Herr Lehmann!
+: Goodbye, Mr Lehmann!
+Auf Wiederhören!
+: Goodbye!
+:::
 
-Ich schreibe dir morgen.
-: I'll write to you tomorrow.
+## With a friend
 
-Der Termin ist am Donnerstag um neun.
-: The appointment is on Thursday at nine.
+Between friends the plan comes first, with *Wollen wir …?* (shall we …?), and a no comes with a reason. Here Lukas Berger asks his friend Deniz Kaya about Saturday.
 
-Können Sie am Montag kommen?
-: Can you come on Monday?
+:::{audio-examples}
+:track: a1/how-to/make-an-appointment-with-a-friend
+:mode: pairs
+:presenters: lukas, deniz
+:title: Sich verabreden
+:title-en: Arrange to meet a friend
+:tags: plans and invitations, time and dates, informal
+
+Hast du am Samstag Zeit?
+: Are you free on Saturday?
+Am Vormittag leider nicht. Da zeichne ich mit Max.
+: Not in the morning, sorry. I'm drawing with Max then.
+
+Und am Nachmittag?
+: And in the afternoon?
+Ja, am Nachmittag habe ich Zeit.
+: Yes, I'm free in the afternoon.
+
+Wollen wir skaten gehen?
+: Shall we go skating?
+Gute Idee!
+: Good idea!
+
+Passt dir drei Uhr?
+: Does three o'clock suit you?
+Lieber um vier.
+: Four would be better.
+
+Okay, um vier. Auf dem Tempelhofer Feld?
+: OK, at four. On Tempelhofer Feld?
+Ja, klar.
+: Yes, of course.
+
+Treffen wir uns am Eingang?
+: Shall we meet at the entrance?
+Ja, am Eingang um vier.
+: Yes, at the entrance at four.
+
+Kommt Max auch?
+: Is Max coming too?
+Vielleicht. Ich frage ihn.
+: Maybe. I'll ask him.
+
+Ich schreibe dir am Samstag noch mal.
+: I'll message you again on Saturday.
+Okay. Bis Samstag!
+: OK. See you Saturday!
 :::
 
 ## Summary
@@ -163,20 +192,15 @@ Können Sie am Montag kommen?
 :::{admonition} Key points
 :class: note
 
-- Propose with *Hast du ... Zeit?* or *Wollen wir ...?*; offices get *Ich möchte einen Termin machen.*
-- Check slots with *Passt dir/Ihnen ...?* and *Geht es um ...?*
-- Accept: *Das passt gut.* Decline: *leider* + reason + alternative.
-- Confirm by repeating day and time: *am Donnerstag um neun*.
+- *Ich möchte einen Termin machen* opens a call to a practice or an office.
+- *Passt Ihnen …?* and *Passt dir …?* check a slot. *Das passt gut* accepts it.
+- *Leider* and another time turn a no into an offer: *Um zehn kann ich leider nicht.*
+- Days take *am*, times take *um*, and both are repeated at the end.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Passt du Montag?* → Passt **dir** Montag? (the person is dative)
-- Declining with a bare *Nein*: add **leider** and offer another slot.
+- Hearing *halb neun* as 9.30. → *halb neun* is **8.30**. (learn more in [Tell the time and day](tell-the-time-and-day.md))
+- *\*Passt du Montag?* → Passt **dir** Montag? (the person asked is in the dative; learn more in [Personal pronouns: dative](/a1/grammar/pronouns/personalpronomen-dativ.md))
 :::
-
-## Related articles
-
-- [](/a1/how-to/tell-the-time-and-day.md)
-- [](/a1/grammar/verbs/koennen-muessen-wollen.md)
