@@ -6,7 +6,7 @@ skills: [a1-time-and-plans]
 myst:
   html_meta:
     description: "How to invite someone and reply in German: Hast du Lust?, Kommst du mit?, Gerne! and Leider kann ich nicht, with a kind way to say no."
-    keywords: "invitation in german, hast du lust, kommst du mit, leider kann ich nicht, say no politely in german"
+    keywords: "invitation in german, hast du lust, kommst du mit, leider kann ich nicht, saying no politely in german"
     "property=og:title": "Invite someone and reply"
     "property=og:description": "How to invite someone and reply in German: Hast du Lust?, Kommst du mit?, Gerne! and Leider kann ich nicht, with a kind way to say no."
     "property=og:type": "article"
@@ -16,7 +16,7 @@ myst:
 
 An invitation in German is usually a question, *Hast du Lust?* or *Kommst du mit?* The reply is a quick *Gerne!*, or *leider* with a reason and often another day.
 
-A yes can be one word. A no has three parts: *leider* (unfortunately), a reason, and ideally another date. A bare *Nein* sounds as abrupt in German as it does in English. The reason can be short: *Ich muss arbeiten.* A yes or a no needs no long speech.
+A yes can be one word. Saying no politely in German takes three parts: *leider* (unfortunately), a reason, and ideally another date. A bare *Nein* sounds as abrupt in German as it does in English. The reason can be short: *Ich muss arbeiten.* A yes or a no needs no long speech.
 
 ## When to use it
 

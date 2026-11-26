@@ -6,7 +6,7 @@ skills: [a1-everyday-words, a1-meet-people]
 myst:
   html_meta:
     description: "How to count and give numbers in German: null to hundert, einundzwanzig with the unit first, zwo on the phone, and years such as 2015."
-    keywords: "german numbers, count in german, numbers 1 to 100 in german, einundzwanzig, zwo, years in german"
+    keywords: "german numbers, count in german, einundzwanzig, zwo, years in german"
     "property=og:title": "Count and give numbers"
     "property=og:description": "How to count and give numbers in German: null to hundert, einundzwanzig with the unit first, zwo on the phone, and years such as 2015."
     "property=og:type": "article"
@@ -29,7 +29,7 @@ The teens are built as in English: *dreizehn* is "three-ten", like *thirteen*. F
 
 ### Zero to twelve
 
-Each of the numbers from 0 to 12 is its own word.
+To count in German, start with 0 to 12: each of these numbers is its own word.
 
 :::{ol-examples}
 :presenters: lukas
@@ -151,7 +151,7 @@ tausend
 
 ## Years and phone numbers
 
-A year before 2000 is said in hundreds: 1993 is *neunzehnhundertdreiundneunzig* (nineteen hundred and ninety-three), where English says "nineteen ninety-three". From 2000 on, it is a thousand plus the rest: 2015 is *zweitausendfünfzehn*. Phone numbers are read digit by digit or in pairs. On the phone, *zwo* often replaces *zwei*, because *zwei* and *drei* sound alike. More on giving a number is in [Give your personal details](give-your-personal-details.md).
+Years in German are said in hundreds before 2000: 1993 is *neunzehnhundertdreiundneunzig* (nineteen hundred and ninety-three), where English says "nineteen ninety-three". From 2000 on, it is a thousand plus the rest: 2015 is *zweitausendfünfzehn*. Phone numbers are read digit by digit or in pairs. On the phone, *zwo* often replaces *zwei*, because *zwei* and *drei* sound alike. More on giving a number is in [Give your personal details](give-your-personal-details.md).
 
 :::{audio-examples}
 :track: a1/how-to/count-and-give-numbers-in-use
