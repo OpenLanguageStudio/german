@@ -1,113 +1,52 @@
 ---
+target-title: Nach dem Weg fragen
+related: [/a1/grammar/verbs/imperativ, /a1/grammar/prepositions/kurzformen, use-buses-and-trains]
+tags: [directions]
+skills: [a1-get-around]
 myst:
   html_meta:
-    description: "A1 how-to: directions. Ask the way with Wie komme ich zu, follow geradeaus, links, and rechts, and thank your helper."
-    keywords: "german, a1, how to, directions, wie komme ich, geradeaus, links, rechts, weg fragen"
+    description: "How to ask for and give directions in German: Entschuldigung, wo ist …?, Wie komme ich zum Bahnhof?, and the answers geradeaus, links and rechts."
+    keywords: "asking for directions in german, wie komme ich zum, wo ist, geradeaus, links, rechts, gern geschehen"
     "property=og:title": "Ask for and give directions"
-    "property=og:description": "A1 how-to: directions. Ask the way with Wie komme ich zu, follow geradeaus, links, and rechts, and thank your helper."
+    "property=og:description": "How to ask for and give directions in German: Entschuldigung, wo ist …?, Wie komme ich zum Bahnhof?, and the answers geradeaus, links and rechts."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Ask for and give directions
 
-Asking for and giving directions in German uses a small, predictable set of instructions. That makes it one of the most learnable listening skills at A1.
+Asking for directions in German takes *Entschuldigung* and one of two questions, *Wo ist …?* or *Wie komme ich zum …?* The answers come back in a handful of words: *geradeaus*, *links*, *rechts* and a landmark.
 
-The vocabulary is small, so the hard part is catching the instructions at speed. Questions open with *Entschuldigung*, then *Wo ist ...?* or *Wie komme ich zum ...?* Answers come in the formal {term}`imperative`, the {term}`verb` form for instructions: *Gehen Sie geradeaus*. With *links*, *rechts* and a landmark or two, that covers the grammar of directions. The {term}`contraction` *zum* or *zur* depends on the {term}`gender` of the place: *zum Bahnhof*, *zur Post*.
+Asking is the easy half. The answer arrives at full speed, often with a pointing hand, so the real skill is catching those few words and checking them back. Strangers in the street usually say *Sie* to each other. The one who helps gets a thank-you, and *Gern geschehen* is the usual reply.
 
 ## When to use it
 
-- Finding a station, post office, or address in an unfamiliar town
-- Understanding spoken instructions with *geradeaus*, *links*, *rechts*
-- Asking how far something is and how to get there
+- Arriving at a station in a new town and looking for the centre
+- Looking for a street address on the way to a first visit
+- Asking a passer-by for the nearest bus stop
+- Helping a tourist who stops someone in the street
 
 ## Key phrases
 
 ### Asking the way
 
+*Wo ist …?* names the place. *Wie komme ich …?* asks for the route. With a place, *zu* (to) joins the article: *zum Bahnhof*, *zur Post*. [Contracted prepositions](/a1/grammar/prepositions/kurzformen.md) has the full set.
+
 | Phrase | Notes |
 |---|---|
-| {stack}`Entschuldigung, wo ist ...? \| Excuse me, where is ...?` | the opener |
-| {stack}`Wie komme ich zum / zur ...? \| How do I get to ...?` | zum (m/n), zur (f) |
-| {stack}`Ist das weit von hier? \| Is that far from here?` | |
+| {stack}`Entschuldigung, wo ist …? \| Excuse me, where is …?` | the opener for a stranger |
+| {stack}`Wie komme ich zum …? \| How do I get to …?` | *zum* before a *der* or *das* word: *zum Bahnhof* |
+| {stack}`Wie komme ich zur …? \| How do I get to …?` | *zur* before a *die* word: *zur Post* |
+| {stack}`Ich suche … \| I'm looking for …` | for a street or an address |
+| {stack}`Ist das weit von hier? \| Is that far from here?` | the answer usually comes in minutes on foot |
 
 ### Understanding the answer
 
-| Phrase | Notes |
-|---|---|
-| {stack}`Gehen Sie geradeaus. \| Go straight ahead.` | |
-| {stack}`Gehen Sie links / rechts. \| Turn left / right.` | |
-| {stack}`... zu Fuß \| ... on foot` | |
-| {stack}`Gern geschehen! \| You're welcome!` | the reply to danke |
-
-## Asking the way
-
-Open with *Entschuldigung*, then either *Wo ist ...?* or *Wie komme ich zum/zur ...?* The contraction follows gender: *zum Bahnhof*, *zur Post*.
+Directions are instructions, so the {term}`verb` comes first, followed by *Sie*: *Gehen Sie geradeaus.* This is the formal form of [the imperative](/a1/grammar/verbs/imperativ.md). Many people say *Sie gehen geradeaus* instead, and it means the same.
 
 :::{ol-examples}
-:presenters: emilia
-Entschuldigung, wo ist der Bahnhof?
-: Excuse me, where is the station?
-
-Wie komme ich zur Post?
-: How do I get to the post office?
-
-Ich suche die Goethestraße.
-: I am looking for Goethestraße.
-:::
-
-## Understanding the answer and saying thanks
-
-Answers arrive in the formal imperative: *Gehen Sie ..., Nehmen Sie ...*. Combined with *geradeaus*, *links*, *rechts*, and a landmark or two, that is the entire grammar of directions.
-
-:::{ol-examples}
-:presenters: emilia
-Gehen Sie geradeaus und dann links.
-: Go straight ahead and then left.
-
-Nehmen Sie die erste Straße links.
-: Take the first street on the left.
-
-Sie müssen den Bus nehmen.
-: You have to take the bus.
-:::
-
-*Ist das weit von hier?* checks the distance; answers usually come in minutes on foot. Close with thanks and expect *Gern geschehen*.
-
-:::{ol-examples}
-:presenters: emilia
-Ist das weit von hier?
-: Is that far from here?
-
-Nein, nur fünf Minuten zu Fuß.
-: No, only five minutes on foot.
-
-Danke für Ihre Hilfe!
-: Thank you for your help!
-:::
-
-## Hear it in practice
-
-:::{audio-examples}
-:track: a1/how-to/ask-for-and-give-directions
-:presenters: emilia
-:title: Nach dem Weg fragen
-:title-en: Ask for and give directions
-:tags: directions, imperative, preposition
-
-Entschuldigung, wo ist der Bahnhof?
-: Excuse me, where is the station?
-
-Wie komme ich zum Bahnhof?
-: How do I get to the station?
-
-Wie komme ich zur Post?
-: How do I get to the post office?
-
-Gehen Sie geradeaus.
-: Go straight ahead.
-
-Gehen Sie hier links.
-: Turn left here.
+:presenters: tobias
+Gehen Sie hier geradeaus.
+: Go straight ahead here.
 
 Gehen Sie an der Ampel rechts.
 : Turn right at the traffic lights.
@@ -115,45 +54,71 @@ Gehen Sie an der Ampel rechts.
 Nehmen Sie die erste Straße links.
 : Take the first street on the left.
 
-Gehen Sie über die Brücke.
-: Go over the bridge.
+Nein, nur fünf Minuten zu Fuß.
+: No, only five minutes on foot.
+:::
 
-Der Bahnhof ist auf der rechten Seite.
-: The station is on the right-hand side.
+*Erste*, *zweite* and *dritte* count the streets. They are [ordinal numbers](/a1/grammar/other/ordinalzahlen-datum.md).
 
-Der Bahnhof ist nicht weit.
-: The station is not far.
+## Hear it in practice
 
-Sie müssen den Bus nehmen.
-: You have to take the bus.
+A short question gets a short answer. When an answer goes past too fast, *Wie bitte?* and a repeat of the key word bring it back: *Links oder rechts?*
 
-Welcher Bus fährt zum Bahnhof?
-: Which bus goes to the station?
+:::{audio-examples}
+:track: a1/how-to/ask-for-and-give-directions
+:mode: pairs
+:presenters: emilia, tobias
+:title: Nach dem Weg fragen
+:title-en: Ask for and give directions
+:tags: directions, imperative, contraction
+
+Entschuldigung, wo ist der Bahnhof?
+: Excuse me, where is the station?
+Gehen Sie hier geradeaus.
+: Go straight ahead here.
+
+Wie komme ich zur Post?
+: How do I get to the post office?
+Gehen Sie an der Ampel rechts.
+: Turn right at the traffic lights.
+
+Wie bitte? Links oder rechts?
+: Sorry? Left or right?
+Rechts, an der Ampel.
+: Right, at the lights.
+
+Wie komme ich zum Rathaus?
+: How do I get to the town hall?
+Nehmen Sie die erste Straße links.
+: Take the first street on the left.
+
+Ich suche die Goethestraße.
+: I'm looking for Goethestraße.
+Das ist die zweite Straße rechts.
+: That's the second street on the right.
 
 Ist das weit von hier?
 : Is that far from here?
-
 Nein, nur fünf Minuten zu Fuß.
 : No, only five minutes on foot.
 
+Entschuldigung, ich bin nicht von hier. Wo ist das Zentrum?
+: Excuse me, I'm not from here. Where is the centre?
+Gehen Sie über die Brücke und dann links.
+: Go over the bridge and then left.
+
 Wo ist die nächste Haltestelle?
 : Where is the nearest stop?
+Dort drüben, vor dem Supermarkt.
+: Over there, in front of the supermarket.
 
-Die Haltestelle ist dort drüben.
-: The stop is over there.
+Kann ich zu Fuß gehen?
+: Can I walk?
+Nein, das ist zu weit. Nehmen Sie den Bus.
+: No, that's too far. Take the bus.
 
-Ich suche die Goethestraße.
-: I am looking for Goethestraße.
-
-Das ist die zweite Straße rechts.
-: That is the second street on the right.
-
-Entschuldigung, ich bin fremd hier.
-: Excuse me, I am not from here.
-
-Danke für Ihre Hilfe!
-: Thank you for your help!
-
+Vielen Dank für Ihre Hilfe!
+: Thank you very much for your help!
 Gern geschehen!
 : You're welcome!
 :::
@@ -163,21 +128,15 @@ Gern geschehen!
 :::{admonition} Key points
 :class: note
 
-- Open with *Entschuldigung*, ask with *Wo ist ...?* or *Wie komme ich zum/zur ...?*
-- The whole answer-language: *geradeaus, links, rechts*, plus *Gehen Sie / Nehmen Sie*.
-- *Ist das weit?* and *zu Fuß* sort out distance.
-- *Danke für Ihre Hilfe* closes; *Gern geschehen* comes back.
+- *Entschuldigung* opens the question. *Wo ist …?* names the place, and *Wie komme ich zum / zur …?* asks for the route.
+- The answers use *geradeaus*, *links* and *rechts*, usually with *Gehen Sie …* or *Nehmen Sie …*
+- *Ist das weit?* checks the distance, and *Wie bitte?* brings back a word that went past.
+- *Vielen Dank* closes, and *Gern geschehen* comes back.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Wie komme ich zu der Bahnhof?* → **zum** Bahnhof. ({term}`masculine` contracts to zum)
-- Hearing *rechts* but walking left: drill the pair until automatic; they sound nothing alike, but under stress everything blurs.
-- Forgetting the opener: a bare *Wo ist der Bahnhof?* at a stranger sounds abrupt; **Entschuldigung** first.
+- *\*Wie komme ich zu der Bahnhof?* → Wie komme ich **zum** Bahnhof? (*zu dem* shortens to *zum*; learn more in [Contracted prepositions](/a1/grammar/prepositions/kurzformen.md))
+- *\*Entschuldigen Sie mich, wo ist die Post?* → **Entschuldigung**, wo ist die Post? (*Entschuldigen Sie mich* asks to be excused, for example when leaving a table; a question to a stranger opens with *Entschuldigung* or *Entschuldigen Sie*)
 :::
-
-## Related articles
-
-- [](/a1/grammar/verbs/imperativ.md)
-- [](/a1/grammar/question-words/fragewoerter-umstaende.md)

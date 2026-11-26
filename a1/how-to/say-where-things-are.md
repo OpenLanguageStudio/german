@@ -1,158 +1,180 @@
 ---
+target-title: Sagen, wo etwas ist
+related: [/a1/grammar/prepositions/wechselpraepositionen, /a1/grammar/verbs/es-gibt, describe-your-home]
+tags: [home, directions]
+skills: [a1-get-around, a1-cases]
 myst:
   html_meta:
-    description: "A1 how-to: say where things are. Location chunks like auf dem Tisch and im Kühlschrank, plus links, rechts, and in der Nähe."
-    keywords: "german, a1, how to, location, where, auf dem tisch, im, links, rechts, in der nähe"
+    description: "How to say where things are in German: Wo ist …?, auf dem Tisch, im Kühlschrank, neben dem Café and in der Nähe, at home and in the street."
+    keywords: "saying where things are in german, wo ist, auf dem tisch, im kühlschrank, in der nähe, links, rechts"
     "property=og:title": "Say where things are"
-    "property=og:description": "A1 how-to: say where things are. Location chunks like auf dem Tisch and im Kühlschrank, plus links, rechts, and in der Nähe."
+    "property=og:description": "How to say where things are in German: Wo ist …?, auf dem Tisch, im Kühlschrank, neben dem Café and in der Nähe, at home and in the street."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Say where things are
 
-*Wo ist ...?* can be asked about almost anything: keys, people, shops. The answers run on ready-made location chunks such as *auf dem Tisch* and *im Kühlschrank*, plus *links*, *rechts*, *oben* and *unten*.
+Saying where things are in German starts with one question, *Wo ist …?*, about keys, people or shops. The answer is a short place phrase such as *auf dem Tisch*, *im Kühlschrank* or *in der Nähe*.
 
-A chunk is a short group of words learned as one piece. Each chunk here pairs a {term}`preposition` with a form of the article in the {term}`dative <dative case>`, which is why *der Tisch* becomes *auf dem Tisch*. The full grammar has its own articles, and at A1 the chunk is enough to answer the question. The {term}`verb` is *sein* throughout, and *in dem* shortens to *im*.
+Each place phrase is a small word for the position, such as *auf* (on) or *neben* (next to), followed by *dem* or *der*. At A1 the phrases work best learned whole, as ready-made pieces. The answer is often the phrase alone: *Wo ist die Milch? Im Kühlschrank.*
 
 ## When to use it
 
-- Finding and pointing out {term}`objects <object>` at home
-- Saying where a person is right now
-- Locating shops and places in the neighbourhood
+- Looking for keys or glasses before leaving the flat
+- Telling a guest where the bathroom is
+- Showing a new neighbour where the supermarket and the bakery are
+- Telling café customers where the milk and sugar are
 
 ## Key phrases
 
-### Things and rooms
+### At home
+
+*Der Tisch* becomes *auf dem Tisch*, and *die Tür* becomes *an der Tür*. After these position words, *der* and *das* turn into *dem*, and *die* into *der*. [Two-way prepositions](/a1/grammar/prepositions/wechselpraepositionen.md) explains why.
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Wo ist ...? \| Where is ...?` | |
-| {stack}`auf dem Tisch \| on the table` | chunk |
-| {stack}`in der Küche / im Büro \| in the kitchen / office` | im = in dem |
+| {stack}`Wo ist …? / Wo sind …? \| Where is …? / Where are …?` | *sind* for more than one thing |
+| {stack}`auf dem Tisch \| on the table` | *der Tisch* becomes *dem Tisch* |
+| {stack}`im Kühlschrank \| in the fridge` | *im* is short for *in dem* |
+| {stack}`in der Küche \| in the kitchen` | *die Küche* becomes *der Küche* |
+| {stack}`unter dem Bett \| under the bed` | the same pattern with *unter*, *neben*, *hinter*, *vor* |
+| {stack}`Es liegt auf dem Sofa. \| It's on the sofa.` | flat things *liegen* (lie), coats and pictures *hängen* (hang) |
+| {stack}`zu Hause \| at home` | a fixed phrase |
 
 ### Around the neighbourhood
 
-| Phrase | Notes |
-|---|---|
-| {stack}`links / rechts \| on the left / right` | |
-| {stack}`neben dem Bahnhof \| next to the station` | chunk |
-| {stack}`in der Nähe \| nearby` | |
-| {stack}`nicht weit \| not far` | |
-
-## People, things and their places
-
-These work as whole chunks, each with a preposition and the dative article.
+The same phrases place shops and stops. *Links*, *rechts*, *dort* and *in der Nähe* need no article at all.
 
 :::{ol-examples}
-:presenters: emilia
-Der Schlüssel ist auf dem Tisch.
-: The key is on the table.
+:presenters: deniz
+Die Bäckerei ist gleich neben dem Café.
+: The bakery is right next to the café.
 
-Die Milch ist im Kühlschrank.
-: The milk is in the fridge.
+Der Supermarkt ist an der Ecke.
+: The supermarket is on the corner.
 
-Die Katze ist unter dem Tisch.
-: The cat is under the table.
+Es gibt eine Apotheke in der Nähe.
+: There's a pharmacy nearby.
+
+Die Toilette ist hinten rechts.
+: The toilet is at the back on the right.
 :::
 
-The same pattern says where someone is: *im Büro, in der Küche, im Supermarkt*.
+## At home
 
-:::{ol-examples}
-:presenters: emilia
-Er ist im Büro.
-: He is in the office.
+Things in a flat wander. One person asks *Wo ist …?*, and the other answers with a place, often without a full sentence.
 
-Wir sind in der Küche.
-: We are in the kitchen.
+:::{audio-examples}
+:track: a1/how-to/say-where-things-are
+:mode: pairs
+:presenters: tobias, lina
+:title: Sagen, wo etwas ist
+:title-en: Say where things are
+:tags: home, two-way preposition, dative case
+
+Wo ist mein Schlüssel?
+: Where's my key?
+Auf dem Tisch, wie immer.
+: On the table, as always.
+
+Wo ist meine Brille?
+: Where are my glasses?
+Deine Brille ist im Bad.
+: Your glasses are in the bathroom.
+
+Wo ist die Milch?
+: Where's the milk?
+Im Kühlschrank.
+: In the fridge.
+
+Wo sind meine Schuhe?
+: Where are my shoes?
+Unter dem Bett.
+: Under the bed.
+
+Wo ist mein Handy?
+: Where's my phone?
+Dein Handy liegt auf dem Sofa.
+: Your phone is on the sofa.
+
+Und meine Jacke?
+: And my jacket?
+Sie hängt an der Tür.
+: It's hanging on the door.
+
+Wo ist meine Tasche?
+: Where's my bag?
+Hinter der Tür.
+: Behind the door.
+
+Wo ist mein Fahrrad?
+: Where's my bike?
+Im Hof, neben dem Baum.
+: In the courtyard, next to the tree.
+
+Ist Lana zu Hause?
+: Is Lana at home?
+Nein, sie ist noch in der Schule.
+: No, she's still at school.
 :::
 
 ## Around the neighbourhood
 
-For places in town, add the direction words and two useful distance phrases: *in der Nähe* (nearby) and *nicht weit* (not far).
+A person who works in a café gets asked where things are all day, inside and out on the street. *Es gibt* (there is) says that something exists nearby. [*es gibt*](/a1/grammar/verbs/es-gibt.md) covers it in full.
 
-:::{ol-examples}
-:presenters: emilia
-Die Toilette ist links.
-: The toilet is on the left.
-
-Die Apotheke ist neben dem Bahnhof.
-: The pharmacy is next to the station.
-
-Es gibt einen Park in der Nähe.
-: There is a park nearby.
+:::{culture-note}
+In a German café, the toilet is often down a corridor or in the basement, and a sign may say only *WC*. Asking *Wo ist die Toilette?* at the counter is completely normal.
 :::
 
-## Hear it in practice
-
 :::{audio-examples}
-:track: a1/how-to/say-where-things-are
-:presenters: emilia
-:title: Sagen, wo etwas ist
-:title-en: Say where things are
-:tags: two-way preposition, dative case, home
+:track: a1/how-to/say-where-things-are-neighbourhood
+:mode: examples
+:presenters: deniz
+:title: Wo ist das?
+:title-en: Where is it?
+:tags: directions, dative case
 
-Wo ist mein Schlüssel?
-: Where is my key?
+Die Toilette ist hinten rechts.
+: The toilet is at the back on the right.
 
-Der Schlüssel ist auf dem Tisch.
-: The key is on the table.
+Der Zucker ist dort, neben der Milch.
+: The sugar is there, next to the milk.
 
-Die Brille ist in der Tasche.
-: The glasses are in the bag.
+Die Tassen sind oben im Regal.
+: The cups are up on the shelf.
 
-Das Buch liegt auf dem Sofa.
-: The book is lying on the sofa.
+Das Café ist direkt am Kanal.
+: The café is right on the canal.
 
-Die Katze ist unter dem Tisch.
-: The cat is under the table.
+Die Bäckerei ist gleich neben dem Café.
+: The bakery is right next to the café.
 
-Das Bild hängt an der Wand.
-: The picture hangs on the wall.
+Die Haltestelle ist vor dem Café.
+: The stop is in front of the café.
 
-Die Milch ist im Kühlschrank.
-: The milk is in the fridge.
+Der Supermarkt ist an der Ecke.
+: The supermarket is on the corner.
 
-Wir sind in der Küche.
-: We are in the kitchen.
+Es gibt eine Apotheke in der Nähe.
+: There's a pharmacy nearby.
 
-Er ist im Büro.
-: He is in the office.
+Der Park ist hinter der Kirche.
+: The park is behind the church.
 
-Sie ist gerade im Supermarkt.
-: She is at the supermarket right now.
+Der Laden von meinem Vater ist in der Oranienstraße.
+: My father's shop is on Oranienstraße.
 
-Das Restaurant ist an der Ecke.
-: The restaurant is on the corner.
+Meine Familie wohnt ganz in der Nähe.
+: My family lives very close by.
 
-Die Toilette ist links.
-: The toilet is on the left.
+Das Tempelhofer Feld ist nicht weit.
+: Tempelhofer Feld isn't far.
 
-Der Aufzug ist rechts.
-: The lift is on the right.
+Die U-Bahn ist links, die Bushaltestelle rechts.
+: The underground is on the left, the bus stop on the right.
 
-Die Apotheke ist neben dem Bahnhof.
-: The pharmacy is next to the station.
-
-Der Parkplatz ist hinter dem Haus.
-: The car park is behind the house.
-
-Die Haltestelle ist vor der Tür.
-: The stop is in front of the door.
-
-Dein Handy liegt dort.
-: Your phone is lying there.
-
-Hier ist es.
-: Here it is.
-
-Es gibt einen Park in der Nähe.
-: There is a park nearby.
-
-Der Bahnhof ist nicht weit.
-: The station is not far.
-
-Oben ist das Schlafzimmer.
-: The bedroom is upstairs.
+Hier ist es, auf der Karte.
+: Here it is, on the map.
 :::
 
 ## Summary
@@ -160,21 +182,16 @@ Oben ist das Schlafzimmer.
 :::{admonition} Key points
 :class: note
 
-- *Wo ist ...?* plus *sein* covers every location question.
-- Location chunks: *auf dem, in der, im, unter dem, neben dem, an der*.
-- Direction words: *links, rechts, oben, unten, hier, dort*.
-- *In der Nähe* and *nicht weit* handle distance without numbers.
+- *Wo ist …?* asks about one thing, *Wo sind …?* about more than one.
+- A place phrase answers: *auf dem Tisch*, *in der Küche*, *im Kühlschrank*, *neben dem Café*.
+- After these position words, *der* and *das* become *dem*, and *die* becomes *der*.
+- *Links*, *rechts*, *dort* and *in der Nähe* place things with no article.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Die Milch ist in Kühlschrank.* → Die Milch ist **im** Kühlschrank. (the chunk includes the article)
-- *\*Der Schlüssel ist auf den Tisch.* → auf **dem** Tisch. (location chunks use the dative form)
-- *\*Wohin ist die Apotheke?* → **Wo** ist die Apotheke? (location, not direction)
+- *\*Die Milch ist in Kühlschrank.* → Die Milch ist **im** Kühlschrank. (the place phrase keeps its article, here shortened to *im*; learn more in [Contracted prepositions](/a1/grammar/prepositions/kurzformen.md))
+- *\*Der Schlüssel ist auf den Tisch.* → Der Schlüssel ist auf **dem** Tisch. (a place takes *dem*, not *den*; learn more in [Two-way prepositions](/a1/grammar/prepositions/wechselpraepositionen.md))
+- *\*Lana ist nach Hause.* → Lana ist **zu** Hause. (*nach Hause* is where someone goes; learn more in [Local prepositions with dative](/a1/grammar/prepositions/lokale-praepositionen-dativ.md))
 :::
-
-## Related articles
-
-- [](/a1/grammar/verbs/es-gibt.md)
-- [](/a1/grammar/prepositions/lokale-praepositionen-dativ.md)
