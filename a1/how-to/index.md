@@ -36,4 +36,6 @@ talk-about-the-weather
 talk-about-the-past
 understand-signs-and-announcements
 ask-for-help-and-clarification
+count-and-give-numbers
+say-thank-you-and-sorry
 ```
