@@ -1,164 +1,192 @@
 ---
+target-title: Bitten und antworten
+related: [/a1/grammar/verbs/koennen-muessen-wollen, ask-for-help-and-clarification, choose-between-du-and-sie]
+tags: [politeness, asking for help]
+skills: [a1-get-things-done]
 myst:
   html_meta:
-    description: "A1 how-to: requests. Ask for help politely with können and bitte, soften commands, and accept or decline requests naturally."
-    keywords: "german, a1, how to, requests, kannst du, können sie, bitte, helfen, polite, responses"
+    description: "How to make and answer requests in German: Können Sie mir helfen?, Kannst du …?, bitte, and the replies Ja, gern and Tut mir leid."
+    keywords: "polite requests in german, können sie mir helfen, kannst du, bitte, ja gern, tut mir leid"
     "property=og:title": "Make and answer requests"
-    "property=og:description": "A1 how-to: requests. Ask for help politely with können and bitte, soften commands, and accept or decline requests naturally."
+    "property=og:description": "How to make and answer requests in German: Können Sie mir helfen?, Kannst du …?, bitte, and the replies Ja, gern and Tut mir leid."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Make and answer requests
 
-Requests in German follow settled patterns: getting attention politely, asking for something without sounding rude, and answering yes gladly or no with an excuse.
+Polite requests in German are mostly questions with *können* (can) and a *bitte*. The answer is a quick yes, such as *Ja, gern*, or a no that starts with *Tut mir leid*.
 
-The usual polite request is a question with *können*, a {term}`modal verb` that sends the action {term}`verb` to the very end: *Können Sie mir helfen?* Adding *bitte* softens almost anything, and strangers get *Entschuldigung* first. A bare command can sound like an order, and a bare *Nein* can sound cold. A refusal therefore pairs *Tut mir leid* with a short reason.
+As in English, a request sounds friendlier as a question than as an order. Who is being asked decides the question: strangers and staff get *Können Sie …?*, and friends and family get *Kannst du …?* [Choose between du and Sie](choose-between-du-and-sie.md) covers the choice.
 
 ## When to use it
 
-- Asking for help, repetition, or a small favour
-- Getting a stranger's attention with *Entschuldigung*
-- Saying yes or no when someone asks you for something
+- Asking a stranger on a train for help with a heavy suitcase
+- Asking someone at the next table for a pen
+- Asking a brother or sister to buy bread on the way
+- Saying no to a friend's plan for the weekend
 
 ## Key phrases
 
 ### Asking
 
-| Phrase | Notes |
-|---|---|
-| {stack}`Kannst du mir helfen? \| Can you help me?` | informal |
-| {stack}`Können Sie mir helfen? \| Can you help me?` | formal |
-| {stack}`Entschuldigung, ... \| Excuse me, ...` | opens any request to a stranger |
-| {stack}`..., bitte. \| ..., please.` | softens everything |
+*Können* is a [modal verb](/a1/grammar/verbs/koennen-muessen-wollen.md): it comes first in the question, and the verb for the action goes to the very end. *Bitte* can sit almost anywhere in the middle.
+
+:::::{tab-set}
+
+::::{tab-item} Formal (Sie)
+:::{ol-examples}
+:presenters: max
+Entschuldigung, können Sie mir helfen?
+: Excuse me, can you help me?
+
+Können Sie bitte das Fenster zumachen?
+: Could you close the window, please?
+
+Haben Sie einen Stift für mich?
+: Do you have a pen for me?
+:::
+::::
+
+::::{tab-item} Informal (du)
+:::{ol-examples}
+:presenters: emilia
+Lukas, kannst du mir helfen?
+: Lukas, can you help me?
+
+Kannst du bitte das Brot kaufen?
+: Can you buy the bread, please?
+
+Gib mir bitte das Salz.
+: Pass me the salt, please.
+:::
+::::
+
+:::::
 
 ### Answering
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Ja, gern. / Natürlich. \| Gladly. / Of course.` | saying yes |
-| {stack}`Tut mir leid, ... \| I'm sorry, ...` | saying no politely |
-| {stack}`Danke für deine Hilfe. \| Thanks for your help.` | |
+| {stack}`Ja, gern. \| Yes, gladly.` | the friendliest yes |
+| {stack}`Natürlich. / Klar. \| Of course. / Sure.` | *klar* is informal |
+| {stack}`Kein Problem. \| No problem.` | for small favours |
+| {stack}`Tut mir leid, … \| I'm sorry, …` | starts a no, followed by a short reason |
+| {stack}`Leider nicht. \| I'm afraid not.` | *leider* (unfortunately) softens a no |
 
-## Asking with *können* or *bitte*
+## Asking a stranger
 
-The polite workhorse is a question with *können*: name the person, then what you want, with the action verb at the very end. Add *bitte* anywhere in the middle and the request cannot sound harsh.
-
-:::{ol-examples}
-:presenters: emilia
-Kannst du das Fenster öffnen?
-: Can you open the window?
-
-Können Sie das bitte wiederholen?
-: Can you repeat that, please?
-
-Kann ich eine Frage stellen?
-: Can I ask a question?
-:::
-
-Short commands are fine in German when *bitte* rides along, especially for small everyday things. The full {term}`imperative` has its own grammar article, and at A1 these work best as fixed patterns.
-
-:::{ol-examples}
-:presenters: emilia
-Einen Moment, bitte.
-: One moment, please.
-
-Machst du bitte die Tür zu?
-: Will you close the door, please?
-
-Hilf mir bitte!
-: Help me, please!
-:::
-
-## Saying yes and saying no
-
-Accepting is short: *Ja, gern. Natürlich. Kein Problem.* Declining pairs an apology with a reason: *Tut mir leid, ich habe keine Zeit.* A reason, even a small one, keeps the no friendly.
-
-:::{ol-examples}
-:presenters: emilia
-Das mache ich gern.
-: I'll gladly do that.
-
-Tut mir leid, ich habe keine Zeit.
-: I'm sorry, I don't have time.
-
-Leider geht das nicht.
-: Unfortunately that's not possible.
-:::
-
-## Hear it in practice
+Between strangers the request opens with *Entschuldigung*. A no comes with a reason, even a small one, so that it stays friendly.
 
 :::{audio-examples}
 :track: a1/how-to/make-and-answer-requests
-:presenters: emilia
-:title: Bitten und Antworten
+:mode: pairs
+:presenters: max, maria
+:title: Bitten und antworten
 :title-en: Make and answer requests
-:tags: politeness, modal verb
+:tags: politeness, modal verb, formal
 
-Kannst du mir helfen?
-: Can you help me?
+Entschuldigung, können Sie mir helfen?
+: Excuse me, can you help me?
+Ja, natürlich. Was brauchen Sie?
+: Yes, of course. What do you need?
 
-Können Sie mir helfen?
-: Can you help me? (formal)
+Können Sie mir bitte mit dem Koffer helfen?
+: Could you help me with the suitcase, please?
+Ja, gern. Der ist aber schwer!
+: Yes, gladly. It's heavy, though!
 
-Ja, natürlich.
-: Yes, of course.
+Ist hier noch frei?
+: Is this seat free?
+Ja, bitte.
+: Yes, go ahead.
 
-Ja, gern.
-: Yes, gladly.
-
+Können Sie bitte das Fenster zumachen?
+: Could you close the window, please?
 Kein Problem.
 : No problem.
 
-Tut mir leid, ich habe keine Zeit.
-: I'm sorry, I don't have time.
+Haben Sie einen Stift für mich?
+: Do you have a pen for me?
+Ja, hier, bitte.
+: Yes, here you are.
 
-Kannst du das Fenster öffnen?
-: Can you open the window?
+Können Sie mir zehn Euro wechseln?
+: Can you change ten euros for me?
+Tut mir leid, ich habe kein Kleingeld.
+: I'm sorry, I don't have any change.
 
-Können Sie das bitte wiederholen?
-: Can you repeat that, please?
+Können Sie bitte ein Foto von mir machen?
+: Could you take a photo of me, please?
+Leider nicht, ich muss hier aussteigen.
+: I'm afraid not, I have to get off here.
 
-Kann ich eine Frage stellen?
-: Can I ask a question?
-
-Entschuldigung, wo ist die Toilette?
-: Excuse me, where is the toilet?
-
-Einen Moment, bitte.
-: One moment, please.
-
-Warte bitte auf mich.
-: Please wait for me.
-
-Hilf mir bitte!
-: Help me, please!
-
-Kommen Sie bitte mit.
-: Please come with me.
-
-Kannst du das Brot kaufen?
-: Can you buy the bread?
-
-Machst du bitte die Tür zu?
-: Will you close the door, please?
-
-Ich brauche Hilfe.
-: I need help.
-
-Danke für deine Hilfe.
-: Thanks for your help.
-
-Bitte schön!
-: You're welcome!
-
-Das mache ich gern.
-: I'll gladly do that.
-
-Leider geht das nicht.
-: Unfortunately that's not possible.
+Wie spät ist es, bitte?
+: What time is it, please?
+Es ist kurz nach drei.
+: It's just after three.
 
 Vielen Dank!
 : Thank you very much!
+Bitte schön!
+: You're welcome!
+:::
+
+## Asking family and friends
+
+With *du*, requests are shorter. A short instruction with *bitte*, such as *Gib mir bitte das Salz*, is normal at home. It is the *du* form of [the imperative](/a1/grammar/verbs/imperativ.md).
+
+:::{audio-examples}
+:track: a1/how-to/make-and-answer-requests-informally
+:mode: pairs
+:presenters: emilia, lukas
+:title: Bitten mit du
+:title-en: Make requests informally
+:tags: politeness, imperative, informal
+
+Lukas, kannst du mir helfen?
+: Lukas, can you help me?
+Klar, was ist los?
+: Sure, what's up?
+
+Kannst du mal auf meinen Laptop schauen?
+: Can you take a look at my laptop?
+Ja, gern. Zeig mal.
+: Yes, sure. Show me.
+
+Kannst du bitte das Brot kaufen?
+: Can you buy the bread, please?
+Kein Problem.
+: No problem.
+
+Gib mir bitte das Salz.
+: Pass me the salt, please.
+Hier, bitte.
+: Here you go.
+
+Machst du bitte die Tür zu?
+: Will you shut the door, please?
+Ja, sofort.
+: Yes, right away.
+
+Kommst du am Sonntag mit zum Flohmarkt?
+: Are you coming to the flea market with me on Sunday?
+Tut mir leid, am Sonntag spiele ich Fußball.
+: Sorry, on Sunday I'm playing football.
+
+Kannst du deine Wäsche mal selbst waschen?
+: Could you wash your own laundry for once?
+Leider nicht. Ich habe keine Waschmaschine.
+: I'm afraid not. I don't have a washing machine.
+
+Wartest du bitte auf mich?
+: Will you wait for me, please?
+Ja, aber nur fünf Minuten.
+: Yes, but only five minutes.
+
+Danke, du bist super!
+: Thanks, you're great!
+Bitte, gern.
+: You're welcome.
 :::
 
 ## Summary
@@ -166,21 +194,15 @@ Vielen Dank!
 :::{admonition} Key points
 :class: note
 
-- *Kannst du / Können Sie ... ?* plus the verb at the end makes any polite request.
-- *Bitte* softens; *Entschuldigung* opens requests to strangers.
-- Yes: *Ja, gern. Natürlich. Kein Problem.*
-- No: *Tut mir leid* plus a short reason.
+- *Können Sie …?* for strangers and *Kannst du …?* for friends make most requests, with the action verb at the end.
+- *Bitte* softens a request, and *Entschuldigung* opens one to a stranger.
+- Yes: *Ja, gern*, *Natürlich*, *Kein Problem*.
+- No: *Tut mir leid* or *Leider nicht*, followed by a short reason.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Kannst du helfen mir?* → Kannst du **mir helfen**? (the action verb goes to the end)
-- Requests without *bitte* or *können*: *Öffnen Sie das Fenster* alone sounds like an order.
-- A bare *Nein.* as an answer: add *Tut mir leid* and a reason.
+- *\*Kannst du helfen mir?* → Kannst du **mir helfen**? (the action verb goes to the end; learn more in [Modal verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md))
+- *\*Bitte helfen mir.* → **Helfen Sie mir** bitte. (the formal instruction needs *Sie*; learn more in [The imperative](/a1/grammar/verbs/imperativ.md))
 :::
-
-## Related articles
-
-- [](/a1/grammar/verbs/koennen-muessen-wollen.md)
-- [](/a1/grammar/verbs/imperativ.md)
