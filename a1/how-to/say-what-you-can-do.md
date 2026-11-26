@@ -192,5 +192,5 @@ Am Samstag kann ich leider nicht.
 
 - *\*Ich kann schwimmen gut.* → Ich kann **gut schwimmen**. (the skill goes last)
 - *\*Er kannt kochen.* → Er **kann** kochen. (no ending after *er*; learn more in [Modal verbs](/a1/grammar/verbs/koennen-muessen-wollen.md))
-- *\*Ich kann die Gitarre spielen.* → Ich kann **Gitarre** spielen. (an instrument takes no article)
+- *\*Ich kann zu kochen.* → Ich kann kochen. (no *zu* after *können*; learn more in [Modal verbs](/a1/grammar/verbs/koennen-muessen-wollen.md))
 :::
