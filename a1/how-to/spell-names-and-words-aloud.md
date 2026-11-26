@@ -1,157 +1,188 @@
 ---
+target-title: Buchstabieren
+related: [ask-for-help-and-clarification, /a1/grammar/pronouns/man]
+tags: [personal details, phone calls]
+skills: [a1-meet-people]
 myst:
   html_meta:
-    description: "A1 how-to: spell names and words aloud. Spell your name aloud, ask how a word is written, and follow letter-by-letter dictation in German."
-    keywords: "german, a1, how to, alphabet, spelling, buchstabieren, wie schreibt man das, umlaut, letters"
+    description: "How to spell names and words aloud in German: the German alphabet, ä, ö, ü and ß, Doppel-T, A wie Anton, and Wie schreibt man das?"
+    keywords: "german alphabet, spell a name in german, buchstabieren, wie schreibt man das, a wie anton, doppel-t"
     "property=og:title": "Spell names and words aloud"
-    "property=og:description": "A1 how-to: spell names and words aloud. Spell your name aloud, ask how a word is written, and follow letter-by-letter dictation in German."
+    "property=og:description": "How to spell names and words aloud in German: the German alphabet, ä, ö, ü and ß, Doppel-T, A wie Anton, and Wie schreibt man das?"
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Spell names and words aloud
 
-Spelling aloud is a survival skill in Germany, needed at every reception desk and on every phone call about a form.
+Names get spelled aloud at reception desks and on the phone, often twice. The German alphabet has the same 26 letters as English, plus four of its own, and several letters have different names.
 
-The German letter names differ enough from the English ones to cause real trouble: *E* sounds like English *A*, and *I* sounds like English *E*. {term}`Umlauts <umlaut>` add a step of their own, because *Müller* and *Muller* are different names on a form. On the phone, Germans also tie letters to first names, as in *A wie Anton*, so that similar sounds do not get mixed up.
+To spell a name in German, the letters are said one by one. The speaker also names what one letter cannot show: a double letter or an {term}`umlaut` (the two dots on *ä*, *ö* and *ü*). The question that starts it all is *Wie schreibt man das?* (how is that written?).
 
 ## When to use it
 
-- Giving your name on the phone or at a reception desk
-- Filling in forms together with an official
-- Checking how an unfamiliar word or name is written
+- Spelling a surname for a doctor's receptionist on the phone
+- Booking a table and giving a name for the reservation
+- Checking how a new colleague writes her name
+- Spelling an email address for a hotel booking
 
 ## Key phrases
 
-### Asking how to spell it
+### Asking for the spelling
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Wie schreibt man das? \| How do you spell that?` | literally "how does one write that" |
-| {stack}`Können Sie das buchstabieren? \| Can you spell that?` | formal |
+| {stack}`Wie schreibt man das? \| How do you spell that?` | the everyday question; *man* means "one" or "people", as [man](/a1/grammar/pronouns/man.md) explains |
+| {stack}`Können Sie das bitte buchstabieren? \| Can you spell that, please?` | {bdg-light}`formal`; with *du*: *Kannst du das buchstabieren?* |
+| {stack}`Mit D oder mit T? \| With D or with T?` | checks one letter |
 
 ### Spelling it out
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Ich buchstabiere: ... \| I'll spell it: ...` | then the letters |
-| {stack}`mit Doppel-S \| with double S` | for ss |
-| {stack}`mit Umlaut \| with an umlaut` | for ä, ö, ü |
+| {stack}`Ich buchstabiere: … \| I'll spell it: …` | then the letters, one by one |
+| {stack}`mit Doppel-T \| with double T` | for two of the same letter: *Doppel-S*, *Doppel-N* |
+| {stack}`mit Ü \| with Ü` | an umlaut changes the name: *Müller* is not *Muller* |
+| {stack}`T wie Theodor \| T as in Theodor` | a word for a letter that is easy to mishear |
 
-### During dictation
+## The German alphabet
 
-| Phrase | Notes |
+Most consonants sound close to English. The vowels do not: German *E* sounds like English *A*, and German *I* like English *E*. A few more catch English speakers out.
+
+| Letter | Notes |
 |---|---|
-| {stack}`Noch einmal, bitte. \| Once again, please.` | during dictation |
-| {stack}`Langsamer, bitte. \| Slower, please.` | during dictation |
+| J | "yot", never "jay" |
+| V | "fow", the same sound as *F* |
+| W | "vay", never "double-u" |
+| Y | "üpsilon" |
+| Z | "tset" |
 
-## The misleading letters
+The four extra letters are *ä*, *ö* and *ü*, each a vowel with an umlaut, and *ß*, called *Eszett* (a sharp *s*).
 
-Most German letter names are close to English, but a handful sound misleading. These are worth drilling:
+:::{culture-note}
+On the phone, Germans tie letters to first names: *A wie Anton*, *B wie Berta*, *S wie Samuel*. A newer standard (DIN 5009, revised in 2022) uses cities instead, such as *A wie Aachen* and *B wie Berlin*. Both are understood, and many people still use the old names.
+:::
 
-| Letter | Sounds like | Watch out |
-|---|---|---|
-| E | "ay" | sounds like English A |
-| I | "ee" | sounds like English E |
-| V | "fow" | not "vee" |
-| W | "vay" | this one is "vee"-like |
-| Z | "tset" | never "zee" |
+:::{audio-examples}
+:track: a1/how-to/spell-names-and-words-aloud-alphabet
+:presenters: roman
+:title: Das Alphabet
+:title-en: Say the alphabet
+:tags: personal details
 
-German adds four letters of its own: **ä, ö, ü** (the umlauts) and **ß** (called *Eszett* or *scharfes S*).
+A, B, C, D, E
+: A, B, C, D, E
+
+F, G, H, I, J
+: F, G, H, I, J
+
+K, L, M, N, O
+: K, L, M, N, O
+
+P, Q, R, S, T
+: P, Q, R, S, T
+
+U, V, W
+: U, V, W
+
+X, Y, Z
+: X, Y, Z
+
+Ä, Ö, Ü
+: Ä, Ö, Ü
+
+Eszett
+: ß
+
+E und I
+: E and I
+
+V und W
+: V and W
+
+J und Y
+: J and Y
+
+A wie Anton, B wie Berta
+: A as in Anton, B as in Berta
+
+C wie Cäsar, D wie Dora
+: C as in Cäsar, D as in Dora
+
+E wie Emil, F wie Friedrich
+: E as in Emil, F as in Friedrich
+
+S wie Samuel, T wie Theodor
+: S as in Samuel, T as in Theodor
+
+Z wie Zacharias
+: Z as in Zacharias
+:::
 
 ## Spelling a name
 
-The letters go one by one. For clarity, Germans often anchor them to first names: *A wie Anton, B wie Berta*, a habit that turns up on the phone constantly.
+A double letter is *Doppel-* and the letter, so *Schmitt* ends in *Doppel-T*. When the line is bad, a word for each letter makes the spelling clear. If it comes too fast, *Noch einmal, bitte* asks for it again, as [Ask for help and clarification](ask-for-help-and-clarification.md) shows. Here Julia, a journalist, takes down Tobias's details for an article.
 
 :::{ol-examples}
-:presenters: emilia
-Ich buchstabiere: A, N, N, A.
-: I'll spell it: A, N, N, A.
+:presenters: tobias
+S, C, H, M, I, Doppel-T.
+: S, C, H, M, I, double T.
 
-Mein Name ist Meyer: M, E, Y, E, R.
-: My name is Meyer: M, E, Y, E, R.
-
-Schreibt man das mit V oder mit F?
-: Is that written with V or with F?
+Mit Doppel-T, ohne D.
+: With double T, no D.
 :::
-
-:::{tip}
-If dictation gets too fast, two short phrases save you: *Noch einmal, bitte* and *Langsamer, bitte*. No full sentence needed.
-:::
-
-## Hear it in practice
 
 :::{audio-examples}
 :track: a1/how-to/spell-names-and-words-aloud
-:presenters: emilia
-:title: Buchstabieren und das Alphabet
+:mode: pairs
+:presenters: emilia, tobias
+:title: Buchstabieren
 :title-en: Spell names and words aloud
-:tags: personal details
+:tags: personal details, phone calls, formal
 
-Wie schreibt man das?
-: How do you spell that?
+Wie ist Ihr Name, bitte?
+: What's your name, please?
+Tobias Schmitt.
+: Tobias Schmitt.
+
+Wie schreibt man Schmitt?
+: How do you spell Schmitt?
+S, C, H, M, I, Doppel-T.
+: S, C, H, M, I, double T.
+
+Mit D oder mit T?
+: With D or with T?
+Mit Doppel-T, ohne D.
+: With double T, no D.
+
+Und Tobias?
+: And Tobias?
+T, O, B, I, A, S.
+: T, O, B, I, A, S.
+
+Wo arbeiten Sie?
+: Where do you work?
+In Adlershof.
+: In Adlershof.
 
 Können Sie das bitte buchstabieren?
 : Can you spell that, please?
+A, D, L, E, R, S, H, O, F.
+: A, D, L, E, R, S, H, O, F.
 
-Kannst du das buchstabieren?
-: Can you spell that?
-
-Ich buchstabiere: A, N, N, A.
-: I'll spell it: A, N, N, A.
-
-Mein Name ist Meyer: M, E, Y, E, R.
-: My name is Meyer: M, E, Y, E, R.
-
-Schreibt man das mit V oder mit F?
-: Is that written with V or with F?
-
-Das schreibt man mit Doppel-S.
-: That is written with double S.
-
-Ist das mit Umlaut?
-: Is that with an umlaut?
-
-Ja, mit Ä.
-: Yes, with Ä.
-
-A wie Anton.
-: A as in Anton.
-
-B wie Berta.
-: B as in Berta.
-
-S wie Samuel.
-: S as in Samuel.
-
-Wie schreibt man Ihren Namen?
-: How do you spell your name?
-
-Mein Nachname ist Kowalski.
-: My surname is Kowalski.
-
-Mein Vorname ist Paul.
-: My first name is Paul.
-
-Und wie ist Ihr Nachname?
-: And what is your surname?
+Sie kommen aus Leipzig, oder?
+: You're from Leipzig, aren't you?
+Ja. L, E, I, P, Z, I, G.
+: Yes. L, E, I, P, Z, I, G.
 
 Noch einmal, bitte.
-: Once again, please.
+: Once more, please.
+L wie Ludwig, E wie Emil, I wie Ida, P wie Paula, Z wie Zacharias, I wie Ida, G wie Gustav.
+: L as in Ludwig, E as in Emil, I as in Ida, P as in Paula, Z as in Zacharias, I as in Ida, G as in Gustav.
 
-Langsamer, bitte.
-: Slower, please.
-
-Wie bitte?
-: Pardon?
-
-Das ist richtig.
-: That is correct.
-
-Alles klar!
-: Got it!
-
-Danke schön!
-: Thank you!
+Ist das richtig: S, C, H, M, I, Doppel-T?
+: Is that right: S, C, H, M, I, double T?
+Ja, genau.
+: Yes, exactly.
 :::
 
 ## Summary
@@ -159,21 +190,16 @@ Danke schön!
 :::{admonition} Key points
 :class: note
 
-- *Wie schreibt man das?* asks for spelling; *Ich buchstabiere* announces it.
-- Drill the misleading letters: E, I, V, W, Z.
-- Know the extras: *ä, ö, ü* (mit Umlaut) and *ß* (Eszett).
-- *A wie Anton* anchors a letter to a name and avoids mishearing.
+- *Wie schreibt man das?* asks for a spelling, and *Ich buchstabiere* starts one.
+- German *E* sounds like English *A*, and *I* like English *E*. *W* is "vay", *V* is "fow", *Z* is "tset".
+- *Ä*, *ö*, *ü* and *ß* are letters of their own, so the spelling names them.
+- *Doppel-T* gives a double letter, and *T wie Theodor* makes a letter clear on the phone.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- Saying English letter names: German *E* is "ay", German *I* is "ee". Mixing systems garbles the spelling.
-- Forgetting to mention the umlaut: *Müller* spelled without *mit Ü* becomes *Muller* on the form.
-- *\*Wie buchstabiert man das?* is understandable, but the everyday question is **Wie schreibt man das?**
+- English names for *E* and *I*: *E* said "ee" is heard as **I** → say "ay" for *E* and "ee" for *I*.
+- *W* said "double-u" → **"vay"**. A German listener may not recognise "double-u" at all.
+- *Müller* spelled without its umlaut → **M, Ü, Doppel-L, E, R**. Without *Ü* it becomes a different name.
 :::
-
-## Related articles
-
-- [](/a1/how-to/ask-for-help-and-clarification.md)
-- [](/a1/grammar/question-words/fragewoerter-umstaende.md)
