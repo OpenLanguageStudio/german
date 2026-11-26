@@ -135,14 +135,14 @@ Gute Nacht, schlaf gut!
 : Good night, sleep well!
 :::
 
-## Birthdays, holidays and big days
+## Birthdays and holidays
 
 Happy birthday in German is *Alles Gute zum Geburtstag!* or *Herzlichen Glückwunsch!* The birthday person says *Danke!* or *Vielen Dank!* [A birthday greeting](/a1/writing/postcard-2.md) shows the same wishes in a card.
 
 *Guten Rutsch!* (a good slide into the New Year) is said in the days before New Year. From midnight on it is *Frohes neues Jahr!*
 
 :::{culture-note}
-In Germany it counts as bad luck to wish someone a happy birthday before the day. Cards, wishes and presents wait for the birthday itself. At a party the evening before, everyone waits until midnight.
+Many Germans believe it brings bad luck to wish someone a happy birthday before the day. Cards, wishes and presents wait for the birthday itself. At a party the evening before, guests often wait until midnight.
 :::
 
 :::{ol-examples}
