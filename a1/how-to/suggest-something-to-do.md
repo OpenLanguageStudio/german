@@ -14,7 +14,7 @@ myst:
 ---
 # Suggest something to do
 
-Making suggestions in German almost always involves *wir*: *Wollen wir ins Kino gehen?* or *Gehen wir schwimmen?* The other person agrees with *Gute Idee!*, offers something else with *lieber*, or says no.
+A suggestion in German usually has *wir* or *uns* in it: *Wollen wir ins Kino gehen?*, *Gehen wir schwimmen?* or *Lass uns schwimmen gehen!* The other person agrees with *Gute Idee!*, offers something else with *lieber*, or says no.
 
 ## When to use it
 
@@ -47,7 +47,7 @@ Making suggestions in German almost always involves *wir*: *Wollen wir ins Kino 
 
 ## Suggesting with *wir*
 
-Let's in German has three everyday forms. *Wollen wir …?* uses *wollen* (to want), one of the [modal verbs](/a1/grammar/verbs/koennen-muessen-wollen.md), so the main verb goes to the end: *Wollen wir zeichnen?* It works like English *shall we*.
+German has three everyday ways to say *let's*. *Wollen wir …?* uses *wollen* (to want), one of the [modal verbs](/a1/grammar/verbs/koennen-muessen-wollen.md), so the main verb goes to the end: *Wollen wir zeichnen?* It works like English *shall we*.
 
 *Gehen wir …?* puts the verb first, then *wir*, with any verb: *Spielen wir ein Videospiel?* *Lass uns …* is the closest to English *let's*: *Lass uns ins Kino gehen!*
 
