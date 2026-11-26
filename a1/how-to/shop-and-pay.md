@@ -126,7 +126,7 @@ Nein, leider nur bar.
 
 ## At the till
 
-At the till the staff speak first. Their questions come in much the same order everywhere: anything else, the total, cash or card, a bag. *Das macht …* gives the total, and a price is read as *sechs Euro zehn*, much as English reads "six ten". [Numbers](/a1/vocabulary/numbers-1.md) has the words for prices.
+At the till the staff speak first. Their questions come in much the same order everywhere: anything else, the total, cash or card, a bag. *Das macht …* gives the total, and a price is read as *sechs Euro zehn*, much as English reads "six ten". [Count and give numbers](/a1/how-to/count-and-give-numbers.md) has the words for prices.
 
 :::{culture-note}
 Many shops in Germany now take cards, but some bakeries and market stalls still take cash only, or cards only above a few euros. Bags usually cost extra, so many people bring their own.
