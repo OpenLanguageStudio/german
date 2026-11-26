@@ -61,7 +61,7 @@ Am liebsten fahre ich mit dem Nachtzug.
 A journey across the country often starts with a bus to the main station. The questions are about times, platforms and changes. Times come as numbers, as in [Tell the time and day](tell-the-time-and-day.md).
 
 :::{culture-note}
-Long-distance trains in Germany are often a few minutes late, so *Verspätung* is one of the first words heard on a platform. Station announcements give the new time and sometimes a new platform. [Understand signs and announcements](understand-signs-and-announcements.md) has the typical wording.
+Long-distance trains in Germany are often a few minutes late, so *Verspätung* is a word often heard on platforms. Station announcements give the new time and sometimes a new platform. [Understand signs and announcements](understand-signs-and-announcements.md) has the typical wording.
 :::
 
 :::{audio-examples}
@@ -99,8 +99,8 @@ Nein, der fährt nach Hamburg.
 
 Welcher Bus fährt zum Hauptbahnhof?
 : Which bus goes to the main station?
-Die Linie zwölf, dort drüben.
-: The number twelve, over there.
+Der Bus dort drüben.
+: The bus over there.
 
 Hält der Bus am Hauptbahnhof?
 : Does the bus stop at the main station?
