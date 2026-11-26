@@ -10,6 +10,4 @@ Wherever the same phrases come in a *Sie* and a *du* version, show both in a tab
 those two labels, formal first, with an examples block in each tab. Why: readers learn to
 expect the two registers in the same place on every page.
 
-**DE-W2. Run the lexicon check on every page.** Articles, plurals and spellings of German
-words in tables and examples are checked against the course lexicon before review. Fix every
-error and look at every query. Why: a wrong gender in a table teaches the wrong word.
+**DE-W2.** *Retired 2026-11-26.*
