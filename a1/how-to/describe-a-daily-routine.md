@@ -1,157 +1,140 @@
 ---
+target-title: Den Tagesablauf beschreiben
+related: [/a1/grammar/verbs/trennbare-verben, /a1/grammar/sentence-structure/verb-position-2]
+tags: [daily routine, separable verb, time and dates]
+skills: [a1-talk-about-life]
 myst:
   html_meta:
-    description: "A1 how-to: daily routine. Walk through your day in German from getting up to going to bed, with time phrases and the verbs that split."
-    keywords: "german, a1, how to, daily routine, tagesablauf, aufstehen, arbeiten, time phrases, zuerst dann"
+    description: "How to describe a daily routine in German: Ich stehe um sechs auf, Zuerst mache ich Yoga, Um acht fahre ich zur Arbeit, with times and word order."
+    keywords: "daily routine in german, aufstehen, wann stehst du auf, um acht fahre ich, nach hause, separable verbs"
     "property=og:title": "Describe a daily routine"
-    "property=og:description": "A1 how-to: daily routine. Walk through your day in German from getting up to going to bed, with time phrases and the verbs that split."
+    "property=og:description": "How to describe a daily routine in German: Ich stehe um sechs auf, Zuerst mache ich Yoga, Um acht fahre ich zur Arbeit, with times and word order."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Describe a daily routine
 
-A daily routine, told from getting up to going to bed, is one of the most common things to describe in German at A1.
+A daily routine in German is told in short steps. Each step starts with a time or an order word, such as *um acht* (at eight) or *dann* (then).
 
-The telling needs a time on each step and the words *zuerst*, *dann* and *danach* to hold the order together. Each sentence stays short. Two points of grammar matter here. {term}`Separable verbs <separable verb>` come apart, as in *Ich stehe um sieben auf*. When a sentence opens with the time, the {term}`verb` stays in second place and the {term}`subject` moves behind it: *Um acht fahre ich zur Arbeit*.
+A sentence can start with the time or with *dann*. The {term}`verb` still comes second, and the person moves behind it: *Um acht fahre ich*, *Dann dusche ich*. [The verb in second position](/a1/grammar/sentence-structure/verb-position-2.md) explains the rule. Starting with the time is how a routine usually sounds, so most sentences on this page do it.
 
 ## When to use it
 
-- Telling someone how your day or week looks
-- Comparing routines: work days against weekends
-- Answering *Was machst du am Morgen?* and similar questions
+- Telling a new flatmate when the bathroom is free in the morning
+- Comparing working days with a colleague over lunch
+- Finding a time to meet around work and training
+- Answering a doctor who asks about sleep and meals
 
 ## Key phrases
 
-### The working day
+### Times of the day
+
+[Tell the time and day](tell-the-time-and-day.md) has the clock times. These are the words that place a routine in the day.
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Ich stehe um sieben Uhr auf. \| I get up at seven.` | the verb splits |
-| {stack}`Ich fahre zur Arbeit. \| I go to work.` | |
-| {stack}`Ich arbeite von neun bis fünf. \| I work from nine to five.` | |
-| {stack}`Ich gehe ins Bett. \| I go to bed.` | |
+| {stack}`um sieben (Uhr) \| at seven (o'clock)` | *Uhr* is often left out |
+| {stack}`von neun bis fünf \| from nine to five` | working hours |
+| {stack}`morgens, mittags, abends \| in the mornings, at midday, in the evenings` | every day, as a habit |
+| {stack}`am Morgen, am Abend \| in the morning, in the evening` | one day or every day |
+| {stack}`am Samstag \| on Saturday` | days take *am* |
+| {stack}`nach Hause \| home` | going home; *zu Hause* is being at home |
 
-### Putting it in order
+*Wann stehst du auf?* (When do you get up?) asks for a time, and *Um sechs* is a full answer.
 
-| Phrase | Notes |
-|---|---|
-| {stack}`zuerst, dann, danach \| first, then, after that` | sequence words |
-| {stack}`morgens, mittags, abends \| in the morning / at noon / in the evening` | |
+### Putting the day in order
 
-## A day in order
-
-String the day together with time phrases and sequence words. Each sentence stays simple; the order does the storytelling.
+*Zuerst* (first), *dann* (then) and *danach* (after that) hold the steps together. Like a time, each one opens the sentence, and the verb follows.
 
 :::{ol-examples}
 :presenters: emilia
-Ich stehe um sieben Uhr auf.
-: I get up at seven o'clock.
+Zuerst mache ich Yoga.
+: First I do yoga.
 
-Mittags esse ich in der Kantine.
-: At lunchtime I eat in the canteen.
+Dann dusche ich und frühstücke.
+: Then I have a shower and breakfast.
 
-Abends sehe ich fern.
-: In the evening I watch TV.
+Um acht fahre ich mit dem Fahrrad zur Arbeit.
+: At eight I cycle to work.
 :::
 
-## Word order in a routine
+### Verbs that split
 
-Several routine verbs come apart in the sentence: *aufstehen* becomes *Ich stehe ... auf*, *einkaufen* becomes *Ich kaufe ... ein*, *fernsehen* becomes *Ich sehe ... fern*. The little {term}`prefix` jumps to the very end. These three work as fixed patterns, and the full rule has its own grammar article.
+Several routine verbs come apart: *aufstehen* (get up), *einkaufen* (do the shopping), *anrufen* (phone) and *fernsehen* (watch TV). The verb comes second and its first part goes to the end: *Ich stehe um sechs Uhr auf*. [Separable verbs](/a1/grammar/verbs/trennbare-verben.md) lists more.
 
 :::{ol-examples}
 :presenters: emilia
-Nach der Arbeit **kaufe** ich **ein**.
-: After work I do the shopping.
+Ich stehe um sechs Uhr auf.
+: I get up at six o'clock.
 
-Ich **sehe** abends **fern**.
-: I watch TV in the evening.
+Am Nachmittag rufe ich Leute an.
+: In the afternoon I phone people.
+
+Danach kaufe ich ein.
+: After that I do the shopping.
 :::
 
-A sentence can also open with the time. German then swaps subject and verb, so the verb stays in second position: *Um acht fahre ich zur Arbeit.* A whole day of *ich, ich, ich* sounds mechanical, so this is worth using.
+## A working day and a weekend
 
-:::{ol-examples}
-:presenters: emilia
-Um acht **fahre ich** zur Arbeit.
-: At eight I go to work.
-
-Am Samstag **stehe ich** spät auf.
-: On Saturday I get up late.
-:::
-
-## Hear it in practice
+A routine can run from morning to night, then switch to the weekend with *am Samstag* or *am Sonntag*.
 
 :::{audio-examples}
 :track: a1/how-to/describe-a-daily-routine
 :presenters: emilia
-:title: Der Tagesablauf
-:title-en: Describe a daily routine
+:title: Mein Tag
+:title-en: My day
 :tags: daily routine, separable verb, time and dates
 
-Ich stehe um sieben Uhr auf.
-: I get up at seven o'clock.
+Ich stehe um sechs Uhr auf.
+: I get up at six o'clock.
 
-Ich dusche und frühstücke.
-: I shower and have breakfast.
+Zuerst mache ich Yoga.
+: First I do yoga.
 
-Ich trinke einen Kaffee.
-: I drink a coffee.
+Dann dusche ich und frühstücke.
+: Then I have a shower and breakfast.
 
-Um acht fahre ich zur Arbeit.
-: At eight I go to work.
+Um acht fahre ich mit dem Fahrrad zur Arbeit.
+: At eight I cycle to work.
 
-Ich fahre mit dem Fahrrad.
-: I go by bike.
+Ich fahre auch im Winter mit dem Fahrrad.
+: I cycle in winter too.
 
-Ich arbeite von neun bis fünf.
-: I work from nine to five.
+Am Vormittag schreibe ich Artikel.
+: In the morning I write articles.
 
-Mittags esse ich in der Kantine.
-: At lunchtime I eat in the canteen.
+Mittags esse ich mit Kollegen.
+: At midday I eat with colleagues.
 
-Nach der Arbeit kaufe ich ein.
-: After work I do the shopping.
+Am Nachmittag rufe ich Leute an.
+: In the afternoon I phone people.
 
-Dann koche ich das Abendessen.
-: Then I cook dinner.
+Um sechs fahre ich nach Hause.
+: At six I go home.
 
-Wir essen um sieben.
-: We eat at seven.
+Danach kaufe ich ein.
+: After that I do the shopping.
 
-Abends sehe ich fern.
-: In the evening I watch TV.
+Abends kochen wir in der WG zusammen.
+: In the evenings we cook together in the flat.
 
-Manchmal lese ich ein Buch.
-: Sometimes I read a book.
+Ich sehe nicht oft fern.
+: I don't often watch TV.
 
-Ich gehe um elf ins Bett.
-: I go to bed at eleven.
+Ich lese abends gern.
+: I like reading in the evenings.
 
-Ich schlafe acht Stunden.
-: I sleep eight hours.
+Um elf gehe ich ins Bett.
+: At eleven I go to bed.
 
-Am Samstag stehe ich spät auf.
-: On Saturday I get up late.
+Am Samstag schlafe ich lange.
+: On Saturday I sleep in.
 
-Zuerst frühstücke ich.
-: First I have breakfast.
+Am Sonntagmorgen gehe ich auf den Flohmarkt.
+: On Sunday morning I go to the flea market.
 
-Danach gehe ich einkaufen.
-: After that I go shopping.
-
-Was machst du am Morgen?
-: What do you do in the morning?
-
-Wann stehst du auf?
-: When do you get up?
-
-Ich mache eine Pause.
-: I take a break.
-
-Der Tag beginnt früh.
-: The day starts early.
-
-Am Abend bin ich müde.
-: In the evening I am tired.
+Mittags esse ich dann bei meiner Mutter.
+: Then at midday I eat at my mother's.
 :::
 
 ## Summary
@@ -159,21 +142,16 @@ Am Abend bin ich müde.
 :::{admonition} Key points
 :class: note
 
-- Narrate in order with *zuerst, dann, danach* and time phrases.
-- Routine verbs that split: *aufstehen, einkaufen, fernsehen*; the prefix goes last.
-- Time first is fine, but the verb stays second: *Um acht fahre ich ...*
-- *von ... bis* frames working hours: *von neun bis fünf*.
+- A time or an order word can open the sentence, and the verb stays second: *Um acht fahre ich zur Arbeit.*
+- *Zuerst*, *dann* and *danach* put the steps in order.
+- Some routine verbs split, and their first part goes to the end: *Ich stehe um sechs Uhr auf.*
+- *Nach Hause* is going home, *zu Hause* is being at home.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Ich aufstehe um sieben.* → Ich **stehe** um sieben **auf**. (the prefix splits off)
-- *\*Um acht ich fahre zur Arbeit.* → Um acht **fahre ich** zur Arbeit. (verb stays second)
-- *\*Ich gehe in Bett.* → Ich gehe **ins** Bett. (fixed phrase)
+- *\*Ich aufstehe um sechs.* → Ich **stehe** um sechs **auf**. (learn more in [Separable verbs](/a1/grammar/verbs/trennbare-verben.md))
+- *\*Um acht ich fahre zur Arbeit.* → Um acht **fahre ich** zur Arbeit. (learn more in [The verb in second position](/a1/grammar/sentence-structure/verb-position-2.md))
+- *\*Um sechs fahre ich zu Hause.* → Um sechs fahre ich **nach Hause**. (going home takes *nach*)
 :::
-
-## Related articles
-
-- [](/a1/grammar/verbs/trennbare-verben.md)
-- [](/a1/grammar/sentence-structure/verb-position-2.md)
