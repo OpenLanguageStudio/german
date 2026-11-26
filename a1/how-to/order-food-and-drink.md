@@ -1,24 +1,29 @@
 ---
+target-title: Essen und Trinken bestellen
+related: [/a1/grammar/verbs/moechten, /a1/grammar/cases/akkusativ, choose-between-du-and-sie]
+tags: [food and drink, politeness]
+skills: [a1-shops-and-services]
 myst:
   html_meta:
-    description: "A1 how-to: order food and drink. Read a menu, order politely with möchten and nehmen, state preferences, and ask for the bill."
-    keywords: "german, a1, how to, ordering, restaurant, cafe, bestellen, speisekarte, rechnung, ich nehme"
+    description: "How to order food and drink in German: Ich nehme …, Ich hätte gern … and Die Rechnung, bitte, in a restaurant with Sie and a café with du."
+    keywords: "ordering food in german, ich nehme, ich hätte gern, die rechnung bitte, zusammen oder getrennt, zum mitnehmen"
     "property=og:title": "Order food and drink"
-    "property=og:description": "A1 how-to: order food and drink. Read a menu, order politely with möchten and nehmen, state preferences, and ask for the bill."
+    "property=og:description": "How to order food and drink in German: Ich nehme …, Ich hätte gern … and Die Rechnung, bitte, in a restaurant with Sie and a café with du."
     "property=og:type": "article"
     author: "Open Language - German"
 ---
 # Order food and drink
 
-Ordering food and drink in a café or restaurant runs on a small, predictable script: the menu, the order, any dietary exception, then the bill.
+Ordering food in German, in a café or a restaurant, needs only a few phrases. *Ich nehme …* or *Ich hätte gern …* give the order, and *Die Rechnung, bitte* ends the visit.
 
-The script combines two {term}`verbs <verb>` with one point of grammar. *Ich möchte* and *Ich nehme* carry every order. The dish after them stands in the {term}`accusative <accusative case>`, the form for the thing ordered: *Ich nehme den Salat*. *Ich esse kein Fleisch* states a dietary limit. German restaurants split bills as a matter of course, so *Zusammen oder getrennt?* is a question to expect at the end.
+The staff ask the questions, so most of ordering is answering them. The questions come in a fixed order: something to drink, something to eat, whether it tastes good, whether anything else is wanted. Restaurants use *Sie*. In many cafés, above all with regulars and young people, staff say *du*, and the questions change only in their endings.
 
 ## When to use it
 
-- Ordering at a café, restaurant, or snack stand
-- Stating preferences and asking for recommendations
-- Paying and closing the visit politely
+- Ordering dinner in a restaurant with a table booked
+- Getting a coffee and a croissant at a café counter
+- Asking whether a dish has meat in it
+- Paying the bill as a couple or a group
 
 ## Key phrases
 
@@ -26,176 +31,191 @@ The script combines two {term}`verbs <verb>` with one point of grammar. *Ich mö
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Die Speisekarte, bitte. \| The menu, please.` | |
-| {stack}`Ich möchte ..., bitte. \| I would like ..., please.` | polite order |
-| {stack}`Ich nehme ... \| I'll take ...` | deciding |
-| {stack}`Für mich ..., bitte. \| ... for me, please.` | ordering in a group |
-| {stack}`Ich esse kein ... \| I don't eat ...` | dietary limits |
+| {stack}`Ich nehme … \| I'll have …` | the most common way to order |
+| {stack}`Ich hätte gern … \| I'd like …` | just as common, a little softer |
+| {stack}`Für mich …, bitte. \| … for me, please.` | ordering at a table of several |
+| {stack}`Die Speisekarte, bitte. \| The menu, please.` | *das Menü* is a set meal, not the menu |
+| {stack}`Zum Mitnehmen. \| To take away.` | in cafés and bakeries |
 
 ### Paying
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Die Rechnung, bitte. \| The bill, please.` | |
-| {stack}`Zusammen oder getrennt? \| Together or separately?` | the paying question |
+| {stack}`Die Rechnung, bitte. \| The bill, please.` | *Zahlen, bitte!* is just as common |
+| {stack}`Zusammen oder getrennt? \| Together or separately?` | asked at almost any table of two or more |
+| {stack}`Stimmt so. \| Keep the change.` | the tip, said while handing over the money |
 
-## Ordering and preferences
+### The staff's questions
 
-*Ich möchte* and *Ich nehme* carry every order; the dish stands in the accusative. In a group, *Für mich ...* keeps track of who ordered what.
+The questions are the same in both registers. Only the verb ending and the word for "you" change. [Choose between du and Sie](choose-between-du-and-sie.md) covers which one to use.
 
+:::::{tab-set}
+
+::::{tab-item} Formal (Sie)
 :::{ol-examples}
-:presenters: emilia
-Ich möchte {akk}`eine Pizza`, bitte.
-: I would like a pizza, please.
-
-Ich nehme {akk}`den Salat`.
-: I'll take the salad.
-
-Für mich einen Kaffee, bitte.
-: A coffee for me, please.
-:::
-
-*Kein* states what someone avoids, and *empfehlen* (to recommend) asks the staff for help.
-
-:::{ol-examples}
-:presenters: emilia
-Ich esse {article}`kein` Fleisch.
-: I don't eat meat.
-
-Haben Sie vegetarische Gerichte?
-: Do you have vegetarian dishes?
-
-Was können Sie empfehlen?
-: What can you recommend?
-:::
-
-## Paying
-
-*Die Rechnung, bitte* or *Ich möchte bezahlen, bitte* brings the bill. Expect the question *Zusammen oder getrennt?*; German restaurants split bills without blinking.
-
-:::{ol-examples}
-:presenters: emilia
-Die Rechnung, bitte.
-: The bill, please.
-
-Zusammen oder getrennt? Zusammen, bitte.
-: Together or separately? Together, please.
-:::
-
-## Hear it in practice
-
-:::{audio-examples}
-:track: a1/how-to/order-food-and-drink
-:presenters: emilia
-:title: Essen und Trinken bestellen
-:title-en: Order food and drink
-:tags: food and drink, politeness
-
-Die Speisekarte, bitte.
-: The menu, please.
-
-Was möchten Sie bestellen?
-: What would you like to order?
-
-Ich möchte eine Pizza, bitte.
-: I would like a pizza, please.
-
-Ich nehme den Salat.
-: I'll take the salad.
-
-Ich nehme das Menü.
-: I'll take the set menu.
-
-Für mich einen Kaffee, bitte.
-: A coffee for me, please.
-
-Ein Wasser für mich, bitte.
-: A water for me, please.
-
+:presenters: roman
 Was möchten Sie trinken?
 : What would you like to drink?
 
-Ein Bier, bitte.
-: A beer, please.
-
-Eine Cola und zwei Wasser, bitte.
-: A cola and two waters, please.
-
-Ich esse kein Fleisch.
-: I don't eat meat.
-
-Haben Sie vegetarische Gerichte?
-: Do you have vegetarian dishes?
-
-Was können Sie empfehlen?
-: What can you recommend?
+Möchten Sie schon bestellen?
+: Would you like to order now?
 
 Schmeckt es Ihnen?
-: Are you enjoying the food?
+: Are you enjoying it?
+:::
+::::
 
-Ja, danke, es schmeckt sehr gut.
-: Yes, thanks, it tastes very good.
+::::{tab-item} Informal (du)
+:::{ol-examples}
+:presenters: deniz
+Was möchtest du trinken?
+: What would you like to drink?
 
-Sonst noch etwas?
-: Anything else?
+Möchtest du etwas essen?
+: Would you like something to eat?
 
-Nein, danke. Das ist alles.
-: No, thanks. That's all.
+Möchtest du noch etwas?
+: Would you like anything else?
+:::
+::::
 
-Die Rechnung, bitte.
-: The bill, please.
+:::::
 
-Ich möchte bezahlen, bitte.
-: I would like to pay, please.
+## In a restaurant
+
+The dish ordered takes the [accusative](/a1/grammar/cases/akkusativ.md), the form for the thing someone takes: *Ich nehme den Fisch*, *einen Salat*. [*Möchten*](/a1/grammar/verbs/moechten.md) is the polite verb behind *Was möchten Sie?* In a restaurant the staff usually come back to the table, so nobody calls out to them.
+
+:::{culture-note}
+In Germany the bill usually comes only when someone asks for it, so a long evening is never rushed. A tip of about five to ten percent is usual. People say the total they want to pay as they hand over the money, such as *Fünfundvierzig, bitte*, or say *Stimmt so*.
+:::
+
+Here Lina Haddad has dinner with her husband, and Roman Petrenko serves them.
+
+:::{audio-examples}
+:track: a1/how-to/order-food-and-drink
+:mode: pairs
+:presenters: roman, lina
+:title: Essen und Trinken bestellen
+:title-en: Order food and drink
+:tags: food and drink, politeness, formal
+
+Guten Abend! Haben Sie reserviert?
+: Good evening! Do you have a booking?
+Ja, auf den Namen Haddad.
+: Yes, under the name Haddad.
+
+Hier ist die Speisekarte.
+: Here is the menu.
+Danke schön.
+: Thank you.
+
+Was möchten Sie trinken?
+: What would you like to drink?
+Ein Wasser für mich und ein Bier für meinen Mann.
+: A water for me and a beer for my husband.
+
+Still oder mit Kohlensäure?
+: Still or sparkling?
+Still, bitte.
+: Still, please.
+
+Möchten Sie schon bestellen?
+: Would you like to order now?
+Ja. Ich nehme die Linsensuppe.
+: Yes. I'll have the lentil soup.
+
+Und als Hauptgericht?
+: And as a main course?
+Den Fisch mit Reis, bitte. Ist der Salat vegetarisch?
+: The fish with rice, please. Is the salad vegetarian?
+
+Ja, da ist kein Fleisch drin.
+: Yes, there's no meat in it.
+Dann nehme ich auch einen Salat.
+: Then I'll have a salad too.
+
+Schmeckt es Ihnen?
+: Are you enjoying it?
+Ja, sehr gut, danke.
+: Yes, very good, thank you.
+
+Möchten Sie noch einen Nachtisch?
+: Would you like a dessert?
+Nein, danke, ich bin satt. Die Rechnung, bitte.
+: No, thank you, I'm full. The bill, please.
 
 Zusammen oder getrennt?
 : Together or separately?
-
 Zusammen, bitte.
 : Together, please.
 
-Das Essen war sehr gut.
-: The food was very good.
+Das macht zweiundvierzig Euro.
+: That comes to forty-two euros.
+Fünfundvierzig, bitte.
+: Make it forty-five, please.
 :::
+
+## In a café
+
+At a café counter the order is often to take away, *zum Mitnehmen*, or to drink there, *für hier*. Here Max Lehmann gets his morning coffee from Deniz Kaya, who knows him well, so the two say *du*.
 
 :::{audio-examples}
 :track: a1/how-to/im-cafe-bestellen
-:mode: dialogue
-:presenters: lina, roman
+:mode: pairs
+:presenters: deniz, max
 :title: Im Café bestellen
-:title-en: Ordering in a Café
-:tags: food and drink, politeness
+:title-en: Order in a café
+:tags: food and drink, informal
 
-lina: Guten Morgen! Ist hier noch frei?
-: Good morning! Is this seat free?
-roman: Ja, natürlich. Bitte schön.
-: Yes, of course. Here you are.
-lina: Danke.
-: Thanks.
+Hallo Max!
+: Hi Max!
+Hallo Deniz!
+: Hi Deniz!
 
-roman: Was möchten Sie trinken?
+Was möchtest du trinken?
 : What would you like to drink?
-lina: Einen Kaffee mit Milch, bitte.
-: A coffee with milk, please.
-roman: Und zu essen?
-: And to eat?
-lina: Haben Sie Kuchen?
-: Do you have cake?
-roman: Ja, wir haben Apfelkuchen und Käsekuchen.
-: Yes, we have apple cake and cheesecake.
-lina: Dann nehme ich ein Stück Apfelkuchen.
-: Then I'll have a piece of apple cake.
+Einen Cappuccino, bitte.
+: A cappuccino, please.
 
-lina: Die Rechnung, bitte.
-: The bill, please.
-roman: Das macht sechs Euro zwanzig.
-: That comes to six euros twenty.
-lina: Sieben Euro, bitte. Stimmt so.
-: Seven euros, please. Keep the change.
-roman: Danke. Einen schönen Tag noch!
-: Thanks. Have a nice day!
-lina: Danke, Ihnen auch.
-: Thanks, you too.
+Groß oder klein?
+: Large or small?
+Groß, bitte.
+: Large, please.
+
+Möchtest du etwas essen?
+: Would you like something to eat?
+Ja. Was gibt es heute?
+: Yes. What is there today?
+
+Croissants und Käsekuchen.
+: Croissants and cheesecake.
+Dann nehme ich ein Croissant.
+: Then I'll have a croissant.
+
+Zum Mitnehmen?
+: To take away?
+Nein, für hier.
+: No, to have here.
+
+Möchtest du noch etwas?
+: Would you like anything else?
+Nein, danke. Das ist alles.
+: No, thanks. That's all.
+
+Das macht fünf Euro achtzig.
+: That comes to five euros eighty.
+Kann ich mit dem Handy zahlen?
+: Can I pay with my phone?
+
+Klar, kein Problem.
+: Sure, no problem.
+Danke, Deniz!
+: Thanks, Deniz!
+
+Ich bringe dir den Kaffee.
+: I'll bring you the coffee.
+Super, ich sitze in der Ecke.
+: Great, I'm sitting in the corner.
 :::
 
 ## Summary
@@ -203,21 +223,17 @@ lina: Danke, Ihnen auch.
 :::{admonition} Key points
 :class: note
 
-- Order with *Ich möchte ... / Ich nehme ...*; the dish is accusative.
-- *Für mich ...* sorts group orders.
-- *Ich esse kein ...* states dietary limits without fuss.
-- *Die Rechnung, bitte* and an answer to *Zusammen oder getrennt?* close the visit.
+- *Ich nehme …* and *Ich hätte gern …* carry every order. The dish is in the accusative: *den Fisch*, *einen Salat*.
+- The staff ask the questions, with *Sie* in restaurants and often *du* in cafés.
+- *Die Rechnung, bitte* brings the bill, and *Zusammen oder getrennt?* is the question that follows.
+- The tip goes into the amount said at the end: *Fünfundvierzig, bitte* or *Stimmt so*.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Ich will eine Pizza.* → Ich **möchte** eine Pizza, bitte. (wollen is too blunt here)
-- *\*Ich nehme der Salat.* → Ich nehme **den** Salat. (accusative)
-- *\*Ich esse nicht Fleisch.* → Ich esse **kein** Fleisch. ({term}`nouns <noun>` {term}`negate <negation>` with kein)
+- *\*Ich will eine Pizza.* → Ich **nehme** eine Pizza. / Ich **hätte gern** eine Pizza. (*will* sounds like a demand; learn more in [*möchten*](/a1/grammar/verbs/moechten.md))
+- *\*Ich nehme der Fisch.* → Ich nehme **den** Fisch. (the dish is in the accusative; learn more in [The accusative case](/a1/grammar/cases/akkusativ.md))
+- *\*Ich bin voll.* → Ich bin **satt**. (*voll* here means drunk)
+- *\*Das Menü, bitte.* → **Die Speisekarte**, bitte. (*das Menü* is a set meal)
 :::
-
-## Related articles
-
-- [](/a1/grammar/verbs/moechten.md)
-- [](/a1/grammar/articles/negativartikel.md)
