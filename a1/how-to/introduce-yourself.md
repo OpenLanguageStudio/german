@@ -191,7 +191,7 @@ Mich auch!
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Ich bin von England.* → Ich komme **aus** England. (origin takes *aus*; learn more: [](/a1/grammar/prepositions/lokale-praepositionen-dativ.md))
-- *\*Wo kommst du?* → **Woher** kommst du? (origin asks "where from"; learn more: [](/a1/grammar/question-words/fragewoerter-umstaende.md))
-- *\*Ich komme aus Türkei.* → Ich komme aus **der** Türkei. (a few countries take an article; learn more: [](/a1/vocabulary/countries-and-languages-1.md))
+- *\*Ich bin von England.* → Ich komme **aus** England. (origin takes *aus*; learn more in [Local prepositions with dative](/a1/grammar/prepositions/lokale-praepositionen-dativ.md))
+- *\*Wo kommst du?* → **Woher** kommst du? (origin asks "where from"; learn more in [Question words for circumstances](/a1/grammar/question-words/fragewoerter-umstaende.md))
+- *\*Ich komme aus Türkei.* → Ich komme aus **der** Türkei. (a few countries take an article; learn more in [Countries and languages](/a1/vocabulary/countries-and-languages-1.md))
 :::
