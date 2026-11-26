@@ -177,7 +177,6 @@ Ja, das gefällt mir!
 :::{admonition} Common mistakes
 :class: caution
 
-- *\*Ich mag schwimmen.* → Ich schwimme **gern**. (an activity takes *gern*; learn more in [Gern, lieber, am liebsten](/a1/grammar/adjectives/gern-lieber.md))
-- *\*Ich gern koche.* → Ich koche **gern**. (the verb comes second, *gern* after it)
+- *\*Ich gern koche.* → Ich koche **gern**. (the verb comes second, *gern* after it; learn more in [Gern, lieber, am liebsten](/a1/grammar/adjectives/gern-lieber.md))
 - *\*Ich mag nicht Fisch.* → Ich mag **keinen** Fisch. (learn more in [The negative article](/a1/grammar/articles/negativartikel.md))
 :::
