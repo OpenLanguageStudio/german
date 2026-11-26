@@ -31,10 +31,10 @@ Most words for rooms are plain: *die Küche* (kitchen), *das Wohnzimmer* (living
 
 | Phrase | Notes |
 |---|---|
-| {stack}`das Zimmer \| room` | counts the living room and bedrooms, never the kitchen or bathroom |
+| {stack}`das Zimmer \| room` | counts the living room and bedrooms, usually not the kitchen or bathroom |
 | {stack}`das Bad \| bathroom` | the toilet is often a room of its own, *das WC* |
 | {stack}`im Erdgeschoss \| on the ground floor` | the floor at street level |
-| {stack}`im ersten Stock \| on the first floor` | one floor up, as in British English |
+| {stack}`im ersten Stock \| on the first floor` | one floor above street level: British *first floor*, American *second floor* |
 | {stack}`die WG \| shared flat` | short for *Wohngemeinschaft* |
 | {stack}`die Miete \| rent` | *Die Miete ist nicht so teuer.* |
 
@@ -126,9 +126,6 @@ Mein Schreibtisch steht am Fenster.
 Das Schlafzimmer ist ruhig.
 : The bedroom is quiet.
 
-Ich habe auch eine kleine Dunkelkammer.
-: I also have a small darkroom.
-
 Die Miete ist nicht so teuer.
 : The rent isn't too expensive.
 
@@ -144,10 +141,10 @@ Die Wohnung gefällt mir sehr.
 :::{admonition} Key points
 :class: note
 
-- *Haben* counts the rooms: *Meine Wohnung hat zwei Zimmer.* The kitchen and bathroom are not counted.
+- *Haben* counts the rooms: *Meine Wohnung hat zwei Zimmer.* The kitchen and bathroom are usually not counted.
 - *Es gibt* names what is there, with *einen* for a *der* word: *Es gibt einen Balkon.*
 - *Sein* with an adjective describes a room: *Das Wohnzimmer ist hell.*
-- *Im ersten Stock* is one floor up, and the ground floor is *das Erdgeschoss*.
+- *Im ersten Stock* is one floor above street level, and the ground floor is *das Erdgeschoss*.
 :::
 
 :::{admonition} Common mistakes
