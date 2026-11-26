@@ -48,7 +48,7 @@ Telling the time in German starts with one question, *Wie spät ist es?*, and an
 
 *Wie spät ist es?* asks the time, and the answer starts with *Es ist*. Minutes count with *nach* (past) and *vor* (to), as they do in English: *zehn nach sechs*, *Viertel vor neun*.
 
-*Halb* counts towards the coming hour. *Halb vier* is half an hour before four, so 3:30. In British English *half four* means 4:30, which makes this the time English speakers most often mishear.
+*Halb* counts towards the coming hour. *Halb vier* is half an hour before four, so 3:30. English counts from the hour just gone: *half past four* is 4:30, and British speakers shorten it to *half four*. That makes *halb vier* easy to get wrong.
 
 Timetables, cinemas and shops use the 24-hour clock, so a film starts *um zwanzig Uhr*. In conversation most people say *um acht*.
 
@@ -65,7 +65,7 @@ Um zwanzig Uhr.
 :::
 
 :::{culture-note}
-In parts of eastern and southern Germany, and in Austria, *viertel neun* means quarter past eight and *dreiviertel neun* means quarter to nine. Like *halb*, both count towards the coming hour. Most Berliners say *Viertel nach acht*, but a visitor from Leipzig or Munich may well say *viertel neun*.
+In parts of eastern and southern Germany, and in Austria, *viertel neun* means quarter past eight and *dreiviertel neun* means quarter to nine. Like *halb*, both count towards the coming hour. *Viertel nach acht* is understood everywhere, so it is the safe choice, but a visitor from Leipzig or Munich may well say *viertel neun*.
 :::
 
 :::{audio-examples}
