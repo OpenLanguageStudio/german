@@ -38,4 +38,5 @@ understand-signs-and-announcements
 ask-for-help-and-clarification
 talk-about-your-plans
 invite-someone-and-reply
+suggest-something-to-do
 ```
