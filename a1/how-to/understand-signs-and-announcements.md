@@ -204,12 +204,11 @@ Endstation. Bitte alle aussteigen.
 - Signs drop the articles and often the verb: *geöffnet*, *Eingang*, *Rauchen verboten*.
 - An instruction on a sign is *Bitte* with the verb at the end: *Bitte drücken*.
 - At the station, catch *Gleis* with its number and *Verspätung* with its minutes.
-- *Der Zug fällt aus* means it is cancelled, and *Zurückbleiben, bitte!* means stand back.
+- *Der Zug fällt aus* means the train is cancelled, and *Zurückbleiben, bitte!* means stand back.
 :::
 
 :::{admonition} Common mistakes
 :class: caution
 
-- Reading *Der Zug fällt aus* as "the train falls out". → The train is **cancelled**. (learn more in [Separable verbs](/a1/grammar/verbs/trennbare-verben.md))
-- Hearing *Zurückbleiben, bitte!* as "come back, please". → It means **stand back**, because the doors are closing.
+- Reading *Der Zug fällt aus* word by word as "the train falls out". → The train is **cancelled**. (learn more in [Separable verbs](/a1/grammar/verbs/trennbare-verben.md))
 :::
