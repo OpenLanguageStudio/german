@@ -62,7 +62,7 @@ Wann sind Sie geboren?
 At a practice or an office, the staff fill in the form and ask the questions one by one. The phone number and the *Postleitzahl* (postcode) are read digit by digit, as [Count and give numbers](count-and-give-numbers.md) shows. A name often has to be spelled. The form may also ask for the *Familienstand*: *ledig* (single) or *verheiratet* (married). Here Lina, a nurse, registers Max as a new patient.
 
 :::{culture-note}
-Anyone who moves into a flat in Germany has to register the new address at the citizens' office, the *Bürgeramt*, within two weeks. The form asks for exactly these details. In big cities, the appointment is often booked online, weeks ahead.
+Under German law, a new address has to be registered at the citizens' office, the *Bürgeramt*. The deadline is short, currently two weeks. The form asks for exactly these details. In big cities, the appointment is often booked online, sometimes weeks ahead.
 :::
 
 :::{audio-examples}
@@ -100,13 +100,13 @@ Eins, zwei, null, vier, fünf.
 
 Wie ist Ihre Telefonnummer?
 : What's your phone number?
-Null, eins, sieben, sechs, null, vier, sechs, neun, null, fünf, sieben.
-: Zero, one, seven, six, zero, four, six, nine, zero, five, seven.
+Null, drei, null, zwei, drei, eins, zwei, fünf, null, fünf, sieben.
+: Zero, three, zero, two, three, one, two, five, zero, five, seven.
 
 Haben Sie eine E-Mail-Adresse?
 : Do you have an email address?
-Ja: max Punkt lehmann at beispiel Punkt de.
-: Yes: max dot lehmann at beispiel dot de.
+Ja: max Punkt lehmann at example Punkt com.
+: Yes: max dot lehmann at example dot com.
 
 Wann sind Sie geboren?
 : When were you born?
