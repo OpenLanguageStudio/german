@@ -16,7 +16,7 @@ myst:
 
 Making an appointment in German takes a day, a time and a yes. Someone suggests a slot, the other person accepts it or offers another, and both repeat it at the end.
 
-Who the appointment is with decides the words. A doctor's practice or an office gets *Ich möchte einen Termin machen* (I'd like to make an appointment) and *Sie*. A friend gets *Hast du Zeit?* and *Wollen wir …?*, and nobody says *Termin*. The days and times stay the same either way.
+Who the appointment is with decides the words. A doctor's practice or an office gets *Ich möchte einen Termin machen* (I'd like to make an appointment) and *Sie*. A friend gets *Hast du Zeit?* and *Wollen wir …?*, with no need for *Termin*. The days and times stay the same either way.
 
 ## When to use it
 
@@ -36,7 +36,7 @@ Who the appointment is with decides the words. A doctor's practice or an office 
 | {stack}`Geht es auch …? \| Would … work too?` | offering another day or time |
 | {stack}`Das passt gut. \| That suits me.` | the yes |
 | {stack}`halb neun \| half past eight` | *halb* counts towards the next hour |
-| {stack}`Auf Wiederhören! \| Goodbye!` | on the phone only |
+| {stack}`Auf Wiederhören! \| Goodbye!` | formal, on the phone |
 
 ### Asking about a time
 
@@ -76,7 +76,7 @@ Passt dir drei Uhr?
 
 ## At the doctor's practice
 
-Days take *am* and clock times take *um*: *am Dienstag um zehn*. [Temporal prepositions](/a1/grammar/prepositions/temporale-praepositionen.md) covers both. Repeating the day and time at the end makes sure both sides wrote down the same slot.
+Days take *am* and clock times take *um*: *am Dienstag um zehn*. [Temporal prepositions](/a1/grammar/prepositions/temporale-praepositionen.md) covers both. Repeating the day and time at the end makes sure both sides wrote down the same slot. A formal phone call ends with *Auf Wiederhören*, "until we hear each other again".
 
 Here Max Lehmann phones the practice where Lina Haddad works.
 
