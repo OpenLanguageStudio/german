@@ -102,7 +102,7 @@ Ist das weit von hier?
 Nein, nur fünf Minuten zu Fuß.
 : No, only five minutes on foot.
 
-Entschuldigung, ich bin fremd hier. Wo ist das Zentrum?
+Entschuldigung, ich bin nicht von hier. Wo ist das Zentrum?
 : Excuse me, I'm not from here. Where is the centre?
 Gehen Sie über die Brücke und dann links.
 : Go over the bridge and then left.
@@ -138,5 +138,5 @@ Gern geschehen!
 :class: caution
 
 - *\*Wie komme ich zu der Bahnhof?* → Wie komme ich **zum** Bahnhof? (*zu dem* shortens to *zum*; learn more in [Contracted prepositions](/a1/grammar/prepositions/kurzformen.md))
-- *\*Entschuldigen Sie mich, wo ist die Post?* → **Entschuldigung**, wo ist die Post? (*Entschuldigen Sie mich* is said when leaving; a question to a stranger opens with *Entschuldigung* or *Entschuldigen Sie*)
+- *\*Entschuldigen Sie mich, wo ist die Post?* → **Entschuldigung**, wo ist die Post? (*Entschuldigen Sie mich* asks to be excused, for example when leaving a table; a question to a stranger opens with *Entschuldigung* or *Entschuldigen Sie*)
 :::
