@@ -62,8 +62,8 @@ Wie alt sind Sie?
 ::::{tab-item} Informal (du)
 :::{ol-examples}
 :presenters: emilia
-Wie heißt du?
-: What's your name?
+Hallo! Wie heißt du?
+: Hi! What's your name?
 
 Woher kommst du?
 : Where are you from?

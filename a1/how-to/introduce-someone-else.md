@@ -16,7 +16,7 @@ myst:
 
 Two words introduce someone in German: *Das ist …*, followed by a name. A sentence or two with *er* (he) or *sie* (she) then says where the person comes from and what they do.
 
-The sentences of a self-introduction carry over with one change. After *er* and *sie*, the verb ends in *-t*: *ich komme* becomes *sie kommt*, and *ich wohne* becomes *er wohnt*. *Das ist* stays the same for a man, a woman or a child. For two or more people it becomes *Das sind*.
+The sentences of a self-introduction carry over with one change. After *er* and *sie*, the verb ends in *-t*: *ich heiße* becomes *er heißt*, *ich komme* becomes *sie kommt*, and *ich wohne* becomes *er wohnt*. *Das ist* stays the same for a man, a woman or a child. For two or more people it becomes *Das sind*.
 
 ## When to use it
 

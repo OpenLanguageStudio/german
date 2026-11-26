@@ -16,13 +16,13 @@ A chat has no *Betreff* and no formal greeting, and it goes straight to the poin
 
 ## Example: Calling off a cinema evening
 
-Nina is ill and has to cancel tonight's cinema plan with Lina.
+Julia is ill and has to cancel tonight's cinema plan with Lina.
 
-> **Nina:** Hallo Lina, es tut mir leid, aber ich kann heute Abend nicht kommen. Ich bin krank und habe Fieber. Gehen wir nächste Woche ins Kino?
+> **Julia:** Hallo Lina, es tut mir leid, aber ich kann heute Abend nicht kommen. Ich bin krank und habe Fieber. Gehen wir nächste Woche ins Kino?
 >
 > **Lina:** Oh nein, gute Besserung! Kein Problem, wir gehen nächste Woche. Bleib im Bett und trink viel Tee! Brauchst du etwas aus der Apotheke?
 >
-> **Nina:** Nein danke, ich habe alles. Ich schreibe dir morgen. Viel Spaß heute!
+> **Julia:** Nein danke, ich habe alles. Ich schreibe dir morgen. Viel Spaß heute!
 
 *Es tut mir leid, aber ...* opens the cancellation before the excuse. The reason is one short sentence, and the counter-offer shows that the friendship matters more than the evening. Lina's reply shows the other side: sympathy, acceptance and a warm imperative.
 
