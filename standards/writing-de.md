@@ -9,5 +9,3 @@ scheme is the same: cite `DE-W<n>`, never renumber or reuse an ID, mark a retire
 Wherever the same phrases come in a *Sie* and a *du* version, show both in a tab set with
 those two labels, formal first, with an examples block in each tab. Why: readers learn to
 expect the two registers in the same place on every page.
-
-**DE-W2.** *Retired 2026-11-26.*
