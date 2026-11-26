@@ -1,5 +1,39 @@
 ---
 menu_style: group
+skills:
+  - id: a1-nouns-and-articles
+    kind: know
+    text: "Nouns, their gender and plural, and the articles that go with them."
+  - id: a1-cases
+    kind: know
+    text: "The nominative, accusative and dative, with their pronouns and prepositions."
+  - id: a1-verbs
+    kind: know
+    text: "Verbs in the present tense, and the perfect tense for past events."
+  - id: a1-sentences
+    kind: know
+    text: "Statements, questions and negatives, with the verb second."
+  - id: a1-everyday-words
+    kind: know
+    text: "Words for numbers, time, family, home, food and shopping."
+  - id: a1-meet-people
+    kind: can
+    text: "Greet people, introduce themselves and others, and give personal details."
+  - id: a1-talk-about-life
+    kind: can
+    text: "Talk about family, work, home, likes, feelings and the day."
+  - id: a1-shops-and-services
+    kind: can
+    text: "Order food and drink, shop and pay, and book a room."
+  - id: a1-get-around
+    kind: can
+    text: "Ask the way, use buses and trains, and understand public signs."
+  - id: a1-time-and-plans
+    kind: can
+    text: "Tell the time, make appointments and plans, and say what happened."
+  - id: a1-get-things-done
+    kind: can
+    text: "Make requests and ask for help, in person, by phone or in writing."
 html_theme.sidebar_secondary.remove:
 ---
 
@@ -9,20 +43,13 @@ A1 is the first CEFR level, for learners starting German from nothing. It covers
 
 ## What learners know
 
-- The three genders and the articles *der*, *die*, *das* in the nominative and accusative.
-- The present tense of common verbs, including *sein*, *haben* and the modal verbs.
-- How statements and questions are built, with the verb in second position.
-- The perfect tense for simple past events, and the dative after common verbs and prepositions.
-- Words for numbers, time, family, home, food and shopping.
+:::{skills} know
+:::
 
 ## What learners can do
 
-- Introduce themselves and others, and give basic personal details.
-- Ask and answer simple questions about everyday needs.
-- Order food and drink, and shop and pay.
-- Ask for and give directions, and make an appointment.
-- Understand slow, clear speech and short public information.
-- Write a short message, postcard or simple email.
+:::{skills} can
+:::
 
 ```{toctree}
 :maxdepth: 2

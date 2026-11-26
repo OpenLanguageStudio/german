@@ -36,8 +36,8 @@ A few short chunks do the job: some slow a speaker down, and others check what a
 
 | Phrase | Notes |
 |---|---|
-| {stack}`Was bedeutet ...? \| What does ... mean?` | |
-| {stack}`Wie sagt man ... auf Deutsch? \| How do you say ... in German?` | |
+| {stack}`Was bedeutet ...? \| What does ... mean?` | the word goes at the end: *Was bedeutet Miete?* |
+| {stack}`Wie sagt man ... auf Deutsch? \| How do you say ... in German?` | for a word in English or another language |
 
 ## Slowing things down
 

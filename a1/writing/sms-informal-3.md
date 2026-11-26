@@ -16,17 +16,17 @@ The exchange has a rhythm: propose, ask back, settle the details, confirm. The o
 
 ## Example: A Saturday at the pool
 
-Nina is organising a swimming trip and pulls Lina in.
+Julia is organising a swimming trip and pulls Lina in.
 
-> **Nina:** Hallo Lina! Was machst du am Samstag? Wir wollen ins Schwimmbad gehen. Kommst du mit?
+> **Julia:** Hallo Lina! Was machst du am Samstag? Wir wollen ins Schwimmbad gehen. Kommst du mit?
 >
 > **Lina:** Gute Idee, ich schwimme gern! Um wie viel Uhr trefft ihr euch?
 >
-> **Nina:** Um elf am Eingang. Danach essen wir ein Eis in der Stadt.
+> **Julia:** Um elf am Eingang. Danach essen wir ein Eis in der Stadt.
 >
 > **Lina:** Perfekt, ich komme mit! Soll ich etwas mitbringen?
 >
-> **Nina:** Nein, du brauchst nur Badesachen. Max und seine Freundin kommen auch. Bis Samstag!
+> **Julia:** Nein, du brauchst nur Badesachen. Max und seine Freundin kommen auch. Bis Samstag!
 
 The opener checks availability before proposing anything. The plan comes with an invitation (*Kommst du mit?*). The details land as short facts (*Um elf am Eingang*), and the confirmation is clear (*{term}`Perfekt`, ich komme mit!*).
 
