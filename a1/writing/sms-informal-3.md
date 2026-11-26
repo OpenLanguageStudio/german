@@ -28,7 +28,7 @@ Julia is organising a swimming trip and pulls Lina in.
 >
 > **Julia:** Nein, du brauchst nur Badesachen. Max und seine Freundin kommen auch. Bis Samstag!
 
-The opener checks availability before proposing anything. The plan comes with an invitation (*Kommst du mit?*). The details land as short facts (*Um elf am Eingang*), and the confirmation is clear (*{term}`Perfekt`, ich komme mit!*).
+The opener checks availability before proposing anything. The plan comes with an invitation (*Kommst du mit?*). Lina asks the time with *sich treffen* (to meet). The details land as short facts (*Um elf am Eingang*), and the confirmation is clear (*{term}`Perfekt`, ich komme mit!*).
 
 ### Hear it in practice
 
