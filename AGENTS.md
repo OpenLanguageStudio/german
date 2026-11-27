@@ -24,19 +24,6 @@ The German coursebook for Open Language. Content only: articles in the level dir
 - Every listening block that writes a track carries `:tags:`: one to three tags from `track-tags.yml`, the main topic first. A `:duplicate:` block carries none. A new tag goes into `track-tags.yml` first.
 - A check message that starts with a rule ID (`OL-W26: …`, `DE-W1: …`) enforces that writing rule: the global rules are in the package's [writing rules](https://github.com/OpenLanguageStudio/open-language/blob/main/docs/reference/writing-rules.md), the German ones in `standards/writing-de.md`. A page that has to bend a rule says so beside the bend, `<!-- OL-W8 bent: reason -->`, and `ol validate` lists every bend.
 
-## Content review
+## Review
 
-Every pull request into `main` needs the `content-review` status as well as the content checks. The content review workflow sets it on each push and comments with the tier:
-
-- **Trivial**: by Sam or the Open Language bot, prose edits inside existing pages only, 10 changed lines or fewer. No review.
-- **Small**: no new page, no track change, 200 changed lines or fewer. A review by a fast model.
-- **Full**: anything else. A review by a strong model that did not write the change.
-
-The reviewer posts the verdict as the bot, on the commit it reviewed:
-
-```
-uv run ol review-status --pr <number> --verdict pass --tier small \
-  --report review.md --model <reviewing model> --sha <reviewed commit>
-```
-
-A push after the review clears the verdict. The tiers and their limits are in the package's [content review](https://github.com/OpenLanguageStudio/open-language/blob/main/docs/reference/content-review.md) page.
+Every pull request into `main` needs the content checks and an approving review from someone other than its author.
